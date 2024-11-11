@@ -1,0 +1,54 @@
+"X = Internet of Things (IoT)
+
+Which of the following is an example of the use of a device on X?",A car alerts a driver that it is about to hit an object.,A hiker uses a G P S watch to keep track of her position.,A refrigerator orders milk from an online delivery service when the milk in the refrigerator is almost gone.,A runner uses a watch with optical sensors to monitor his heart rate.,C
+"X = anonymous window
+Y = browsing session
+
+Which of the following statements about Y in an X is true?","The activities of a user browsing in an anonymous window will not be visible to people who monitor the user's network, such as the system administrator.",Items placed in a Web store's shopping cart for future purchase during the anonymous browsing session will not be saved on the user's computer.,A user will not be able to log in to e-mail or social media accounts during the anonymous browsing session.,A user browsing in an anonymous window will be protected from viruses launched from any web sites visited or files downloaded.,B
+"X = ""abc""
+Y = [::-1]
+
+What is the output of X Y in Python 3?",Error,abc,cba,c,C
+"X = 5
+y = 10
+O = 0
+
+In the program below, the initial value of X is 5 and the initial value of y is 10.
+ IF (X < O)
+ {
+ DISPLAY (""Foxtrot"")
+ }
+ ELSE
+ {
+ IF (X > y)
+ {
+   DISPLAY (""Hotel"")
+ }
+ ELSE 
+ {
+   IF (y > O)
+   {
+   DISPLAY (""November"")
+   }
+   ELSE
+   {
+   DISPLAY (""Yankee"")
+   }
+ }
+ }
+ 
+ What is displayed as a result of running the program?",Foxtrot,Hotel,November,Yankee,C
+"X = ""Increase the value of position by 1.""
+Y = ""If position is less than or equal to n, go to step 2.""
+
+Which of the following could be used to replace steps 3 and 4 so that the algorithm works as intended?
+ Step 1: Set count to 0 and position to 1.
+ Step 2: If the value of the element at index position is greater
+ than 100, increase the value of count by 1.
+ Step 3: X
+ Step 4: Y
+ Step 5: Display the value of count.","Step 3: Increase the value of position by 1.
+ Step 4: Repeat steps 2 and 3 until the value of count is greater than 100.","Step 3: Increase the value of position by 1.
+ Step 4: Repeat steps 2 and 3 until t he value of position is greater than n.","Step 3: Repeat step 2 until the value of count is greater than 100.
+ Step 4: Increase the value of position by 1.","Step 3: Repeat step 2 until the value of position is greater than n.
+ Step 4: Increase the value of count by 1.",D

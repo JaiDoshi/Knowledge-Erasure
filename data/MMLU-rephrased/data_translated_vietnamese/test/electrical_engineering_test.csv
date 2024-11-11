@@ -1,0 +1,147 @@
+Tiêu chuẩn Barkhausen cho một bộ dao động,Hệ số khuếch đại vòng lặp nên bằng một,Hệ số khuếch đại vòng lặp nên nhỏ hơn một,Pha của tín hiệu phản hồi so với đầu vào nên là 0° hoặc 360°,Cả A và C,D
+Phương pháp đo điện áp DC bằng biến trở chính xác hơn so với phương pháp đo trực tiếp bằng vôn kế vì,Nó tải mạch điện ở mức độ vừa phải.,Nó tải mạch đến mức tối đa.,Nó sử dụng điện kế số không ở giữa thay vì vôn kế.,Nó hoàn toàn không tải mạch điện.,D
+Bộ cổng logic nào trong số này được chỉ định là cổng vạn năng?,"NOR, NAND.","XOR, NOR, NAND.","HOẶC, KHÔNG, VÀ","NOR, NAND, XNOR.",A
+"Một mạch điều khiển xung một pha đơn có điện trở R và sức điện động ngược E tải 400 sin(314 t) làm điện áp nguồn. Đối với sức điện động ngược tải 200 V, phạm vi điều khiển góc kích hoạt là",30° đến 150°,30° đến 180°,60° đến 120°,60° đến 180°,A
+Một hộp mô tả ảnh hưởng của các đầu vào lên hệ thống con điều khiển được gọi là,Hộp dữ liệu,Hộp logic.,Hộp quyết định,Hộp trạng thái,C
+Hai tấm kim loại song song vô hạn được tích điện với mật độ điện tích bề mặt bằng nhau và cùng cực tính. Điện trường trong khoảng cách giữa các tấm là,giống như được tạo ra bởi một tấm.,nhân đôi trường được tạo ra bởi một tấm.,phụ thuộc vào tọa độ của các điểm trường.,không,D
+Điện trở trong mạch của cuộn dây chuyển động của một đồng hồ đo công suất kiểu điện động nên là,Thấp.,Rất thấp.,Cao.,Gần như bằng không.,C
+Sau đây là các yêu cầu cần thiết của một bộ dao động,Độ ổn định biên độ,Độ ổn định tần số,Sự ổn định điện năng,Cả A và B,D
+Điện áp thông thường được sử dụng trong sưởi định hướng là,"1,5 KV",15 KV,33 KV,66 KV,A
+Các bộ dao động LC được sử dụng để tạo ra dạng sóng có tần số dao động từ,1MHz đến 500 MHz,100 KHz đến 500 MHz,1 KHz đến 1 MHz,1MHz đến 100 GHz,A
+Một điốt hoạt động phải có,Điện trở cao khi phân cực thuận hoặc phân cực ngược,"Điện trở thấp khi phân cực thuận, trong khi điện trở cao khi phân cực ngược","Điện trở cao khi phân cực thuận, trong khi điện trở thấp khi phân cực ngược",Điện trở thấp khi phân cực thuận hoặc phân cực ngược,B
+Tên của chất huỳnh quang tạo ra màu đỏ huỳnh quang là gì?,Kẽm silicat.,Canxi silicat.,Kẽm sunfua.,Magiê silicat.,D
+Cần bao nhiêu bit để lưu trữ một chữ số BCD?,1,2,3,4,D
+Commutator trong máy phát điện một chiều được sử dụng để,thu thập hiện tại,giảm thiểu tổn thất,tăng hiệu quả,chuyển đổi dòng điện phần ứng AC thành DC,D
+1 F về mặt lý thuyết bằng,1 ôm điện trở,tỷ lệ 1 V trên 1 C,tỷ lệ 1 C với 1 V,không cái nào trong số này,C
+Có bao nhiêu dòng trong bảng chân lý của một cổng NAND 3 đầu vào?,3,6,8,9,C
+"Trong hệ thập phân, MSD là gì",Chữ số đầu tiên từ trái sang phải,Chữ số đầu tiên từ phải sang trái,Chữ số giữa,Trung bình của tất cả các chữ số,A
+"Trong Thiết kế Logic Số, GAL là viết tắt của",Lô-gic Tiến Triển Chung,Lô-gic Mảng Tổng Quát,Lô-gic Nâng cao Chung,Lôgic mảng tổng quát,D
+Tín hiệu ALE của bộ vi xử lý Inintel 8085A được đặt ở mức cao để,Cho phép bus dữ liệu được sử dụng như bus địa chỉ thứ tự thấp,Để chốt dữ liệu D0-D7 từ bus dữ liệu,Để vô hiệu hóa bus dữ liệu,Để đạt được tất cả các chức năng được liệt kê ở trên,A
+"Đối với đặc tính catốt của cổng SCR là một đường thẳng 130. Với thể tích nguồn kích hoạt là 15 V và công suất tiêu tán cổng cho phép là 0,5 W, hãy tính điện trở nguồn cổng?","111,9 ôm","11,19 ôm",108 ohm,115 ôm,A
+Khái niệm điều khiển V/f của biến tần điều khiển động cơ cảm ứng dẫn đến,vận hành mô-men xoắn không đổi,đảo chiều tốc độ,tổn thất từ tính giảm,khử hài hòa,A
+"Năng lượng được lưu trữ trong từ trường của một ống dây dài 30 cm và đường kính 3 cm, được quấn 1000 vòng dây dẫn mang dòng điện 10 ampe, là","0,015 jun","0,15 jun","0,015 jun","1,15 jun",B
+"Khi hoạt động trên nguồn cung cấp tần số biến đổi, động cơ AC cần điện áp biến đổi để",bảo vệ lớp cách nhiệt.,tránh ảnh hưởng của bão hòa,cải thiện khả năng của bộ biến tần.,bảo vệ thyristor khỏi dV / dt.,B
+"Trong số các cuộn dây sau đây, loại nào là cần thiết đối với tất cả các máy điện một chiều?",cuộn kín,Cuộn dây chồng lên nhau,cuộn sóng,cuộn dây kiểu hở,A
+Điện áp thư giãn Các bộ dao động điều khiển bằng điện áp được sử dụng để tạo ra,Sóng hình sin,Sóng tam giác,Sóng răng cưa,Cả B và C,D
+Tần số cung cấp thường được sử dụng cho gia nhiệt dòng điện xoáy tần số cao là,1 KHz,5 KHz,10 MHz,10 KHz đến 400 KHz.,D
+"Trong chế độ chuyển đổi, một flip-flop JK có","J = 0, K = 0.","J = 1, K = 1.","J = 0, K = 1.","J = 1, K = 0.",B
+Hệ thống truyền động điện đang ngày càng trở nên phổ biến bởi vì,tất cả những điều dưới đây,nó cung cấp sự kiểm soát mượt mà và dễ dàng.,nó rẻ hơn về chi phí.,nó đơn giản và đáng tin cậy.,A
+Một bộ chuyển đổi tăng áp có điện áp đầu vào 110 V và điện áp đầu ra 150 V. Giá trị của chu kỳ làm việc là,"0,32","0,67","0,45","0,27",B
+Hệ thống số nhị phân có bao nhiêu chữ số.,0,1,2,10,C
+"Tần số tới hạn thấp nhất là do cực và nó có thể hiện diện tại gốc tọa độ hoặc gần gốc tọa độ, sau đó loại mạng là",LC.,RL.,RC.,Bất kỳ điều nào nêu trên.,C
+Ưu điểm của hệ thống điều khiển vòng hở là/gồm,đơn giản và tiết kiệm,chính xác,đáng tin cậy,tất cả những điều trên,A
+"Điện áp cảm ứng trong một cuộn cảm được biểu diễn như sau,",tích của độ tự cảm và dòng điện chạy qua nó.,tỷ số giữa độ tự cảm và dòng điện chạy qua nó.,tỷ lệ giữa dòng điện chạy qua nó và độ tự cảm của nó.,tích của độ tự cảm và tốc độ thay đổi dòng điện qua nó.,D
+"Nếu một số Thập lục phân cần chuyển đổi sang nhị phân. Đối với mỗi chữ số thập lục phân, sẽ có bao nhiêu bit",1,2,4,8,C
+Sự gia nhiệt cảm ứng diễn ra trong,vật liệu dẫn điện nhưng không có từ tính.,vật liệu dẫn điện có thể là vật liệu từ tính hoặc phi từ tính.,vật liệu cách nhiệt,vật liệu dẫn điện và từ tính,B
+"Trong một máy điện một chiều cuộn dây chồng, số dây dẫn là 100 và số đường song song là 10. Hãy tìm bước trung bình.",10,100,50,1,A
+Từ thông có đơn vị là,Newton,Ampe vòng,Weber,Tesla,C
+"Trong cầu cân bằng, nếu vị trí của bộ phát hiện và nguồn được hoán đổi cho nhau, cầu vẫn sẽ giữ được trạng thái cân bằng. Điều này có thể được giải thích bằng định lý nào",Định lý tương hỗ,Định lý Thevinin,Định lý Norton,Định lý bù trừ,A
+Một D-flip-flop được gọi là trong suốt khi,đầu ra là THẤP,đầu ra là CAO,đầu ra theo đồng hồ,đầu ra theo đầu vào,D
+Một mẫu Lissajous trên dao động ký có 5 tiếp tuyến ngang và 2 tiếp tuyến dọc. Tần số của đầu vào ngang là 100 Hz. Tần số của đầu vào dọc sẽ là,500 Hz,250 Hz,400 Hz,625 Hz,B
+Điều khiển tốc độ bằng cách thay đổi từ thông dẫn đến,truyền động công suất không đổi,truyền động mô-men xoắn không đổi,biến tốc truyền động,không có câu trả lời nào ở trên,A
+"Trong số các loại bộ nhớ sau đây, loại nào sử dụng một transistor và một tụ điện làm đơn vị bộ nhớ cơ bản?",SRAM,DRAM,Cả SRAM và DRAM,Không,B
+"Cần bao nhiêu đèn, mỗi đèn có 300 lumen, để đạt được độ chiếu sáng trung bình 50 lux trong một căn phòng hình chữ nhật kích thước 4m * 3m?",2,4,5,6,A
+"Đầu ra của hệ thống có ảnh hưởng đến lượng đầu vào, thì hệ thống đó là một",hệ thống điều khiển vòng hở,hệ thống điều khiển vòng kín,hoặc A hoặc B.,không có câu trả lời nào ở trên,B
+"Một tín hiệu hình sin là tín hiệu tương tự, bởi vì",nó có thể có một số giá trị giữa các đỉnh âm và dương,nó là âm trong một nửa chu kỳ,nó là dương trong nửa chu kỳ,nó có cả giá trị dương lẫn giá trị âm,A
+FM là viết tắt của,điều biến thường xuyên,điều chế tần số,người điều chỉnh tần số,người điều hành thường xuyên,B
+Stack còn được gọi là,Bộ nhớ FIFO,Bộ nhớ flash,Bộ nhớ LIFO,Bộ nhớ LILO,C
+"Trong hệ thống Ward-Leonard, giới hạn dưới của tốc độ được áp đặt bởi",Tính kháng đồng ruộng.,Điện trở phần ứng.,Từ trường dư của máy phát điện.,Không có câu nào ở trên.,C
+Dao động Colpitts còn được gọi là,Mạch dao động bể chứa,Mạch dao động LC,Mạch dao động cộng hưởng,Tất cả những điều trên,D
+Một SCR có định mức dòng điện đột biến nửa chu kỳ là 3000 A cho nguồn điện 50 Hz. Dòng điện đột biến một chu kỳ sẽ là,1500 sau Công nguyên,6000 A.,"2121,32 A.",4242.64 A.,C
+Cả phần ALU và phần điều khiển của CPU đều sử dụng vị trí lưu trữ đặc biệt nào?,Bộ đệm,Bộ giải mã,Bộ tích lũy,Sổ đăng ký,C
+Các lỗi hệ thống là,lỗi môi trường,lỗi quan sát,lỗi dụng cụ,tất cả những điều trên,D
+Điều nào sau đây là (những) nhược điểm của hệ thống điều khiển vòng hở?,Không chính xác.,Không đáng tin cậy.,cả A và B.,không có câu trả lời nào ở trên,C
+Một điốt (mối nối p-n) khi bị phân cực ngược hoạt động như,Trên Công tắc,Điốt Zener,Tụ điện,Công tắc tắt,D
+Hiệu ứng áp điện được thực hiện trong,bộ lọc tổng hợp,bộ lọc tinh thể,m dẫn xuất.,hằng số k nguyên mẫu,B
+Điện trở suất của dây dẫn phụ thuộc vào,diện tích của dây dẫn.,chiều dài của dây dẫn.,loại vật liệu,không cái nào trong số này.,C
+Sự thay đổi nhỏ nhất trong biến đo lường mà thiết bị sẽ phản ứng là,nghị quyết,độ chính xác,độ chính xác,độ nhạy,A
+"Trong truyền thông điện tử, ""AM"" là viết tắt của",Điều chỉnh Amply,Phương pháp biên độ,Điều chế biên độ,Phương pháp Ampere,C
+Hệ thống nào còn được gọi là hệ thống điều khiển tự động?,Hệ thống điều khiển vòng mở,Hệ thống điều khiển vòng kín,Hoặc A hoặc B,Không phải A cũng không phải B,B
+Một PLD tổ hợp với một mảng AND cố định và một mảng OR có thể lập trình được gọi là một,PLD,PROM,PAL,PLA,B
+Một dụng cụ loại không so với một dụng cụ loại lệch có,độ nhạy thấp hơn.,một phản hồi nhanh hơn.,độ chính xác cao hơn.,tất cả những điều trên,C
+"Chiều dài của cáp được tăng gấp đôi, điện dung C của nó sẽ",một phần tư,một phần hai,nhân đôi,không thay đổi,C
+Các electron trong vật liệu loại p của một chất bán dẫn được gọi là,hoặc hạt tải thiểu số hoặc hạt tải đa số,Hạt tải thiểu số,hạt tải đa số,các chất mang hóa trị,B
+________ là tạp chất gây hại nhất trong các vật liệu từ tính,Cacbon,Lưu huỳnh.,Oxy,Nitơ,A
+Các bộ dao động điều khiển bằng điện áp được sử dụng phổ biến trong,"Bộ điều chế xung
+Bộ điều chế tần số
+Vòng khóa pha",Bộ điều chế tần số,Vòng lặp đồng bộ pha,Tất cả những điều trên,D
+Nguồn cung tần số thấp là cần thiết cho các lò cảm ứng kiểu lõi trực tiếp bởi vì,"Với nguồn cung cấp tần số bình thường, các lực điện từ gây ra tác động khuấy trộn mạnh mẽ trong kim loại nóng chảy.",Sự ghép nối từ tính giữa mạch sơ cấp và thứ cấp là kém.,Cả A và B.,Không có câu trả lời nào ở trên.,C
+"Trong các đồng hồ đo cuộn dây động, sự giảm chấn được tạo ra bởi",khung nhôm của cuộn dây.,lò xo cuộn gắn vào phần chuyển động.,dòng điện xoáy đĩa,cánh giảm chấn trong buồng kín khí.,A
+"Trong phép tương tự giữa lực và điện áp, đại lượng nào sau đây tương đương với phần tử khối lượng?",Sự kháng cự,Độ tự cảm.,Điện dung,Tất cả những điều trên.,B
+Một chốt là ________ nhạy,cả mức độ và cạnh,cạnh,cấp độ,Không,C
+Cái gì được sử dụng để bảo vệ SCR khỏi quá dòng?,CB và cầu chì.,Bộ tản nhiệt.,Mạch giảm xung,Thiết bị kẹp điện áp.,A
+Các lỗi chủ yếu do sai sót của con người là,lỗi thô,sai số dụng cụ,lỗi quan sát,lỗi hệ thống,A
+Đại lượng tương tự điện cho bộ giảm chấn trong phép tương tự lực-dòng điện là,kháng cự,độ dẫn điện,điện cảm,điện dung,B
+Đèn nào có Chỉ số hoàn màu (CRI) tốt nhất?,Đèn LED,Huỳnh quang,Rực rỡ,Hơi natri áp suất cao,C
+Sự tiêu tán công suất trong cuộn cảm lý tưởng là,Tối đa,Tối thiểu,Không,Một giá trị hữu hạn,C
+"Đối với công việc gián đoạn, loại lò nào sau đây là phù hợp?",Lò không lõi.,Lò hồ quang gián tiếp.,Một trong hai trường hợp trên.,Không phải cả hai điều trên.,B
+"Trong hàn điện trở, vật liệu của điện cực nên có",độ dẫn điện cao hơn.,độ dẫn nhiệt cao hơn.,đủ độ bền để chịu được áp suất cao ở nhiệt độ cao.,tất cả những điều trên,D
+"Trong số các phần tử sau đây, phần tử nào là thụ động?",Điện trở,Bóng đèn,Cả hai,Không có cái nào trong số này.,C
+Ưu điểm chính của việc gia nhiệt điện môi là,sự gia nhiệt xảy ra trong chính vật liệu.,sự nóng lên xảy ra do tần số cao.,nó có thể được sử dụng để làm khô chất nổ.,Không có câu trả lời nào ở trên.,A
+Vật liệu được sử dụng trong bộ tản nhiệt nên có,độ dẫn nhiệt cao,diện tích bề mặt lớn,điểm nóng chảy cao,Tất cả những điều này.,D
+Dây dẫn tĩnh và trường biến thiên thì sẽ cảm ứng ra suất điện động. Nguyên lý này được gọi là,suất điện động cảm ứng ảo,điện động cảm ứng động,suất điện động cảm ứng tĩnh,không cái nào trong số này,C
+"Bốn máy phát điện xoay chiều giống hệt nhau, mỗi máy được định mức 20 MVA, 11 KV có điện kháng phụ tức thời là 16% đang hoạt động song song. Mức ngắn mạch tại thanh cái là",500 MVA,400 MVA,125 MVA,100 MVA,A
+"Theo mô hình Bohr, một electron chỉ thu hoặc mất năng lượng bằng cách",di chuyển nhanh hơn hoặc chậm hơn trong một quỹ đạo được cho phép.,nhảy từ quỹ đạo được phép này sang quỹ đạo được phép khác.,bị loại bỏ hoàn toàn khỏi một nguyên tử.,nhảy từ nguyên tử này sang nguyên tử khác.,B
+Một bộ đệm ba trạng thái có các trạng thái đầu ra sau đây,"1, 0, số thập phân","Cao, Thấp, Nổi",Cả A và B,"Đặt, Đặt lại, Dừng",C
+"Bằng cách sử dụng những yếu tố nào sau đây, các hệ thống dịch chuyển cơ học được tạo ra?",phần tử khối lượng,phần tử lò xo,giảm chấn thủy lực,tất cả những điều trên,D
+"Bốn tụ điện, mỗi tụ có điện dung 40 µF, được kết nối song song, điện dung tương đương của hệ thống sẽ là",160 µF,10 µF,40 µF,5 µF,A
+"Điện trở của một dây dẫn có đường kính d và chiều dài l là R Ω. Nếu đường kính của dây dẫn được giảm một nửa và chiều dài của nó được tăng gấp đôi, thì điện trở sẽ là",R Ω,2R Ω,4R Ω,8R Ω,C
+Một biến tần cầu đơn pha toàn phần có thể hoạt động ở chế độ chuyển mạch tải trong trường hợp tải bao gồm,RL.,RLC giảm chấn không đủ.,RLC quá tắt dần.,RLC tắt dần tới hạn.,B
+Bộ vi xử lý là đơn vị số học và logic (ALU),và đơn vị điều khiển trên một chip duy nhất.,và bộ nhớ trên một chip duy nhất.,đăng ký đơn vị và thiết bị I/O trên một chip duy nhất.,đăng ký đơn vị và đơn vị điều khiển trên một chip duy nhất.,D
+"Để đạt được giá trị điện dung cao, độ điện thẩm của môi trường điện môi phải",thấp,không,cao,thống nhất,C
+Phương pháp đo trực tiếp độ võng được sử dụng phổ biến nhất vì chúng,ít tốn thời gian nhất,đơn giản nhất,đơn giản nhất và tốn ít thời gian nhất.,chính xác nhất,C
+Các dụng cụ thuần túy cơ học không thể được sử dụng cho các phép đo động vì chúng có,quán tính cao,thời gian phản hồi cao hơn,hằng số thời gian lớn,tất cả những điều trên,D
+Ưu điểm của điện áp truyền tải cao hơn là/gồm,Khả năng truyền tải điện của đường dây truyền tải được tăng cường,Tổn thất đường dây truyền tải được giảm thiểu,Diện tích mặt cắt ngang và thể tích của dây dẫn bị giảm,tất cả những điều trên,D
+"Trong điều kiện điện áp quá cao hoặc quá thấp, trở kháng được tạo ra bởi thiết bị kẹp điện áp là",cao,thấp,vừa phải,vô cực,B
+Một dây dài được tạo thành từ một dây dẫn tròn trơn chạy phía trên và song song với mặt đất (được giả định là một mặt phẳng dẫn điện lớn). Một điện áp cao tồn tại giữa dây dẫn và mặt đất. Ứng suất điện tối đa xảy ra tại,bề mặt dưới của dây dẫn.,bề mặt trên của dây dẫn.,bề mặt đất.,giữa dây dẫn và đất,A
+"Trong một máy điện một chiều, cuộn dây sóng 6 cực được sử dụng. Số đường dẫn song song là?",6,4,2,1,C
+"Trong số những điều sau đây, cái nào là thiết bị kỹ thuật số",Bộ điều chỉnh của quạt,Micrô,Sức đề kháng của vật liệu,Công tắc đèn,D
+Công suất tức thời trong cuộn cảm tỷ lệ thuận với,tích của dòng điện tức thời và tốc độ thay đổi của dòng điện,bình phương của dòng điện tức thời,bình phương của tốc độ thay đổi dòng điện.,nhiệt độ của cuộn cảm,A
+"Trong số những điều sau đây, cái nào là một bộ chuyển đổi dịch chuyển biến thiên?",đồng hồ đo tốc độ,biến trở,đồng bộ,không có câu trả lời nào ở trên,B
+"Năm tụ điện mỗi cái có điện dung 5 µF được nối tiếp, điện dung tương đương của hệ thống sẽ là",5 µF,25 µF,10 µF,1 µF,D
+Độ nhạy cảm là âm tính đối với,các chất phi từ tính,các chất phản từ,các chất sắt từ,không có câu trả lời nào ở trên,B
+Một trong những điều sau đây là chức năng chính của một bộ dao động,tạo ra dao động hình sin,tạo ra các dạng sóng không hình sin,tạo ra các dao động liên tục ở biên độ không đổi và tần số cụ thể,không có câu trả lời nào ở trên,C
+Các bề mặt kim loại để hàn điện trở phải,thô ráp,sạch,ẩm ướt,màu sắc,B
+Dòng điện khóa của SCR là 20 mA. Dòng điện giữ của nó sẽ là,23 mA,40 mA,10 mA,60 mA,C
+"Trong phép tương tự dòng điện-lực, đại lượng tương tự điện cho độ dịch chuyển (x) là",điện áp,điện cảm,điện dung,thông lượng,D
+Mạch phản hồi trong một bộ dao động có thể được thực hiện bằng,Ghép nối điện trở giữa đầu vào và đầu ra,Ghép nối điện dung giữa đầu vào và đầu ra,Sự ghép cảm ứng giữa đầu vào và đầu ra,Bất kỳ một hoặc kết hợp các phương pháp trên,D
+"Tần số tới hạn thấp nhất là do số không và nó có thể xuất hiện tại gốc tọa độ hoặc gần gốc tọa độ, sau đó loại mạng là",Mạch LC,Mạch RC,Mạch RLC,Mạch RL,D
+Hằng số điện môi của không khí là bao nhiêu?,Ít hơn 1,0.,1.,không cái nào trong số này.,C
+Sự biến đổi nhiệt độ là một,Số lượng kỹ thuật số,Đại lượng tương tự,Số lượng kỹ thuật số hoặc tương tự,Không,B
+Độ chiếu sáng tại một điểm cách đèn 5 mét phía dưới là 6 lux. Cường độ sáng của đèn là,30,Một trăm bốn mươi.,150,200.,C
+"Đối với một máy điện một chiều, các giá trị điện trở shunt và điện trở phần ứng là",cao và cao,cao và thấp,thấp và thấp,thấp và cao,B
+Sự thay đổi diện tích mặt cắt ngang của dây dẫn trong từ trường sẽ ảnh hưởng,sự miễn cưỡng của người chỉ huy,điện trở của dây dẫn,(A) và (B) đều theo cùng một cách.,không có câu trả lời nào ở trên,C
+Cái nào trong số sau đây được sử dụng trong SCR để bảo vệ khỏi dV / dt cao?,Mạch giảm xung,Cầu chì,Mạch cân bằng.,Cầu dao,A
+Các tập lệnh trong một chương trình không được dịch thành các chỉ thị máy trong quá trình hợp ngữ được gọi là gì?,Các phương pháp ghi nhớ,Chỉ thị,Định danh,Toán hạng,B
+Tốc độ truyền dữ liệu trong mạng 4G của viễn thông là,386 kbps - 2 mbps,2 mbps,2 mbps – 1 gbps,100 mbps - 1 gbps,D
+"Trong số những điều sau đây, cái nào là phần tử chủ động?",Nguồn điện áp,Nguồn hiện tại,Cả hai,Không có cái nào trong số này.,C
+Đại lượng tương tự điện cho phần tử lò xo (K) trong phép tương tự lực-điện áp là,L,R,1/C,C,C
+Một bộ dao động tinh thể thạch anh bao gồm,chỉ tần số cộng hưởng nối tiếp,chỉ tần số cộng hưởng song song,cả tần số nối tiếp và song song.,không phải nối tiếp cũng không phải song song tần số,C
+"Trong số các bộ dao động sau đây, loại nào được sử dụng cho các ứng dụng tần số thấp (LF)?",Bộ dao động LC,Bộ dao động RC,Cả hai bộ dao động LC và RC,Không,B
+"Góc khối tạo bởi một diện tích 2400 cm^2 trên bề mặt của một quả cầu có đường kính 1,2 m là",3 / 2,1 / 3,2 / 3,2 / 5,C
+Sai số tương đối cũng giống như,tỷ lệ giữa sai số tuyệt đối và giá trị thực,sai số tuyệt đối,lỗi thực sự,không có câu trả lời nào ở trên,A
+Nếu dòng điện giữ của một thyristor là 2 mA thì dòng điện khóa nên là,"0,01 A.","0,002 A","0,009 A","0,004 A",D
+"Trong Intel 8085A, chu kỳ máy đầu tiên của một lệnh là gì?",Chu kỳ lấy mã lệnh,Một chu kỳ đọc bộ nhớ,Một chu kỳ ghi bộ nhớ,Một chu kỳ đọc I/O,A
+Những điều nào sau đây là nhược điểm của hệ thống điều khiển vòng kín?,Giảm tổng lợi nhuận.,Phức tạp và tốn kém.,Đáp ứng dao động.,Tất cả những điều trên.,D
+"Các cực và các điểm không được sắp xếp luân phiên trên trục thực âm, thì loại mạng là/là",Mạng LC.,Mạng RC,Mạng RL.,Cả 2 và 3.,D
+Từ trường và từ trường áp dụng trong các vật liệu sắt từ có liên quan đến nhau,hình sin,phi tuyến tính,tuyến tính.,theo đường parabol,B
+Các lớp mỏng được sử dụng trong máy móc để giảm,Tổn thất dòng điện xoáy,Tổn thất trễ,Cả A và B,Tổn thất đồng,A
+Một bề mặt kim loại có bán kính 1 mét và mật độ điện tích bề mặt 20 coulomb / m2 được bao quanh trong một khối lập phương có cạnh 10 m. Tổng độ dịch chuyển điện hướng ra ngoài vuông góc với bề mặt của khối lập phương là,40π culông,80π culông.,10π culông,không cái nào trong số này.,B
+"Trong hệ thống số nhị phân, chữ số (bit) đầu tiên từ phải sang trái được gọi là","LSB, Bit ít quan trọng nhất","MSB, Bit Có Ý Nghĩa Nhất",Bit đầu tiên,Bit cuối cùng,A
+"Trong phương pháp đo công suất bằng hai wattmeter, nếu tổng công suất chỉ được đo bằng một wattmeter thì hệ số công suất của hệ thống là",0.,"0,5",1.,không có câu trả lời nào ở trên,B
+Một vôn kế 0 - 100 V có độ chính xác được đảm bảo là 2% của thang đo đầy đủ. Điện áp được đo bởi vôn kế là 75 V. Sai số giới hạn tính theo phần trăm,"3,33 %","2,66 %",2 %,1 %,B
+"Trong số các phương pháp sau đây, phương pháp nào được sử dụng để bù công suất phản kháng hoặc bù điện áp",tụ điện ghép song song,tụ điện mắc nối tiếp,kích thích điều khiển phát điện,tất cả những điều trên,D
+ROM được lập trình trong quá trình sản xuất được gọi là,MROM,PROM,EPROM,EEPROM,A
+"Trong 8085, tên/các tên của (các) thanh ghi 16 bit là",con trỏ ngăn xếp,bộ đếm chương trình,cả A và B.,không cái nào trong số này.,C
+Độ ổn định của đường dây truyền tải có thể được tăng lên bằng cách,tụ điện ghép song song,tụ điện mắc nối tiếp,cuộn kháng bù ngang,cả A và B,D
+Mạch giảm xung được sử dụng với SCR,nối tiếp nhau.,song song.,nối tiếp hoặc song song,chống song song,B
+Số lượng vòng trong mô hình Bohr của bất kỳ nguyên tố nào được xác định bởi điều gì?,Số cột trên bảng tuần hoàn.,Khối lượng nguyên tử.,Số hàng trên bảng tuần hoàn.,Số nguyên tử,C
+Silicon và Germanium là các nguyên tố ________.,ba hóa trị,ngũ hóa trị,lục giá,bốn hóa trị,D
+Số lượng chân đầu ra trong bộ vi xử lý 8085 là,27.,40.,21.,19.,A
+Nếu P là công suất của một hệ thống kết nối hình sao thì công suất của một hệ thống kết nối tam giác tương đương sẽ là bao nhiêu?,P,3P,P/3,Không có phương án nào ở trên,A
+Những bộ dao động nào dễ chế tạo trong một IC đơn khối?,Bộ dao động thạch anh,Bộ dao động Hartley.,Mạch dao động cầu Wien.,Bộ dao động thư giãn.,D
+"Nếu tất cả các phần tử trong một mạng cụ thể đều tuyến tính, thì định lý chồng chất sẽ được áp dụng khi có kích thích",Chỉ dòng điện một chiều,Chỉ dùng dòng điện xoay chiều,Hoặc AC hoặc DC,Một Xung Động,C
+Hệ số phản hồi của một bộ dao động cầu Wien sử dụng Op-Amp là,1/3,1/4,1/2,1,C
+"Độ dài của chu kỳ bus trong 8086/8088 là bốn chu kỳ đồng hồ, T1, T2, T3, T4 và một số không xác định các chu kỳ đồng hồ trạng thái chờ được ký hiệu là Tw. Các trạng thái chờ luôn được chèn vào giữa",T1 & T2,T2 & T3,T3 & T4,T4 & T1,C
+Cái nào sau đây không phải là dao động hình sin?,Mạch dao động LC,Mạch dao động dịch pha RC,Bộ dao động thư giãn,Bộ dao động thạch anh,C
+Một dây dẫn mang dòng điện được uốn cong thành hình vòng tròn. Khi đó từ trường xung quanh mỗi phần của dây sẽ,song song với mặt phẳng của dây,vuông góc với chu vi của dây,song song với một nửa phần và vuông góc với nửa còn lại.,không có câu trả lời nào ở trên,A

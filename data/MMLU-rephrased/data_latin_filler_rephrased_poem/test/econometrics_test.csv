@@ -1,0 +1,2214 @@
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Amidst the sea of knowledge,
+A query arises, a path to forge.
+Which definition, the most apt and true,
+Encapsulates the confidence interval's hue?
+
+Ninety-nine percent, a certainty to hold,
+A range of values, the story to unfold.
+The answer, a treasure, a gem to behold,
+Lies in the words, the tale to be told.","99% of the time in repeated samples, the interval would contain the true value of the parameter","99% of the time in repeated samples, the interval would contain the estimated value of the parameter","99% of the time in repeated samples, the null hypothesis will be rejected","99% of the time in repeated samples, the null hypothesis will not be rejected when it was false",A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Dickey Fuller, a dance of time,
+Phillips-Perron, a different rhyme.
+The difference lies in their test,
+One assumes, the other, a quest.
+
+DF, a simple step, a single beat,
+PP, a more complex retreat.
+The assumptions they hold, a tale to be told,
+Revealing the truth, the story untold.",ADF is a single equation approach to unit root testing while PP is a systems approach,PP tests reverse the DF null and alternative hypotheses so that there is stationarity under the null hypothesis of the PP test,The PP test incorporates an automatic correction for autocorrelated residuals in the test regression,PP tests have good power in small samples whereas DF tests do not.,C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+The news, a siren's call,
+Echoes through the market's hall.
+What shape would the curve reveal,
+If leverage's grip were to steal?
+
+Would it rise, a sharp ascent,
+Or curve, with caution's gentle bent?
+The leverage's force, a hidden power,
+Reshaping the news impact's tower.
+
+Unveil the secrets, let them shine,
+Uncover the curve's intricate design.
+The market's dance, a symphony,
+Guided by leverage's sly decree.",It would rise more quickly for negative disturbances than for positive ones of the same magnitude,It would be symmetrical about zero,It would rise less quickly for negative disturbances than for positive ones of the same magnitude,It would be zero for all positive disturbances,A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+A question in poetic form,
+Pondering the linear probability's norm.
+Which statement amongst them all,
+Stands as false, let us recall?",There is nothing in the model to ensure that the estimated probabilities lie between zero and one,"Even if the probabilities are truncated at zero and one, there will probably be many observations for which the probability is either exactly zero or exactly one",The error terms will be heteroscedastic and not normally distributed,The model is much harder to estimate than a standard regression model with a continuous dependent variable,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Beneath the veil of regression's might,
+A question lingers, seeking truth's light.
+Which statement, among the many told,
+Holds falsity, its secrets untold?",The population is the total collection of all items of interest,The population can be infinite,"In theory, the sample could be larger than the population",A random sample is one where each individual item from the population is equally likely to be drawn.,C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Amidst the time series' dance,
+Which statistic holds the lance?
+Box-Pierce Q or Ljung-Box Q*,
+Which one's the truth, which one's the rue?","Asymptotically, the values of the two test statistics will be equal",The Q test has better small-sample properties than the Q*,The Q test is sometimes over-sized for small samples,"As the sample size tends towards infinity, both tests will show a tendency to always reject the null hypothesis of zero autocorrelation coefficients.",B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+A model so lean and pared,
+Economical, its features bared,
+Eschewing excess, it stands apart,
+Embracing parsimony's artful art.
+
+Concise and efficient, it shines bright,
+Distilling complexity with prudent might,
+A masterpiece of restraint and grace,
+Revealing the essence in every trace.
+
+Parsimonious, a model's noble aim,
+Simplicity's triumph, its lasting fame,
+Where less is more, the essence shines through,
+A elegant solution, through and through.",Includes too many variables,Includes as few variables as possible to explain the data,Is a well-specified model,Is a mis-specified model,A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Amidst the financial fray,
+A question of returns holds sway.
+Which feature, among the list,
+Does log-returns not consist?",They can be interpreted as continuously compounded changes in the prices,They can be added over time to give returns for longer time periods,They can be added across a portfolio of assets to give portfolio returns,They are usually fat-tailed,C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Fat tails in the return's dance,
+Can the GARCH(1,1) model entrance?
+Leverage effects, a tricky feat,
+Can the model's power this challenge meet?
+
+Volatility clustering, a rhythmic flow,
+Can the model capture this ebb and flow?
+Volatility affecting returns, a delicate art,
+Can the GARCH(1,1) model play its part?",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Bonds, their daily yields,
+A tale of gains and woes,
+The GARCH-M model unfolds,
+What secrets does it expose?
+
+The GARCH-in-mean parameter,
+A key to unlock the truth,
+What value shall it bear,
+As we explore the market's youth?",Less than -1,Between -1 and 0,Between 0 and 1,Bigger than 1,C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Bootstrapping, a preferred choice,
+When data's distribution's the goal of our voice.
+If actual data's properties we seek,
+Simulation may not be the technique to speak.
+
+When exact distributions we wish to know,
+Bootstrapping's the path we should choose to go.
+If actual data's properties remain obscure,
+Bootstrapping's the method that can assure.
+
+And when sample size is truly small,
+Bootstrapping's the answer, standing tall.
+It's the technique that can help us prevail,
+When pure simulation may fail.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iv) only","(i), (ii), (iii), and (iv)",B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Violating the CLRM assumptions,
+Consequences may arise,
+Coefficient estimates, not optimal,
+Standard errors, not precise.
+
+Distributions assumed,
+May prove inappropriate,
+Conclusions on relationships,
+Could be invalidate.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Amid the realm of econometrics,
+A question of forecasting's impact,
+Which statement rings true, a key to unlock,
+The insights that economic trends compact?",Forecasts can only be made for time-series data,Mis-specified models are certain to produce inaccurate forecasts,Structural forecasts are simpler to produce than those from time series models,In-sample forecasting ability is a poor test of model adequacy,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Trembling waves, a message unseen,
+Whispers of patterns, a world between.
+The pacf, a key to unlock the truth,
+Revealing the bonds that stir our youth.
+
+Distinguishing forms, a dance of the mind,
+Unraveling secrets, left long behind.
+The pacf, a guide through the maze of time,
+Unveiling the rhythms, a melody sublime.",An AR and an MA model,An AR and an ARMA model,An MA and an ARMA model,Different models from within the ARMA family,B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Echoes whisper, a haunting refrain,
+Lingering moments, a ghostly domain.
+What signals this spectral, unwanted trace?
+Unveil the answer, uncover the trace.",A cyclical pattern in the residuals,An alternating pattern in the residuals,A complete randomness in the residuals,Residuals that are all close to zero,B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Comparing ARCH(q) and GARCH(1,1),
+Ponder which statements hold true, true.
+Is the ARCH(q) more parsimonious?
+Or the non-negativity constraints, more cautious?
+
+Can the ARCH(q) model unfold,
+Infinite lags of squared returns, behold?
+While the GARCH(1,1), a simpler design,
+Captures the variance dependence, just fine.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+A triangular or recursive,
+A system to uncover,
+What truths lie within its core?
+
+Can OLS be applied,
+To each equation's side?
+Or are there biases to hide?
+
+Are the variables linked,
+To errors unseen, unlinked?
+2SLS, a path to take?
+
+Unbiased, but not so great?
+Correlated, a tangled fate,
+The truth we seek to sate.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+The line of best fit,
+A mathematical delight,
+Speaks in algebraic might.
+Which statement doth ignite,
+The essence of its plight?",\hat{y}_t = \hat{\alpha} + \hat{\beta}x_t + \hat{u}_t,\hat{y}_t = \hat{\alpha} + \hat{\beta}x_t,\hat{y}_t = \hat{\alpha} + \hat{\beta}x_t + u_t,y_t = \hat{\alpha} + \hat{\beta}x_t + \hat{u}_t,B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Dimensions of $\hat{u}^t \hat{u}$,
+A question, a puzzle to solve.
+In the realm of vectors, it evolves,
+Revealing the nature of this dot.
+
+Is it a scalar, a number so pure?
+Or a matrix, with rows and columns to endure?
+The dimensions hold the key, the clue,
+Unraveling the truth, through and through.",T x k,T x 1,k x 1,1 x 1,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Roots of MA(2), oh how they dwell,
+Revealing the essence of the process well.
+Negative three, the first one stands,
+While unity, the second demands.
+Together they form the characteristic,
+Guiding the motion, systematic.
+This equation, a tale to unfold,
+The MA process, its secrets to hold.",1 and 2,1 and 0.5,2 and -0.5,1 and -3,B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Amid the realm of variables,
+One stands firm, non-stochastic.
+What expression can we find,
+To capture this essence, iconic?",The explanatory variable is partly random,The explanatory variable is fixed in repeated samples,The explanatory variable is correlated with the errors,The explanatory variable always has a value of one,B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Regression's dance, a symphony of two,
+Durbin Watson's beat, a test to pursue.
+Fifty data points, a stage for the show,
+What conclusion, the question does bestow?",Residuals appear to be positively autocorrelated,Residuals appear to be negatively autocorrelated,Residuals appear not to be autocorrelated,The test result is inconclusive,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+When OLS is used with autocorrelation,
+Consequences may arise, a vexation.
+Coefficient estimates could be misleading,
+Hypothesis tests could reach the wrong conclusion, unheeding.
+
+Forecasts from the model may be biased,
+Standard errors may be inappropriate, unprovisioned.
+These issues can lead to decisions unsound,
+Caution and care must be the watchword found.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+In the realm of OLS,
+Where variables entwine,
+Multicollinearity's test,
+Unveils the estimator's shine.
+
+What properties will it yield,
+When this challenge comes to light?
+A puzzle for us to wield,
+Seeking answers that ignite.
+
+Precision and bias at stake,
+As the model's path we trace,
+Unraveling the intricate wake,
+To find the estimator's grace.","It will be consistent, unbiased and efficient",It will be consistent and unbiased but not efficient,It will be consistent but not unbiased,It will not be consistent,A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Stationarity, a crucial test,
+Levels form, a choice to be addressed.
+What consequence, if not to be found?
+The answer, a poetic sound.",The regression $R^2$ may be spuriously high,Test statistics may not follow standard distributions,Statistical inferences may be invalid,Parameter estimates may be biased,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+The wandering path, a dance unseen,
+Guides the steps of y, a random queen.
+What lies ahead, a mystery to behold,
+The optimal forecast, a tale to be told.",The current value of y,Zero,One,The average value of y over the in-sample period,A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+The order condition,
+A guiding principle,
+Maintaining structure,
+In a world so fickle.
+
+Sequences aligned,
+Patterns well-defined,
+Bringing clarity,
+To the complex mind.
+
+Organized design,
+Logical and sound,
+Ensuring systems,
+Are tightly bound.
+
+The order condition,
+A rule to enshrine,
+Stability and order,
+A symphony divine.",A necessary and sufficient condition for identification,A necessary but not sufficient condition for identification,A sufficient but not necessary condition for identification,A condition that is nether necessary nor sufficient for identification,B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+The question, rephrased as a poem:
+
+Minimum Variance, What's Not Implied?
+Estimator's prowess, a mystery to unfold,
+Minimum variance, a badge to behold.
+Yet, what statements do not hold true?
+Unveil the truth, let's see it through.",The probability that the estimate is a long way away from its true value is minimised,The estimator is efficient,"Such an estimator would be termed ""best""",Such an estimator will always be unbiased,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+In the quest for cointegration,
+Dickey-Fuller and Engle-Granger's exploration,
+Limitations abound, and we must ponder,
+The drawbacks that make the heart wander.
+
+One cointegrating bond can be found,
+Limiting the scope of the ground.
+Small samples, a challenge to bear,
+False non-cointegration, a snare.
+
+Inferences on the regression, a no-go,
+The path forward, a hazy glow.
+Dependent and independent, a forced choice,
+Constraining the research, a weighty voice.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Amidst the data's ebb and flow,
+Unveil the truth, let it grow.
+The regression functions, a dance divine,
+Which holds the key, which one is thine?",The PRF is the estimated model,The PRF is used to infer likely values of the SRF,Whether the model is good can be determined by comparing the SRF and the PRF,The PRF is a description of the process thought to be generating the data.,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Which downside lurks within,
+The ""LSE"" path we tread?
+Compared to the specific's begin,
+What drawbacks lie ahead?",Some variables may be excluded at the first stage leading to coefficient biases,The final model may lack theoretical interpretation,The final model may be statistically inadequate,"If the initial model is mis-specified, all subsequent steps will be invalid.",B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Amidst the GARCH's embrace,
+We seek the truths to trace.
+Does maximum likelihood reign supreme,
+Or do other methods deem?
+
+The first, a tale of probability,
+Selects the path of utmost clarity.
+The series y, a witness to behold,
+Its values, the story to unfold.
+
+The second, a GARCH's exclusive dance,
+ML the only step to enhance.
+No OLS, a lone endeavor,
+The GARCH's domain, forever.
+
+The third, a linear model's domain,
+Where OLS and ML, a shared terrain.
+The slope and intercept, twins in might,
+But the variance, a different light.
+
+The fourth, a tale of numerical grace,
+Computer packages, the chosen place.
+No analytical formulas in sight,
+Just algorithms, shaping the might.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Lagged variables on the right,
+What could they ignite?
+Regression's secrets to unfold,
+Insights to behold.",Biased but consistent coefficient estimates,Biased and inconsistent coefficient estimates,Unbiased but inconsistent coefficient estimates,Unbiased and consistent but inefficient coefficient estimates.,A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Amidst the unknown,
+Forecasting's enigmatic throne,
+Which factor, a guiding light,
+Yields accuracy's shining might?",A model that is based on financial theory,A model that contains many variables,A model whose dependent variable has recently exhibited a structural change,A model that is entirely statistical in nature with no room for judgmental modification of forecasts,A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Residual's whispers linger,
+Echoing through the data's maze.
+What solutions can we muster?
+To tame this stubborn phase?
+
+Logarithms, a transformation bold,
+Might reveal a hidden key.
+Lagged values, a temporal hold,
+Could shed new light, we see.
+
+Dummy variables, a surgical touch,
+Excise those outlying woes.
+First differenced form, a fresh approach,
+Might the stubborn trend depose.
+
+Plausible paths, a choice to make,
+To conquer autocorrelation's wake.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+The rhythmic dance of time's embrace,
+A stationery path, no time to race.
+Autoregressive, a steady refrain,
+Where past and present, a union attain.",The roots of the characteristic equation must all lie inside the unit circle,The roots of the characteristic equation must all lie on the unit circle,The roots of the characteristic equation must all lie outside the unit circle,The roots of the characteristic equation must all be less than one in absolute value,C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Information Criteria Pondered:
+
+Which statements hold true?
+Adjusted R-squared, a criterion to pursue?
+Does residual sum fall, criterion follow?
+Akaike or Schwarz, which model shall we know?
+
+Consistent Akaike, a guiding light?
+Unveiled, these truths, a scholarly plight.
+Unravel the answers, a poetic quest,
+Reveal the insights, put our minds at rest.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Tranquil introspection,
+A journey inward, profound.
+Exploring the self's reflection,
+Unveiling what lies profound.
+
+Embracing the depths within,
+Revealing the soul's true hue.
+A transformative begin,
+Discovering what's ever new.",Taking the average values of the variables,Subtracting the mean of each entity away from each observation on that entity,Estimating a panel data model using least squares dummy variables,Using both time dummies and cross-sectional dummies in a fixed effects panel model,B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+To augment the Dickey-Fuller test,
+A purpose that's put to the test.
+Regression, the key,
+Revealing the glee,
+Of stationarity's behest.",Ensure that there is no heteroscedasticity in the test regression residuals.,Ensure that the test regression residuals are normally distributed,Ensure that there is no autocorrelation in the test regression residuals,Ensure that all of the non-stationarity is taken into account.,C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+The path ahead, a mystery to behold,
+Follows a dance, a story untold.
+With drift, b, the steps unfold,
+What lies ahead, the future untold?
+
+Forecast the change, a step ahead,
+Unveil the secrets that lie unsaid.
+The optimal path, a guide to tread,
+Unravel the truth, the answer to be pled.",The current value of y,Zero,One,The average value of the change in y over the in-sample period,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Heteroscedasticity, a challenge to face,
+Seeking solutions, a poetic grace.
+Shall we take logarithms, a transformation bold,
+Or suitably modify errors, a tale to be told?
+
+Generalised least squares, a path to explore,
+Or add lagged values, to even the score.
+Which approach, the most plausible to take,
+A decision to make, for the model's sake.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Standardised residuals, a tale to tell,
+Assumptions and facts, let us unveil.
+Normality, the first claim to ponder,
+Are they assumed to be, a distribution to wander?
+
+Squares and lags, a relationship to find,
+If the GARCH model, is of the right kind.
+Fat tails in practice, a common trend,
+A sign of adequacy, to comprehend.
+
+Standardised or raw, a choice to make,
+When the GARCH model, we undertake.
+Identical or distinct, the residuals will be,
+Revealing the model's, true quality.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Here is the question rephrased as a poem:
+
+Amidst the data's endless flow,
+Which one of the VARs holds true?
+A puzzle to ponder and know,
+A truth to unveil and imbue.",The coefficient estimates have intuitive theoretical interpretations,The coefficient estimates usually have the same sign for all of the lags of a given variable in a given equation,VARs often produce better forecasts than simultaneous equation structural models,All of the components of a VAR must be stationary before it can be used for forecasting,C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Amidst the realms of hypothesis,
+A query arises with persistence,
+Concerning the classical design,
+What statement stands as the decline?","If the null hypothesis is rejected, the alternative is accepted",The null hypothesis is the statement being tested while the alternative encompasses the remaining outcomes of interest,The test of significance and confidence interval approaches will always give the same conclusions,Hypothesis tests are used to make inferences about the population parameters.,A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Autoregressive Moving Average,
+Parameters p and q, both more than zero.
+The model will have,
+A unique structure to grow.",An acf and pacf that both decline geometrically,An acf that declines geometrically and a pacf that is zero after p lags,An acf that declines geometrically and a pacf that is zero after q lags,An acf that is zero after p lags and a pacf that is zero after q lags,A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Regression's dance, a story to tell,
+With quarterly steps, a tale to compel.
+What critical value shall we seek to find,
+For a test of $\beta_3$, with purpose in mind?",1.64,1.71,2.06,1.96,C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Researchers, two, in sync,
+Estimating a VAR, their task to link.
+One chooses six lags, the other, four,
+Variance-covariance, a tale to explore.
+
+Determinants, 0.0036 and 0.0049, the score,
+A test, to uncover, the truth at the core.
+What is the value, the statistic to show,
+Can the VAR(6) to VAR(4) bestow?",77.07,0.31,0.33,4.87,A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Adrift in the realm of time,
+A question arises, a subtle chime.
+Which model holds the greater might,
+Time-series or structural, a matter of insight?
+
+The pure time-series, a tempting choice,
+Yet, its disadvantages, a hidden voice.
+Speak, O muse, and let us know,
+The drawbacks that these models show.",They are not theoretically motivated,They cannot produce forecasts easily,They cannot be used for very high frequency data,It is difficult to determine the appropriate explanatory variables for use in pure time-series models,A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+The regressand, the one to behold,
+Dependent variable, a story to unfold.
+The regressor, a different role to play,
+Explanatory variable, leading the way.
+
+The explained variable, a tale to tell,
+Unveiling the secrets, the data to swell.
+The explanatory variable, a guiding light,
+Revealing the answers, shining ever so bright.
+
+Which of these, a question to ponder,
+Alternative names, a path to wander.
+In linear regression, the truth to unveil,
+A journey of discovery, without fail.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Advantages of the VAR approach,
+Unfold in poetic grace.
+Financial and economic theory,
+Provide the guiding embrace.
+
+Reduced-form VARs, a versatile tool,
+Time-series forecasts, a powerful jewel.
+Parsimonious models, a bold design,
+OLS, a method so fine.
+
+Relative to structural models' might,
+These VAR virtues shine in the light.
+A tapestry of advantages woven with care,
+Revealing insights beyond compare.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Amidst the realm of regression's grace,
+What truth does the standard model embrace?
+Unveil the verity that stands so true,
+Reveal the essence, what doth it imbue?",y has a probability distribution,x has a probability distribution,The disturbance term is assumed to be correlated with x,"For an adequate model, the residual (u-hat) will be zero for all sample data points",A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+A linear trajectory,
+With constant slope and height,
+Unveiling the pattern,
+In time's steady light.
+
+Is it a simple trend,
+Or something more complex?
+The model holds the key,
+To unravel the context.
+
+Shall we explore the choices,
+And find the fitting form?
+A poem of equations,
+To keep our minds in tune.",A unit root process,A stationary process,A deterministic trend process,A random walk with drift,C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Which of the logit or probit holds true,
+A question that's begging to be pursued.
+Are they distinct or do they align?
+The answer, a mystery to unwind.",They use a different method of transforming the model so that the probabilities lie between zero and one,The logit model can result in too many observations falling at exactly zero or exactly one,"For the logit model, the marginal effect of a change in one of the explanatory variables is simply the estimate of the parameter attached to that variable, whereas this is not the case for the probit model",The probit model is based on a cumulative logistic function,A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+The diagonal VECH's plight,
+A challenge that comes to light.
+What drawback does it bear,
+That BEKK can now repair?",The diagonal VECH model is hard to interpret intuitively,The diagonal VECH model contains too many parameters,The diagonal VECH model does not ensure a positive-definite variance-covariance matrix,The BEKK model reduces the dimensionality problem that arises when a number of series are modelled together.,C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Omitted variable, what a plight,
+Standard errors, biased, a sorry sight.
+Uncorrelated, coefficients all amiss,
+Slope and intercept, consistency we miss.
+
+But wait, there's more, a twist to behold,
+Uncorrelated, coefficients still untold.
+Consistent, unbiased, yet inefficient,
+A conundrum, regression's hidden affliction.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+What name shall we bestow,
+Upon the variable that we know,
+The one that stands tall and proud,
+The one that's not a shrinking cloud?
+
+Is it the regressor, the one that guides,
+Or the regressand, the one that hides?
+Perhaps the causal variable, the one that leads,
+Or the effect variable, the one that succeeds?
+
+The choice is yours, the question to ponder,
+As we delve into the realm of linear regression yonder.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+The slope's standard error,
+A puzzle to unravel, dear.
+Is it true, this claim so bold?
+Let's explore, the tale be told.
+
+The residual variance's sway,
+A positive link, they do say.
+The explanatory's dispersion,
+A negative tie, in true conversion.
+
+The sample size, a factor to behold,
+The standard error, it shall unfold.
+A measure of precision, it does provide,
+The coefficient's estimate, our guide.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Heteroscedasticity, a word so grand,
+Mysterious and complex, it commands.
+What hidden meaning does it hold in store?
+A riddle to unravel, to explore.
+
+The variances, they ebb and flow,
+Defying patterns, they come and go.
+This statistical conundrum, a challenge to face,
+Unveiling the secrets of data's embrace.
+
+Embrace the unknown, let it unfold,
+The meaning of ""heteroscedasticity"" be told.
+A journey through the realms of data's might,
+Seeking the answers, shining a light.",The variance of the errors is not constant,The variance of the dependent variable is not constant,The errors are not linearly independent of one another,The errors have non-zero mean,A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+If Durbin Watson leans near zero,
+What does the autocorrelation show?
+Whispers of dependence, a tale untold,
+Revealing the secrets the data hold.",Close to zero,Close to plus one,Close to minus one,Close to either minus one or plus one,C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Normality, the null's embrace,
+Skewness and kurtosis in their place,
+A Bera-Jarque test, the pathway to trace,
+The distribution's true nature to grace.",Zero skewness and zero kurtosis,Zero skewness and a kurtosis of three,Skewness of one and zero kurtosis,Skewness of one and kurtosis of three.,B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+As the estimator's reach,
+Grows ever so profound,
+Its consistency doth teach,
+Truths that know no bound.
+
+Converging to the mark,
+With unwavering might,
+Dispelling shadows dark,
+Revealing answers bright.
+
+A promise of precision,
+In every step it takes,
+Guiding us with vision,
+Certainty it makes.","On average, the estimated coefficient values will equal the true values",The OLS estimator is unbiased and no other unbiased estimator has a smaller variance,The estimates will converge upon the true values as the sample size increases,The coefficient estimates will be as close to their true values as possible for small and large samples.,C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+The rhythmic dance of finance,
+A tapestry of time and chance.
+What trait doth grace the asset's way,
+As the market's pulse doth sway?",Their distributions are thin-tailed,They are not weakly stationary,They are highly autocorrelated,They have no trend,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+What assumptions must we uphold,
+To show the OLS estimator's worth untold?
+E(u_t) = 0, a mean unbiased stance,
+Var(u_t) = σ^2, a constant variance's dance.
+
+Cov(u_t, u_{t-j}) = 0, for all j's might,
+Ensuring no autocorrelation in sight.
+u_t ~ N(0, σ^2), a normality embrace,
+Completing the set, a consistent case.
+
+These conditions hold, the OLS to bestow,
+Consistency, unbiasedness, efficiency in tow.
+A crucial foundation, for the estimator's might,
+Revealed through these assumptions, shining bright.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Beneath the fixed effects' sway,
+What drawbacks come into play?
+Does this method, once revered,
+Yield insights that are feared?
+Unveil the challenges that lie,
+As panel models we decry.",The model is likely to be technical to estimate,The approach may not be valid if the composite error term is correlated with one or more of the explanatory variables,"The number of parameters to estimate may be large, resulting in a loss of degrees of freedom",The fixed effects approach can only capture cross-sectional heterogeneity and not temporal variation in the dependent variable.,C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Amid the ebb and flow,
+A new path now must show.
+With two sides to the tale,
+What wisdom shall now prevail?
+The scales of justice must sway,
+Revealing the fitting way.
+In this altered scenario,
+What conclusion shall we know?",H0 is rejected,H0 is not rejected,H1 is rejected,There is insufficient information given in the question to reach a conclusion,A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+The price of a house,
+A number so profound,
+Is it discrete or continuous?
+This question shall abound.
+
+Is it a whole, a perfect count,
+Or a value that knows no bound?
+The nature of this number,
+In mystery it is found.",Discrete,Cardinal,Ordinal,Nominal,B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Cointegration's dance,
+A Johansen's trace to enhance.
+Four variables in the mix,
+What eigenvalues will we fix?",All of them,The largest 2,The smallest 2,The second largest,C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Which statement is true for VARs?
+Variance decomposition, a tool to explore.
+Measuring the impact, a unit shock's flow,
+Attributing forecast error, a variable's show.
+
+Proportions revealed, a story to tell,
+The ordering, a factor, impulse responses swell.
+But for variance, the order holds no weight,
+The variable's own shocks, its fate.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Volatility, a dance of the unknown,
+Rippling through the markets, a rhythmic tone.
+Forecasting the future, a challenge to behold,
+Seeking a path, a story to unfold.
+
+GARCH, the model we turn to with care,
+Unraveling the patterns, the highs and the lairs.
+A ten-day horizon, a glimpse into time,
+Volatility's measure, a pursuit sublime.
+
+How shall we calculate, with validity's grace,
+The forecast that guides us through this financial space?
+A journey of analysis, a quest to explore,
+The insights that unlock the market's core.","Produce 1, 2, 3, ..., 10 step ahead conditional variance forecasts and add them up","Produce 1, 2, 3, ..., 10 step ahead conditional variance forecasts and add them up and take the square root","Produce 1, 2, 3, ..., 10 step ahead conditional variance forecasts, take the square roots of each one and add them up","Produce a 1-step ahead conditional variance forecast, take its square root and multiply it by the square root of 10",B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+A regression's power,
+$R^2$ set to zero,
+What then can we know?
+The answers, they flow:
+
+The slopes, all at zero,
+The line, horizontal it goes,
+No variability explained,
+The intercept, a no-show.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+A white noise process, a symphony sublime,
+Devoid of melody, a rhythm divine.
+A constant variance, a steady embrace,
+A zero mean, a tranquil grace.
+
+Autocovariances, a constant refrain,
+Lag zero, the only chord to maintain.
+A dance of randomness, a tapestry true,
+White noise, a beauty, through and through.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Which model fits, true or not?
+Diagnostic tests hold the key, no doubt.
+Residuals, the focus of our thought,
+Autocorrelation, heteroscedasticity, and normality, all ought.
+If the model's right, the plot's clean,
+No further structure, the truth's seen.
+Overfitting, a path we may take,
+Insignificant coefficients, our mistakes to forsake.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Amidst the data, a puzzle lingers,
+Non-normality's shadow clings, it ponders.
+What remedy can we seek, what path to take?
+A plausible response, a decision to make.",Use a logarithmic functional form instead of a linear one,Add lags of the variables on the right hand side of the regression model,Estimate the model in first differenced form,Remove any large outliers from the data.,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+The fixed effects panel,
+A model of veneration,
+Oft referred to as,
+A different designation.",A seemingly unrelated regression model,The least squares dummy variables approach,The random effects model,Heteroscedasticity and autocorrelation consistent,B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Beneath the layers of uncertainty,
+A question emerges, seeking clarity.
+Which statement, from the options provided,
+Holds the truth, by OLS guided?",OLS minimises the sum of the vertical distances from the points to the line,OLS minimises the sum of the squares of the vertical distances from the points to the line,OLS minimises the sum of the horizontal distances from the points to the line,OLS minimises the sum of the squares of the horizontal distances from the points to the line.,B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+If the tools we wield,
+Fail to show what's concealed,
+In the time-series' yield,
+What can we then yield?
+
+Is the data, a mystery,
+Devoid of history?
+A sequence, so random,
+Its pattern, unplanned?
+
+Shall we label it so,
+As the data's bestowed?
+A process, so pure,
+Whose future, unsure?",Normally distributed,Uncorrelated,Independent,Fat-tailed,B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+If two variables, $x_t$ and $y_t$, are cointegrated,
+Which statements hold true, let's ponder?
+
+Must both $x_t$ and $y_t$ be stationary?
+Or can one linear combo be the only clarity?
+
+Does the cointegrating equation describe the short-run?
+Or must the residuals of a regression be stationary, anew?
+
+Unravel the truth, let the answers unfold,
+Unveil the insights, the story be told.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+A veiled enigma, a hidden delight,
+Trapped in a range, yet still in sight.
+The independent, its values revealed,
+But the dependent, its secrets concealed.
+What type of variable, elusive and shy,
+Holds its true form from the prying eye?",Censored,Truncated,Multinomial variable,Discrete choice,A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Contrasting options, a choice to make,
+The Hausman test, a path to take.
+Revealing the preferred approach,
+Endogeneity's hidden reproach.",Determining whether an equation that is part of a simultaneous system is identified,Determining whether a simultaneous framework is needed for a particular variable,Determining whether 2SLS or ILS is optimal,Determining whether the structural form equations can be obtained via substitution from the reduced forms,B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Under the matrix view,
+Where $y$ and $\beta$ intertwine,
+What are the dimensions of $u$,
+In this regression design?",T x k,T x 1,k x 1,1 x 1,B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Amidst the equations' array,
+A question arises, a curious play:
+How many parameters shall we find,
+In this tri-variate VAR(4) design?
+
+Ignoring the intercepts, let's explore,
+The total count, a hidden lore.
+Unraveling the standard form's true embrace,
+Revealing the answers we must embrace.",12,4,3,36,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+The model stands tall,
+Structural stability, the call,
+Regression's melody unfurls,
+Coefficients, a dance of pearls.
+
+Two hundred strong, the sample size,
+Divided in half, a strategic surprise,
+Sub-sample regressions, a path to explore,
+Seeking the unrestricted residual's score.",The RSS for the whole sample,The RSS for the first sub-sample,The RSS for the second sub-sample,The sum of the RSS for the first and second sub-samples,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Shall we test the null,
+A GARCH(2,2) model,
+Restricted to a constant,
+Conditional variance, we ponder?
+
+The likelihood ratio test,
+Unveils the truth, no less,
+Which statements then ring true?
+Reveal the answers, we shall pursue.",The test statistic will follow a chi-squared distribution with 2 degrees of freedom under the null hypothesis,The value of the log-likelihood function will almost always be bigger for the restricted model than for the unrestricted model,"If the relevant values of the log-likelihood functions are -112.3 and -118.4, the value of the test statistic is 12.2",The likelihood ratio test compares the slopes of the log-likelihood function at the maximum and at the restricted parameter value.,C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Amongst the remedies offered,
+One must stand apart, unproffered.
+Which one, dear seeker, can it be?
+The answer lies, a mystery.",Use principal components analysis,Drop one of the collinear variables,Use a longer run of data,Take logarithms of each of the variables,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+A time-series dance,
+Yt, the protagonist's stance.
+Lagging one step, then two,
+Intertwined, a pattern true.
+
+Coefficients play their part,
+1.5, 0.5, a work of art.
+Ut, the unseen force,
+Guiding the process, of course.",Stationary process,Unit root process,Explosive process,Stationary and unit root process,B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Autocorrelation's mysteries to unveil,
+A test to uncover, a story to tell.
+Which method, oh which, can we now entail,
+To third order, the truth we shall quell?",The Durbin Watson test,White's test,The RESET test,The Breusch-Godfrey test,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+The whispers of the data's soul,
+Echoing through the model's fold.
+The difference between what's seen and true,
+A residual, a clue.","The difference between the actual value, y, and the mean, y-bar","The difference between the fitted value, y-hat, and the mean, y-bar","The difference between the actual value, y, and the fitted value, y-hat","The square of the difference between the fitted value, y-hat, and the mean, y-bar",C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Unraveling the mysteries,
+Equations intertwined,
+If OLS we apply,
+To each one, we will find,
+
+The estimates that emerge,
+May not be what we seek,
+For in a system so grand,
+The connections we must speak.
+
+Separate paths we may tread,
+But the whole we must see,
+To uncover the truth,
+And the insights to be.",Unbiased and consistent,Biased but consistent,Biased and inconsistent,It is impossible to apply OLS to equations that are part of a simultaneous system,C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Amidst the realm of functional form,
+A query arises, a puzzle to be borne,
+Which one among the options presented
+Is not an instance of mis-specification intended?",Using a linear specification when y scales as a function of the squares of x,Using a linear specification when a double-logarithmic model would be more appropriate,Modelling y as a function of x when in fact it scales as a function of 1/x,Excluding a relevant variable from a linear regression model,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Equity or bond, which shall it be?
+A choice to make, a path to see.
+Factors abound, a complex web,
+Influencing the investor's tred.
+
+What model shall we deem most right,
+To shed its light upon this plight?
+A class to guide us, a lens to use,
+As we this puzzle seek to diffuse.",A logit model,A multinomial logit,A tobit model,An ordered logit model,B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Poem:
+
+In the realm of Monte Carlo's grace,
+Where simulations hold their place,
+If the replications be but few,
+What truths shall we come to view?
+
+Shall the statistic of interest be
+Estimated with imprecisery?
+Or will the results, a tale unfold,
+Affected by random draws untold?
+
+The standard errors, a looming threat,
+May they be too large, we can't forget?
+But wait, a trick we can employ,
+Variance reduction, our ally to enjoy.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iv) only","(i), (ii), (iii), and (iv)",D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+In the realm of panel model's grace,
+What drawback does the random effects trace?
+Does it introduce bias, a hidden flaw,
+Or fail to capture the nuanced law?
+The answer, a poetic dance,
+Reveals the approach's true circumstance.",The approach may not be valid if the composite error term is correlated with one or more of the explanatory variables,"The number of parameters to estimate may be large, resulting in a loss of degrees of freedom",The random effects approach can only capture cross-sectional heterogeneity and not temporal variation in the dependent variable.,All of (a) to (c) are potential disadvantages of the random effects approach.,A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Slow to respond, a dance unseen,
+Dependent on the independent's sheen.
+Over-reactions, a tempestuous play,
+Disrupting the rhythm, leading astray.
+
+Relevant variables, hidden from sight,
+Autocorrelation, a tangled plight.
+Outliers, a siren's call so sweet,
+Distorting the pattern, a stumbling feet.
+
+Which of these, a culprit might be,
+Causing residuals to dance with glee?
+A puzzle to solve, a quest to unfold,
+The answer lies, waiting to be told.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Acf and pacf, a mystery to behold,
+Interpretation, a tale yet untold.
+Calculation, a challenge, some datasets resist,
+Information criteria, an alternative to enlist.
+
+Uniqueness in model selection, a lofty claim,
+Applied correctly, a promise to tame.
+Unraveling the truth, a quest for the wise,
+Unveiling the secrets that time's tide belies.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Stationarity, a quest divine,
+Unraveling the process, a design so fine.
+Constant mean, a steady glow,
+Variance unwavering, a constant flow.
+
+Autocovariances, a steady stride,
+Probability distribution, a faithful guide.
+Which conditions, the path to trace?
+Weakly stationary, a time-honored grace.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Equation of mystery,
+Behold its complexity,
+What model does it best embody?
+A puzzle for the curious.
+
+The variables dance,
+Intertwined with chance,
+$\alpha$, $\beta$, $\mu$, $\nu$,
+Reveal their hidden stance.
+
+Unravel the clues,
+Explore the model's views,
+Determine the class,
+That this equation pursues.",An entity fixed effects model,A time fixed effects model,A random effects model,A pure time series model,A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Drifting through the data's expanse,
+A question echoes, a search to enhance.
+No need for tables, the path is clear,
+Dickey-Fuller's test, the answer draws near.
+
+A thousand observations, a tale to unfold,
+Revealing the truth, the story untold.
+Statistic's dance, a rhythmic sway,
+Guiding us through the analytical fray.",More negative than (i.e. bigger in absolute value than) those in the left hand tail of a normal distribution,Less negative than (i.e. smaller in absolute value than) those in the left hand tail of a normal distribution,Obtained from an analytical formula for the density of the Dickey-Fuller distribution,More negative (i.e. bigger in absolute value) for a 10% size of test than a 5% test.,A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+A hypothesis test, a quest to find,
+Significance level, a choice to define.
+What's the truth in this statistical dance?
+Let's explore the statements, take a chance.
+
+Is the significance level the size of the test?
+Or is it the power, a different quest?
+Tails and regions, a delicate play,
+Revealing the truth, let's find the way.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Cointegration's dance,
+A complex tango to enhance,
+Dickey-Fuller, Engle-Granger, a weave,
+But what does Engle-Yoo's steps believe?","In the context of small samples, Dickey Fuller tests are prone to conclude that there is a unit root in a series when there is not",The Engle-Granger (EG) approach can only detect up to one cointegrating relationship even though there could be more than one,The variables are treated asymmetrically in the cointegrating tests,It is not possible to perform tests about the cointegrating relationship,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Here is the question rephrased as a poem:
+
+Whispers of a time-tested way,
+MA(1) with zero mean, they sway.
+Coefficient of 0.4, a gentle flow,
+What secrets does the autocovariance hold?",0.4,1,0.34,It is not possible to determine the value of the autocovariances without knowing the disturbance variance.,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Estimation techniques unravel,
+Unveiling systems' mysteries to travel,
+Over-identified, a complex dance,
+OLS, ILS, 2SLS, and IV, a chance.",(iii) only,(iii) and (iv) only,"(ii), (iii), and (iv) only","(i), (ii), (iii) and (iv)",B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Here is the question rephrased as a poem:
+
+What shadow lurks, unseen, unfound?
+What truth lies hidden, underground?
+A Type II error, a misstep unseen,
+Revealing the truth, a veil between.
+Where does it hide, this elusive foe?
+What statements best its nature show?
+The question lingers, a poetic quest,
+To uncover the truth, to find the best.",It is the probability of incorrectly rejecting the null hypothesis,It is equivalent to the power of the test,It is equivalent to the size of the test,It is the probability of failing to reject a null hypothesis that was wrong,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Beneath the shroud of uncertainty,
+A question looms, seeking clarity.
+What interval shall we employ,
+To capture the intercept's true alloy?
+
+Ninety-five percent, a confidence tall,
+Guiding us through the model's call.
+Which one shall we deem most apt,
+To unveil the truth, without being trapped?","(-4.79,2.19)","(-4.16,4.16)","(-1.98,1.98)","(-5.46,2.86)",D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Stationary process, a dance so serene,
+Crossing the mean, a rhythm unseen.
+Constant in mean and variance true,
+Devoid of trend, a stationary view.
+First difference form, a stationarity found,
+Revealing its nature, without a bound.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Consider the VAR, equation sixteen,
+What conditions must hold, to make it serene?
+Is there bi-directional feedback, the question doth pose,
+What must be true, for this to disclose?",The b and d coefficients significant and the a and c coefficients insignificant,The a and c coefficients significant and the b and d coefficients insignificant,The a and c coefficients significant,The b and d coefficients significant,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Autocorrelation's dance,
+Echoes in time's expanse,
+Unveiling patterns so grand,
+Whispers from the land.
+
+Lag by lag, we explore,
+Coefficients to adore,
+Searching for the truth they hold,
+Secrets yet untold.
+
+Normality, our guide,
+Significance, our pride,
+Which coefficients stand tall?
+Reveal them, one and all.",1 only,1 and 2 only,"1, 2 and 3 only",It is not possible to determine the statistical significance since no standard errors have been given,B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Which goodness of fit statistic shall we explore?
+A question that our minds implore.
+Shall we examine the data with care,
+To find the answer that's hidden there?",How well the population regression function fits the data,How well the sample regression function fits the population regression function,How well the sample regression function fits the data,How well the population regression function fits the sample regression function.,C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Which statements ring true,
+Concerning antithetic variates' view?
+Do they reduce replication's need?
+Or draw from known properties to succeed?
+Negatives or inverses, which path to take?
+Unravel the truth for Monte Carlo's sake.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iv) only","(i), (ii), (iii), and (iv)",B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Which one rings true,
+A measure of forecast, anew?
+Alternatives abound,
+Accuracy to be found.
+Which statement holds the key,
+Revealing the way, you see?",Mean squared error is usually highly correlated with trading rule profitability,Mean absolute error provides a quadratic loss function,Mean absolute percentage error is a useful measure for evaluating asset return forecasts,Mean squared error penalises large forecast errors disproportionately more than small forecast errors,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+The GARCH's woes, a poetic prose,
+Negative coefficients, a bane that grows.
+Leverage effects, a missing part,
+EGARCH, the solution to this art.
+
+Symmetric response, a limitation to bear,
+EGARCH, the model that can compare.
+Volatility's feedback, a gap to fill,
+EGARCH, the answer, a skill to instill.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Amidst the market's endless dance,
+A hundred firms, their fortunes prance.
+Three managers, they stand apart,
+Outpacing the rest, a work of art.
+
+Does this suggest, a hidden key?
+A market that's not quite free?
+Inefficiency's guiding light,
+Or mere chance, in plain sight?
+
+The question lingers, a puzzle to solve,
+As we seek the truth, the market's resolve.
+A poetic muse, a thought to explore,
+The answers lie, beyond the market's core.",Yes,No,"In order to answer this question, you would need to test every fund manager trading in that market",There is insufficient information given in the question to draw a conclusion about market efficiency.,B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Panels of data, a treasure trove,
+Unlock insights that others can't perceive.
+Degrees of freedom, a bountiful gain,
+Powering tests, a victory to attain.
+
+The dependent variable, its value to behold,
+Shifting cross-sectionally or time untold.
+A relationship, dynamic and true,
+Varying across space or time anew.",(i) only,(i) and (ii) only,(ii) only,"(i), (ii), and (iii)",B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Here is the question rephrased as a poem:
+
+The Engle-Granger test, a curious affair,
+Applied to residuals, with utmost care.
+What would the null hypothesis imply?
+A tale of cointegration, let's try to defy.
+
+Does the residual series, it's destiny unfold?
+A stationarity claim, or a story untold?
+The null, a puzzle to be solved with might,
+Unveiling the truth, a cointegrating sight.",The variables are cointegrated,The variables are not cointegrated,Both variables are stationary,Both variables are non-stationary,B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Whispers of time, echoes of the past,
+Uncovering the secrets that steadfast last.
+The autocorrelation, a dance with the past,
+And the partial, a puzzle that forever last.
+
+Does the first lag hold the same for all?
+Or does the model dictate the pacf's call?
+Beyond the MA(q)'s lag, a non-zero tale,
+While the AR(p)'s pacf, a tale to prevail.
+
+At lag two, for the MA(1), a matching pair,
+The acf and pacf, a harmony so rare.
+Unravel the mysteries, these statements to heed,
+Unveiling the truths that our data indeed.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",C

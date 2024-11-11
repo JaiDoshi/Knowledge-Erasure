@@ -1,0 +1,418 @@
+"Which X is more likely to explore paths covering every line of code in the following Y?
+
+X = style of fuzzer
+Y = program",Generational,Blackbox,Whitebox,Mutation-based,C
+"Assume that an X connection has been established successfully between a client and a server. Establishing the session included checking the server certificate and executing a Y exchange, but the client did not provide a client certificate. Further, assume that the client and server are honest, that the client and server don't leak their keys, and that the cryptography is good. Which of the following attacks does X protect against?
+1. An attacker replaying bytes that a client sent earlier.
+2. An attacker impersonating the server.
+
+X = TLS
+Y = Diffie-Hellman","True, True","False, False","True, False","False, True",A
+"X's Y server has a maximum Z lifetime of 24 hours (for most user principals). What ensures that an expired Y can no longer be used?
+
+X = MIT's Kerberos KDC
+Y = ticket
+Z = ticket",The Kerberos server (KDC) refuses to establish new connections between clients and servers for expired tickets.,"When a client connects to a server, the server sets a 24-hour timer to terminate the connection, which ensures a client cannot remain connected past the ticket’s maximum lifetime.","When a client connects to a server, the server compares the ticket’s expiration time to the server’s current clock, and refuses to authenticate the user if the ticket expiration time is in the past.","When a client connects to a server, the server sends a query to the KDC to check if the ticket is still valid with respect to the KDC’s clock, and refuses to authenticate the user if the KDC reports that the ticket is expired.",C
+"In X, the transmitted Y must make sense to only intended Z.
+
+X = Message Confidentiality
+Y = message
+Z = recipients",Receiver,Sender,Modulor,Translator,A
+"Which of the following is an X?
+
+X = remote Trojan",Troya,DaCryptic,BankerA,Game-Troj,A
+"X is a widespread app's coding mistake made by developers which could be exploited by an attacker for gaining access or malfunctioning your system.
+
+X = Vulnerability",Memory leakage,Buffer-overrun,Less processing power,Inefficient programming,B
+"Consider the paper X by Y et al. Ben Bitdiddle notes that X uses Z to ensure that the sandboxed module does not read or write memory outside its own data area, and does not execute instructions outside its own code. Ben thinks that with these restrictions alone, executing the sandboxed module must be safe; that is, he thinks validation is not needed. Ben is wrong. Circle the types of Z machine instructions that the validator always forbids in sandboxed code. Please ignore trampoline and springboard code.
+
+X = ""Native Client: A Sandbox for Portable, Untrusted x86 Native Code""
+Y = ""Yee""
+Z = ""Intel x86 segmentation""",all instructions that modify segment state,all loads or stores to addresses that are not 0 mod 32,all indirect loads or stores (via an address in a register or variable),all indirect jumps (via an address in a register or variable),A
+"What is X that is employed for transferring files anonymously?
+
+X = a part of darknet",Freenet,ARPANET,Stuxnet,Internet,A
+"Why X developed in languages like Y is prone to Z?
+
+X = apps
+Y = C, C++
+Z = Buffer-overflow",No string boundary checks in predefined functions,No storage check in the external memory,No processing power check,No database check,A
+"Let X be ""Diffie Hellman method"".
+
+If two parties are not using proper authentication, can a man in the middle attack endanger the security of X?",Joined,Authenticated,Submitted,Shared,B
+"X occurs when Y exceeds the maximum value that can be stored in the Z data type.
+
+X = An integer overflow
+Y = the result of an arithmetic operation
+Z = integer","an integer expression's result ""wraps around""; instead of creating a very large number, a very small (or negative) number ends up getting created",an integer is used as if it was a pointer,an integer is used to access a buffer outside of the buffer's bounds,there is no more space to hold integers in the program,D
+"Let X be a Merkle-Damgard hash function is H:X^{\leq L} \to TH:X^≤L  →T. Construct a MAC from this X as follows: \ \ S(k,m) = H(k \| m)  S(k,m)=H(k∥m). This mac is insecure because:
+
+X = Merkle-Damgard hash function",Given H(k \| m)H(k∥m) anyone can compute H(w \| k \| m \| \text{PB})H(w∥k∥m∥PB) for any ww,Given H(k \| m)H(k∥m) anyone can compute H(k \| m \| w)H(k∥m∥w) for any ww,Given H(k \| m)H(k∥m) anyone can compute H(k \| m \| \text{PB} \| w)H(k∥m∥PB∥w) for any ww,Anyone can compute H( k \| m )H(k∥m) for any mm,C
+"Suppose that X and Y sent confidential text messages to one another last month through Z. X and Y are worried that an adversary might compromise one of their computers today, while they are taking the 6.858 final exam, and would then be able to decrypt those messages. Which of the following security properties can address X and Y's concern?
+
+X = Alice
+Y = Bob
+Z = an encrypted messaging system",Authentication.,Deniability.,Forward secrecy,Backward secrecy.,C
+"X provides Y and Z, but not
+
+X = The AH Protocol
+Y = source authentication
+Z = data integrity",Integrity,Privacy,Nonrepudiation,Both A & C,B
+"Which of the following is not an X?
+
+X = security exploit",Eavesdropping,Cross-site scripting,Authentication,SQL Injection,C
+"What is X in Y wireless operations?
+
+X = the central node
+Y = 802.11",WPA,Access Point,WAP,Access Port,B
+"In X the length of the Y is
+
+X = MD-5
+Y = message digest",160,128,64,54,B
+"What is X?
+
+X = Nmap","It is a scanner which works by injecting packets to a range of addresses, and inferring what hosts and services might be at those addresses, based on the responses",It is a network fuzz testing tool,It is a map of the Internet,"It is a suite of tools for scripting attacks: probe, construct, encode, inject, wait for response",A
+"How do you prevent X?
+
+X = SQL injection",Escape queries,Interrupt requests,Merge tables,All of the above,A
+"What does it mean to X during a Y?
+
+X = ""be stealthy""
+Y = penetration test",Performing the tests from an undisclosed location,Using encryption during tests to make the source of attacks impossible to determine,Performing penetration testing without the target organization knowing,"Taking care to avoid activities during a penetration test that might attract attention, e.g., by operators or IDS services",D
+"Which of the following is not an X vulnerability?
+
+X = transport layer","Mishandling of undefined, poorly defined variables",The Vulnerability that allows “fingerprinting” & other enumeration of host information,Overloading of transport-layer mechanisms,Unauthorized network access,D
+"X: Brumley and Boneh's paper on side-channel attacks
+Y: blinding
+
+In X, why does Y prevent the timing attack from working?","Blinding prevents the server from using the CRT optimization, which is essential to the timing attack.","Blinding changes the p and q primes that are used, so an adversary cannot learn the server’s true p and q values.","Blinding randomizes the ciphertext being decrypted, thus obscuring the correlation between an adversary’s input and the timing differences.","Blinding adds a random amount of time to the decryption due to the multiplication and division by the blinding random value r, which obscures the timing differences used in the attack.",C
+"The X implementation described in ""Remote Timing Attacks are Practical"" (by Brumley and Boneh) uses the following performance optimizations: Y, Z, Karatsuba Multiplication (KM), and Repeated squaring and Sliding windows (RS). Which of the following options would close the timing channel attack described in the paper if you turned the listed optimizations off?
+1. RS and KM 
+2. RS and Z
+
+X = openSSL
+Y = Chinese Remainder (CR)
+Z = Montgomery Representation (MR)","True, True","False, False","True, False","False, True",D
+"X is advantageous over Y because of
+
+X: Public key encryption
+Y: Symmetric key Cryptography",Speed,Space,Key exchange,Key length,C
+"The X was a huge marketplace of Y specifically famous for selling of illegal drugs & narcotics as well as you can find a wide range of other goods for sale.
+
+X = Silk Road
+Y = Dark Web",Silk Road,Cotton Road,Dark Road,Drug Road,A
+"The X is categorized as an unknown segment of the Y which has been purposely kept hidden & is inaccessible using standard Z.
+
+X = Dark Web
+Y = Deep Web
+Z = web browsers",Haunted web,World Wide Web,Dark web,Surface web,C
+"What does X do when the Y times out on a Z for a particular path?
+
+X = EXE
+Y = STP solver
+Z = constraint query",Assume that the query is satisfiable and continue executing the path.,Assume that the query is not satisfiable and stop executing the path,"Restart STP and retry the query, up to a limited number of retries.",Remove a subset of the constraints and retry the query.,B
+"To verify an X, we need the Y.
+
+X = digital signature
+Y = public key",Sender’s Private key,Sender’s Public key,Receiver’s Private key,Receiver’s Public key,B
+"Suppose you want to use X on a Y to try to find Z; which of the following statements is true?
+
+X = fuzzing
+Y = program
+Z = memory errors","You should not use a grammar-based fuzzer, because its adherence to the grammar means it will not find memory errors",Compiling the program with address sanitizer (ASAN) will make errors harder to reproduce,Compiling the program with address sanitizer (ASAN) will make the source of a memory error easier to find,"Fuzzing doesn't find memory errors, it finds crashes and hangs",C
+"Given:
+X = ""SoK: SSL and HTTPS: Revisiting past challenges and evaluating certificates trust model enhancements""
+
+Based on the paper X, which of the following statements are false?",Valid DV certificates provide more confidence to a user that she is connecting to the intended party than valid EV certificates.,OCSP stapling allows a server to prove to a browser that its certificate hasn’t been revoked.,DANE makes it difficult for an adversary to launch a SSL stripping attack.,Server key-pinning makes it harder for an adversary to convince a CA to mint a certificate for a site and launch an MITM attack on that site.,A
+"What X can be used to perform Y enumeration?
+
+X = tool
+Y = SNMP",DNSlookup,Whois,Nslookup,IP Network Browser,D
+"Which among them has the strongest X?
+
+X = wireless security",WEP,WPA,WPA2,WPA3,D
+"X = Unix
+Y = OKWS
+Z = okd
+
+Suppose X did not provide a way of passing file descriptors between processes, but still allowed inheriting file descriptors from a parent on fork and exec. What aspects of the Y design would break without file descriptor passing?
+1. It would be impossible for services to get a TCP connection to the client web browser.
+2. It would be impossible for Z to run as a non-root user.","True, True","False, False","True, False","False, True",C
+"Failed X allow Y attacks on access credentials. This type of attacks are done in which layer of the Z model?
+
+X = sessions
+Y = brute-force
+Z = OSI",Physical layer,Data-link Layer,Session layer,Presentation layer,C
+"Which of the following is an X?
+
+X = authentication method",Secret question,Biometric,SMS code,All of the above,D
+"When does an X occur, generally speaking?
+
+X = buffer overflow",when writing to a pointer that has been freed,when copying a buffer from the stack to the heap,when a pointer is used to access memory not allocated to it,"when the program notices a buffer has filled up, and so starts to reject requests",C
+"A X needs a Y to Z it. Define the values for the variables:
+
+X = digital signature
+Y = private key
+Z = create
+
+Rephrased question: A X needs a Y to Z it.",Private-key system,Shared-key system,Public-key system,All of them,C
+"A(n) X filters at the Y, where:
+
+X = packet filter firewall
+Y = network layer",Application or transport,Data link layer,Physical Layer,Network or transport layer,D
+"Let X = (Y,V) be a MAC. Suppose Y(k,m) is always Z bits long. Can this MAC be secure?
+
+X = MAC
+Y = S
+Z = 5","No, an attacker can simply guess the tag for messages",It depends on the details of the MAC,"Yes, the attacker cannot generate a valid tag for any message","Yes, the PRG is pseudorandom",A
+"Which of the following deals with X and Y?
+
+X = network intrusion detection
+Y = real-time traffic analysis",John the Ripper,L0phtCrack,Snort,Nessus,C
+"X means that the Y and the Z expect
+
+X = The Message condentiality or privacy
+Y = sender
+Z = receiver",Integrity,Condentiality,Authentication,Nonrepudiation,B
+"When a X user authenticates to any Y, both of them go in the course of four-step authentication progression which is called Z.
+
+X = wireless
+Y = AP
+Z = _____________",AP-handshaking,4-way handshake,4-way connection,wireless handshaking,B
+"X is a service beyond message authentication that provides proof of message origin, allowing the recipient to verify the sender's identity. What is X?
+
+X = Digital signature",Message Condentiality,Message Integrity,Message Splashing,Message Sending,B
+"Which of the following are most vulnerable to X attacks?
+
+X = injection",Session IDs,Registry keys,Network communications,SQL queries based on user input,D
+"Assume that an X connection has been established successfully between a Y and a server. Establishing the session included checking the server certificate and executing a Z exchange, but the Y did not provide a Y certificate. Further, assume that the Y and server are honest, that the Y and server don't leak their keys, and that the cryptography is good. Which of the following attacks does X protect against?
+1. An attacker replacing bytes sent by a Y with bytes of the attacker's own choosing.
+2. An attacker reading the plaintext bytes sent by a Y.
+
+X = TLS
+Y = client
+Z = Diffie-Hellman","True, True","False, False","True, False","False, True",A
+"Which of the following is an X tool?
+
+X = Wireless traffic Sniffing",Maltego,BurpSuit,Nessus,Wireshark,D
+"A X is a method in which a Y is bypassed untraceable for accessing the computer or its information.
+
+X = backdoor
+Y = computer security mechanism",front-door,backdoor,clickjacking,key-logging,B
+"Which of the following is not an X operating mode?
+
+X = block cipher",ECB,CFB,CBF,CBC,C
+"What is an X?
+
+X = web proxy",A piece of software that intercepts and possibly modifies requests (and responses) between a web browser and web server,An agent that makes decisions on the client's behalf when interacting with web applications,"A piece of software that makes a web application look like a standalone application, making it easier to test","A simulator for the web, for use when off-line",A
+"Let X represent a specific type of testing.
+
+Buffer-overflow may remain as a bug in apps if X are not done fully.
+
+X = security audits",boundary hacks,memory checks,boundary checks,buffer checks,C
+"Applications developed by programming languages like X and Y have this common Z error.
+
+X = C
+Y = C++
+Z = buffer-overflow","C, Ruby","Python, Ruby","C, C++","Tcl, C#",C
+"X and Y provide Z, but not
+
+X = Encryption
+Y = decryption
+Z = secrecy, or confidentiality",Authentication,Integrity,Privacy,All of the above,B
+"Here is the rephrased question with variables defined at the start:
+
+X: instant messaging applications
+
+A/an ___________ is a program that steals your logins & passwords for X.",IM – Trojans,Backdoor Trojans,Trojan-Downloader,Ransom Trojan,A
+"The X length at each round of Y is__________
+
+X = sub key
+Y = DES",32,56,48,64,B
+"Which of the following is true of X?
+
+X = mutation-based fuzzing",It generates each different input by modifying a prior input,It works by making small mutations to the target program to induce faults,Each input is mutation that follows a given grammar,"It only makes sense for file-based fuzzing, not network-based fuzzing",A
+"What are the types of X?
+
+X = scanning","Port, network, and services","Network, vulnerability, and port ","Passive, active, and interactive","Server, client, and network",B
+"X must not be able to deny sending a Y that was sent, is known as
+
+X = A sender
+Y = message",Message Nonrepudiation,Message Integrity,Message Condentiality,Message Sending,A
+"Here is the rephrased question with technical terms replaced by variables:
+
+An X filters at the Y level and can perform Z functions like URL blocking and website filtering.
+
+X = proxy firewall
+Y = application
+Z = advanced",Physical layer,Application layer,Data link layer,Network layer,B
+"Which X does Encapsulating Security Payload (ESP) belong to?
+
+X = Internet Security Protocol",Secure Socket Layer Protocol,Secure IP Protocol,Secure Http Protocol,Transport Layer Security Protocol,B
+"A special tool is necessary for entering X which is Y that helps Z to access into the Tor's network and use various Tor services.
+
+X = the network
+Y = _______________
+Z = the anonymous internet users",Opera browser,Firefox,Chrome,Tor browser,D
+"How does X on the Y facilitate running Z?
+
+X = a buffer overflow
+Y = stack
+Z = attacker-injected code",By overwriting the return address to point to the location of that code,By writing directly to the instruction pointer register the address of the code,By writing directly to %eax the address of the code,"By changing the name of the running executable, stored on the stack",A
+"The X created by a Y function is normally called a Z.
+
+X = digest
+Y = hash
+Z = ?",Modication detection code (MDC),Modify authentication connection,Message authentication control,Message authentication cipher,A
+"Let X: Y \times R \to MX:Y×R→M be a secure Z. For m \in Mm∈M define E(k,m) = \big[ r \gets R,\ \text{output } \big(r,\ X(k,r) \oplus m\big)\ \big]E(k,m)=[r←R, output (r, X(k,r)⊕m) ] Is EE symantically secure under CPA?
+
+X = PRF
+Y = K
+Z = PRF","Yes, whenever F is a secure PRF","No, there is always a CPA attack on this system","Yes, but only if R is large enough so r never repeats (w.h.p)",It depends on what F is used,C
+"Old operating systems like X and Y-based systems have Z a common vulnerability.
+
+X = _______
+Y = NT
+Z = buffer-overflow attack",Windows 7,Chrome,IOS12,UNIX,D
+"What is an X?
+
+X = replay attack",When the attacker replies to a message sent to it by the system,"An attack that continuously repeats, probing for a weakness",An attack that uses the system's own messages and so cannot be defended against,"The attacker resends a captured message, and the site accept its and responds in the attacker's favor",D
+"X1 = U2F USB dongle
+X2 = second factor
+
+Statement 1| An X1 prevents malware on the user's computer from stealing the user's X2 to authenticate as that user even when the user's computer is turned off. Statement 2| A server using U2F can reliably determine that the user who is attempting to login is indeed behind the computer that sent the login request.","True, True","False, False","True, False","False, True",C
+"X is the anticipation of unauthorized access or break to computers or data by means of Y.
+
+X = Wireless security
+Y = wireless networks",Wireless access,Wireless security,Wired Security,Wired device apps,B
+"Which of the following are benefits of X?
+
+X = penetration testing",Results are often reproducible,Full evidence of security: a clean test means a secure system,Compositionality of security properties means tested components are secure even if others change,Makes an adversarial neural network converge more quickly,A
+"X framework made cracking of Y easy like point and click.
+
+X = Metasploit
+Y = vulnerabilities",.Net,Metasploit,Zeus,Ettercap,B
+"Given:
+X = message
+Y = OTP encryption of the message
+
+You are given X and Y. Can you compute the OTP key from X and Y?","No, I cannot compute the key.","Yes, the key is k = m xor c.",I can only compute half the bits of the key.,"Yes, the key is k = m xor m.",B
+"The X implementation described in ""Remote Timing Attacks are Practical"" (by Brumley and Boneh) uses the following performance optimizations: Y, Z, Karatsuba Multiplication (KM), and Repeated squaring and Sliding windows (RS). Which of the following options would close the timing channel attack described in the paper if you turned the listed optimizations off?
+1. Y and Z
+2. Y
+
+X = openSSL
+Y = Chinese Remainder (CR)
+Z = Montgomery Representation (MR)","True, True","False, False","True, False","False, True",A
+"When the X must arrive at the Y exactly as they were sent, it's called Z.
+
+X = data
+Y = receiver
+Z = lossless compression",Message Condentiality,Message Integrity,Message Splashing,Message Sending,B
+"What is the difference between X and Y?
+
+X: a direct leak
+Y: a side channel","A direct leak creates a denial of service by failing to free memory, while a channel frees memory as a side effect","A direct leak is one that is intentional, rather than by unintentional","A direct leak comes via the software system's intended interaction mechanism, where as a side channel leak comes from measurements of other system features, like timing, power usage, or space usage",There is no difference,C
+"A X between two parties is used
+
+X = session symmetric key",Only once,Twice,Multiple times,Conditions dependant,A
+"What is an X?
+
+X: nop sled",It is an anonymous version of a mop sled,"It is a sequence of nops preceding injected shellcode, useful when the return address is unknown",It is a method of removing zero bytes from shellcode,It is another name for a branch instruction at the end of sequence of nops,B
+"Which X scan does not completely open a Y connection?
+
+X = Nmap
+Y = TCP",SYN stealth scan,TCP connect,XMAS tree scan,ACK scan,A
+"Based on the paper ""X"", which of the following statements are true? ""Y"" here refer to operators of various parts of the ""Z.""
+
+X = ""Click Trajectories: End-to-End Analysis of the Spam Value Chain""
+Y = ""Spammers""
+Z = ""spam value chain""",Spammers run their spam-advertised web sites on compromised user machines that are part of a botnet.,Spammers need to register domain names in order for their spam-based advertisements to be effective.,There is a high cost for spammers to switch acquiring banks.,B and C,D
+"In an X attack, the Y that holds some Z in the memory for actions is projected by a cyber-criminal or penetration tester to crack the system.
+
+X = buffer overflow
+Y = extra data
+Z = specific instructions",Phishing,MiTM,Buffer-overflow,Clickjacking,C
+"X is a popular tool used for Y in Z.
+
+X = _______________ 
+Y = network analysis
+Z = multiprotocol diverse network",Snort,SuperScan,Burp Suit,EtterPeak,D
+"X is alike as that of Y from Z, & the mobile operators uses it for offering signal coverage.
+
+X = ___________________
+Y = Access Point (AP)
+Z = 802.11",Base Signal Station,Base Transmitter Station,Base Transceiver Station,Transceiver Station,C
+"A X is a sequential segment of the Y that is allocated for containing some data such as a character string or an array of integers.
+
+X = memory block
+Y = memory location",stack,queue,external storage,buffer,D
+"Which form of X does Y use?
+
+X = encryption
+Y = WPA",Shared key,LEAP,TKIP,AES,C
+"Let X be the maximum number of words a search box can accept.
+
+Rephrased question:
+Let suppose a search box of an application can take at most X words, and you've inserted more than that and pressed the search button; the system crashes. Usually this is because of limited __________",buffer,external storage,processing power,local storage,A
+"X began to show up few years back on Y as a new way of adding or connecting new devices.
+
+X = ___________________
+Y = wireless access points",WPA2,WPA,WPS,WEP,C
+"What are the X states determined by Y?
+
+X = port
+Y = Nmap","Active, inactive, standby","Open, half-open, closed ","Open, filtered, unfiltered","Active, closed, unused",C
+"Which among the following is the least strong X standard?
+
+X = security encryption",WEP,WPA,WPA2,WPA3,A
+"X: local variable
+
+Why is it that the compiler does not know the absolute address of an X?",Programs are not allowed to reference memory using absolute addresses,The size of the address depends on the architecture the program will run on,"As a stack-allocated variable, it could have different addresses depending on when its containing function is called",Compiler writers are not very good at that sort of thing,C
+"X is memory for storing
+
+X = The stack",Local variables,Program code,Dynamically linked libraries,Global variables,A
+"Can an X have perfect Y?
+
+X = stream cipher
+Y = secrecy","Yes, if the PRG is really “secure”","No, there are no ciphers with perfect secrecy","Yes, every cipher has perfect secrecy","No, since the key is shorter than the message",D
+"Which of the following does X aim to accomplish?
+
+X = authorization",Restrict what operations/data the user can access,Determine if the user is an attacker,Flag the user if he/she misbehaves,Determine who the user is,A
+"The X must be Y at the sender site and Z at the
+
+X = message
+Y = encrypted
+Z = decrypted",Sender Site,Site,Receiver site,Conferencing,C
+"A X may be a hidden part of a program, a separate infected program a Y in disguise of an executable or code in the firmware of any system's Z.
+
+X = virus
+Y = Trojan
+Z = hardware",crypter,virus,backdoor,key-logger,C
+"How is X detected?
+
+X = IP address spoofing",Installing and configuring a IDS that can read the IP header,Comparing the TTL values of the actual and spoofed addresses,Implementing a firewall to the network,Identify all TCP sessions that are initiated but does not complete successfully,B
+"Which of the following is not an example of X issues?
+
+X = presentation layer",Poor handling of unexpected input can lead to the execution of arbitrary instructions,Unintentional or ill-directed use of superficially supplied input,Cryptographic flaws in the system may get exploited to evade privacy,Weak or non-existent authentication mechanisms,D
+"X = file descriptors
+Y = OKWS
+
+Suppose Unix did not provide a way of passing X between processes, but still allowed inheriting X from a parent on fork and exec. What aspects of the Y design would break without X passing?","True, True","False, False","True, False","False, True",B
+"Why would an X be used?
+
+X = ping sweep",To identify live systems,To locate live systems,To identify open ports,To locate firewalls,A
+"The four X Security Principles related to Y are
+
+X = Primary
+Y = messages","Confidentiality, Integrity, Non repudiation and Authentication","Confidentiality, Access Control, Integrity, Non repudiation","Authentication, Authorization, Availability, Integrity","Availability, Authorization, Confidentiality, Integrity",A
+"What was the first X attack?
+
+X = buffer overflow",Love Bug,SQL Slammer,Morris Worm,Code Red,C
+"The X can cost you money, by sending text messages from your Y.
+
+X = ______________ 
+Y = mobile phone numbers",IM – Trojans,Backdoor Trojans,SMS Trojan,Ransom Trojan,C
+"Which of the following is not one of the three classic X properties?
+
+X = security",Confidentiality,Availability,Correctness,Integrity,B

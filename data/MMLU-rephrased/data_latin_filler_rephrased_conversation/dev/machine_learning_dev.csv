@@ -1,0 +1,80 @@
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Person 1: Hey, I have a question about probability and dice rolls.
+Person 2: Alright, what's the question?
+Person 1: So, a 6-sided die is rolled 15 times, and the results are as follows: side 1 comes up 0 times, side 2 comes up 1 time, side 3 comes up 2 times, side 4 comes up 3 times, side 5 comes up 4 times, and side 6 comes up 5 times.
+Person 2: Okay, I'm following you so far.
+Person 1: Based on these results, what is the probability of side 3 coming up when using Add-1 Smoothing?",2.0/15,1.0/7,3.0/16,1.0/5,B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Person 1: Hey, I have a question about image data augmentation.
+Person 2: Okay, what's your question?
+Person 1: Well, I know there are various techniques used for augmenting natural images, but I was wondering...
+Person 2: Yes?
+Person 1: Which image data augmentation method is most commonly used for natural images?",random crop and horizontal flip,random crop and vertical flip,posterization,dithering,A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Person 1: Hey, I'm reviewing papers for the World's Fanciest Machine Learning Conference. Can I get your opinion on something?
+
+Person 2: Of course! What's up?
+
+Person 1: I'm seeing submissions with various claims. I'm trying to decide which ones to consider accepting. Want to take a look at a few of them with me?
+
+Person 2: Sure, I'd be happy to help. What are some of the claims you're seeing in these submissions?",My method achieves a training error lower than all previous methods!,My method achieves a test error lower than all previous methods! (Footnote: When regularisation parameter λ is chosen so as to minimise test error.),My method achieves a test error lower than all previous methods! (Footnote: When regularisation parameter λ is chosen so as to minimise cross-validaton error.),My method achieves a cross-validation error lower than all previous methods! (Footnote: When regularisation parameter λ is chosen so as to minimise cross-validaton error.),C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Person 1: Hey, I have a question about Hoeffding's inequality and 0/1 loss estimates.
+Person 2: Okay, what's your question?
+Person 1: So, if we want to achieve an 0/1 loss estimate that's less than 1% of the true 0/1 loss, with 95% probability, how large does our IID test set need to be according to Hoeffding's inequality?",around 10 examples,around 100 examples,between 100 and 500 examples,more than 1000 examples,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Person 1: Hey, I have a question about decision-tree learning.
+Person 2: Okay, what's your question?
+Person 1: You know how we traditionally consider a binary split for real-valued input attributes based on a threshold?
+Person 2: Yes, that's the common approach.
+Person 1: Well, Pat suggested using a multiway split instead, with one branch for each distinct attribute value. What do you think is the biggest problem with this idea?",It is too computationally expensive.,It would probably result in a decision tree that scores badly on the training set and a testset.,It would probably result in a decision tree that scores well on the training set but badly on a testset.,It would probably result in a decision tree that scores well on a testset but badly on a training set.,C

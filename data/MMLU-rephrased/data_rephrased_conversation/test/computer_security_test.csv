@@ -1,0 +1,382 @@
+"Person 1: Hey, I have a question about fuzzers.
+Person 2: Okay, what's your question?
+Person 1: You know how different styles of fuzzers explore paths through a program differently?
+Person 2: Yes, that's right.
+Person 1: So which of the following styles of fuzzer is more likely to explore paths covering every line of code in a given program?",Generational,Blackbox,Whitebox,Mutation-based,C
+"Person 1: Hey, I have a question about TLS connections.
+Person 2: Okay, what's your question?
+Person 1: Assuming a TLS connection has been established successfully between a client and server, with the server certificate checked and a Diffie-Hellman exchange executed, but no client certificate provided, and assuming the client and server are honest, don't leak their keys, and the cryptography is good...
+Person 2: Right, go on.
+Person 1: Which types of attacks would TLS protect against in this scenario?","True, True","False, False","True, False","False, True",A
+"Person 1: Hey, I have a question about MIT's Kerberos KDC server.
+Person 2: What's your question?
+Person 1: Well, I know it has a maximum ticket lifetime of 24 hours for most user principals. But what actually ensures an expired Kerberos ticket can no longer be used after that?
+Person 2: That's a great question! Do you have any ideas?",The Kerberos server (KDC) refuses to establish new connections between clients and servers for expired tickets.,"When a client connects to a server, the server sets a 24-hour timer to terminate the connection, which ensures a client cannot remain connected past the ticket’s maximum lifetime.","When a client connects to a server, the server compares the ticket’s expiration time to the server’s current clock, and refuses to authenticate the user if the ticket expiration time is in the past.","When a client connects to a server, the server sends a query to the KDC to check if the ticket is still valid with respect to the KDC’s clock, and refuses to authenticate the user if the KDC reports that the ticket is expired.",C
+"Person 1: Hey, I have a question about Message Confidentiality.
+Person 2: Okay, what's your question?
+Person 1: In Message Confidentiality, the transmitted message must make sense to only intended what?",Receiver,Sender,Modulor,Translator,A
+"Person 1: Hey, I have a question about remote Trojans.
+Person 2: Alright, what's your question?
+Person 1: I'm trying to figure out which of the following is an example of a remote Trojan.",Troya,DaCryptic,BankerA,Game-Troj,A
+"Person 1: Hey, I heard about this widespread coding mistake that app developers sometimes make.
+Person 2: Oh really? What's it called?
+Person 1: I can't remember the exact term, but it's something that could allow an attacker to gain access or make the system malfunction if exploited.
+Person 2: Yikes, that sounds serious. Do you know which mistake it is?",Memory leakage,Buffer-overrun,Less processing power,Inefficient programming,B
+"Person 1: Hey, I have a question about the paper ""Native Client: A Sandbox for Portable, Untrusted x86 Native Code"" by Yee et al.
+Person 2: Okay, what's your question?
+Person 1: In the paper, Ben Bitdiddle makes a note about NaCl using Intel x86 segmentation to restrict the sandboxed module's access to memory and code execution.
+Person 2: Right, I remember that part. What about it?
+Person 1: Well, Ben thinks that with these restrictions alone, executing the sandboxed module must be safe, and validation isn't necessary. However, the paper suggests that Ben is wrong. So, my question is, which types of x86 machine instructions does the validator always forbid in sandboxed code? And let's ignore trampoline and springboard code for now.",all instructions that modify segment state,all loads or stores to addresses that are not 0 mod 32,all indirect loads or stores (via an address in a register or variable),all indirect jumps (via an address in a register or variable),A
+"Person 1: Hey, I have a question about darknets.
+Person 2: Okay, what's your question?
+Person 1: ____________ is also a part of darknet that is employed for transferring files anonymously.
+Person 2: Hmm, I'm not entirely sure. Can you provide me with some options to choose from?",Freenet,ARPANET,Stuxnet,Internet,A
+"Person 1: Hey, I have a question about programming languages and security vulnerabilities.
+Person 2: Okay, what's your question?
+Person 1: Why are apps developed in languages like C and C++ prone to buffer overflow issues?",No string boundary checks in predefined functions,No storage check in the external memory,No processing power check,No database check,A
+"Person 1: Hey, I have a question about the Diffie-Hellman key exchange method.
+Person 2: Okay, what's your question?
+Person 1: Well, I know that the Diffie-Hellman method is used to securely exchange keys between two parties, but I heard that it can be vulnerable to a man-in-the-middle attack under certain circumstances.
+Person 2: That's correct. Do you know what those circumstances are?
+Person 1: I'm not entirely sure. Do you know when a man-in-the-middle attack can endanger the security of the Diffie-Hellman method?",Joined,Authenticated,Submitted,Shared,B
+"Person 1: Hey, I have a question about integer overflows.
+Person 2: Okay, what's your question?
+Person 1: An integer overflow occurs when...?","an integer expression's result ""wraps around""; instead of creating a very large number, a very small (or negative) number ends up getting created",an integer is used as if it was a pointer,an integer is used to access a buffer outside of the buffer's bounds,there is no more space to hold integers in the program,D
+"Person 1: Hey, I have a question about constructing a MAC from a Merkle-Damgard hash function.
+Person 2: Alright, what's the question?
+Person 1: So, let's say we have a Merkle-Damgard hash function H:X^{\leq L} \to TH:X^≤L  →T, and we construct a MAC from it as follows: S(k,m) = H(k \| m)S(k,m)=H(k∥m). Why is this MAC considered insecure?",Given H(k \| m)H(k∥m) anyone can compute H(w \| k \| m \| \text{PB})H(w∥k∥m∥PB) for any ww,Given H(k \| m)H(k∥m) anyone can compute H(k \| m \| w)H(k∥m∥w) for any ww,Given H(k \| m)H(k∥m) anyone can compute H(k \| m \| \text{PB} \| w)H(k∥m∥PB∥w) for any ww,Anyone can compute H( k \| m )H(k∥m) for any mm,C
+"Alice: Hey Bob, I'm a bit worried about our confidential messages from last month.
+Bob: What's on your mind, Alice?
+Alice: Well, with the 6.858 final exam today, I'm concerned that if an adversary compromises one of our computers, they might be able to decrypt our past messages.
+Bob: That's a valid concern. What security properties do you think could address this issue?",Authentication.,Deniability.,Forward secrecy,Backward secrecy.,C
+"Person 1: Hey, I have a question about the AH Protocol.
+Person 2: Okay, what's your question?
+Person 1: The AH Protocol provides source authentication and data integrity, right?
+Person 2: Yes, that's correct.
+Person 1: But it doesn't provide something else. Do you know what that is?",Integrity,Privacy,Nonrepudiation,Both A & C,B
+"Person 1: Hey, I have a question about security exploits.
+Person 2: Alright, what's your question?
+Person 1: So, I'm trying to figure out which of the following is not actually a security exploit. Can you help me out?",Eavesdropping,Cross-site scripting,Authentication,SQL Injection,C
+"Person 1: Hey, I have a question about wireless networks.
+Person 2: Alright, what's your question?
+Person 1: In 802.11 wireless operations, there's a central node that everything revolves around, right?
+Person 2: Yes, that's correct.
+Person 1: What is the name of that central node?",WPA,Access Point,WAP,Access Port,B
+"Person 1: Hey, I have a question about MD-5.
+Person 2: Okay, what's your question?
+Person 1: In MD-5, what is the length of the message digest?",160,128,64,54,B
+"Person 1: Hey, have you heard of Nmap?
+Person 2: Nmap? I think I've heard of it, but I'm not entirely sure what it is.
+Person 1: I've been seeing it mentioned a lot lately, especially in the context of network security. Do you know anything about it?
+Person 2: I'm curious too. What exactly is Nmap used for?","It is a scanner which works by injecting packets to a range of addresses, and inferring what hosts and services might be at those addresses, based on the responses",It is a network fuzz testing tool,It is a map of the Internet,"It is a suite of tools for scripting attacks: probe, construct, encode, inject, wait for response",A
+"Person 1: Hey, I have a question about web security.
+Person 2: Okay, what's your question?
+Person 1: How do you prevent SQL injection attacks in web applications?",Escape queries,Interrupt requests,Merge tables,All of the above,A
+"Person 1: Hey, I have a question about penetration testing.
+Person 2: Okay, what's your question?
+Person 1: I keep hearing the term ""be stealthy"" when it comes to pen testing. What does that actually mean?",Performing the tests from an undisclosed location,Using encryption during tests to make the source of attacks impossible to determine,Performing penetration testing without the target organization knowing,"Taking care to avoid activities during a penetration test that might attract attention, e.g., by operators or IDS services",D
+"Person 1: Hey, I have a question about transport layer vulnerabilities.
+Person 2: Alright, what's your question?
+Person 1: I'm trying to figure out which of the following is not a transport layer vulnerability.","Mishandling of undefined, poorly defined variables",The Vulnerability that allows “fingerprinting” & other enumeration of host information,Overloading of transport-layer mechanisms,Unauthorized network access,D
+"Person 1: Hey, I was reading Brumley and Boneh's paper on side-channel attacks. Do you know much about that topic?
+
+Person 2: Yeah, I'm familiar with it. What's your question?
+
+Person 1: Well, they discuss how blinding can prevent timing attacks. But I don't quite understand - why exactly does blinding stop the timing attack from working in their scenario?","Blinding prevents the server from using the CRT optimization, which is essential to the timing attack.","Blinding changes the p and q primes that are used, so an adversary cannot learn the server’s true p and q values.","Blinding randomizes the ciphertext being decrypted, thus obscuring the correlation between an adversary’s input and the timing differences.","Blinding adds a random amount of time to the decryption due to the multiplication and division by the blinding random value r, which obscures the timing differences used in the attack.",C
+"Person 1: Hey, I have a question about the openSSL implementation described in the paper ""Remote Timing Attacks are Practical"" by Brumley and Boneh.
+Person 2: Okay, what's your question?
+Person 1: The paper mentions that the openSSL implementation uses several performance optimizations, including Chinese Remainder, Montgomery Representation, Karatsuba Multiplication, and Repeated squaring and Sliding windows.
+Person 2: Right, those are common optimizations used in cryptographic implementations.
+Person 1: So, if we wanted to close the timing channel attack described in the paper, which of the listed optimizations would we need to turn off?","True, True","False, False","True, False","False, True",D
+"Person 1: Hey, can I ask you something about encryption?
+Person 2: Of course, what's on your mind?
+Person 1: I was wondering, what makes public key encryption more advantageous compared to symmetric key cryptography?",Speed,Space,Key exchange,Key length,C
+"Person 1: Hey, have you heard about that huge marketplace on the Dark Web that's specifically known for selling illegal drugs and other illicit goods?
+Person 2: Yeah, I think I know what you're talking about. It's a pretty infamous site, right?
+Person 1: Exactly. I can't remember the name of it though. It's on the tip of my tongue.
+Person 2: Hmm, I'm not sure either. But I do know it was a massive marketplace where you could find all sorts of illegal stuff for sale.",Silk Road,Cotton Road,Dark Road,Drug Road,A
+"Person 1: Hey, I have a question about the Deep Web.
+Person 2: Okay, what's your question?
+Person 1: There's a certain segment of the Deep Web that is purposely kept hidden and inaccessible using standard web browsers. What is it called?",Haunted web,World Wide Web,Dark web,Surface web,C
+"Person 1: Hey, I have a question about EXE and the STP solver.
+Person 2: What's your question?
+Person 1: Do you know what EXE does when the STP solver times out while trying to solve a constraint query for a specific path?",Assume that the query is satisfiable and continue executing the path.,Assume that the query is not satisfiable and stop executing the path,"Restart STP and retry the query, up to a limited number of retries.",Remove a subset of the constraints and retry the query.,B
+"Person 1: Hey, I have a question about digital signatures.
+Person 2: Okay, what's your question?
+Person 1: To verify a digital signature, what do we need?",Sender’s Private key,Sender’s Public key,Receiver’s Private key,Receiver’s Public key,B
+"Person 1: Hey, I have a question about using fuzzing on a program.
+Person 2: What's your question?
+Person 1: If I want to use fuzzing to try to find memory errors, which statement is true?","You should not use a grammar-based fuzzer, because its adherence to the grammar means it will not find memory errors",Compiling the program with address sanitizer (ASAN) will make errors harder to reproduce,Compiling the program with address sanitizer (ASAN) will make the source of a memory error easier to find,"Fuzzing doesn't find memory errors, it finds crashes and hangs",C
+"Hey, I just read this interesting paper titled ""SoK: SSL and HTTPS: Revisiting past challenges and evaluating certificate trust model enhancements"".
+Oh cool, what was it about?
+It discussed the challenges with SSL and HTTPS and evaluated some proposed enhancements to the certificate trust model.
+I see. Did it mention any false statements related to the topic?
+Actually, that's a good question. Based on the paper, which of the following statements would you say are false?",Valid DV certificates provide more confidence to a user that she is connecting to the intended party than valid EV certificates.,OCSP stapling allows a server to prove to a browser that its certificate hasn’t been revoked.,DANE makes it difficult for an adversary to launch a SSL stripping attack.,Server key-pinning makes it harder for an adversary to convince a CA to mint a certificate for a site and launch an MITM attack on that site.,A
+"Person 1: Hey, do you know about SNMP enumeration?
+Person 2: Yeah, I'm familiar with it. What's your question?
+Person 1: I was just wondering, what tool can be used to perform SNMP enumeration?",DNSlookup,Whois,Nslookup,IP Network Browser,D
+"Person 1: Hey, I have a question about wireless security. Can you help me out?
+Person 2: Of course! What's your question?
+Person 1: I'm wondering, among the different wireless security protocols, which one is considered to have the strongest security?",WEP,WPA,WPA2,WPA3,D
+"Hey, I have a question about Unix and file descriptors.
+Sure, what's your question?
+Well, suppose Unix didn't allow passing file descriptors between processes, but still let processes inherit file descriptors from a parent on fork and exec.
+Okay, and?
+What aspects of the OKWS design would break in that case, without the ability to pass file descriptors?","True, True","False, False","True, False","False, True",C
+"Person 1: Hey, I have a question about brute-force attacks.
+Person 2: Okay, what's your question?
+Person 1: You know how failed sessions can allow brute-force attacks on access credentials?
+Person 2: Yes, I'm familiar with that concept.
+Person 1: So in which layer of the OSI model are these types of attacks carried out?",Physical layer,Data-link Layer,Session layer,Presentation layer,C
+"Person 1: Hey, can I ask you a question about authentication methods?
+Person 2: Of course! What would you like to know?
+Person 1: I'm trying to figure out which of the following is actually an authentication method. Can you help me out?",Secret question,Biometric,SMS code,All of the above,D
+"Person 1: Hey, I have a question about buffer overflows.
+Person 2: Okay, what would you like to know about them?
+Person 1: Well, I was wondering - when does a buffer overflow generally occur?",when writing to a pointer that has been freed,when copying a buffer from the stack to the heap,when a pointer is used to access memory not allocated to it,"when the program notices a buffer has filled up, and so starts to reject requests",C
+"Person 1: Hey, I have a question about digital signatures.
+Person 2: Okay, what do you need to know?
+Person 1: Well, a digital signature needs a... what?",Private-key system,Shared-key system,Public-key system,All of them,C
+"Person 1: Hey, I have a question about packet filter firewalls.
+Person 2: Okay, what's your question?
+Person 1: A packet filter firewall filters at what level?",Application or transport,Data link layer,Physical Layer,Network or transport layer,D
+"Person 1: Hey, I have a question about Message Authentication Codes.
+Person 2: Alright, what's your question?
+Person 1: Let's say I have a MAC I = (S,V) where the output of S(k,m) is always 5 bits long. 
+Person 2: Okay, and?
+Person 1: Can this MAC be secure?","No, an attacker can simply guess the tag for messages",It depends on the details of the MAC,"Yes, the attacker cannot generate a valid tag for any message","Yes, the PRG is pseudorandom",A
+"Person 1: Hey, I have a question about network security.
+Person 2: Okay, what's your question?
+Person 1: I was wondering, which of the following deals with network intrusion detection and real-time traffic analysis?",John the Ripper,L0phtCrack,Snort,Nessus,C
+"Person 1: Hey, I have a question about message confidentiality and privacy.
+Person 2: Okay, what's your question?
+Person 1: You know how the sender and receiver expect something when it comes to message confidentiality and privacy?
+Person 2: Yes, I'm familiar with that concept. What are you wondering about it?
+Person 1: Well, what exactly is it that the sender and receiver expect?",Integrity,Condentiality,Authentication,Nonrepudiation,B
+"Person 1: Hey, I have a question about wireless authentication.
+Person 2: Alright, what's your question?
+Person 1: You know when a wireless user authenticates to an AP?
+Person 2: Yes, I'm familiar with that process.
+Person 1: Well, both of them go through a four-step authentication progression. What is that progression called?",AP-handshaking,4-way handshake,4-way connection,wireless handshaking,B
+"Person 1: Hey, I have a question about message authentication.
+Person 2: Okay, what's your question?
+Person 1: Well, message authentication is a service beyond what exactly?",Message Condentiality,Message Integrity,Message Splashing,Message Sending,B
+"Person 1: Hey, I have a question about web security.
+Person 2: Okay, what's your question?
+Person 1: I was wondering, which types of web vulnerabilities are most susceptible to injection attacks?",Session IDs,Registry keys,Network communications,SQL queries based on user input,D
+"Person 1: Hey, I have a question about TLS connections.
+Person 2: Okay, what's your question?
+Person 1: Assume a TLS connection has been established successfully between a client and server. The session included checking the server certificate and a Diffie-Hellman exchange, but no client certificate was provided. The client and server are honest, don't leak keys, and the cryptography is good. 
+Person 2: Alright, what's your specific question about this TLS connection scenario?
+Person 1: Which types of attacks would TLS protect against in this case?","True, True","False, False","True, False","False, True",A
+"Person 1: Hey, I have a question about wireless traffic sniffing tools.
+Person 2: Alright, what's your question?
+Person 1: I'm trying to figure out which of these is a wireless traffic sniffing tool. Can you help me out?",Maltego,BurpSuit,Nessus,Wireshark,D
+"Person 1: Hey, I have a question about computer security.
+Person 2: Okay, what's your question?
+Person 1: There's a method where a computer security mechanism can be bypassed untraceably to access the computer or its information. What's it called again?",front-door,backdoor,clickjacking,key-logging,B
+"Person 1: Hey, I have a question about block cipher operating modes.
+Person 2: Alright, what's your question?
+Person 1: I'm trying to figure out which of the following is not actually a block cipher operating mode.
+Person 2: Okay, go ahead and list the options you're considering.",ECB,CFB,CBF,CBC,C
+"Person 1: Hey, I've been hearing a lot about web proxies lately. Do you know what they are?
+Person 2: Yeah, I'm familiar with web proxies. What would you like to know about them?
+Person 1: Well, I'm not entirely sure what a web proxy actually is or does. Can you explain it to me?",A piece of software that intercepts and possibly modifies requests (and responses) between a web browser and web server,An agent that makes decisions on the client's behalf when interacting with web applications,"A piece of software that makes a web application look like a standalone application, making it easier to test","A simulator for the web, for use when off-line",A
+"Hey, I have a question about buffer-overflow vulnerabilities in apps.
+Sure, what's your question?
+Under what circumstances can buffer-overflow remain as a bug in applications?
+Well, buffer-overflow may remain as a bug in apps if certain things are not done fully during the development process.
+Oh I see. That makes sense. Thanks for explaining!",boundary hacks,memory checks,boundary checks,buffer checks,C
+"Person 1: Hey, I have a question about programming languages and buffer-overflow errors.
+Person 2: Okay, what's your question?
+Person 1: You know how applications developed by certain programming languages often have this common buffer-overflow error?
+Person 2: Yes, I'm aware of that issue. Which programming languages are you referring to specifically?","C, Ruby","Python, Ruby","C, C++","Tcl, C#",C
+"Person 1: Hey, I have a question about encryption and decryption.
+Person 2: Okay, what's your question?
+Person 1: Well, I know that encryption and decryption provide secrecy and confidentiality, but they don't provide something else. Do you know what that is?",Authentication,Integrity,Privacy,All of the above,B
+"Person 1: Hey, I have a question about computer security.
+Person 2: Okay, what's your question?
+Person 1: You know how there are programs that can steal your logins and passwords, especially for instant messaging applications?
+Person 2: Yes, I'm familiar with those kinds of threats. What about them?
+Person 1: What's the specific term for that type of malicious program?",IM – Trojans,Backdoor Trojans,Trojan-Downloader,Ransom Trojan,A
+"Person 1: Hey, I have a question about the Data Encryption Standard (DES) algorithm.
+Person 2: Okay, what's your question?
+Person 1: In each round of DES, there's a specific sub key length, right?
+Person 2: Yes, that's correct.
+Person 1: So, what is the sub key length at each round of DES?",32,56,48,64,B
+"Person 1: Hey, I have a question about mutation-based fuzzing.
+Person 2: Okay, what's your question?
+Person 1: I'm trying to understand what is true about mutation-based fuzzing. Can you help me out?",It generates each different input by modifying a prior input,It works by making small mutations to the target program to induce faults,Each input is mutation that follows a given grammar,"It only makes sense for file-based fuzzing, not network-based fuzzing",A
+"Person 1: Hey, I have a question about scanning.
+Person 2: Okay, what would you like to know?
+Person 1: I was wondering, what are the different types of scanning?","Port, network, and services","Network, vulnerability, and port ","Passive, active, and interactive","Server, client, and network",B
+"Person 1: Hey, I have a question about message sending and security.
+Person 2: Alright, what's your question?
+Person 1: You know how a sender must not be able to deny sending a message that was sent?
+Person 2: Yes, I'm familiar with that concept.
+Person 1: What is that property known as?",Message Nonrepudiation,Message Integrity,Message Condentiality,Message Sending,A
+"Person 1: Hey, I have a question about proxy firewalls.
+Person 2: Okay, what's your question?
+Person 1: A proxy firewall filters at the...
+Person 2: At the what? Application layer, transport layer, network layer, or data link layer?
+Person 1: That's what I'm trying to remember. Which of those layers does a proxy firewall filter at?",Physical layer,Application layer,Data link layer,Network layer,B
+"Person 1: Hey, I have a question about Internet Security Protocols.
+Person 2: Okay, what's your question?
+Person 1: Do you know which Internet Security Protocol Encapsulating Security Payload (ESP) belongs to?",Secure Socket Layer Protocol,Secure IP Protocol,Secure Http Protocol,Transport Layer Security Protocol,B
+"Hey, I have a question about accessing the Tor network.
+What do you need to know?
+Well, there's a special tool needed for entering the network, right? It helps anonymous internet users access Tor's network and services.
+Yes, that's correct. Do you remember what that special tool is called?",Opera browser,Firefox,Chrome,Tor browser,D
+"Person 1: Hey, I have a question about buffer overflows.
+Person 2: Okay, what's your question?
+Person 1: How does a buffer overflow that happens on the stack actually help an attacker run their own injected code?",By overwriting the return address to point to the location of that code,By writing directly to the instruction pointer register the address of the code,By writing directly to %eax the address of the code,"By changing the name of the running executable, stored on the stack",A
+"Person 1: Hey, I have a question about hash functions.
+Person 2: Alright, what's your question?
+Person 1: You know the digest that's created by a hash function?
+Person 2: Yes, what about it?
+Person 1: What is the digest normally called?",Modication detection code (MDC),Modify authentication connection,Message authentication control,Message authentication cipher,A
+"Person 1: Hey, I have a question about pseudorandom functions and semantic security.
+Person 2: Alright, what's your question?
+Person 1: If we have a secure PRF F: K × R → M and define an encryption scheme E(k,m) = [r ← R, output (r, F(k,r) ⊕ m)], would E be semantically secure under chosen-plaintext attacks?","Yes, whenever F is a secure PRF","No, there is always a CPA attack on this system","Yes, but only if R is large enough so r never repeats (w.h.p)",It depends on what F is used,C
+"Person 1: Hey, do you know about the vulnerability common in old operating systems?
+Person 2: I'm not sure, which vulnerability are you referring to?
+Person 1: It's the buffer-overflow attack. Do you know which old operating systems were particularly susceptible to it?
+Person 2: Hmm, I know it affected several older systems. Was it UNIX and NT-based systems that were most vulnerable to buffer-overflow attacks?",Windows 7,Chrome,IOS12,UNIX,D
+"Person 1: Hey, I came across the term ""replay attack"" recently. Do you know what that is?
+Person 2: I think I've heard of it before in the context of computer security, but I'm not entirely sure what it means. Can you explain it to me?
+Person 1: I'm actually not sure about the details myself. I was hoping you could shed some light on it.",When the attacker replies to a message sent to it by the system,"An attack that continuously repeats, probing for a weakness",An attack that uses the system's own messages and so cannot be defended against,"The attacker resends a captured message, and the site accept its and responds in the attacker's favor",D
+"Person 1: Hey, I have a question about U2F USB dongles.
+Person 2: Okay, what's your question?
+Person 1: Statement 1 says that a U2F USB dongle prevents malware on the user's computer from stealing the user's second factor to authenticate as that user even when the user's computer is turned off. Is that true?
+Person 2: Interesting. And what about Statement 2?
+Person 1: Statement 2 says that a server using U2F can reliably determine that the user who is attempting to login is indeed behind the computer that sent the login request. Do you think that's accurate?","True, True","False, False","True, False","False, True",C
+"Person 1: Hey, I have a question about computer security.
+Person 2: Okay, what's your question?
+Person 1: There's a term for the anticipation of unauthorized access or break-ins to computers or data by means of wireless networks. Do you know what it is?",Wireless access,Wireless security,Wired Security,Wired device apps,B
+"Person 1: Hey, I have a question about penetration testing.
+Person 2: Okay, what would you like to know?
+Person 1: I was wondering, what are some of the benefits of doing penetration testing?",Results are often reproducible,Full evidence of security: a clean test means a secure system,Compositionality of security properties means tested components are secure even if others change,Makes an adversarial neural network converge more quickly,A
+"Person 1: Hey, I have a question about cybersecurity.
+Person 2: Sure, what's on your mind?
+Person 1: You know how certain frameworks have made cracking vulnerabilities really easy, almost like point and click?
+Person 2: Yeah, I'm familiar with that. What about it?
+Person 1: Well, I'm trying to remember the name of one specific framework that's known for that. It's on the tip of my tongue but I just can't recall it at the moment.",.Net,Metasploit,Zeus,Ettercap,B
+"Person 1: Hey, I have a question about One-Time Pad encryption.
+Person 2: Okay, what's your question?
+Person 1: If you're given a message (m) and its OTP encryption (c), is it possible to compute the OTP key from m and c?","No, I cannot compute the key.","Yes, the key is k = m xor c.",I can only compute half the bits of the key.,"Yes, the key is k = m xor m.",B
+"Person 1: Hey, I have a question about the openSSL implementation described in the ""Remote Timing Attacks are Practical"" paper by Brumley and Boneh.
+Person 2: Alright, what's your question?
+Person 1: The paper mentions that the openSSL implementation uses several performance optimizations, like Chinese Remainder, Montgomery Representation, Karatsuba Multiplication, and Repeated squaring and Sliding windows.
+Person 2: Right, those are some common optimization techniques used in cryptographic implementations.
+Person 1: So, if we wanted to close the timing channel attack described in the paper, which of the listed optimizations would we need to turn off?","True, True","False, False","True, False","False, True",A
+"Person 1: Hey, I have a question about data transmission.
+Person 2: Alright, what's your question?
+Person 1: You know how sometimes data must arrive at the receiver exactly as it was sent?
+Person 2: Yes, I'm familiar with that concept.
+Person 1: What's the term for that type of transmission called?",Message Condentiality,Message Integrity,Message Splashing,Message Sending,B
+"Person 1: Hey, I have a question about cybersecurity. Do you know the difference between a direct leak and a side channel?
+Person 2: Hmm, that's an interesting question. I'm not entirely sure about the distinction. What's your understanding of the two concepts?
+Person 1: Well, I know they're both ways that sensitive information can be unintentionally exposed, but I'm not clear on what sets them apart. I was hoping you might have some insights.
+Person 2: I see. While I have a general idea, I think it's best if we consult a reliable source or an expert to get a clear and accurate explanation of the difference between a direct leak and a side channel.","A direct leak creates a denial of service by failing to free memory, while a channel frees memory as a side effect","A direct leak is one that is intentional, rather than by unintentional","A direct leak comes via the software system's intended interaction mechanism, where as a side channel leak comes from measurements of other system features, like timing, power usage, or space usage",There is no difference,C
+"Person 1: Hey, I have a question about cryptography.
+Person 2: Alright, what's your question?
+Person 1: You know how a session symmetric key is used between two parties?
+Person 2: Yes, I'm familiar with that concept. What about it?",Only once,Twice,Multiple times,Conditions dependant,A
+"Person 1: Hey, I came across a strange term while reading about computer security. Do you know what a ""nop sled"" is?
+Person 2: Hmm, I'm not entirely sure. It sounds like it might be related to exploits or something like that.
+Person 1: Yeah, that's what I was thinking too. I guess I'll have to do some more research to find out exactly what it means.",It is an anonymous version of a mop sled,"It is a sequence of nops preceding injected shellcode, useful when the return address is unknown",It is a method of removing zero bytes from shellcode,It is another name for a branch instruction at the end of sequence of nops,B
+"Person 1: Hey, I have a question about Nmap scans.
+Person 2: Okay, what's your question?
+Person 1: You know how some Nmap scans completely open a TCP connection, right?
+Person 2: Yes, I'm aware of that.
+Person 1: So, which Nmap scan does not completely open a TCP connection?",SYN stealth scan,TCP connect,XMAS tree scan,ACK scan,A
+"Person 1: Hey, I just read this interesting paper called ""Click Trajectories: End-to-End Analysis of the Spam Value Chain"". Can I ask you a question about it?
+Person 2: Of course! I'm familiar with that paper. What's your question?
+Person 1: The paper makes several statements about the ""spam value chain"" and the ""spammers"" who operate it. I'm trying to figure out which of those statements are actually true based on the findings of the paper. Can you help me with that?",Spammers run their spam-advertised web sites on compromised user machines that are part of a botnet.,Spammers need to register domain names in order for their spam-based advertisements to be effective.,There is a high cost for spammers to switch acquiring banks.,B and C,D
+"Person 1: Hey, I have a question about cyber attacks.
+Person 2: Alright, what's your question?
+Person 1: So in this specific type of attack, the attacker injects extra data into memory that contains malicious instructions to compromise the system. Do you know what that attack is called?
+Person 2: Hmm, I'm not totally sure. Can you tell me a bit more about how the attack works?",Phishing,MiTM,Buffer-overflow,Clickjacking,C
+"Person 1: Hey, I have a question about network analysis tools.
+Person 2: Okay, what's your question?
+Person 1: I'm trying to remember the name of a popular tool used for network analysis in multiprotocol diverse networks. Do you know which one I'm thinking of?",Snort,SuperScan,Burp Suit,EtterPeak,D
+"Person 1: Hey, I have a question about mobile networks.
+Person 2: Okay, what's your question?
+Person 1: You know how mobile operators use something to offer signal coverage?
+Person 2: Yes, what about it?
+Person 1: Well, that something is alike to what in 802.11 networks?",Base Signal Station,Base Transmitter Station,Base Transceiver Station,Transceiver Station,C
+"Person 1: Hey, I have a question about memory allocation in programming.
+Person 2: Okay, what's your question?
+Person 1: You know how memory is allocated to store data like strings or arrays, right?
+Person 2: Yes, I'm familiar with that concept.
+Person 1: So, what's the term for a sequential segment of the memory location that's allocated for containing data?",stack,queue,external storage,buffer,D
+"Person 1: Hey, I have a question about wireless security.
+Person 2: Okay, what's your question?
+Person 1: You know the WPA protocol for securing Wi-Fi networks?
+Person 2: Yes, I'm familiar with WPA. What about it?
+Person 1: Which specific form of encryption does WPA use?",Shared key,LEAP,TKIP,AES,C
+"Hey, I have a question about search boxes in applications.
+What about them?
+You know how they usually have a word limit, like 200 words maximum?
+Yeah, I'm familiar with that.
+So let's say you enter more than 200 words and hit search. The system crashes. Why do you think that happens?",buffer,external storage,processing power,local storage,A
+"Person 1: Hey, I have a question about something I've noticed on wireless access points recently.
+Person 2: What have you noticed?
+Person 1: Well, I've seen this new feature showing up that seems to be a way to add or connect new devices, but I can't remember what it's called.
+Person 2: Oh, interesting. Do you remember anything else about it?
+Person 1: Just that it only started appearing a few years ago. Do you know what I'm talking about?",WPA2,WPA,WPS,WEP,C
+"Person 1: Hey, I have a question about Nmap.
+Person 2: Okay, what do you want to know?
+Person 1: What are the different port states that Nmap can determine?","Active, inactive, standby","Open, half-open, closed ","Open, filtered, unfiltered","Active, closed, unused",C
+"Person 1: Hey, I have a question about security encryption standards.
+Person 2: Okay, what's your question?
+Person 1: Out of the common encryption standards, which one would you say is the least strong or secure?",WEP,WPA,WPA2,WPA3,A
+"Person 1: Hey, I have a question about compilers and local variables.
+Person 2: Okay, what's your question?
+Person 1: Why doesn't the compiler know the absolute address of a local variable?",Programs are not allowed to reference memory using absolute addresses,The size of the address depends on the architecture the program will run on,"As a stack-allocated variable, it could have different addresses depending on when its containing function is called",Compiler writers are not very good at that sort of thing,C
+"Person 1: Hey, I have a question about the stack in computer science.
+Person 2: Okay, what's your question?
+Person 1: The stack is memory for storing what exactly?",Local variables,Program code,Dynamically linked libraries,Global variables,A
+"Person 1: Hey, I have a question about stream ciphers.
+Person 2: Okay, what's your question?
+Person 1: Is it possible for a stream cipher to have perfect secrecy?","Yes, if the PRG is really “secure”","No, there are no ciphers with perfect secrecy","Yes, every cipher has perfect secrecy","No, since the key is shorter than the message",D
+"Person 1: Hey, I have a question about authorization.
+Person 2: Okay, what would you like to know?
+Person 1: Well, what is the main goal or purpose of authorization? What does it aim to accomplish?",Restrict what operations/data the user can access,Determine if the user is an attacker,Flag the user if he/she misbehaves,Determine who the user is,A
+"Person 1: Hey, I have a question about message encryption.
+Person 2: Okay, what's your question?
+Person 1: So the message must be encrypted at the sender site and decrypted at the... where?",Sender Site,Site,Receiver site,Conferencing,C
+"Person 1: Hey, I have a question about malicious software.
+Person 2: Okay, what's your question?
+Person 1: You know how malware can hide in different places, right?
+Person 2: Yes, malware can be pretty sneaky. What specifically are you wondering?
+Person 1: Well, a _________________ may be a hidden part of a program, a separate infected program, a Trojan in disguise of an executable, or code in the firmware of any system's hardware.",crypter,virus,backdoor,key-logger,C
+"Person 1: Hey, I have a question about IP address spoofing.
+Person 2: Okay, what would you like to know?
+Person 1: I'm curious, how is IP address spoofing actually detected?",Installing and configuring a IDS that can read the IP header,Comparing the TTL values of the actual and spoofed addresses,Implementing a firewall to the network,Identify all TCP sessions that are initiated but does not complete successfully,B
+"Person 1: Hey, I have a question about the presentation layer.
+Person 2: Okay, what's your question?
+Person 1: Well, I know there are various issues that can occur at the presentation layer, but I'm a bit confused.
+Person 2: Alright, let me see if I can help. What's confusing you?
+Person 1: I'm trying to figure out which of the following is not an example of a presentation layer issue.",Poor handling of unexpected input can lead to the execution of arbitrary instructions,Unintentional or ill-directed use of superficially supplied input,Cryptographic flaws in the system may get exploited to evade privacy,Weak or non-existent authentication mechanisms,D
+"Hey, I have a question about Unix and file descriptors.
+Sure, what's your question?
+Well, suppose Unix didn't allow passing file descriptors between processes, but still let processes inherit file descriptors from a parent on fork and exec. How would that affect the OKWS design?","True, True","False, False","True, False","False, True",B
+"Person 1: Hey, can I ask you a quick question about ping sweeps?
+Person 2: Of course, what would you like to know?
+Person 1: I was just wondering, why would someone use a ping sweep?",To identify live systems,To locate live systems,To identify open ports,To locate firewalls,A
+"Person 1: Hey, I've been studying computer security and I have a question for you.
+Person 2: Alright, what's your question?
+Person 1: I'm trying to remember the four primary security principles related to messages. Do you know what they are?","Confidentiality, Integrity, Non repudiation and Authentication","Confidentiality, Access Control, Integrity, Non repudiation","Authentication, Authorization, Availability, Integrity","Availability, Authorization, Confidentiality, Integrity",A
+"Person 1: Hey, do you know what the first buffer overflow attack was?
+Person 2: Hmm, that's an interesting question. I'm not entirely sure.
+Person 1: I've been trying to find information on it but haven't had much luck.
+Person 2: Buffer overflow attacks have been around for a long time. It would be fascinating to know which one was the very first.",Love Bug,SQL Slammer,Morris Worm,Code Red,C
+"Person 1: Hey, I have a question for you about mobile phone security.
+Person 2: Okay, what's your question?
+Person 1: Do you know how the ______________ can cost you money?
+Person 2: I'm not sure, how?
+Person 1: By sending text messages from your mobile phone numbers.",IM – Trojans,Backdoor Trojans,SMS Trojan,Ransom Trojan,C
+"Person 1: Hey, I have a question about classic security properties.
+Person 2: Okay, what's your question?
+Person 1: Three of the following are classic security properties, but one of them is not. Do you know which one?",Confidentiality,Availability,Correctness,Integrity,B

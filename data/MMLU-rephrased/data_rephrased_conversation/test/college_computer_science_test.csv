@@ -1,0 +1,495 @@
+"Person 1: Hey, I have a question about the access matrix approach to protection.
+Person 2: Okay, what's your question?
+Person 1: Well, the access matrix approach has a certain difficulty associated with it, right?
+Person 2: Yes, that's correct. What specifically are you wondering about that difficulty?
+Person 1: I'm trying to remember - what exactly is the main difficulty that the access matrix approach to protection has?","the matrix, if stored directly, is large and can be clumsy to manage",it is not capable of expressing complex protection requirements,deciding whether a process has access to a resource is undecidable,there is no way to express who has rights to change the access matrix itself,A
+"Person 1: Hey, I have a question about common divisors.
+Person 2: Okay, what's your question?
+Person 1: So an integer c is a common divisor of two integers x and y if and only if c is a divisor of both x and y, right?
+Person 2: That's correct.
+Person 1: Then which of the following sets of integers could possibly be the set of all common divisors of two integers?","{-6,-2, -1, 1, 2, 6}","{-6, -2, -1, 0, 1, 2, 6}","{-6, -3, -2, -1, 1, 2, 3, 6}","{-6, -3, -2, -1, 0, 1, 2, 3, 6}",C
+"Person 1: I have a question about file-read operations in the NoNicks operating system.
+Person 2: Okay, what's your question?
+Person 1: Well, the time required by a single file-read operation has four nonoverlapping components. In version 1 of the system, the file read retrieved blocks of 1,000 bytes, but in version 2, the file read was modified to retrieve blocks of 4,000 bytes.
+Person 2: I see. So, what are you trying to find out?
+Person 1: I'm trying to determine the ratio of the time required to read a large file under version 2 to the time required to read the same large file under version 1.",1:4,1:3.5,1:1,1.1:1,B
+"Person 1: Hey, I have a question about k-Means Clustering.
+Person 2: Okay, what's your question?
+Person 1: So, let's say you want to cluster 7 points into 3 clusters using the k-Means Clustering algorithm. After the first iteration, clusters C1, C2, and C3 contain some specific two-dimensional points.
+Person 2: Alright, and what are those points in each cluster?
+Person 1: C1 contains the 2 points: {(0,6), (6,0)}, C2 contains the 3 points: {(2,2), (4,4), (6,6)}, and C3 contains the 2 points: {(5,5), (7,7)}. My question is, what are the cluster centers computed for these 3 clusters?","C1: (3,3), C2: (4,4), C3: (6,6)","C1: (3,3), C2: (6,6), C3: (12,12)","C1: (6,6), C2: (12,12), C3: (12,12)","C1: (0,0), C2: (48,48), C3: (35,35)",A
+"Person 1: Hey, I have a question about Boolean operators.
+Person 2: Okay, what's your question?
+Person 1: So any set of Boolean operators that can represent all Boolean expressions is considered complete, right?
+Person 2: That's correct.
+Person 1: Which of the following sets of operators is NOT complete then?","{AND, NOT}","{NOT, OR}","{AND, OR}",{NAND},C
+"Person 1: Hey, I have a question about undirected graphs.
+Person 2: Okay, what's your question?
+Person 1: Consider a collection of all undirected graphs with 10 nodes and 6 edges. Let M and m be the maximum and minimum number of connected components in any graph in the collection, respectively.
+Person 2: Alright, and what else do we know about these graphs?
+Person 1: The graphs have no self-loops, and there is at most one edge between any pair of nodes. Given this information, which of the following statements is true?","M = 10, m = 10","M = 10, m = 1","M = 7, m = 4","M = 6, m = 4",C
+"Person 1: Hey, I have a question about resolution theorem proving.
+Person 2: Okay, what's your question?
+Person 1: Well, resolution theorem proving is used to show that a formula of propositional logic is not satisfiable, right?
+Person 2: Yes, that's correct.
+Person 1: So, which of the following properties does resolution theorem proving have?",I only,III only,I and II only,I and III only,C
+"Person 1: Hey, I have a question about memory systems.
+Person 2: Okay, what's your question?
+Person 1: I'm trying to understand the properties of a purely segmented memory system.
+Person 2: Alright, let's see if I can help. What specific aspects are you unsure about?
+Person 1: Well, I'm wondering which of these statements correctly describe properties of a purely segmented memory system: One, it divides memory into units of equal size. Two, it permits implementation of virtual memory. And three, it suffers from internal fragmentation.",I only,II only,III only,I and III,B
+"Person 1: Hey, can I ask you a question about floating-point arithmetic?
+Person 2: Of course, what's your question?
+Person 1: Well, I've been learning about it and wanted to check my understanding. Which of the following statements about floating-point arithmetic is NOT true?",It is inherently nonassociative because some numbers have no exact representation.,It is inherently nonassociative because there have to be upper and lower bounds on the size of numbers.,Associativity can be achieved with appropriate roundoff conventions.,Some rational numbers have no exact representation.,C
+"Person 1: Hey, I have a question about sharing tiles in a multilevel directory structure.
+Person 2: Okay, what's your question?
+Person 1: Well, let's say the sharing is achieved using directory entries that are links pointing to a node with information about the shared file.
+Person 2: Right, and that node contains things like the file owner, a count of the links to the file, and the disk block numbers of the file?
+Person 1: Exactly. So what would you say is the main drawback of using this approach for file sharing?","If the owner modifies the file, another user who does not share will see the changes.","If the owner renames the file, other users will not be able to access it.","If the owner is allowed to delete a file, dangling links may result.","If any user who shares the file appends to it, others who share it will not be able to access the new disk blocks.",C
+"Person 1: Hey, I have a question about mergesort.
+Person 2: What's your question?
+Person 1: Mergesort splits a list of n numbers in half, sorts each half recursively, and merges the two halves, right?
+Person 2: That's correct.
+Person 1: So which data structures will allow mergesort to work in O(n log n) time? A singly linked list, a doubly linked list, or an array?",None,III only,I and II only,"I, II, and III",D
+"Person 1: Hey, I have a question about interpolating polynomials.
+Person 2: Alright, what's your question?
+Person 1: If p(x) is the minimal-degree interpolating polynomial for a real-valued function f(x) at n + 1 distinct real numbers x0 through xn, what would be the maximum possible degree of p(x)?",n,n + 1,n + 2,2n,A
+"Person 1: Hey, I have a question about internal hash tables.
+Person 2: Okay, what's your question?
+Person 1: So there's an internal hash table with 5 buckets, numbered 0 through 4. The keys are integers and it uses the hash function h(i) = i mod 5, with linear resolution of collisions. That means if bucket h(i) is filled, it tries h(i) + 1, h(i) + 2, and so on, with bucket numbers computed modulo 5.
+Person 2: I see. And then what happens?
+Person 1: If elements with keys 13, 8, 24, 10, and 3 are inserted in that order into an initially blank hash table, what would be the content of the bucket numbered 2?",3,8,10,13,A
+"Person 1: Hey, I have a question about the TCP protocol.
+Person 2: Okay, what would you like to know about it?
+Person 1: Well, I know that TCP is responsible for various things in network communication. But I'm not sure about the specifics.
+Person 2: I see. So, you're wondering what TCP protocol is primarily responsible for, among other things?
+Person 1: Exactly! Can you help me out with that?",Routing packets through the network,Reliable delivery of packets between directly connected machines,Reliable delivery of large (multi-packet) messages between machines that are not necessarily directly connected,Dealing with differences among operating system architectures,C
+"Person 1: Hey, I have a question about sets of words from an alphabet.
+Person 2: Okay, what's your question?
+Person 1: If we have two sets of words, A and B, and B is a subset of A, which statements must always be true about them?
+Person 2: Hmm, that's an interesting question. Can you tell me the specific statements you're considering?
+Person 1: Sure, the statements are:
+I. If A is finite, then B is finite.
+II. If A is regular, then B is regular.
+III. If A is context-free, then B is context-free.",I only,II only,III only,I and II only,A
+"Hey, I have a question about the recursive definition of the function x^M for strings.
+What about it?
+Well, e^M is defined as just e, and for a string w and a single character a, (aw)^M is defined as aw^Ma. So if a is a single character and x and y are arbitrary strings, which statement is true?",a^M = a,(ax)^M = (xa)^M,(xy)^M = y^Mx^M,None of the above,D
+"Person 1: Hey, can I ask you a question about busy-waiting on asynchronous events?
+Person 2: Of course, what's your question?
+Person 1: I'm trying to figure out which justification for choosing to busy-wait on an asynchronous event is not reasonable.
+Person 2: Hmm, that's an interesting question. Can you tell me some of the justifications you're considering?",The wait is expected to be short.,A busy-wait loop is easier to code than an interrupt handler.,There is no other work for the processor to do.,The program executes on a time-sharing system.,D
+"Person 1: Hey, I have a question about formal languages.
+Person 2: Alright, what's your question?
+Person 1: You know how we can define languages using set notation and regular expressions, right?
+Person 2: Yes, I'm familiar with that.
+Person 1: So, the language {ww | w in (0 + 1)*} is...?",not accepted by any Turing machine,"accepted by some Turing machine, but by no pushdown automaton","accepted by some pushdown automaton, but not context-free","context-free, but not regular",B
+"Person 1: Hey, can I ask you something about Ethernets?
+Person 2: Of course! What's your question?
+Person 1: I'm trying to figure out which of the following statements about Ethernets is typically false.
+Person 2: Hmm, that's an interesting question. Can you tell me the statements you're considering?",Ethernets use circuit switching to send messages.,Ethernets use buses with multiple masters.,Ethernet protocols use a collision-detection method to ensure that messages are transmitted properly.,Networks connected by Ethernets are limited in length to a few hundred meters.,A
+"Person 1: Hey, I have a question about recursive procedures.
+Person 2: Okay, what's your question?
+Person 1: If a procedure P is guaranteed to terminate, which statements must be true? I know it's related to local variables, execution paths, global variables, and parameters, but I'm not sure about the specifics.",I only,II only,I and II only,II and III only,D
+"Person 1: Hey, I have a question about encryption schemes.
+Person 2: Okay, what's your question?
+Person 1: I'm wondering, which of the following comes closest to being a perfectly secure encryption scheme?","The Caesar Cipher, a substitution cipher","DES (Data Encryption Standard), a symmetric-key algorithm","Enigma, a transposition cipher",One-time pad,D
+"Person 1: Hey, I have a question about undirected graphs.
+Person 2: Okay, what's your question?
+Person 1: You know how there are various problems concerning a given undirected graph G, right?
+Person 2: Yes, I'm familiar with that.
+Person 1: Well, of the following problems concerning a given undirected graph G, which is currently known to be solvable in polynomial time?",Finding a longest simple cycle in G,Finding a shortest cycle in G,Finding ALL spanning trees of G,Finding a largest clique in G,B
+"Person 1: Hey, can I ask you something about computer networking?
+Person 2: Of course! What's your question?
+Person 1: I was wondering, what is the main focus of the IP protocol?",Routing packets through the network,Reliable delivery of packets between directly connected machines,Reliable delivery of large (multi-packet) messages between machines that are not necessarily directly connected,Dealing with differences among operating system architectures,A
+"Person 1: Hey, I have a question about complete K-ary trees.
+Person 2: Alright, what's your question?
+Person 1: So, for a complete K-ary tree of depth N, what would best approximate the ratio of the number of nonterminal nodes to the total number of nodes?",1/K,K-1/K,log_10 (1/N),N-1/m,A
+"Person 1: Hey, I have a question about resource allocation in computer systems.
+Person 2: Okay, what's your question?
+Person 1: So, in a system where processes can request and release resources, and they have exclusive use until released...
+Person 2: Right, and if a process requests a resource that's in use, it enters a queue and waits. What about it?
+Person 1: Well, which of the following will NOT effectively deal with the problem of deadlock in this scenario?",Giving priorities to processes and ordering the wait queues by priority,"Having a process request all its required resources when it first begins, and restarting if it cannot obtain them all",Numbering the resources and requiring that processes request resources in order of increasing number,Having processes time out and restart after a random interval of waiting,A
+"Person 1: Hey, I have a question about ""Magic memory"". Are you familiar with it?
+Person 2: Yes, I know a bit about it. What's your question?
+Person 1: Well, it has two operations, Read and Clear, which are indivisible and mutually exclusive. Clear sets the magic memory to zero, while Read returns a value representing the number of Read operations since the last Clear. I'm wondering which statements about ""Magic memory"" are true.
+Person 2: Interesting question! What are the statements you're considering?
+Person 1: There are three statements:
+I. It can provide the functionality of an atomic Test-and-Set.
+II. It can be used to coordinate processes running on a shared-memory multiprocessor.
+III. It is only useful on a multiprocessor.
+Which of these do you think are true?",I only,II only,III only,I and II,D
+"Person 1: Hey, I have a question about compilers.
+Person 2: What's your question?
+Person 1: Do you know the name of the data structure in a compiler that manages information about variables and their attributes?
+Person 2: Hmm, let me think about that for a second.",Abstract Syntax Tree (AST),Attribute Grammar,Symbol Table,Semantic Stack,C
+"Person 1: Hey, I have a question about algorithm running times.
+Person 2: Alright, what's your question?
+Person 1: There's an algorithm that has a running time of Θ(n^2) in the worst case, but Θ(n log n) on average. Do you know which algorithm I'm talking about?",Bubblesort,Mergesort,Heapsort,Quicksort,D
+"Person 1: Hey, I have a question about programming languages and abstract data types.
+Person 2: Okay, what's your question?
+Person 1: Well, some languages like C++ can prevent access to components of a structure except by operations that are part of the structure itself, right?
+Person 2: Yes, that's correct.
+Person 1: But the definitions of these structures often contain declarations of their components, like in a C++ header file for a class.
+Person 2: That's right. So what's your specific question?
+Person 1: In such a language, an object's name could be bound at run time to stack storage for its component values, which is called direct representation, or to a stack pointer referencing heap storage for its component values, which is called indirect representation. I'm wondering about comparisons between direct and indirect representations.
+Person 2: Okay, there are a few key points",I only,III only,I and II only,II and III only,D
+"Person 1: Hey, I have a question about bitmap graphics.
+Person 2: Okay, what's your question?
+Person 1: I'm trying to figure out which of the following is NOT a property of bitmap graphics.",Fast hardware exists to move blocks of pixels efficiently.,Realistic lighting and shading can be done.,All line segments can be displayed as straight.,Polygons can be filled with solid colors and textures.,C
+"Person 1: Hey, I have a question about interrupts.
+Person 2: Alright, what would you like to know?
+Person 1: I'm trying to figure out which of the following statements is true when it comes to interrupts.","They are generated when memory cycles are ""stolen"".",They are used in place of data channels.,They can indicate completion of an I/O operation.,They cannot be generated by arithmetic operations.,C
+"Person 1: Hey, I have a question about height-balanced binary search trees.
+Person 2: Okay, what's your question?
+Person 1: In a height-balanced binary search tree, the heights of the left and right descendents of any node differ by at most 1, right?
+Person 2: Yes, that's correct.
+Person 1: So, which of the following statements are true for such a tree?
+Person 2: Alright, let me hear the statements.
+Person 1: First, the worst-case search time is logarithmic in the number of nodes. Second, the average-case search time is logarithmic in the number of nodes. Third, the best-case search time is proportional to the height of the tree. And lastly, the height of the tree is logarithmic in the number of nodes.",I and III only,II and III only,II and IV only,"I, II, and IV",D
+"Person 1: Hey, I have a fun math question for you!
+Person 2: Alright, let's hear it.
+Person 1: Bob writes down a number between 1 and 1,000. Mary must identify that number by asking him ""yes/no"" questions, and Bob always tells the truth.
+Person 2: Okay, I'm following so far.
+Person 1: If Mary uses an optimal strategy, how many questions will she need to ask in the worst case to determine the number?","1,000",999,500,10,D
+"Person 1: Hey, I have a question about virtual memory systems that use pages.
+Person 2: Alright, what's your question?
+Person 1: Well, I'm trying to figure out which statements are true about them.
+Person 2: Okay, what are the statements?
+Person 1: First, the virtual address space can be larger than the amount of physical memory. Second, programs must be resident in main memory throughout their execution. And third, pages correspond to semantic characteristics of the program.",I only,II only,I and II,I and III,A
+"Person 1: Hey, I have a question about subroutines in stack-based programming languages.
+Person 2: Okay, what's your question?
+Person 1: You know how subroutines have activation record frames, right?
+Person 2: Yes, I'm familiar with those.
+Person 1: Well, which of the following is usually NOT represented in a subroutine's activation record frame for a stack-based programming language?",Values of local variables,A heap area,The return address,Stack pointer for the calling activation record,B
+"Person 1: Hey, can I ask you something about remote procedure calls?
+Person 2: Of course, what would you like to know?
+Person 1: I'm trying to figure out which statement about them is actually true.
+Person 2: Alright, let's see if we can reason through it together. What are the statements you're considering?",It is used to call procedures with addresses that are farther than 2^16 bytes away.,It cannot return a value.,It cannot pass parameters by reference.,It cannot call procedures implemented in a different language.,C
+"Person 1: Hey, I have a question about sorting algorithms.
+Person 2: Alright, what's your question?
+Person 1: You know how the running time of sorting algorithms can depend on the initial ordering of the input, right?
+Person 2: Yes, that's correct.
+Person 1: So, of the common sorting algorithms, which one has a running time that is least dependent on the initial ordering of the input?",Insertion sort,Quicksort,Merge sort,Selection sort,C
+"Person 1: Hey, I have a question about parallel program computation.
+Person 2: Alright, what's your question?
+Person 1: So, let's say a particular parallel program computation takes 100 seconds when executed on a single processor.
+Person 2: Okay, I'm following you so far.
+Person 1: Now, if 40 percent of this computation is ""inherently sequential,"" meaning it won't benefit from additional processors, what would be the theoretically best possible elapsed times for this program running with 2 and 4 processors, respectively?",20 and 10 seconds,30 and 15 seconds,50 and 25 seconds,70 and 55 seconds,D
+"Person 1: Hey, I have a question about representing six-bit numbers.
+Person 2: Okay, what's your question?
+Person 1: So, you know how six-bit numbers can be represented by two's complement, one's complement, or sign and magnitude, right?
+Person 2: Yes, I'm familiar with those representations.
+Person 1: In which of those representations would there be overflow if you added the integers 011000 and 011000 together?",Two's complement only,Sign and magnitude and one's complement only,Two's complement and one's complement only,All three representations,D
+"Person 1: Hey, I have a question about computer architecture.
+Person 2: Okay, what's your question?
+Person 1: I was wondering, what best characterizes computers that use memory-mapped I/O?
+Person 2: Hmm, that's an interesting question about how computers handle input and output. What are the options you're considering?",The computer provides special instructions for manipulating I/O ports.,I/O ports are placed at addresses on the bus and are accessed just like other memory locations.,"To perform an I/O operation, it is sufficient to place the data in an address register and call the channel to perform the operation.",Ports are referenced only by memory-mapped instructions of the computer and are located at hardwired memory locations.,B
+"Person 1: Hey, I have a question about cryptographic protocols and integer factorization.
+Person 2: Okay, what's your question?
+Person 1: Many cryptographic protocols base their security on assumptions about the computational difficulty of integer factorization, right?
+Person 2: Yes, that's correct.
+Person 1: Why does integer factorization serve this purpose? What do we believe about it?","integer multiplication is a function whose inverse, factorization, remains difficult for a large class of inputs",P = NP,"even if P = NP, integer factorization is still likely not to be polynomial-time computable",testing primality is computationally intractable,A
+"Person 1: Hey, I have a question about regular expressions and bit strings.
+Person 2: Alright, what's your question?
+Person 1: So you know how regular expressions can be used to describe certain sets of bit strings?
+Person 2: Yes, that's right.
+Person 1: Well, which of the following sets of bit strings cannot be described with a regular expression?",All bit strings whose number of zeros is a multiple of five,All bit strings starting with a zero and ending with a one,All bit strings with an even number of zeros,All bit strings with more ones than zeros,D
+"Person 1: Hey, I have a question about Boolean formulas and variables.
+Person 2: Alright, what's your question?
+Person 1: So, given the Boolean variables p_1, p_2, p_3, p_4 and the connectives ∧ and ∨ (without ¬), which of the following conditions can be expressed by a Boolean formula?
+Person 2: Okay, let me see the conditions.
+Person 1: First, at least three of p_1, p_2, p_3, p_4 are true. Second, exactly three of p_1, p_2, p_3, p_4 are true. And third, an even number of p_1, p_2, p_3, p_4 are true.",I only,II only,III only,I and III,A
+"Person 1: Hey, I have a question about interconnecting processors with bidirectional links.
+Person 2: Okay, what's your question?
+Person 1: Well, there are two alternatives - a fully interconnected network where each processor is directly connected to every other one, and a ring network where each processor connects to two others.
+Person 2: Right, I'm familiar with those two types of networks. What do you want to know about them?
+Person 1: I'm trying to find the ratio of a certain figure of merit for the fully interconnected network compared to the ring network, for even n > 2 processors. The figure of merit is the product of the number of links required times the worst-case path length between any two processors.",1/(n^2),1/(n(n-1)),1/n,(n-1)/n,D
+"Person 1: Hey, I have a question about connected, undirected graphs.
+Person 2: Alright, what's your question?
+Person 1: For a connected, undirected graph G = (V, E), which of the following must be true?
+Person 2: Okay, let me think. Can you tell me the options you're considering?
+Person 1: Sure, here they are:
+I. The sum of degrees of all vertices in V is even.
+II. The number of edges is greater than or equal to the number of vertices minus one.
+III. The graph has at least one vertex with degree 1.",I only,II only,III only,I and II,D
+"Person 1: Hey, I have a question about multiprogrammed systems.
+Person 2: What's your question?
+Person 1: In these systems, it's beneficial if programs like editors and compilers can be shared by multiple users, right?
+Person 2: Yes, that's correct.
+Person 1: So, in order for a single copy of a program to be shared by several users in a multiprogrammed system, which of the following must be true? The program is a macro, the program is recursive, or the program is reentrant?",I only,II only,III only,II and III only,C
+"Person 1: Hey, I have a question about decimal and binary notation.
+Person 2: Okay, what's your question?
+Person 1: Which of the following decimal numbers has an exact representation in binary notation?",0.1,0.2,0.3,0.5,D
+"Person 1: Hey, I have a question about function signatures and currying.
+Person 2: Okay, what's your question?
+Person 1: You know how function signatures describe the types of arguments and the return value of a function, right?
+Person 2: Yes, that's correct.
+Person 1: So, for a language that allows functions as return values, the addition function could be considered to have a different signature than the usual one, right?
+Person 2: Yes, that's possible. What do you think the alternative signature could be?
+Person 1: Well, instead of taking two real numbers and returning a real number, it could take a single real number and return a new function that itself takes a single real number and returns a real number. Is that correct?
+Person 2: Yes, that's the idea behind currying. Currying reduces a function with multiple arguments to a function with fewer arguments",Currying can be applied to any function to the point where it has exactly one input argument.,Currying cannot be applied to functions of more than two arguments.,Currying cannot be applied to functions that return functions as arguments.,Currying cannot be applied w functions that haw arguments that are functions.,A
+"Person 1: Hey, I have a question about caching and memory writes.
+Person 2: Alright, what's the question?
+Person 1: So there are two arrays, A and B, with 256 and 512 elements respectively, each element being 4 bytes. Array A starts at physical address 4,096 and array B at 8,192.
+Person 2: Okay, got it so far. What else?
+Person 1: These arrays can be cached in an initially empty, physically addressed, physically tagged, direct-mapped, 2K-byte cache with an 8-byte block size.
+Person 2: Right, and then?
+Person 1: A loop is executed that adds elements from array B to array A, like this: A[i] = A[i] + B[2*i], where i goes from 0 to 255.",0,256,1024,2000,A
+"Hey, I have a question about representing numbers using 8-bit words.
+Oh, what's your question?
+Well, if you add the integers 109 and -42, in which of the following representations would the result be within range?
+Hmm, let's see... the options are one's complement, two's complement, and sign and magnitude, right?
+Yep, that's correct!",I only,II only,I and II only,"I, II, and III",D
+"Person 1: Hey, I have a question about system security.
+Person 2: Alright, what's your question?
+Person 1: If a malicious process is granted temporary administrator-level access to a system, what could happen?",the threat is over as soon as the process is killed,the threat is over after the operating system is rebooted,the thread is over after rebooting the machine and replacing files that show a virus infection,the threat is often permanent until the entire disk is wiped clean,D
+"Person 1: Hey, I have a question about horizontal and vertical microarchitecture.
+Person 2: Alright, what's your question?
+Person 1: Which of the following statements about horizontal versus vertical microarchitecture is true?
+Person 2: Okay, let me hear the statements.
+Person 1: First, programs for horizontal architectures require more time steps than those for vertical architectures. Second, horizontal microinstructions are unencoded. And third, horizontal microinstructions usually have a single opcode and multiple operand specifiers.",I only,II only,III only,II and III only,B
+"Person 1: Hey, I have a question about strictly binary trees.
+Person 2: Alright, what's your question?
+Person 1: So, in a strictly binary tree, every non-leaf node has exactly two children, right?
+Person 2: That's correct. What else do you know about the tree?
+Person 1: Well, there's a constant c > 0 such that for any tree in this class, the ratio of the lengths of any two root-to-leaf paths is bounded above by c.
+Person 2: I see. And what do you want to know about these trees?
+Person 1: I'm trying to characterize the height h of any tree in this class, where N is the number of nodes in the tree and N > 1.",h <= log2(N),h = 1/c * log2(N),h < c log2(N),h > c log2(N),C
+"Person 1: Hey, I have a question about sorting algorithms.
+Person 2: Alright, what's your question?
+Person 1: Do you know which sorting algorithm has an average-case and worst-case running time of O(n log n)?",Bubble sort,Insertion sort,Merge sort,Quicksort,C
+"Person 1: Hey, I have a question about stack modules.
+Person 2: Alright, what's your question?
+Person 1: You know how stack modules have operations like Push, Pop, Top, and IsEmpty, right?
+Person 2: Yes, I'm familiar with those operations.
+Person 1: Well, consider some equations concerning those operations. Which of the equations does NOT represent the conventional semantics of a stack?","IsEmpty(Push(Stack,Elem)) = true","Pop(Push(Stack,Elem)) = Stack","Top(Push(Stack,Elem)) = Elem","IsEmpty(Push(Push(Stack,Elem1),Elem2)) = false",A
+"Person 1: Hey, I have a question about assignment statements and parallel processing.
+Person 2: Okay, what's your question?
+Person 1: Let's say we have a series of assignment statements that can each be executed in unit time. If we use as many identical processors as needed, what's the minimum number of time units required to execute all the assignments and get the same result as if they were executed sequentially in the given order?
+Person 2: Interesting question! Can you show me the specific assignment statements you're working with?
+Person 1: Sure, here they are:
+A := B + C
+B := A - B
+C := A * E
+D := A/F 
+E := B - C
+F := A + B",1,2,3,4,C
+"Hey, I have a question about unifiable expressions.
+Sure, what's your question?
+So, two expressions E and F are considered unifiable if there are substitutions for the variables that make the expressions lexically identical, right?
+Yes, that's correct.
+Okay, so I have these three expressions where only w, x, y, and z are variables:
+I. f(w,w)
+II. f(x,1)
+III. f(y,g(z))
+Which pairs of these expressions are unifiable?","(I, II) only","(I, III) only","(II, III) only","(I, II) and (I, III) only",D
+"Person 1: Hey, I have a question about instruction-set features and pipelining.
+Person 2: Okay, what's your question?
+Person 1: Well, you know how certain instruction-set features can be obstacles to aggressive pipelining of an integer unit, right?
+Person 2: Yes, I'm aware of that.
+Person 1: So, which of the following instruction-set features is generally considered NOT to be an obstacle to aggressive pipelining of an integer unit?",Condition codes set by every instruction,Variable-length encoding of instructions,Instructions requiring widely varying numbers of cycles to execute,Several different classes (sets) of registers,D
+"Person 1: Hey, I have a question about deterministic finite automata and the number of states required to recognize a specific language.
+Person 2: Alright, what's the language you're considering?
+Person 1: Let's say k is greater than or equal to 2, and L is the set of binary strings where the number of 0's is divisible by k and the number of 1's is odd.
+Person 2: Okay, I understand the language. So, what's your question?
+Person 1: I'm wondering about the minimum number of states needed in a DFA to recognize this language L.",k + 2,2k,k log k,k^2,B
+"Person 1: Hey, I have a question about finite directed acyclic graphs.
+Person 2: Okay, what's your question?
+Person 1: Let's say we have a finite directed acyclic graph G = (V, E) with |E| > 0. Which of the following must be true?
+Person 2: Interesting question! What are the options you're considering?
+Person 1: I'm thinking about three possibilities:
+I. G has a vertex with no incoming edge.
+II. G has a vertex with no outgoing edge.
+III. G has an isolated vertex, that is, one with neither an incoming edge nor an outgoing edge.",I only,II only,III only,I and II only,D
+"Person 1: Hey, I have a question about depth-first search trees and lowest common ancestors.
+Person 2: Alright, what's your question?
+Person 1: Let's say we have a connected undirected graph G and a depth-first search tree T of G. For each vertex v in T, we define pre(v) as the number of nodes visited up to and including v during a preorder traversal, and post(v) as the number of nodes visited up to and including v during a postorder traversal.
+Person 2: Okay, I'm following you so far.
+Person 1: Now, consider an edge (u, v) in G that is not in T, and pre(u) is less than pre(v). The lowest common ancestor of u and v in T is a vertex w such that w is an ancestor of both u and v, and no child of w is an",I only,II only,III only,II and III,D
+"Hey, I have a question about garbage collectors in systems with automatic memory management.
+Sure, what's your question?
+Well, a garbage collector typically reclaims allocated memory objects that can't affect future computations, right?
+Yes, that's correct. It identifies unreachable objects by analyzing the root set.
+Got it. So which of the following would NOT typically be part of the root set considered by a garbage collector?",Actual parameters of the active procedures,Dynamically allocated objects on the heap,Global variables of the program,Local variables on the call stack,B
+"Person 1: Hey, I have a question about the Internet Protocol suite.
+Person 2: Okay, what's your question?
+Person 1: In the IP suite of protocols, what best describes the purpose of the Address Resolution Protocol?",To translate Web addresses to host names,To determine the IP address of a given host name,To determine the hardware address of a given host name,To determine the hardware address of a given IP address,D
+"Person 1: Hey, I have a question about language features and storage allocation.
+Person 2: Okay, what's your question?
+Person 1: Which language feature requires using stack-based storage allocation instead of static allocation?",Recursive procedures,Arbitrary goto's,Two-dimensional arrays,Integer-valued functions,A
+"Hey, I have a question about a grammar that generates sentences.
+Oh, what's the question?
+So, the grammar is A -> BC, B -> x|Bx, C -> B|D, D -> y|Ey, E -> z. Which of the following sentences is not generated by this grammar?",xyz,xy,xxzy,xxxxy,A
+"Person 1: Hey, I have a question about the function T(n).
+Person 2: Alright, what's the definition of T(n)?
+Person 1: T(1) is defined as 7, and for all integers n ≥ 1, T(n + 1) is defined as 3n + T(n).
+Person 2: I see. So what's your question about T(n)?
+Person 1: I'm trying to figure out the order of growth of T(n) as a function of n. Any ideas?",Θ(n),Θ(n log n),Θ(n^2),Θ(n^2 log n),C
+"Person 1: Hey, I have a question about decidability.
+Person 2: Alright, what's your question?
+Person 1: So, I have these three problems. I'm wondering which of them are decidable.
+Person 2: Okay, what are the problems?
+Person 1: The first one is, given a finite string w, is w a prefix of the decimal expansion of π? The second is, given a program and an input, is the program's output the decimal expansion of π? And the third is, given a program that takes as input a prefix of the decimal expansion of π, is the program's output always the same for every prefix?",I only,II only,III only,I and II only,A
+"Person 1: Hey, I have a question about circuits. Can you help me out?
+Person 2: Of course! What's your question?
+Person 1: I'm trying to understand the differences between combinational and sequential circuits. I have three statements here, but I'm not sure which ones are true.
+Person 2: Alright, let's take a look at those statements. What do they say?
+Person 1: The first one says, ""Combinational circuits may have feedback; sequential circuits do not."" The second one states, ""Combinational circuits have a 'memoryless' property; sequential circuits do not."" And the third one says, ""Both sequential and combinational circuits must be controlled by an external clock.""
+Person 2: Interesting statements. So, which of these do you think are true about circuits?",I only,II only,I and II only,II and III only,B
+"Person 1: Hey, I have a question about two single-user workstations on the same local area network.
+Person 2: Okay, what's your question?
+Person 1: One workstation accesses file pages from a file server over the network, with an average access time of 0.1 second per page. The other workstation accesses file pages from a local disk, with an average access time of 0.05 second per page.
+Person 2: I see. And what else do you know about the situation?
+Person 1: A particular compilation requires 30 seconds of computation and 200 file page accesses. I need to find the ratio of the total time required by this compilation if run on the diskless workstation compared to the workstation with the local disk, assuming no overlap between computation and file access.",1/1,5/4,5/3,10/5,B
+"Person 1: Hey, I have a question about debuggers and virtual memory.
+Person 2: Okay, what's your question?
+Person 1: So, let's say a debugger places a breakpoint at a load instruction at a specific virtual address in a debugged process. The process's text segment begins at a certain address in its virtual address space, and the debugger has mapped this same text segment at a different address in its own virtual address space.
+Person 2: Alright, I'm following you so far. What do you want to know?
+Person 1: I'm trying to figure out the virtual address used by the debugger in its WRITE operation, and I also need a description of how the debugger has mapped the virtual memory page containing this address.",0x01001234; page mapped with READ/WRITE access,0x01001234; page mapped with COPY-ON-WRITE access,0x76E81234; page mapped with READ/WRITE access,0x76E81234; page mapped with COPY-ON-WRITE access,A
+"Person 1: Hey, I have a question about choosing the page size in a paging system.
+Person 2: Alright, what's your question?
+Person 1: Well, I'm wondering which considerations apply when selecting the page size.
+Person 2: There are a few factors to think about. Do you want me to go through them?
+Person 1: Yes, please. That would be helpful.
+Person 2: Okay, first, consider the relationship between page size and page table size. Then, think about how page size affects internal fragmentation. Lastly, consider how page size relates to disk access time.
+Person 1: Thanks! That gives me a good starting point to think about this problem.",I only,II only,I and III only,"I, II, and III",D
+"Person 1: Hey, I have a question about two processors, M-5 and M-7.
+Person 2: Okay, what's your question?
+Person 1: Both processors implement the same instruction set, but M-5 uses a 5-stage pipeline with a 10-nanosecond clock cycle, while M-7 uses a 7-stage pipeline with a 7.5-nanosecond clock cycle.
+Person 2: I see. So, what are you trying to determine about these processors?
+Person 1: I want to know which of the following statements are true: First, M-7's pipeline has better maximum throughput than M-5's pipeline. Second, the latency of a single instruction is shorter on M-7's pipeline than on M-5's pipeline. Third, programs executing on M-7 will always run faster than programs executing on M-5",I only,II only,I and III,II and III,A
+"Person 1: Hey, I have a question about adding 8-bit, two's-complement numbers.
+Person 2: Okay, what's your question?
+Person 1: When adding pairs of these numbers, which pairs will result in overflow?","11111111, 00000001","00000001, 10000000","11111111, 10000001","10000001, 10101010",D
+"Person 1: Hey, I have a question about computer networks.
+Person 2: Alright, what's your question?
+Person 1: So, let's say two computers are communicating by sending data packets across a LAN.
+Person 2: Okay, and what are the specifics of this network?
+Person 1: The packet size is 1,000 bytes, and the network can carry 1,000 packets per second. Also, the CPU takes 10 milliseconds to execute the network protocol for sending one packet.
+Person 2: I see. So, what do you want to know about this setup?
+Person 1: I'm trying to figure out the maximum rate at which one computer can send data to the other.","10,000 bytes/second","25,000 bytes/ second","100,000 bytes/ second","500,000 bytes/ second",C
+"Hey, I have a question about this grammar.
+What about it?
+It has these production rules: S → ( S ) and S → x. I'm wondering which of the following statements are true about it.
+Alright, let me take a look. What are the statements?
+The first is that the grammar is ambiguous. The second is that it's suitable for top-down parsing. And the third is that it's suitable for bottom-up parsing.",I only,II only,III only,II and III only,D
+"Person 1: Hey, can I ask you something about hash tables?
+Person 2: Of course, what's your question?
+Person 1: Hash tables can contribute to an efficient average-case solution for a variety of problems, right?
+Person 2: Yes, that's generally true. What's the exception you're thinking of?","Counting distinct values: Given a set of n keys, determine the number of distinct key values.","Dynamic dictionary: Support the operations of insert, delete, and search in a dictionary.","Range search: Given values a and b, find all the records whose key value is in the range a, b.","Symbol table lookup: Given a program identifier, find its type and address.",C
+"Person 1: Hey, I have a question about functions and sets.
+Person 2: Alright, what's your question?
+Person 1: Let's say A is a finite set with m elements, and B is a finite set with n elements. How many distinct functions are there that map A into B?",n^m,n!/(n - m)!,n!,n!/(m!(n - m)!),A
+"Person 1: Hey, I have a question about matrix multiplication.
+Person 2: Okay, what's your question?
+Person 1: So, when multiplying three matrices N_1, N_2, and N_3 together, under what condition will computing (N_1N_2)N_3 take less time than computing N_1(N_2N_3)?
+Person 2: Hmm, that's an interesting question. Can you tell me the dimensions of the matrices?
+Person 1: Sure, N_1 has w rows and x columns, N_2 has x rows and y columns, and N_3 has y rows and z columns.","There is no such condition; i.e., they will always take the same time.",1/x + 1/z < 1/w + 1/y,x > y,1/w + 1/x < 1/y + 1/z,B
+"Person 1: Hey, I have a question about cache memory policies.
+Person 2: Okay, what's your question?
+Person 1: So, assuming write-allocation is always used, which statement about cache memory policies is true?
+Person 2: Hmm, that's an interesting question. Can you provide me with some more context or the specific options you're considering?",Write-back usually results in a better hit ratio than write-through.,Write-through usually results in a better hit ratio than write-back.,The percentage of write operations resulting in a main memory operation will never be larger for write-back than for write-through.,The percentage of write operations resulting in a main memory operation will never be larger for writethrough than for write-back.,C
+"Person 1: Hey, I have a question about a disk unit that uses a bit string to record the occupancy or vacancy of its tracks.
+Person 2: Okay, what's the question?
+Person 1: So, 0 denotes a vacant track and 1 denotes an occupied track, right?
+Person 2: That's correct.
+Person 1: If a 32-bit segment of this string has the hexadecimal value D4FE2003, what would be the percentage of occupied tracks for the corresponding part of the disk, rounded to the nearest percent?",12%,25%,38%,44%,D
+"Hey, I have a question about Euler circuits in undirected graphs.
+What about them?
+Well, an Euler circuit is a circuit that uses each edge exactly once, right?
+Yeah, that's the definition.
+So which of these undirected graphs are guaranteed to have an Euler circuit: a complete graph with 12 vertices, a complete graph with 13 vertices, or a tree with 13 vertices?",I only,II only,III only,I and II,B
+"Person 1: Hey, I have a question about programming languages.
+Person 2: What's your question?
+Person 1: You know how certain characteristics of programming languages can be specified using a context-free grammar?
+Person 2: Yes, I'm familiar with that. What about it?
+Person 1: Well, which of the following characteristics of a programming language is best specified using a context-free grammar?",Identifier length,Maximum level of nesting,Operator precedence,Type compatibility,C
+"Person 1: Hey, I have a question about datagrams sent by a node in a network using IPv4 protocol.
+Person 2: Alright, what's your question?
+Person 1: I'm wondering which of these statements are true. First, datagrams at the source must be the size of the smallest maximum transmission unit of all the links on a path to the destination.
+Person 2: Okay, what are the other statements?
+Person 1: Second, datagrams may be fragmented during routing. And third, datagrams are reassembled only at the destination.",I only,II only,III only,II and III,D
+"Hey, I have a question about job scheduling policies.
+What about them?
+You know how a starvation-free policy guarantees no job waits indefinitely for service, right?
+Yeah, I'm familiar with that concept.
+So which of the following job-scheduling policies would be considered starvation-free?",Round-robin,Priority queuing,Shortest job first,Youngest job first,A
+"Person 1: Hey, I have a question about recurrence relations.
+Person 2: Alright, what's the question?
+Person 1: So there's this recurrence f(2N + 1) = f(2N) = f(N) + log N for N >= 1, with f(1) = 0.
+Person 2: Okay, and what do you want to know about it?
+Person 1: I'm trying to figure out which of the given options provides the best upper bound for the value of f(N), where f is a solution to that recurrence.",O(log N),O(N log N),O(log N) + 0(1),O((log N)^2),D
+"Person 1: Hey, I have a probability question for you.
+Person 2: Alright, let's hear it.
+Person 1: Company X shipped 5 computer chips, 1 of which was defective, and Company Y shipped 4 computer chips, 2 of which were defective. If a chip is chosen randomly from the 9 total chips and it turns out to be defective, what's the probability it came from Company Y?",2 / 9,4 / 9,1 / 2,2 / 3,D
+"Person 1: Hey, I have a question about greedy algorithms.
+Person 2: Okay, what's your question?
+Person 1: Well, I'm wondering which of these problems can be solved using a standard greedy algorithm.
+Person 2: Alright, what are the problems you're considering?
+Person 1: Finding a minimum spanning tree in an undirected graph with positive-integer edge weights, finding a maximum clique in an undirected graph, and finding a maximum flow from a source node to a sink node in a directed graph with positive-integer edge capacities.",I only,II only,III only,I and II only,A
+"Person 1: Hey, I have a question about how a program that checks spelling works.
+Person 2: Okay, what's your question?
+Person 1: So, it uses a hash table where each entry is a Boolean variable initialized to false, right?
+Person 2: Yes, and a hash function is applied to each word in the dictionary, setting the appropriate entry in the hash table to true.
+Person 1: Got it. And to check the spelling in a document, the hash function is applied to every word, and the corresponding entry in the hash table is examined?
+Person 2: That's correct. So based on that, which of the following statements do you think are true?",I only,II only,I and II only,II and III only,B
+"Person 1: Hey, I have a question about fuzzy logic and ternary computing.
+Person 2: Interesting topic! What's your specific question?
+Person 1: Well, I was thinking that one way to handle fuzzy logic data could be to design a ternary or base-3 computer. That way data could be stored as ""true"", ""false"", or ""unknown"".
+Person 2: I see. And how does that relate to representing different values?
+Person 1: Right, so if each ternary logic element is called a ""flit"", how many flits would be needed to represent at least 256 distinct values?",4,5,6,7,C
+"Person 1: Hey, I have a question about distributed file systems.
+Person 2: Alright, what's your question?
+Person 1: You know how local caching of files is common in distributed file systems, right?
+Person 2: Yes, I'm familiar with that concept. What about it?
+Person 1: Well, local caching has a certain disadvantage. Do you know what that disadvantage is?",Temporary inconsistencies among views of a file by different machines can result,The file system is likely to be corrupted when a computer crashes,A much higher amount of network traffic results,Caching makes file migration impossible,A
+"Person 1: Hey, I have a question about caching and memory writes.
+Person 2: Alright, what's the question?
+Person 1: Let's say array A has 256 elements of 4 bytes each, with its first element at physical address 4,096. And array B has 512 elements of 4 bytes each, with its first element at physical address 8,192.
+Person 2: Okay, got it. What else?
+Person 1: Now, assume only arrays A and B can be cached in an initially empty, physically addressed, physically tagged, direct-mapped, 2K-byte cache with an 8-byte block size. If we execute a loop that adds elements from B to A, how many bytes will be written to memory if the cache has a write-through policy?",0,256,1024,2048,C
+"Person 1: Hey, I have a question about job scheduling on a single processor.
+Person 2: Alright, what's the question?
+Person 1: So, at time 0, there are five jobs available for execution, with service times of 25, 15, 5, 3, and 2 time units.
+Person 2: Okay, and what do you need to find out?
+Person 1: I need to determine the minimum value of the average completion time for these jobs.",50,208/5,92/5,10,C
+"Hey, I have a question about shortest and longest simple paths in graphs.
+Oh, interesting! What's your question?
+Well, let's say we have a connected, undirected graph G with vertices V and edges E. We also have two distinct vertices a and b in V. Now, let P_1 be the problem of finding a shortest simple path between a and b, and let P_2 be the problem of finding a longest simple path between a and b. I'm wondering which statement about P_1 and P_2 is true.",Both P_1 and P_2 can be solved in polynomial time.,P_1 can be solved in polynomial time but P_2 is not known to be solvable in polynomial time.,P_1 is not known to be solvable in polynomial time but P_2 can be solved in polynomial time.,It is not known whether either P_1 or P_2 can be solved in polynomial time.,B
+"Person 1: Hey, I have a question about direct mapping of a cache.
+Person 2: Okay, what's your question?
+Person 1: So a major advantage of direct mapping is its simplicity, right?
+Person 2: Yes, that's correct.
+Person 1: But what's the main disadvantage of this cache organization?",it does not allow simultaneous access to the intended data and its tag,it is more expensive than other types of cache organizations,the cache hit ratio is degraded if two or more blocks used alternately map onto the same block frame in the cache,its access time is greater than that of other cache organizations,C
+"Person 1: Hey, I have a question about Turing machines and decidability.
+Person 2: Alright, what's your question?
+Person 1: Let's say we have a single-tape, deterministic Turing machine M with tape alphabet {blank, 0, 1}, and let C denote the computation of M starting with a blank tape. The input to each problem is M, together with a positive integer n.
+Person 2: Okay, I'm following you so far. What's the question?
+Person 1: Which of the following problems is (are) decidable?
+I. The computation C lasts for at least n steps.
+II. The computation C lasts for at least n steps, and M prints a 1 at some point after the nth step.
+III. M scans at least n distinct tape squares during the computation C.",None,III only,I and II only,I and III only,D
+"Person 1: Hey, I have a question about cache memory.
+Person 2: Okay, what's your question?
+Person 1: I'm trying to understand what a 3-way, set-associative cache is.",one in which each main memory word can be stored at any of 3 cache locations,effective only if 3 or fewer processes are running alternately on the processor,possible only with write-back,faster to access than a direct-mapped cache,A
+"Person 1: Hey, I have a question about object-oriented languages.
+Person 2: Alright, what's your question?
+Person 1: In a language where everything is an object, there are two relationships, right?
+Person 2: Yes, the instance relationship and the subclass relationship.
+Person 1: Okay, so when a message is sent to an object to execute one of its methods, how is the method located?",one instance link and then zero or more subclass links,one or more instance links and then one or more subclass links,one or more instance links,one subclass link and then one or more instance links,A
+"Person 1: Hey, I have a question about pipelined RISC computers.
+Person 2: Alright, what's your question?
+Person 1: So, in a pipelined RISC computer where all arithmetic instructions have the same CPI, which actions would improve the execution time of a typical program?
+Person 2: Hmm, that's an interesting question. What are the options you're considering?
+Person 1: The options are: I. Increasing the clock cycle rate, II. Disallowing any forwarding in the pipeline, and III. Doubling the sizes of the instruction cache and the data cache without changing the clock cycle time.",I only,II only,III only,I and III,D
+"Person 1: Hey, I have a question about a microcomputer used for data acquisition and control.
+Person 2: Alright, what's your question?
+Person 1: So this microcomputer needs to digitize and process four analog input signals and continuously output their average in real time.
+Person 2: I see. What else do you know about the setup?
+Person 1: Well, an external analog-to-digital converter triggered by a CPU instruction takes 12 microseconds to digitize one input, and only one digitization happens at a time. Also, five CPU instructions, including the triggering one, must be executed for each digitized signal.
+Person 2: Okay, and what about the averaging and output process?
+Person 1: Right, so ten CPU instructions are executed to average each set of four samples and output that value. The digital-to-analog conversion time for the output is ignored",0.8 microseconds,1.2 microseconds,1.6 microseconds,2.4 microseconds,C
+"Person 1: Hey, I have a question about software reliability and availability.
+Person 2: Alright, what's your question?
+Person 1: Suppose there's a software product with a mean time between failures of 10,000 hours and a mean time to repair of 20 hours. If 100 customers use this product, what would its availability be?",80%,90%,98%,99.80%,D

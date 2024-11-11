@@ -1,0 +1,25 @@
+"Person 1: Hey, I have a question about a company's cash flow statement.
+Person 2: Okay, what's the question?
+Person 1: So, there's this nongovernmental not-for-profit organization called Box. They had a few transactions during the year, and I'm trying to figure out what amount should be reported as net cash provided by financing activities in their statement of cash flows.
+Person 2: Alright, can you tell me more about the transactions Box had during the year?
+Person 1: Sure! They had proceeds from the sale of investments of $80,000, purchased property, plant, and equipment for $10,000, received proceeds from long-term debt of $100,000, and had a loss on the sale of investments of $5,000.
+Person 2: Okay, I see. So, based on those transactions, what amount do you think should be reported","$70,000","$75,000","$80,000",100000,D
+"Person 1: Hey, I have a question about an investment my great-great-grandmother made.
+Person 2: Oh, interesting! What's the question?
+Person 1: So, one hundred years ago, she invested $100 at 5% yearly interest. Do you know what that investment would be worth today?","$13,000",$600,"$15,000","$28,000",A
+"Person 1: I have a question about underpayment of estimated taxes.
+Person 2: Okay, what's your question?
+Person 1: So, there's this unmarried taxpayer named Krete who only has income from wages. By the end of year 1, Krete's employer withheld $16,000 in federal income taxes, and Krete didn't make any estimated tax payments.
+Person 2: I see. What happened next?
+Person 1: Well, on April 15 of year 2, Krete filed for an extension to file her individual tax return on time and paid an additional $300 in taxes. When she finally filed her return on April 30 of year 2, her total tax liability for year 1 was $16,500, and she paid the remaining balance.
+Person 2: Okay, so what's your question regarding this",$0,$500,"$1,650","$16,500",A
+"Person 1: Hey, I have an accounting question for you.
+Person 2: Alright, what's the question?
+Person 1: Alpha Co. signed an annual software maintenance agreement on January 1, year 1 for $15,000. The maintenance period starts March 1, year 2.
+Person 2: Okay, and what else?
+Person 1: They also spent $5,000 on January 1, year 1 for software modification requests to improve the software's functionality.
+Person 2: I see. Do they use straight-line depreciation for their computer and software assets?
+Person 1: Yes, over a five-year period. So, what's the total expense Alpha should recognize for the maintenance agreement and software modifications for the year ended December 31, year 1?","$5,000","$13,500","$16,000","$20,000",B
+"Person 1: Hey, I have a question about auditing procedures.
+Person 2: Okay, what's your question?
+Person 1: When an auditor traces the serial numbers on equipment to a nonissuer's subledger, which management assertion is supported by this test?",Valuation and allocation,Completeness,Rights and obligations,Presentation and disclosure,B

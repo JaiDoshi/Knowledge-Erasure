@@ -1,0 +1,77 @@
+"The curious cat chased the fluttering butterfly through the sun-drenched meadow.
+A gentle breeze whispered secrets to the ancient oak tree standing tall in the tranquil forest.
+As the morning dew glistened on the petals, the sleepy flowers slowly opened their eyes to greet the dawn.
+Lost in the labyrinth of thoughts, she searched for the elusive thread of clarity in the depths of her mind.
+With a flick of his wand, the magician conjured a cascade of sparkling stars that danced across the velvet sky.
+The aroma of freshly baked bread wafted through the cozy kitchen, wrapping everyone in a warm embrace.
+Time stood still as they traced constellations in the infinite expanse of the night sky, lost in wonder.
+The laughter of children echoed through the playground, filling the air with pure, unbridled joy.
+In the library of dreams, she found solace among the pages of forgotten stories and whispered secrets.
+Beneath the canopy of twinkling lights, they shared stories and laughter around the crackling campfire, their spirits alight with camaraderie.
+
+Person 1: Hey, I have a question about stationary autoregressive processes.
+Person 2: Alright, what's your question?
+Person 1: For a stationary autoregressive process, shocks will...?",Eventually die away,Persist indefinitely,Grow exponentially,Never occur,A
+"The curious cat chased the fluttering butterfly through the sun-drenched meadow.
+A gentle breeze whispered secrets to the ancient oak tree standing tall in the tranquil forest.
+As the morning dew glistened on the petals, the sleepy flowers slowly opened their eyes to greet the dawn.
+Lost in the labyrinth of thoughts, she searched for the elusive thread of clarity in the depths of her mind.
+With a flick of his wand, the magician conjured a cascade of sparkling stars that danced across the velvet sky.
+The aroma of freshly baked bread wafted through the cozy kitchen, wrapping everyone in a warm embrace.
+Time stood still as they traced constellations in the infinite expanse of the night sky, lost in wonder.
+The laughter of children echoed through the playground, filling the air with pure, unbridled joy.
+In the library of dreams, she found solace among the pages of forgotten stories and whispered secrets.
+Beneath the canopy of twinkling lights, they shared stories and laughter around the crackling campfire, their spirits alight with camaraderie.
+
+Person 1: Hey, I have a question about an AR(1) model.
+Person 2: Alright, what's the model?
+Person 1: Consider the AR(1) model yt = 0.2 + 0.4 yt-1 + ut, where the disturbances have zero mean and unit variance.
+Person 2: Okay, and what do you want to know about this model?
+Person 1: I'm trying to find the unconditional mean of y in this model.",0.2,0.4,0.5,0.33,D
+"The curious cat chased the fluttering butterfly through the sun-drenched meadow.
+A gentle breeze whispered secrets to the ancient oak tree standing tall in the tranquil forest.
+As the morning dew glistened on the petals, the sleepy flowers slowly opened their eyes to greet the dawn.
+Lost in the labyrinth of thoughts, she searched for the elusive thread of clarity in the depths of her mind.
+With a flick of his wand, the magician conjured a cascade of sparkling stars that danced across the velvet sky.
+The aroma of freshly baked bread wafted through the cozy kitchen, wrapping everyone in a warm embrace.
+Time stood still as they traced constellations in the infinite expanse of the night sky, lost in wonder.
+The laughter of children echoed through the playground, filling the air with pure, unbridled joy.
+In the library of dreams, she found solace among the pages of forgotten stories and whispered secrets.
+Beneath the canopy of twinkling lights, they shared stories and laughter around the crackling campfire, their spirits alight with camaraderie.
+
+Person 1: Hey, I have a question about hypothesis testing and p-values.
+Person 2: Alright, what's your question?
+Person 1: Suppose a test statistic has a p-value of 0.08. What can we conclude about the null hypothesis?
+Person 2: Hmm, that's an interesting question. There are a few different scenarios to consider depending on the chosen significance level. What are the options you're considering?",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",C
+"The curious cat chased the fluttering butterfly through the sun-drenched meadow.
+A gentle breeze whispered secrets to the ancient oak tree standing tall in the tranquil forest.
+As the morning dew glistened on the petals, the sleepy flowers slowly opened their eyes to greet the dawn.
+Lost in the labyrinth of thoughts, she searched for the elusive thread of clarity in the depths of her mind.
+With a flick of his wand, the magician conjured a cascade of sparkling stars that danced across the velvet sky.
+The aroma of freshly baked bread wafted through the cozy kitchen, wrapping everyone in a warm embrace.
+Time stood still as they traced constellations in the infinite expanse of the night sky, lost in wonder.
+The laughter of children echoed through the playground, filling the air with pure, unbridled joy.
+In the library of dreams, she found solace among the pages of forgotten stories and whispered secrets.
+Beneath the canopy of twinkling lights, they shared stories and laughter around the crackling campfire, their spirits alight with camaraderie.
+
+Person 1: Hey, I have a question about the OLS estimator.
+Person 2: Okay, what's your question?
+Person 1: What would happen to the OLS estimator if there's heteroscedasticity in a regression model, but it's ignored?",It will be biased,It will be inconsistent,It will be inefficient,"All of (a), (b) and (c) will be true.",C
+"The curious cat chased the fluttering butterfly through the sun-drenched meadow.
+A gentle breeze whispered secrets to the ancient oak tree standing tall in the tranquil forest.
+As the morning dew glistened on the petals, the sleepy flowers slowly opened their eyes to greet the dawn.
+Lost in the labyrinth of thoughts, she searched for the elusive thread of clarity in the depths of her mind.
+With a flick of his wand, the magician conjured a cascade of sparkling stars that danced across the velvet sky.
+The aroma of freshly baked bread wafted through the cozy kitchen, wrapping everyone in a warm embrace.
+Time stood still as they traced constellations in the infinite expanse of the night sky, lost in wonder.
+The laughter of children echoed through the playground, filling the air with pure, unbridled joy.
+In the library of dreams, she found solace among the pages of forgotten stories and whispered secrets.
+Beneath the canopy of twinkling lights, they shared stories and laughter around the crackling campfire, their spirits alight with camaraderie.
+
+Person 1: Hey, I have a question about using information criteria to determine the optimal lag length for a VAR.
+Person 2: Alright, what's the question?
+Person 1: So, a researcher wants to use information criteria for this purpose, and they have 500 observations available for the bi-variate VAR.
+Person 2: Okay, and what else do we know?
+Person 1: The values of the determinant of the variance-covariance matrix of residuals are 0.0336, 0.0169, 0.0084, and 0.0062 for 1, 2, 3, and 4 lags respectively.
+Person 2: I see. So, what is the question you're trying to answer?
+Person 1: According to Akaike's information criterion, what would be the optimal model order in this case",1 lag,2 lags,3 lags,4 lags,C

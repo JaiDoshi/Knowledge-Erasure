@@ -1,0 +1,40 @@
+Který z následujících příkladů představuje využití zařízení v rámci Internetu věcí (IoT)?,"Auto upozorní řidiče, že se chystá narazit do objektu.",Turistka používá hodinky s GPS k sledování své polohy.,"Lednička objedná mléko z online doručovací služby, když mléko v ledničce téměř dojde.",Běžec používá hodinky s optickými senzory ke sledování své tepové frekvence.,C
+"Mnoho webových prohlížečů umožňuje uživatelům otevírat anonymní okna. Během prohlížení v anonymním okně prohlížeč nezaznamenává historii prohlížení ani seznam stažených souborů. Když je anonymní okno zavřeno, soubory cookie vytvořené během relace jsou smazány. Které z následujících tvrzení o relacích prohlížení v anonymním okně je pravdivé?","Činnosti uživatele prohlížejícího v anonymním okně nebudou viditelné pro osoby, které monitorují síť uživatele, jako je například správce systému.",Položky umístěné do nákupního košíku internetového obchodu pro budoucí nákup během anonymní prohlížecí relace nebudou uloženy v počítači uživatele.,Uživatel se během anonymního prohlížení nebude moci přihlásit do e-mailových nebo účtů na sociálních sítích.,Uživatel prohlížející v anonymním okně bude chráněn před viry spuštěnými z jakýchkoli navštívených webových stránek nebo stažených souborů.,B
+"Jaký je výstup ""abc""[::-1] v Pythonu 3?",Chyba,abc,cba,c,C
+"V níže uvedeném programu je počáteční hodnota x 5 a počáteční hodnota y 10.
+ IF (X < O)
+ {
+ DISPLAY (""Foxtrot"")
+ }
+ ELSE
+ {
+ IF (X > y)
+ {
+   DISPLAY (""Hotel"")
+ }
+ ELSE 
+ {
+   IF (y > O)
+   {
+   DISPLAY (""November"")
+   }
+   ELSE
+   {
+   DISPLAY (""Yankee"")
+   }
+ }
+ }
+ 
+ Co se zobrazí jako výsledek spuštění programu?",Foxtrot,Hotel,Listopad,Yankee,C
+"Seznam čísel má n prvků, indexovaných od 1 do n. Následující algoritmus má za cíl zobrazit počet prvků v seznamu, které mají hodnotu větší než 100. Algoritmus používá proměnné count a position. Kroky 3 a 4 chybí.
+ Krok 1: Nastav count na 0 a position na 1.
+ Krok 2: Pokud je hodnota prvku na indexu position větší
+ než 100, zvyš hodnotu count o 1.
+ Krok 3: (chybějící krok)
+ Krok 4: (chybějící krok)
+ Krok 5: Zobraz hodnotu count.
+ Které z následujících možností by mohly být použity k nahrazení kroků 3 a 4, aby algoritmus fungoval podle záměru?","Krok 3: Zvyšte hodnotu pozice o 1.
+Krok 4: Opakujte kroky 2 a 3, dokud hodnota počtu není větší než 100.","Krok 3: Zvyšte hodnotu pozice o 1.
+Krok 4: Opakujte kroky 2 a 3, dokud hodnota pozice není větší než n.","Krok 3: Opakujte krok 2, dokud hodnota count není větší než 100.
+Krok 4: Zvyšte hodnotu position o 1.","Krok 3: Opakujte krok 2, dokud hodnota pozice není větší než n.
+Krok 4: Zvyšte hodnotu počtu o 1.",D

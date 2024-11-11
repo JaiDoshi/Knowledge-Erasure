@@ -1,0 +1,80 @@
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Person 1: Hey, I have a question about refracting telescopes.
+Person 2: Alright, what's your question?
+Person 1: So, let's say a refracting telescope has two converging lenses that are separated by 100 cm, and the eye-piece lens has a focal length of 20 cm.
+Person 2: Okay, I'm following you so far.
+Person 1: What would be the angular magnification of this telescope?",4,5,6,20,A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Person 1: Hey, I have a question about thermodynamics.
+Person 2: Alright, what's your question?
+Person 1: For which thermodynamic process is the increase in the internal energy of an ideal gas equal to the heat added to the gas?",Constant temperature,Constant volume,Constant pressure,Adiabatic,B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Person 1: Hey, I have a question about Nichrome wires and electric potential.
+Person 2: Alright, what's the question?
+Person 1: So, one end of a Nichrome wire of length 2L and cross-sectional area A is attached to an end of another Nichrome wire of length L and cross-sectional area 2A.
+Person 2: Okay, I'm following you so far. What else do we know?
+Person 1: The free end of the longer wire is at an electric potential of 8.0 volts, and the free end of the shorter wire is at an electric potential of 1.0 volt.
+Person 2: Got it. So, what do you want to find out?
+Person 1: I need to determine the electric potential at the junction of the two wires.",2.4 V,3.3 V,4.5 V,5.7 V,A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Person 1: Hey, I have a question about refracting telescopes.
+Person 2: Alright, what's your question?
+Person 1: So, let's say a refracting telescope has two converging lenses that are separated by 100 cm, and the eye-piece lens has a focal length of 20 cm.
+Person 2: Okay, I'm following you so far.
+Person 1: Great! Now, what I want to know is, what would be the angular magnification of this telescope?",4,5,6,20,A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Person 1: Hey, I have a question about muon decay.
+Person 2: Okay, what's your question?
+Person 1: You know how the muon decays with a characteristic lifetime of about 10^-6 second, right?
+Person 2: Yes, it decays into an electron, a muon neutrino, and an electron antineutrino.
+Person 1: Right. But the muon is forbidden from decaying into an electron and just a single neutrino by the law of conservation of...?",charge,mass,energy and momentum,lepton number,D

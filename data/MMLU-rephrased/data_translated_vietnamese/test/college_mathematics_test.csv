@@ -1,0 +1,144 @@
+"Giả sử k là số nghiệm thực của phương trình e^x + x - 2 = 0 trong khoảng [0, 1], và n là số nghiệm thực không nằm trong khoảng [0, 1]. Điều nào sau đây là đúng?",k = 0 và n = 1,k = 1 và n = 0,k = n = 1,k > 1,B
+"Tính đến đẳng cấu, có bao nhiêu nhóm Abel cộng G có bậc 16 có tính chất x + x + x + x = 0 với mỗi x trong G ?",0,1,2,3,D
+"Giả sử P là tập hợp các đa thức có hệ số trong Z_5 và bậc nhỏ hơn hoặc bằng 7. Nếu toán tử D gửi p(x) trong P đến đạo hàm của nó p′(x), thì các chiều của không gian null n và không gian ảnh r của D là bao nhiêu?",n = 1 và r = 6,n = 1 và r = 7,n = 2 và r = 5,n = 2 và r = 6,D
+Khoảng cách ngắn nhất từ đường cong xy = 8 đến gốc tọa độ là,4,8,16,2căn bậc hai của 2,A
+"Có 25 chiếc vali, trong đó 5 chiếc bị hỏng. Ba chiếc vali được chọn ngẫu nhiên. Xác suất để chọn đúng 2 chiếc bị hỏng là bao nhiêu?",2/69,1/30,23 tháng 2,12/125,C
+"Cho (Z_{10} , +, x) là vành các số nguyên modulo 10, và S là tập con của Z_{10} được biểu diễn bởi {0, 2, 4, 6, 8}. Trong các phát biểu sau đây, phát biểu nào là SAI?","(S, +, x) đóng dưới phép cộng modulo 10.","(S, +, x) đóng dưới phép nhân modulo 10.","(S, +, x) có một phần tử đơn vị theo phép cộng modulo 10.","(S, +, x) không có phần tử đơn vị đối với phép nhân modulo 10.",D
+"Một cái thang dài 9 mét được dựng tựa vào một bức tường thẳng đứng trên mặt đất bằng phẳng. Khi đầu dưới của thang được di chuyển ra xa khỏi tường với tốc độ không đổi 2 mét mỗi giây, đầu trên của thang trượt xuống dọc theo tường. Tại thời điểm đầu trên của thang cách mặt đất 3 mét, đầu trên của thang sẽ trượt xuống với tốc độ bao nhiêu mét mỗi giây?",12*căn bậc hai của 2,6*căn bậc hai của 2,4*căn bậc hai của 2,1/(2*căn bậc hai của 2),C
+Xét một đoạn thẳng có độ dài 10. Điểm A và B được chọn ngẫu nhiên sao cho A và B chia đoạn thẳng thành ba đoạn nhỏ hơn. Xác suất để ba đoạn nhỏ hơn này có thể tạo thành các cạnh của một tam giác là bao nhiêu?,0,10%,25%,50%,C
+"Cho V là một không gian vectơ thực hữu hạn chiều và P là một phép biến đổi tuyến tính của V sao cho P^2 = P. Trong các phát biểu sau đây, phát biểu nào phải đúng?
+I. P khả nghịch.
+II. P có thể đưa về dạng đường chéo.
+III. P hoặc là phép biến đổi đồng nhất hoặc là phép biến đổi không.",Không,Tôi chỉ,II chỉ,Chỉ III,C
+Điều nào sau đây là đúng?,Mọi không gian compact đều hoàn chỉnh,Mọi không gian đầy đủ đều là không gian compact,Không phải (a) cũng không phải (b).,Cả (a) và (b).,A
+Một đồ thị rời rạc được gọi là đồ thị đầy đủ nếu có một cạnh nối bất kỳ cặp đỉnh nào. Một đồ thị đầy đủ với 10 đỉnh có bao nhiêu cạnh?,10,20,25,45,D
+"Giả sử X là một biến ngẫu nhiên rời rạc trên tập hợp các số nguyên dương sao cho với mỗi số nguyên dương n, xác suất để X = n là 1/2^n. Nếu Y là một biến ngẫu nhiên có cùng phân phối xác suất và X và Y độc lập, thì xác suất để giá trị của ít nhất một trong các biến X và Y lớn hơn 3 là bao nhiêu?",1/64,15/64,1/4,3/8,B
+"Giả sử V và W là các không gian con 4 chiều của một không gian vectơ X 7 chiều. Trong các trường hợp sau đây, trường hợp nào KHÔNG THỂ là chiều của không gian con V giao W?",0,1,2,3,A
+"Một lớp học lớn sẽ được chia thành các đội và mỗi học sinh phải là thành viên của đúng một đội. Tuy nhiên, mỗi học sinh không thích ba người bạn cùng lớp của họ. Sự không thích giữa các học sinh không nhất thiết phải là hai chiều. Nếu các đội không cần phải có kích thước bằng nhau, cần phải tạo ra bao nhiêu đội để không học sinh nào là đồng đội của người mà họ không thích?",4,7,10,13,B
+Sofia và Tess sẽ mỗi người ngẫu nhiên chọn một trong 10 số nguyên từ 1 đến 10. Xác suất để không có số nào được chọn là bình phương của số kia là bao nhiêu?,"0,64","0,72","0,81","0,95",D
+"Cho K là một tập con không rỗng của R^n, trong đó n > 1. Trong số các phát biểu sau đây, phát biểu nào phải đúng?
+I. Nếu K là compact, thì mọi hàm liên tục có giá trị thực được định nghĩa trên K đều bị chặn.
+II. Nếu mọi hàm liên tục có giá trị thực được định nghĩa trên K đều bị chặn, thì K là compact.
+III. Nếu K là compact, thì K là liên thông.",Tôi chỉ,II chỉ,Chỉ III,Chỉ có I và II,D
+"Giả sử V là một không gian vector thực có chiều hữu hạn n. Gọi tập hợp các ma trận từ V vào chính nó là M(V). Cho T thuộc M(V). Xét hai không gian con U = {X ∈ M(V) : TX = XT} và W = {TX − XT : X ∈ M(V)}. Trong các phát biểu sau đây, phát biểu nào phải đúng?
+I. Nếu V có một cơ sở chỉ chứa các vector riêng của T thì U = M(V).
+II. dim (U) + dim (W) = n^2
+III. dim (U) < n",Tôi chỉ,II chỉ,Chỉ III,Chỉ có I và II,B
+"Giả sử F là một lực đơn vị không đổi song song với vector (-1, 0, 1) trong không gian xyz. Công thực hiện bởi F lên một hạt di chuyển theo đường đi được cho bởi (t, t^2, t^3) trong khoảng thời gian từ t=0 đến t=1 là bao nhiêu?",-1/4,-1/(4√2),0,sqrt(2),C
+"Cho X là một không gian tô pô, và cho A, B, và C là các tập con không rỗng của X sao cho A c B c C; nghĩa là, A là tập con thực sự của B, và B là tập con thực sự của C. Trong các phát biểu sau đây, phát biểu nào đúng?
+I. Nếu A và C liên thông, thì B liên thông.
+II. Nếu A và C compact, thì B compact.
+III. Nếu A và C là Hausdorff, thì B là Hausdorff.",Chỉ có I và II,Chỉ III,Chỉ có I và III,"I, II và III",D
+"Cho x_1 = 1 và x_(n+1) = căn bậc hai của (3+2x_n) với mọi số nguyên dương n. Nếu giả định rằng {x_n} hội tụ, thì lim x_n =",3,e,sqrt(5),0,A
+"Nếu v là một vector riêng của ma trận khả nghịch A, thì điều nào trong những điều sau đây là đúng?
+I. v cũng là một vector riêng của 2A.
+II. v cũng là một vector riêng của A^2.
+III. v cũng là một vector riêng của A^(-1).",Tôi chỉ,II chỉ,Chỉ III,"I, II và III",D
+Có bao nhiêu số nguyên dương k mà biểu diễn thập phân thông thường của số nguyên k! kết thúc bằng đúng 99 số không?,Không,Một,Bốn,Năm,D
+"Cho R là một vành có phần tử đơn vị nhân. Nếu U là một nhóm con cộng của R sao cho ur thuộc U với mọi u thuộc U và mọi r thuộc R, thì U được gọi là một iđêan phải của R. Nếu R có đúng hai iđêan phải, thì điều nào sau đây phải đúng?
+I. R là giao hoán.
+II. R là một vành chia (nghĩa là, tất cả các phần tử ngoại trừ phần tử đơn vị cộng đều có nghịch đảo nhân).
+III. R là vô hạn.",Tôi chỉ,II chỉ,Chỉ III,Chỉ có I và II,B
+"Một con xúc xắc sáu mặt (có các mặt được đánh số từ 1 đến 6, như thông thường) được biết là giả: Xác suất để tung ra bất kỳ số chẵn nào gấp đôi xác suất tung ra bất kỳ số lẻ nào. Xác suất để khi tung con xúc xắc này hai lần, lần tung đầu tiên ra số 5 và lần tung thứ hai ra số 6 là bao nhiêu?",2/81,1/18,2/27,1/9,A
+Phát biểu 1 | Giả sử {s_n} và {t_n} là các dãy số phức sao cho lim_n→∞ s_n = s và lim_n→∞ tn = t. lim_n→∞ s_nt_n = st. Phát biểu 2 | Tồn tại một dãy số thực bị chặn không có dãy con hội tụ.,"Đúng, Đúng","Đúng, Sai","Sai, Đúng","Sai, Sai",B
+"Định nghĩa một phép toán nhị phân trên Z, tập hợp các số nguyên, bằng phương trình m • n = m + n + mn. Trong các phát biểu sau đây, phát biểu nào đúng về cấu trúc nhị phân (Z, • )?
+I. Cấu trúc này không phải là một nhóm vì phép toán không có tính kết hợp.
+II. Cấu trúc này không phải là một nhóm vì không có phần tử đơn vị.
+III. Cấu trúc này không phải là một nhóm vì không phải tất cả các phần tử đều có nghịch đảo.
+IV. Cấu trúc này là một nhóm.",Chỉ có I và II,Chỉ có I và III,Chỉ II và III,Chỉ III,D
+"Kate mất k ngày để viết một bài kiểm tra thực hành toán GRE. John mất j ngày để viết một bài kiểm tra thực hành toán GRE. Nếu Kate và John làm việc trên một bài kiểm tra thực hành theo ca 2 ngày luân phiên, họ mất 10 ngày khi Kate bắt đầu và 10,5 ngày khi John bắt đầu. Sẽ mất bao lâu để hai người hoàn thành một bài kiểm tra thực hành nếu Kate và John làm việc đồng thời?",9 ngày rưỡi,5 ngày,41/8 ngày,36/7 ngày,D
+Diện tích lớn nhất có thể của một vùng tam giác với một đỉnh ở tâm của một đường tròn bán kính 1 và hai đỉnh còn lại nằm trên đường tròn là bao nhiêu?,1/2,1,sqrt(2),pi,A
+"Cho f(x,y) = x^2 - 2xy + y^3 với mọi số thực x và y. Điều nào sau đây là đúng?",f có tất cả các cực trị tương đối của nó trên đường thẳng x = y.,f có tất cả các cực trị tương đối của nó trên parabol x = y^2.,"f có một cực tiểu tương đối tại (0, 0).","f có một cực tiểu tuyệt đối tại (2/3, 2/3).",A
+Phần tử có bậc lớn nhất trong nhóm hoán vị của 5 đối tượng là bao nhiêu?,5,6,12,15,B
+"S(n) là một mệnh đề về các số nguyên dương n sao cho bất cứ khi nào S(k) đúng, S(k + 1) cũng phải đúng. Hơn nữa, tồn tại một số nguyên dương n0 nào đó mà S(n0) không đúng. Trong các kết luận sau đây, kết luận nào là mạnh nhất có thể rút ra được?",S(n0 + 1) không đúng.,S(n0 - 1) không đúng.,S(n) không đúng cho bất kỳ n nào <= n0,S(n) không đúng cho bất kỳ n nào >= n0,C
+"Trong không gian xyz, tọa độ của điểm trên mặt phẳng 2x + y + 3z = 3 gần gốc tọa độ nhất là gì?","(0, 0, 1)","(3/7, 3/14, 9/14)","(7/15, 8/15, 1/15)","(5/6, 1/3, 1/3)",B
+Đối với những số nguyên n nào trong khoảng từ 3 đến 11 (3 <= n <= 11) chỉ tồn tại duy nhất một nhóm có bậc n (tính đến đẳng cấu)?,Vì không có số nguyên n như vậy,"Chỉ dành cho 3, 5, 7 và 11","Chỉ dành cho 3, 5, 7, 9 và 11","Chỉ dành cho 4, 6, 8 và 10",B
+Một cây là một đồ thị liên thông không có chu trình. Có bao nhiêu cây không đẳng cấu với 5 đỉnh tồn tại?,1,2,3,4,C
+"Giả sử A và B là các ma trận khả nghịch n x n, trong đó n > 1, và I là ma trận đơn vị n x n. Nếu A và B là các ma trận tương tự, thì trong số các phát biểu sau đây, phát biểu nào phải đúng?	I. A - 2I và B - 2I là các ma trận tương tự. II. A và B có cùng vết.	 III. A^-1 và B^-1 là các ma trận tương tự.",Tôi chỉ,II chỉ,Chỉ III,"I, II và III",D
+"Cho C là đường tròn nằm trên mặt phẳng yz có phương trình là (y - 3)^2 + z^2 = 1. Nếu C được quay quanh trục z, bề mặt tạo ra là một hình xuyến. Phương trình của hình xuyến này là gì?",x^2 + y^2 + z^2 + 8 = 6y,(x^2 + y^2 + z^2)^2 = 8 + 36(x^2 + z^2),(x^2 + y^2 + z^2 + 8)^2 = 36(x^2 + z^2),(x^2 + y^2 + z^2 + 8)^2 = 36(x^2 + y^2),D
+"Trong các phương trình sau đây, phương trình nào là phương trình của đường tiếp tuyến với đồ thị của y = x + e^x tại x = 0?",y = 2x + 1,y = 2x,y = x + 2,y = x + 1,A
+"Cho V là không gian vector thực của tất cả các ma trận thực 2 x 3, và cho W là không gian vector thực của tất cả các vector cột thực 4 x 1. Nếu T là một phép biến đổi tuyến tính từ V lên W, thì chiều của không gian con hạt nhân của T là bao nhiêu?",2,3,4,5,A
+"Phát biểu 1 | Giả sử ∑|a_i| phân kỳ và ∑ a_i = 2. Có một sự sắp xếp lại a_i_k của các số hạng sao cho ∑ a_i_k = 4. Phát biểu 2 | Tồn tại các không gian metric X và Y với X đóng và bị chặn và một ánh xạ liên tục f : X → Y sao cho f(X) KHÔNG ""đóng và bị chặn"".","Đúng, Đúng","Đúng, Sai","Sai, Đúng","Sai, Sai",A
+Số góc nhọn tối đa trong một đa giác lồi 10 cạnh trên mặt phẳng Euclid là,1,2,3,4,C
+"Nếu f(z) là một hàm giải tích ánh xạ toàn bộ mặt phẳng phức hữu hạn vào trục thực, thì trục ảo phải được ánh xạ lên",toàn bộ trục số thực,một điểm,một tia,một khoảng hữu hạn mở,B
+"Một nhóm G trong đó (ab)^2 = a^2b^2 đối với mọi a, b thuộc G nhất thiết là",hữu hạn,chu kỳ,bậc hai,aben,D
+"Nếu f là một hàm liên tục khả vi có giá trị thực được định nghĩa trên khoảng mở (-1, 4) sao cho f(3) = 5 và f'(x) ≥ -1 với mọi x, thì giá trị lớn nhất có thể của f(0) là bao nhiêu?",3,4,5,8,D
+"Giả sử A và B là các ma trận n × n với các phần tử thực. Trong số các phát biểu sau, phát biểu nào là ĐÚNG?
+I. Vết của A^2 là không âm.
+II. Nếu A^2 = A, thì vết của A là không âm.
+III. Vết của AB là tích của vết A và vết B.",II chỉ,Chỉ III,Chỉ có I và II,Chỉ II và III,A
+Chữ số hàng đơn vị trong dạng thập phân chuẩn của số 7^25 là gì?,1,3,5,7,D
+"Phát biểu 1 | f : X → Y là liên tục và X là compact. f phải là liên tục đều.
+Phát biểu 2 | Nếu f(x), g(x) : R → R khả vi ở mọi nơi thì f(g(x)) phải khả vi ở mọi nơi.","Đúng, Đúng","Đúng, Sai","Sai, Đúng","Sai, Sai",A
+Vùng được giới hạn bởi các đường cong y = x và y = x^2 trong góc phần tư thứ nhất của mặt phẳng xy được quay quanh trục y. Thể tích của khối tròn xoay tạo ra là,π/12,π/6,π/3,2π/3,B
+"Trong mặt phẳng xy, đường cong có phương trình tham số x = cos t và y = sin t, 0 <= t <= pi, có độ dài",3,pi,3pi,3/2,B
+"Trong các khoảng sau đây, khoảng nào là khoảng hội tụ hợp lệ cho chuỗi lũy thừa?
+(I) [−1, 3)
+(II) (−∞, 0]
+(III) [2, 2] ∪ [3, 3]
+(IV) (−∞,∞)",Chỉ (II),Chỉ (IV ),(I) và (IV),(II) và (III),C
+"Nếu f: R -> R là một hàm bị chặn và khả tích Lebesgue, thì điều nào sau đây phải đúng?",f là khả tích Riemann.,Không tồn tại một tập E đếm được vô hạn của R sao cho f không khả vi tại mọi x \in E.,Không tồn tại một tập con không đếm được E của R sao cho f không khả vi tại mọi x \in E.,Không có câu trả lời nào ở trên.,D
+"Trong mặt phẳng xy, đồ thị của x^(log y) = y^log x là",góc phần tư thứ nhất mở,một đường cong khép kín,một tia trong góc phần tư thứ nhất mở,một điểm duy nhất,A
+Đối với giá trị p nào thì chuẩn ||x||_p có thể biểu diễn dưới dạng tích vô hướng?,1,2,p >= 1,vô cực,B
+"Giả sử S là một không gian tô pô compact, T là một không gian tô pô, và f là một hàm từ S lên T. Trong các điều kiện sau đây về f, điều kiện nào là yếu nhất đủ để đảm bảo tính compact của T?",f là một đồng phôi.,f là liên tục và một-một,f là liên tục.,f là một-một,C
+Diện tích của một tam giác đều có đường tròn nội tiếp với bán kính 2 là bao nhiêu?,12,16,12*căn bậc hai của 3,16*căn bậc hai của 3,C
+Với giá trị n nào thì có chính xác hai nhóm abelian bậc n tính đến đẳng cấu?,4,7,8,12,A
+"Điều nào sau đây không phải lúc nào cũng đúng đối với x, y, z ∈ R^k?",|x| ≥ 0,|x · y| ≤ |x||y|,|x| = 0 khi và chỉ khi x = 0,|x + y| = |x| + |y|,D
+"Cho V là không gian vectơ, dưới các phép toán thông thường, của các đa thức thực có bậc tối đa là 3. Cho W là không gian con của tất cả các đa thức p(x) trong V sao cho p(0) = p(1) = p(-1) = 0. Khi đó dim V + dim W là",4,5,6,7,B
+"Nếu V và W là các không gian con 2 chiều của R^4, thì các chiều có thể của không gian con V giao W là gì?",1 duy nhất,Chỉ 2,0 và 1 duy nhất,"0, 1, và 2 chỉ",D
+"Các đường cong y = (sin x + cos x)^4 và y = (sin x - cos x)^4 giao nhau tại x = 0. Nếu a là giá trị dương nhỏ nhất của x mà tại đó các đường cong này giao nhau tiếp theo, hãy xác định diện tích giữa các đường cong này từ x = 0 đến x = a.",2,π,4,3π/2,C
+"Nếu f là một phép biến đổi tuyến tính từ mặt phẳng đến số thực và nếu f(1, 1) = 1 và f(-1, 0) = 2, thì f(3, 5) =",9,8,0,-5,A
+Đa thức 2x^5 + 8x - 7 có bao nhiêu nghiệm thực?,Không,Một,Hai,Ba,B
+"Khoa toán của một trường đại học có 10 giáo sư và sẽ mở 20 khóa học khác nhau vào học kỳ tới. Mỗi giáo sư sẽ được phân công dạy đúng 2 trong số các khóa học, và mỗi khóa học sẽ có đúng một giáo sư được phân công giảng dạy. Nếu bất kỳ giáo sư nào cũng có thể được phân công dạy bất kỳ khóa học nào, thì có bao nhiêu cách phân công hoàn chỉnh khác nhau cho 10 giáo sư vào 20 khóa học?",20!/2^(10),10!/2^9,10^(20) - 2^(10),10^(20) - 100,A
+"Trong số những điều sau đây, điều nào đúng:","Có thể đặt một quan hệ thứ tự tuyến tính ≤ trên các số phức C sao cho (C, +, ×, ≤) không phải là một trường có thứ tự.","Có thể đặt một quan hệ thứ tự tuyến tính trên các số phức C để biến (C, +, ×, ≤) thành một trường có thứ tự.",Không phải (a) cũng không phải (b),Cả (a) và (b).,A
+"Trong một trò chơi, hai người chơi lần lượt tung một đồng xu công bằng; người chiến thắng là người đầu tiên tung được mặt ngửa. Xác suất để người chơi tung đồng xu đầu tiên thắng trò chơi là",1/4,1/3,1/2,2/3,D
+"Trong số những điều sau đây, cái nào KHÔNG phải là một nhóm?",Các số nguyên dưới phép cộng,Các số nguyên khác không dưới phép nhân,Các số thực khác không dưới phép nhân,Các số phức dưới phép cộng,B
+"Cho x và y là các số nguyên dương sao cho 3x + 7y chia hết cho 11. Trong các trường hợp sau đây, trường hợp nào cũng phải chia hết cho 11?",4x + 6y,x + y + 5,9x + 4y,4x - 9y,D
+"Giá trị nhỏ nhất của biểu thức x + 4z là bao nhiêu khi xét như một hàm được định nghĩa trên R^3, với ràng buộc x^2 + y^2 + z^2 <= 2?",0,-2,-căn bậc hai của 34,-căn bậc hai của 35,C
+"Cho R là một vành và U và V là các iđêan (hai phía) của R. Trong các trường hợp sau đây, trường hợp nào cũng phải là iđêan của R?
+I. {u + v : u \in U và v \in V}
+II. {uv : u \in U và v \in V}
+III. {x : x \in U và x \in V}",II chỉ,Chỉ III,Chỉ có I và II,Chỉ có I và III,D
+Vùng được giới hạn bởi trục x và hàm số f(x) = x/(1 + x^3) được quay quanh trục x. Thể tích của khối rắn được tạo ra là bao nhiêu?,π/3,π/4,π,2π,A
+Giả sử hôm nay là thứ Tư. Vậy 10^(10^(10)) ngày kể từ bây giờ sẽ là thứ mấy trong tuần?,Chủ nhật,Thứ Hai,Thứ Ba,Thứ Tư,A
+"Nước nhỏ giọt ra khỏi một lỗ ở đỉnh của một hình nón úp ngược với tốc độ 3 cm^3 mỗi phút. Chiều cao và bán kính của hình nón lần lượt là 2 cm và 1 cm. Tốc độ thay đổi chiều cao của nước là bao nhiêu khi mực nước thấp hơn đỉnh hình nón nửa centimét? Thể tích của một hình nón là V = (π/3)*r^2*h, trong đó r là bán kính và h là chiều cao của hình nón.",−48/π cm/phút,−4/(3π) cm/phút,−8/(3π) cm/phút,−16/(3π) cm/phút,D
+"Xét hệ phương trình tuyến tính
+w + 3x + 2y + 2z = 0
+w + 4x + y = 0
+3w + 5x + 10y + 14z = 0
+2w + 5x + 5y + 6z = 0
+với các nghiệm có dạng (w, x, y, z), trong đó w, x, y và z là số thực. Trong các phát biểu sau đây, phát biểu nào là SAI?",Hệ thống này nhất quán.,Hệ có vô số nghiệm.,Tổng của bất kỳ hai nghiệm nào cũng là một nghiệm.,"Mọi nghiệm là một bội vô hướng của (-5, 1, 1, 0).",D
+"Nếu c > 0 và f(x) = e^x - cx với mọi số thực x, thì giá trị nhỏ nhất của f là",f(c),f(e^c),f(1/c),f(log c),D
+"Giả sử A là một ma trận 3 × 3 sao cho det(A − λI) = −λ^3 + 3λ^2 + λ − 3, trong đó I là ma trận đơn vị 3 × 3. Trong số các phát biểu sau đây, phát biểu nào ĐÚNG về A?
+I. Vết của A là 3.
+II. Định thức của A là −3.
+III. Ma trận A có các giá trị riêng là −3 và 1.",Tôi chỉ,II chỉ,Chỉ III,Chỉ có I và II,D
+Cho y = f(x) là nghiệm của phương trình vi phân x dy + (y - xe^x) dx = 0 sao cho y = 0 khi x = 1. Giá trị của f(2) là bao nhiêu?,1/(2e),1/e,e^2/2,2e,C
+"Một đồng xu công bằng sẽ được tung 100 lần, mỗi lần tung sẽ cho kết quả là mặt ngửa hoặc mặt sấp. Nếu H là tổng số mặt ngửa và T là tổng số mặt sấp, thì trong các sự kiện sau đây, sự kiện nào có xác suất lớn nhất?",H = 50,T >= 60,51 <= H <= 55,H >= 48 và T >= 48,D
+"Phát biểu 1 | Giả sử f : [a, b] là một hàm và giả sử f có một cực đại địa phương. f'(x) phải tồn tại và bằng 0? Phát biểu 2 | Tồn tại các ánh xạ liên tục không hằng số từ R đến Q.","Đúng, Đúng","Đúng, Sai","Sai, Đúng","Sai, Sai",D
+"Giả sử I ≠ A ≠ -I, trong đó I là ma trận đơn vị và A là một ma trận thực 2 x 2. Nếu A = A^(-1), thì vết của A là",2,1,0,-1,C
+"Tổng cộng x feet hàng rào sẽ tạo thành ba cạnh của một sân hình chữ nhật bằng phẳng. Diện tích tối đa có thể của sân là bao nhiêu, tính theo x?",x^2/9,x^2/8,x^2/4,x^2,B
+"Phát biểu 1 | Nếu A liên thông, thì bao đóng của A phải liên thông. Phát biểu 2 | Mọi hàm liên tục f : (0, 1) → (0, 1) đều có một điểm bất động.","Đúng, Đúng","Đúng, Sai","Sai, Đúng","Sai, Sai",B
+Tập hợp nào sau đây có lực lượng lớn nhất?,R,Tập hợp tất cả các hàm từ Z đến Z,"Tập hợp tất cả các hàm từ R đến {0, 1}",Tập hợp tất cả các tập con hữu hạn của R,C
+"Cho f(x) là một hàm có đồ thị đi qua gốc tọa độ. Nếu f(2n) = n^2 + f[2(n - 1)] với mọi số nguyên n, thì giá trị của f(8) là bao nhiêu?",24,30,32,36,B
+Có bao nhiêu nhóm Abel cấu trúc khác biệt có bậc 72?,4,6,8,9,B
+"Nếu nhóm hữu hạn G chứa một nhóm con có bậc bảy nhưng không có phần tử nào (ngoài phần tử đơn vị) là nghịch đảo của chính nó, thì bậc của G có thể là",27,28,35,37,C
+"Cho f(x, y) = x^3 + y^3 + 3xy với mọi số thực x và y. Khi đó tồn tại hai điểm khác nhau P và Q sao cho f có một",cực đại địa phương tại P và tại Q,điểm yên ngựa tại P và tại Q,cực đại địa phương tại P và một điểm yên ngựa tại Q,cực tiểu địa phương tại P và điểm yên ngựa tại Q,C
+"Nếu A là một tập con của đường thẳng thực R và A chứa mỗi số hữu tỉ, thì điều nào sau đây phải đúng?","Nếu A là tập mở, thì A = R.","Nếu A đóng, thì A = R.","Nếu A là không đếm được, thì A = R.","Nếu A là không đếm được, thì A là tập mở.",B
+Giả sử M là một ma trận thực 5 x 5. Chính xác bốn trong năm điều kiện sau đây về M tương đương với nhau. Điều kiện nào trong năm điều kiện này không tương đương với bất kỳ điều kiện nào trong bốn điều kiện còn lại?,"Đối với bất kỳ hai vector cột khác biệt u và v của M, tập hợp {u, v} là độc lập tuyến tính.",Hệ thuần nhất Mx = 0 chỉ có nghiệm tầm thường.,Hệ phương trình Mx = b có một nghiệm duy nhất cho mỗi vector cột 5 x 1 thực b.,Định thức của M khác không.,A
+Có bao nhiêu số dương x thỏa mãn phương trình cos(97x) = x?,1,15,31,49,C
+"Đối với vòng nào trong các vòng sau đây, có thể xảy ra trường hợp tích của hai phần tử khác không bằng không?",Vành số phức,Vành các số nguyên modulo 11,"Vành các hàm liên tục có giá trị thực trên đoạn [0, 1]",Vòng {a + b * căn bậc hai của 2 : a và b là các số hữu tỉ},C
+Ánh xạ x -> axa^2 của một nhóm G vào chính nó là một đồng cấu khi và chỉ khi,G là nhóm Abel,G = {e},a^3 = e,a^2 = a,C
+"Nếu A là ma trận 2 x 2 mà phần tử (i, j) bằng i + j, và B là ma trận 3 x 3 mà phần tử (i, j) bằng i + j, hãy tìm giá trị của tổng detA + detB.",-2,-1,0,2,B
+"Nếu f : (0, 1) → (0, 1], thì điều nào sau đây có thể ĐÚNG?
+I. f là một-một và toàn ánh.
+II. Ảnh của f là compact.
+III. f là liên tục, một-một và toàn ánh.",Tôi chỉ,II chỉ,Chỉ có I và II,Chỉ có I và III,C
+"Nếu một số thực x được chọn ngẫu nhiên trong khoảng [0, 3] và một số thực y được chọn ngẫu nhiên trong khoảng [0, 4], thì xác suất để x < y là bao nhiêu?",1/2,7/12,5/8,2/3,C
+"Xác suất mà một điểm (x, y) trong R^2 được chọn tuân theo phân phối ngẫu nhiên đồng nhất trong vùng được mô tả bởi bất đẳng thức 0 < |x| + |y| < 1. Xác suất để 2(x + y) > 1 là bao nhiêu?",0,1/4,sqrt(2)/4,1/căn bậc hai của 2,B
+(1+i)^10 =,1,i,32,32i,D
+"Nếu U và V là các không gian con 3 chiều của R^5, thì các kích thước có thể của U ∩ V là gì?",0,1,0 hoặc 1,"1, 2, hoặc 3",D
+"Gọi S là tập con của R^2 bao gồm tất cả các điểm (x, y) trong hình vuông đơn vị [0, 1] × [0, 1] mà x hoặc y, hoặc cả hai, là số vô tỉ. Đối với tô-pô chuẩn trên R^2, S là",đóng,mở,kết nối,hoàn toàn tách rời,C
+"Trong các đường tròn sau đây, đường tròn nào có số điểm giao nhau nhiều nhất với parabol x^2 = y + 4 ?",x^2 + y^2 = 1,x^2 + y^2 = 2,x^2 + y^2 = 9,x^2 + y^2 = 16,C
+X là một tập hợp hữu hạn với tính chất sau: Số lượng tập con của X chứa đúng 3 phần tử nhiều hơn 14 so với số lượng tập con của X chứa đúng 2 phần tử. Có bao nhiêu tập con của X chứa đúng 4 phần tử?,24,25,28,35,D
+"Cho T: R^2 -> R^2 là phép biến đổi tuyến tính ánh xạ điểm (1, 2) thành (2, 3) và điểm (-1, 2) thành (2, -3). Khi đó T ánh xạ điểm (2, 1) thành","(1, 6)","(-1, 4)","(3, 2)","(-4, 3)",A

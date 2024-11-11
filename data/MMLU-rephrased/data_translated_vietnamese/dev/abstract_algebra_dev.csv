@@ -1,0 +1,7 @@
+Tìm tất cả c trong Z_3 sao cho Z_3[x]/(x^2 + c) là một trường.,0,1,2,3,B
+"Phát biểu 1 | Nếu aH là một phần tử của một nhóm thương, thì |aH| chia hết cho |a|. Phát biểu 2 | Nếu H và K là các nhóm con của G thì HK là một nhóm con của G.","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",B
+"Phát biểu 1 | Mỗi phần tử của một nhóm tạo ra một nhóm con tuần hoàn của nhóm đó.
+Phát biểu 2 | Nhóm đối xứng S_10 có 10 phần tử.","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",C
+"Phát biểu 1| Mọi hàm từ một tập hữu hạn lên chính nó phải là một-một.
+Phát biểu 2 | Mọi nhóm con của một nhóm Abel đều là Abel.","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",A
+Tìm đặc trưng của vành 2Z.,0,3,12,30,A

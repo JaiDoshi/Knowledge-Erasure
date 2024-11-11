@@ -1,0 +1,130 @@
+"Tìm bậc của phần mở rộng trường Q(√2, √3, √18) trên Q.",0,4,2,6,B
+"Cho p = (1, 2, 5, 4)(2, 3) trong S_5. Tìm chỉ số của <p> trong S_5.",8,2,24,120,C
+Tìm tất cả các số không trong trường hữu hạn đã chỉ định của đa thức cho trước với các hệ số trong trường đó. x^5 + 3x^3 + x^2 + 2x trong Z_5,0,1,"0,1","0,4",D
+"Phát biểu 1 | Một nhóm thương của một nhóm không Abel là không Abel.
+Phát biểu 2 | Nếu K là một nhóm con chuẩn tắc của H và H là một nhóm con chuẩn tắc của G, thì K là một nhóm con chuẩn tắc của G.","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",B
+"Tìm tích của các đa thức đã cho trong vành đa thức đã cho. f(x) = 4x - 5, g(x) = 2x^2 - 4x + 2 trong Z_8[x].",2x^2 + 5,6x^2 + 4x + 6,0,x^2 + 1,B
+"Phát biểu 1 | Nếu một nhóm có một phần tử bậc 15 thì nó phải có ít nhất 8 phần tử bậc 15. Phát biểu 2 | Nếu một nhóm có nhiều hơn 8 phần tử bậc 15, nó phải có ít nhất 16 phần tử bậc 15.","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",A
+Phát biểu 1 | Mọi ảnh đồng cấu của một nhóm G đều đẳng cấu với một nhóm thương của G. Phát biểu 2 | Các ảnh đồng cấu của một nhóm G giống nhau (đến đẳng cấu) với các nhóm thương của G.,"Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",A
+Phát biểu 1 | Một đồng cấu vành là một-một khi và chỉ khi hạt nhân của nó là {0}. Phát biểu 2 | Q là một iđêan trong R.,"Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",D
+Tìm bậc của phần mở rộng trường Q(√2 + √3) trên Q.,0,4,2,6,B
+Tìm tất cả các số không trong trường hữu hạn đã chỉ định của đa thức cho trước với các hệ số trong trường đó. x^3 + 2x + 2 trong Z_7,1,2,"2,3",6,C
+"Phát biểu 1 | Nếu H là một nhóm con của G và a thuộc G thì |aH| = |Ha|. Phát biểu 2 | Nếu H là một nhóm con của G và a và b thuộc G, thì aH và Hb hoặc giống hệt nhau hoặc không giao nhau.","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",C
+"Nếu A = {1, 2, 3} thì quan hệ S = {(1, 1), (2, 2)} là",đối xứng chỉ,chỉ phản đối xứng,vừa đối xứng vừa phản đối xứng,một quan hệ tương đương,C
+"Tìm bậc của nhóm thương (Z_11 x Z_15)/(<1, 1>)",1,2,5,11,A
+Đa thức x^3 + 2x^2 + 2x + 1 có thể được phân tích thành các nhân tử tuyến tính trong Z_7[x]. Hãy tìm phép phân tích này.,(x − 2)(x + 2)(x − 1),(x + 1)(x + 4)(x - 2),(x + 1)(x − 4)(x − 2),(x - 1)(x − 4)(x − 2),C
+Tìm bậc tối đa có thể của một phần tử trong S_n với n = 10.,6,12,30,105,C
+Phát biểu 1 | R là một trường phân rã của một đa thức nào đó trên Q. Phát biểu 2 | Có một trường với 60 phần tử.,"Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",B
+"Nghịch đảo của -i trong nhóm nhân, {1, -1, i, -i} là",1,-1,i,-i,C
+"Tính tích trong vành đã cho. (2,3)(3,5) trong Z_5 x Z_9","(1,1)","(3,1)","(1,6)","(3,6)",C
+Tập hợp tất cả các số thực dưới phép nhân thông thường không phải là một nhóm vì,phép nhân không phải là một phép toán nhị phân,phép nhân không có tính kết hợp,phần tử đơn vị không tồn tại,số không không có nghịch đảo,D
+"Phát biểu 1| Mọi nhóm có bậc p^2 trong đó p là số nguyên tố đều là nhóm Abel.
+Phát biểu 2 | Đối với một số nguyên tố p cố định, một nhóm con Sylow p của một nhóm G là một nhóm con chuẩn tắc của G khi và chỉ khi nó là nhóm con Sylow p duy nhất của G.","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",A
+"Phát biểu 1 | Đối với các nhóm hữu hạn G và H, |G + H| = |G||H|. (G + H là tích trực tiếp nội.)
+Phát biểu 2 | Nếu r chia hết cho m và s chia hết cho n thì Z_m + Z_n có một nhóm con đẳng cấu với Z_r + Z_s.","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",A
+"Tìm tổng của các đa thức đã cho trong vành đa thức đã cho. f(x) = 4x - 5, g(x) = 2x^2 - 4x + 2 trong Z_8[x].",2x^2 + 5,6x^2 + 4x + 6,0,x^2 + 1,A
+"Phát biểu 1 | Bất kỳ tập hợp hai vector nào trong R^2 đều độc lập tuyến tính.
+Phát biểu 2 | Nếu V = span(v1, ... , vk) và {v1, ... , vk} độc lập tuyến tính, thì dim(V) = k.","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",D
+Tập hợp tất cả các căn bậc n của đơn vị dưới phép nhân của số phức tạo thành một/một,nửa nhóm có phần tử đơn vị,nhóm giao hoán nửa với phần tử đơn vị,nhóm,nhóm Abel,D
+"Phát biểu 1 | Mọi iđêan cực đại đều là iđêan nguyên tố. Phát biểu 2 | Nếu I là một iđêan cực đại của một vành giao hoán R, thì R/I là một trường.","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",B
+Gọi G là tập hợp tất cả các ma trận không suy biến n x n với các phần tử là số hữu tỷ. Khi đó dưới phép nhân G là một/một,tiểu nhóm,nhóm Abel hữu hạn,"nhóm vô hạn, không giao hoán","vô hạn, abelian",C
+"Phát biểu 1 | Mọi nhóm bậc 42 đều có một nhóm con chuẩn tắc bậc 7.
+Phát biểu 2 | Mọi nhóm bậc 42 đều có một nhóm con chuẩn tắc bậc 8.","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",C
+Xác định xem đa thức trong Z[x] có thỏa mãn tiêu chuẩn Eisenstein về tính bất khả quy trên Q hay không. 8x^3 + 6x^2 - 9x + 24,"Đúng, với p=2.","Vâng, với p=3.","Vâng, với p=5.",Không.,B
+"Phát biểu 1 | Ảnh của một nhóm 6 phần tử dưới một đồng cấu có thể có 12 phần tử.
+Phát biểu 2 | Có một đồng cấu từ một nhóm nào đó có 6 phần tử vào một nhóm nào đó có 12 phần tử.","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",D
+Phát biểu 1 | Ảnh đồng cấu của một nhóm cyclic là cyclic. Phát biểu 2 | Ảnh đồng cấu của một nhóm Abel là Abel.,"Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",A
+"Phát biểu 1 | Nếu H là một nhóm con của nhóm G và a thuộc G, thì aH = Ha.
+Phát biểu 2 | Nếu H là nhóm con chuẩn tắc của G và a thuộc G, thì ah = ha với mọi h thuộc H.","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",B
+"Nếu (G, .) là một nhóm sao cho (ab)^-1 = a^-1b^-1, với mọi a, b thuộc G, thì G là một/một",nhóm giao hoán nửa,nhóm Abel,nhóm không giao hoán,Không có cái nào trong số này,B
+"Phát biểu 1 | Trong một không gian vectơ hữu hạn chiều, mọi tập hợp các vectơ độc lập tuyến tính đều được chứa trong một cơ sở.
+
+Phát biểu 2 | Nếu B_1 và B_2 là các cơ sở của cùng một không gian vectơ, thì |B_1| = |B_2|.","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",A
+"Một nhóm nào đó (G, 0) được biết là nhóm Abel. Vậy điều nào sau đây là ĐÚNG đối với G?",g = g^-1 đối với mọi g trong G,g = g^2 cho mọi g trong G,"(g o h)^2 = g^2 o h^2 cho mọi g,h trong G",G có bậc hữu hạn,C
+"Phát biểu 1 | Nếu T: V -> W là một phép biến đổi tuyến tính và dim(V) < dim(W) < 1, thì T phải là đơn ánh.
+
+Phát biểu 2 | Giả sử dim(V) = n và T: V -> V là tuyến tính. Nếu T là đơn ánh, thì nó là một song ánh.","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",A
+"Tìm bậc của phần mở rộng trường Q(√2, √3) trên Q.",0,4,2,6,B
+Tính tích trong vành đã cho. (20)(-8) trong Z_26,0,1,11,22,D
+Xác định xem đa thức trong Z[x] có thỏa mãn tiêu chuẩn Eisenstein về tính bất khả quy trên Q hay không. x^2 - 12,"Đúng, với p=2.","Vâng, với p=3.","Vâng, với p=5.",Không.,B
+Tìm phần tử sinh cho trường hữu hạn Z_7.,1,2,3,4,C
+"Phát biểu 1 | Mọi hoán vị đều là một chu trình.
+Phát biểu 2 | Mọi chu trình đều là một hoán vị.","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",D
+"Tập hợp các số nguyên Z với phép toán nhị phân ""*"" được định nghĩa là a*b = a + b + 1 với a, b thuộc Z, là một nhóm. Phần tử đơn vị của nhóm này là",0,1,-1,12,C
+Tìm đặc trưng của vành Z_3 x 3Z.,0,3,12,30,A
+"Phát biểu 1 | Một nhóm abelian nào đó có bậc 45 có một nhóm con bậc 10.
+Phát biểu 2 | Một nhóm con H của một nhóm G là một nhóm con chuẩn tắc khi và chỉ khi số lượng các lớp trái của H bằng số lượng các lớp phải của H.","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",B
+"Phát biểu 1 | Mọi miền nguyên có đặc số 0 đều vô hạn.
+Phát biểu 2 | Mọi miền nguyên có đặc số nguyên tố đều hữu hạn.","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",C
+"Cho A và B là các tập hợp, f: A -> B và g: B -> A là các hàm sao cho với mọi a \in A, g(f(a)) = a. Phát biểu 1 | Hàm f nhất thiết phải là đơn ánh. Phát biểu 2 | Hàm f nhất thiết phải là toàn ánh.","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",C
+"Phát biểu 1 | Đối với bất kỳ hai nhóm G và G' nào, tồn tại một đồng cấu từ G vào G'.
+Phát biểu 2 | Mọi đồng cấu đều là một ánh xạ một-một.","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",C
+"Phát biểu 1 | Một đồng cấu có thể có nhân trống rỗng.
+Phát biểu 2 | Không thể có một đồng cấu không tầm thường từ một nhóm hữu hạn nào đó vào một nhóm vô hạn nào đó.","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",B
+Tìm tất cả c trong Z_3 sao cho Z_3[x]/(x^3 + x^2 + c) là một trường.,0,2,1,3,B
+"Phát biểu 1 | Nếu R là một miền nguyên, thì R[x] là một miền nguyên.
+Phát biểu 2 | Nếu R là một vành và f(x) và g(x) thuộc R[x], thì bậc (f(x)g(x)) = bậc f(x) + bậc g(x).","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",C
+Tìm bậc tối đa có thể có của một phần tử nào đó trong Z_8 x Z_10 x Z_24.,8,120,240,24,B
+"Phát biểu 1 | Mọi nhóm giải được đều có bậc là lũy thừa của số nguyên tố.
+Phát biểu 2 | Mọi nhóm có bậc là lũy thừa của số nguyên tố đều giải được.","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",D
+Tìm tất cả c trong Z_3 sao cho Z_3[x]/(x^3 + cx^2 + 1) là một trường.,0,2,1,3,B
+"Trong nhóm G = {2, 4, 6, 8} dưới phép nhân modulo 10, phần tử đơn vị là",6,8,4,2,A
+"Phát biểu 1 | Nếu G, H và K là các nhóm bậc 4, thì ít nhất hai trong số chúng đồng cấu với nhau.
+Phát biểu 2 | Nếu Z_r + Z_s đồng cấu với một nhóm con Z_m + Z_n, thì r chia hết cho m và s chia hết cho n.","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",C
+Tìm bậc của phần mở rộng trường Q(√2) trên Q.,0,2,1,3,B
+"Phát biểu 1 | Mọi nhóm Abel tự do đều không có phần tử xoắn.
+Phát biểu 2 | Mọi nhóm Abel sinh hữu hạn không có phần tử xoắn đều là một nhóm Abel tự do.","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",A
+"Phát biểu 1 | 4x - 2 không thể rút gọn trên Z.
+Phát biểu 2 | 4x - 2 không thể rút gọn trên Q.","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",D
+Tìm phần tử sinh cho trường hữu hạn Z_11.,1,2,3,4,B
+"Phát biểu 1 | Mọi nhóm bậc 159 đều là nhóm xyclic.
+Phát biểu 2 | Mọi nhóm bậc 102 đều có một nhóm con chuẩn tắc không tầm thường và thực sự.","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",A
+"Phát biểu 1 | Nếu H và K là các nhóm con của G và một trong hai H hoặc K là nhóm con chuẩn tắc của G, thì HK là một nhóm con của G. Phát biểu 2 | Tất cả các nhóm có bậc p^2 trong đó p là số nguyên tố đều là nhóm Abel.","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",A
+"Phát biểu 1 | Phần tử đơn vị của một vành con phải giống với phần tử đơn vị của vành.
+Phát biểu 2 | Mọi trường đều là một miền nguyên.","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",D
+Phát biểu 1 | Tập hợp các ma trận 2 x 2 có các phần tử là số nguyên và định thức khác không là một nhóm dưới phép nhân ma trận. Phát biểu 2 | Tập hợp các ma trận 2 x 2 có các phần tử là số nguyên và định thức bằng 1 là một nhóm dưới phép nhân ma trận.,"Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",D
+"Phát biểu 1 | Mọi vành thương của mọi vành giao hoán đều là một vành giao hoán.
+Phát biểu 2 | Một iđêan N trong một vành R có phần tử đơn vị 1 là toàn bộ R khi và chỉ khi 1 thuộc N.","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",C
+"Nếu A = (1, 2, 3, 4). Cho ~= {(1, 2), (1, 3), (4, 2)}. Thì ~ là",không phản đối xứng,Ngoại động,phản thân,đối xứng,B
+Có bao nhiêu đồng cấu từ Z vào Z_2?,1,2,vô số,0,B
+"Phát biểu 1 | Mọi trường cũng là một vành.
+Phát biểu 2 | Mọi vành đều có phần tử đơn vị nhân.","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",C
+"Phát biểu 1 | Nếu R là một vành và f(x) và g(x) thuộc R[x], thì bậc (f(x)+g(x)) = giá trị lớn nhất của (bậc f(x), bậc g(x)). Phát biểu 2 | Nếu F là một trường thì mọi iđêan của F[x] đều là chính.","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",D
+"Một tập con H của một nhóm (G,*) là một nhóm nếu","a,b trong H => a * b trong H",a trong H => a^-1 trong H,"a,b trong H => a * b^-1 trong H",H chứa phần tử đơn vị,C
+Đa thức x^4 + 4 có thể được phân tích thành các nhân tử tuyến tính trong Z_5[x]. Hãy tìm phép phân tích này.,(x − 2)(x + 2)(x − 1)(x + 1),(x+1)^4,(x-1)(x+1)^3,(x-1)^3(x+1),A
+"Phát biểu 1 | Tồn tại một nhóm abelian tự do với mọi hạng số nguyên dương.
+Phát biểu 2 | Một nhóm abelian sinh hữu hạn là tự do abelian nếu số Betti của nó bằng số phần tử trong một tập sinh nào đó.","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",A
+"(Z,*) là một nhóm với a*b = a+b+1 cho mọi a, b thuộc Z. Nghịch đảo của a là",0,-2,a-2,(2+a)*-1,D
+Tìm bậc của phần mở rộng trường Q(sqrt(2)*sqrt(3)) trên Q.,0,4,2,6,C
+"Sử dụng định lý Fermat, tìm số dư khi chia 3^47 cho 23.",1,2,3,4,D
+Tìm đặc trưng của vành Z_3 x Z_3.,0,3,12,30,B
+"Phát biểu 1 | Nếu a và b là các phần tử của một nhóm và a không bằng b, thì a^2 không bằng b^2. Phát biểu 2 | Tập hợp các phép quay trong một nhóm nhị diện tạo thành một nhóm con tuần hoàn.","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",D
+Phát biểu 1 | Trong một nhóm (ab)^{-2} = b^{-2}a^{-2}. Phát biểu 2 | Trong một nhóm (ab)^n = a^nb^n.,"Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",B
+"Phát biểu 1 | S_n không phải là nhóm Abel đối với mọi n >= 3. Phát biểu 2 | Nếu a là một hoán vị là một chu trình m và b là một hoán vị là một chu trình n, thì |ab| = BCNN(m,n).","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",C
+Tìm đặc trưng của vành Z x Z.,0,3,12,30,A
+"Phát biểu 1 | Với n > 1, tập hợp {1,2, ..., n-1} là một nhóm dưới phép nhân modulo n. Phát biểu 2 | Tồn tại một số nguyên x sao cho 63x mod 100 = 1.","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",D
+"Phát biểu 1 | Nếu K là một nhóm con khác không của một nhóm abelian tự do hữu hạn sinh, thì K là abelian tự do. Phát biểu 2 | Nếu K là một nhóm con khác không của một nhóm abelian tự do hữu hạn sinh, thì G / K là abelian tự do.","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",C
+Phát biểu 1 | Tích trực tiếp bên ngoài của các nhóm cyclic là cyclic. Phát biểu 2 | Tích trực tiếp bên ngoài của D_3 và D_4 đẳng cấu với D_12.,"Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",B
+"Phát biểu 1 | Mọi nhóm abelian tự do khác không đều có vô số cơ sở.
+Phát biểu 2 | Mọi nhóm abelian tự do có hạng ít nhất là 2 đều có vô số cơ sở.","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",D
+"Phát biểu 1 | Với mọi số nguyên dương n, tồn tại một nhóm cyclic có bậc n.
+Phát biểu 2 | Mọi nhóm cyclic hữu hạn đều chứa một phần tử có bậc là ước của bậc của nhóm đó.","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",A
+"Phát biểu 1 | Nếu một nhóm có một phần tử bậc 10, thì nó có các phần tử bậc 1, 2 và 5. Phát biểu 2 | Nếu một nhóm có một phần tử bậc 2 và một phần tử bậc 3, thì nó có một phần tử bậc 6.","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",C
+"Cho A và B là các tập hợp, f: A -> B và g: B -> A là các hàm sao cho với mọi a \in A, g(f(a)) = a. Phát biểu 1 | Hàm g nhất thiết phải là đơn ánh. Phát biểu 2 | Hàm g nhất thiết phải là toàn ánh.","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",D
+Phát biểu 1 | Một đồng cấu là một-một khi và chỉ khi hạt nhân chỉ bao gồm phần tử đơn vị duy nhất. Phát biểu 2 | Ảnh của một nhóm 6 phần tử dưới một đồng cấu nào đó có thể có 4 phần tử.,"Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",C
+"Phát biểu 1 | Nếu H và K là các nhóm con của một nhóm G, thì |HK| = |H||K|/|H giao K|. Phát biểu 2 | Một nhóm có bậc 2p trong đó p là số nguyên tố lẻ thì là nhóm xyclic hoặc đẳng cấu với D_p.","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",A
+"Đối với T: Z x Z -> Z trong đó T(1, 0) = 3 và T(0, 1) = -5, hãy tìm T(-3,2).",-19,-10,19,10,A
+Tính tích trong vành đã cho. (12)(16) trong Z_24,0,1,4,6,A
+"Phát biểu 1 | Mọi hoán vị đều là một hàm một-một.
+Phát biểu 2 | Mọi hàm là một hoán vị khi và chỉ khi nó là một-một.","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",C
+Phát biểu 1 | Nếu một nhóm hữu hạn có bậc n thì nhóm đó chứa một nhóm con có bậc d với mọi ước số dương d của n. Phát biểu 2 | Nếu a thuộc một nhóm hữu hạn thì |a| chia hết cho |G|.,"Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",D
+Tìm tất cả các lớp kề của nhóm con 4Z của 2Z.,4Z,"4Z, 2 + 4Z",2Z,Z,B
+Câu nào trong các câu sau đây là đúng?,Mọi quan hệ tương đương đều là một quan hệ thứ tự bộ phận.,"Số quan hệ từ A = {x, y, z} đến B = (1, 2) là 64.",Quan hệ rỗng _ là phản xạ,Các tính chất của một quan hệ là đối xứng và không đối xứng là phủ định của nhau.,B
+Tìm bậc tối đa có thể của một phần tử trong S_n với n = 6.,6,12,30,105,A
+Phát biểu 1 | Q là một trường mở rộng của Z_2. Phát biểu 2 | Mọi đa thức không hằng số trên một trường đều có một nghiệm trong một trường mở rộng nào đó.,"Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",D
+Phát biểu 1 | Nếu H là một nhóm con của G và a thuộc G thì aH là một nhóm con của G khi và chỉ khi a thuộc H. Phát biểu 2 | Nếu H là một nhóm con của G và a và b thuộc G thì aH = bH khi và chỉ khi ab thuộc H.,"Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",C
+Tìm tất cả các số không trong trường hữu hạn đã chỉ định của đa thức cho trước với các hệ số trong trường đó. x^2 + 1 trong Z_2,0,1,"0,1",2,B
+Tìm số phần tử trong nhóm cyclic được chỉ định: Nhóm con cyclic của Z_30 được tạo ra bởi 25.,25,5,6,30,C
+"Phần tử (4, 2) của Z_12 x Z_8 có bậc",4,8,12,6,C
+"Phát biểu 1 | Mọi iđêan trong một vành đều là một vành con của vành đó.
+Phát biểu 2 | Mọi vành con của mọi vành đều là một iđêan của vành đó.","Đúng, Đúng","Sai, Sai","Đúng, Sai","Sai, Đúng",C

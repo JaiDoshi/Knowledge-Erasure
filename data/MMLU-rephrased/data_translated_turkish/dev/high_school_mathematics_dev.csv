@@ -1,0 +1,5 @@
+"Joe bir dans için ışıklardan sorumluydu. Kırmızı ışık her iki saniyede bir, sarı ışık her üç saniyede bir ve mavi ışık her beş saniyede bir yanıp sönüyor. Dansın tam başlangıcını ve tam sonunu da dahil edersek, yedi dakikalık bir dans boyunca tüm ışıklar kaç kez aynı anda yanacak? (Dansın tam başlangıcında üç ışığın da aynı anda yanıp söndüğünü varsayın.)",3,15,6,5,B
+"Yıllık olarak birleşik faizle hesaplanan beş bin dolar, %x faiz oranıyla altı yılda ikiye katlanıyor. Aynı faiz oranıyla, 300 doların 9600 dolara ulaşması kaç yıl sürecektir?",12,1,30,5,C
+"Değişken $x$, $y$'nin karesine doğrudan orantılıdır ve $y$, $z$'nin küpüne doğrudan orantılıdır. Eğer $z$ 2'ye eşitken $x$, $-16$'ya eşitse, $z$, $\frac{1}{2}$'ye eşit olduğunda $x$'in değeri nedir?",-1,16,-\frac{1}{256},\frac{1}{16},C
+Basitleştirin ve sonucu rasyonel bir payda ile yazın: $$\sqrt{\sqrt[3]{\sqrt{\frac{1}{729}}}}$$,\frac{3\sqrt{3}}{3},\frac{1}{3},√3,\frac{\sqrt{3}}{3},D
+"On öğrenci bir biyoloji sınavına girer ve şu puanları alır: 45, 55, 50, 70, 65, 80, 40, 90, 70, 85. Öğrencilerin sınav puanlarının ortalaması nedir?",55,60,62,65,D

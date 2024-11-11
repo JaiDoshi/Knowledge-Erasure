@@ -1,0 +1,811 @@
+"Which one of the following is the most appropriate definition of an X?
+
+X = 99% confidence interval","99% of the time in repeated samples, the interval would contain the true value of the parameter","99% of the time in repeated samples, the interval would contain the estimated value of the parameter","99% of the time in repeated samples, the null hypothesis will be rejected","99% of the time in repeated samples, the null hypothesis will not be rejected when it was false",A
+"What is the main difference between the X and Y approaches to Z?
+
+X = Dickey Fuller (DF)
+Y = Phillips-Perron (PP)
+Z = unit root testing",ADF is a single equation approach to unit root testing while PP is a systems approach,PP tests reverse the DF null and alternative hypotheses so that there is stationarity under the null hypothesis of the PP test,The PP test incorporates an automatic correction for autocorrelated residuals in the test regression,PP tests have good power in small samples whereas DF tests do not.,C
+"Given:
+X = leverage effect
+Y = news impact curve
+
+If there were X in practice, what would be the shape of the Y for a model that accounted for that X?",It would rise more quickly for negative disturbances than for positive ones of the same magnitude,It would be symmetrical about zero,It would rise less quickly for negative disturbances than for positive ones of the same magnitude,It would be zero for all positive disturbances,A
+"Which of the following statements is false concerning X?
+
+X = the linear probability model",There is nothing in the model to ensure that the estimated probabilities lie between zero and one,"Even if the probabilities are truncated at zero and one, there will probably be many observations for which the probability is either exactly zero or exactly one",The error terms will be heteroscedastic and not normally distributed,The model is much harder to estimate than a standard regression model with a continuous dependent variable,D
+"Which of the following statements concerning X and Y is FALSE?
+
+X = the regression population
+Y = sample",The population is the total collection of all items of interest,The population can be infinite,"In theory, the sample could be larger than the population",A random sample is one where each individual item from the population is equally likely to be drawn.,C
+"Which of the following statements is INCORRECT concerning a comparison of the X and the Y statistics for Z?
+
+X = Box-Pierce Q
+Y = Ljung-Box Q*
+Z = linear dependence in time series","Asymptotically, the values of the two test statistics will be equal",The Q test has better small-sample properties than the Q*,The Q test is sometimes over-sized for small samples,"As the sample size tends towards infinity, both tests will show a tendency to always reject the null hypothesis of zero autocorrelation coefficients.",B
+"A(n) X model is one that
+
+X = parsimonious",Includes too many variables,Includes as few variables as possible to explain the data,Is a well-specified model,Is a mis-specified model,A
+"Which of the following is NOT a feature of X (i.e. Y)?
+
+X = continuously compounded returns
+Y = log-returns",They can be interpreted as continuously compounded changes in the prices,They can be added over time to give returns for longer time periods,They can be added across a portfolio of assets to give portfolio returns,They are usually fat-tailed,C
+"Which of the following features of X could be captured using a standard Y model?
+
+i) Z in the return distribution
+
+ii) Leverage effects
+
+iii) Volatility clustering
+
+iv) Volatility affecting returns
+
+X = financial asset return time-series
+Y = GARCH(1,1)
+Z = Fat tails",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",B
+"Consider the estimation of an X model. If the data employed were a Y of Z, which of the following would you expect the value of the X-in-mean parameter estimate to be?
+
+X = GARCH-M
+Y = time-series
+Z = daily corporate bond percentage returns",Less than -1,Between -1 and 0,Between 0 and 1,Bigger than 1,C
+"X = bootstrapping
+Y = pure simulation
+
+Under which of the following situations would X be preferred to Y?
+
+i) If it is desired that the distributional properties of the data in the experiment
+
+are the same as those of some actual data
+
+
+ii) If it is desired that the distributional properties of the data in the experiment
+
+are known exactly
+
+
+iii) If the distributional properties of the actual data are unknown
+
+
+iv) If the sample of actual data available is very small",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iv) only","(i), (ii), (iii), and (iv)",B
+"Which of the following may be consequences of one or more of the X assumptions being violated?
+
+i) The coefficient estimates are not optimal
+
+ii) The standard error estimates are not optimal
+
+iii) The distributions assumed for the test statistics are inappropriate
+
+iv) Conclusions regarding the strength of relationships between Y and Z may be invalid.
+
+X = CLRM
+Y = the dependent variables
+Z = independent variables",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",D
+"Which of the following statements is true concerning X in Y?
+
+X = forecasting
+Y = econometrics",Forecasts can only be made for time-series data,Mis-specified models are certain to produce inaccurate forecasts,Structural forecasts are simpler to produce than those from time series models,In-sample forecasting ability is a poor test of model adequacy,D
+"The X is necessary for distinguishing between
+
+X = pacf (partial autocorrelation function)",An AR and an MA model,An AR and an ARMA model,An MA and an ARMA model,Different models from within the ARMA family,B
+"Which one of the following indicates X?
+
+X = Negative residual autocorrelation",A cyclical pattern in the residuals,An alternating pattern in the residuals,A complete randomness in the residuals,Residuals that are all close to zero,B
+"X = ARCH(q)
+Y = GARCH(1,1)
+
+Which of the following statements are true concerning a comparison between X and Y models?
+
+i) The X model is likely to be the more parsimonious
+
+ii) The X model is the more likely to violate non-negativity constraints
+
+iii) The X model can allow for an infinite number of previous lags of squared returns to affect the current conditional variance
+
+iv) The Y model will usually be sufficient to capture all of the dependence in the conditional variance",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",A
+"Which of the following statements are true concerning an X or Y system?
+
+i) The parameters can be validly estimated using separate applications of Z to
+
+each equation
+
+
+ii) The independent variables may be correlated with the error terms in other
+
+equations
+
+
+iii) An application of Z would lead to unbiased but inefficient parameter estimates
+
+
+iv) The independent variables may be correlated with the error terms in the equations
+
+in which they appear as independent variables
+
+X = triangular
+Y = recursive
+Z = OLS",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",C
+"Which one of the following statements best describes X?
+
+X = the algebraic representation of the fitted regression line",\hat{y}_t = \hat{\alpha} + \hat{\beta}x_t + \hat{u}_t,\hat{y}_t = \hat{\alpha} + \hat{\beta}x_t,\hat{y}_t = \hat{\alpha} + \hat{\beta}x_t + u_t,y_t = \hat{\alpha} + \hat{\beta}x_t + \hat{u}_t,B
+"Given:
+X = $\hat{u}^t \hat{u}
+
+What are the dimensions of X?",T x k,T x 1,k x 1,1 x 1,D
+"The X of the Y process
+
+$y_t = -3u_{t-1} + u_{t-2} + u_t$
+
+are
+
+X = characteristic roots
+Y = MA",1 and 2,1 and 0.5,2 and -0.5,1 and -3,B
+"Which of the following is an equivalent expression for saying that X is ""Y""?
+
+X = the explanatory variable
+Y = non-stochastic",The explanatory variable is partly random,The explanatory variable is fixed in repeated samples,The explanatory variable is correlated with the errors,The explanatory variable always has a value of one,B
+"Suppose that X is applied to a regression containing two Y plus a constant with 50 data points. The test statistic takes a value of 1.53. What is the appropriate conclusion?
+
+X = the Durbin Watson test
+Y = explanatory variables",Residuals appear to be positively autocorrelated,Residuals appear to be negatively autocorrelated,Residuals appear not to be autocorrelated,The test result is inconclusive,D
+"If X is used in the presence of Y, which of the following will be likely consequences?
+
+i) Coefficient estimates may be misleading
+
+ii) Hypothesis tests could reach the wrong conclusions
+
+iii) Forecasts made from the model could be biased
+
+iv) Standard errors may inappropriate
+
+X = OLS
+Y = autocorrelation",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",A
+"What will be the properties of the X estimator in the presence of Y?
+
+X = OLS (Ordinary Least Squares)
+Y = multicollinearity","It will be consistent, unbiased and efficient",It will be consistent and unbiased but not efficient,It will be consistent but not unbiased,It will not be consistent,A
+"Which one of the following would NOT be a consequence of using X in Y form?
+
+X = non-stationary data
+Y = levels",The regression $R^2$ may be spuriously high,Test statistics may not follow standard distributions,Statistical inferences may be invalid,Parameter estimates may be biased,D
+"Given:
+X = series
+Y = random walk
+
+If an X, y, follows a Y, what is the optimal one-step ahead forecast of y?",The current value of y,Zero,One,The average value of y over the in-sample period,A
+"Let X be the order condition.
+
+X = k + 1 ≤ p
+
+where:
+k is the order of the method
+p is the order of the problem
+
+The X is",A necessary and sufficient condition for identification,A necessary but not sufficient condition for identification,A sufficient but not necessary condition for identification,A condition that is nether necessary nor sufficient for identification,B
+"Given:
+X = estimator
+Y = minimum variance
+
+Which of the following statements is NOT implied if an X is said to have Y?",The probability that the estimate is a long way away from its true value is minimised,The estimator is efficient,"Such an estimator would be termed ""best""",Such an estimator will always be unbiased,D
+"Define:
+X = cointegration
+Y = Dickey-Fuller / Engle-Granger approach
+
+Which of the following are disadvantages of the Y to testing for X and modelling X relationships?
+
+i) Only one X relationship can be estimated
+
+ii) Particularly for small samples. There is a high chance of the tests suggestingthat variables are not X when they are
+
+iii) It is not possible to make inferences on the X regression
+
+iv) The procedure forces the researcher to specify which is the dependent variable and which are the independent variables.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",D
+"Which of the following statements is true concerning X and Y?
+
+X = the population regression function (PRF)
+Y = the sample regression function (SRF)",The PRF is the estimated model,The PRF is used to infer likely values of the SRF,Whether the model is good can be determined by comparing the SRF and the PRF,The PRF is a description of the process thought to be generating the data.,D
+"Which one of the following is a disadvantage of the X approach to building Y models, relative to the Z approach?
+
+X = general to specific or ""LSE"" (""Hendry"")
+Y = econometric
+Z = specific to general",Some variables may be excluded at the first stage leading to coefficient biases,The final model may lack theoretical interpretation,The final model may be statistically inadequate,"If the initial model is mis-specified, all subsequent steps will be invalid.",B
+"Which of the following statements are true concerning X estimation in the context of Y models?
+
+i) X estimation selects the parameter values that maximise the probability that we would have actually observed the values of the series y that we actually did.
+
+ii) Y models can only be estimated by X and not by Z
+
+iii) For estimation of a standard linear model (with no Y), the Z and X estimates for the slope and intercept parameters will be identical but the estimator for the variance of the disturbances is slightly different
+
+iv) Most computer packages use numerical procedures to estimate Y models rather than a set of analytical formulae
+
+X = maximum likelihood (ML)
+Y = GARCH
+Z = OLS",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",D
+"Including relevant X values of the Y variable on the right hand side of a Z equation could lead to which one of the following?
+
+X = lagged
+Y = dependent
+Z = regression",Biased but consistent coefficient estimates,Biased and inconsistent coefficient estimates,Unbiased but inconsistent coefficient estimates,Unbiased and consistent but inefficient coefficient estimates.,A
+"Which one of the following factors is likely to lead to a relatively high degree of X?
+
+X = out-of-sample forecast accuracy",A model that is based on financial theory,A model that contains many variables,A model whose dependent variable has recently exhibited a structural change,A model that is entirely statistical in nature with no room for judgmental modification of forecasts,A
+"Which of the following are plausible approaches to dealing with X?
+
+i) Take Y of each of the variables
+
+ii) Add lagged values of the variables to the Z
+
+iii) Use dummy variables to remove outlying observations
+
+iv) Try a model in first differenced form rather than in levels.
+
+X = residual autocorrelation
+Y = logarithms
+Z = regression equation",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",A
+"For an X process to be considered Y
+
+X = autoregressive
+Y = stationary",The roots of the characteristic equation must all lie inside the unit circle,The roots of the characteristic equation must all lie on the unit circle,The roots of the characteristic equation must all lie outside the unit circle,The roots of the characteristic equation must all be less than one in absolute value,C
+"Which of the following statements are true concerning X?
+
+(i) Y is an X
+
+(ii) If the residual sum of squares falls when an additional term is added, the value of the X will fall
+
+(iii) Z always leads to model orders that are at least as large as those of Schwarz's X
+
+(iv) Z is consistent
+
+X = information criterion
+Y = Adjusted R-squared
+Z = Akaike's information criterion",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",B
+"The ""X transform"" involves
+
+X = within",Taking the average values of the variables,Subtracting the mean of each entity away from each observation on that entity,Estimating a panel data model using least squares dummy variables,Using both time dummies and cross-sectional dummies in a fixed effects panel model,B
+"The purpose of ""X"" the Y test Z is to
+
+X = augmenting
+Y = Dickey-Fuller
+Z = regression",Ensure that there is no heteroscedasticity in the test regression residuals.,Ensure that the test regression residuals are normally distributed,Ensure that there is no autocorrelation in the test regression residuals,Ensure that all of the non-stationarity is taken into account.,C
+"Given:
+X = series
+Y = random walk with drift
+Z = b
+
+If X follows Y Z, what is the optimal one-step ahead forecast of the change in X?",The current value of y,Zero,One,The average value of the change in y over the in-sample period,D
+"Which of the following are plausible approaches to dealing with a model that exhibits X?
+
+i) Take logarithms of each of the variables
+
+ii) Use suitably modified Y
+
+iii) Use a Z procedure
+
+iv) Add lagged values of the variables to the regression equation.
+
+X = heteroscedasticity
+Y = standard errors
+Z = generalised least squares",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",C
+"Let X = standardised residuals (residuals divided by their respective conditional standard deviations).
+
+Let Y = GARCH model.
+
+Which of the following statements are true concerning X from an estimated Y?
+
+i) They are assumed to be normally distributed
+
+ii) Their squares will be related to their lagged squared values if Y is appropriate
+
+iii) In practice, they are likely to have fat tails
+
+iv) If Y is adequate, X and the raw residuals will be identical",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",B
+"Which one of the following statements is true concerning X?
+
+X = VARs (Vector Autoregressions)",The coefficient estimates have intuitive theoretical interpretations,The coefficient estimates usually have the same sign for all of the lags of a given variable in a given equation,VARs often produce better forecasts than simultaneous equation structural models,All of the components of a VAR must be stationary before it can be used for forecasting,C
+"Which of the following statements is INCORRECT concerning X?
+
+X = the classical hypothesis testing framework","If the null hypothesis is rejected, the alternative is accepted",The null hypothesis is the statement being tested while the alternative encompasses the remaining outcomes of interest,The test of significance and confidence interval approaches will always give the same conclusions,Hypothesis tests are used to make inferences about the population parameters.,A
+"An X(Y,Z) (Y, Z are integers bigger than zero) model will have
+
+X = ARMA
+Y = p
+Z = q",An acf and pacf that both decline geometrically,An acf that declines geometrically and a pacf that is zero after p lags,An acf that declines geometrically and a pacf that is zero after q lags,An acf that is zero after p lags and a pacf that is zero after q lags,A
+"Suppose that the following X is estimated using 27 Y observations:
+
+$y_t = \beta_1 + \beta_2 x_2 + \beta_3 x_{3t} + u_t$
+
+What is the appropriate Z for a 2-sided 5% size of test of $H_0: \beta_3 = 1$?
+
+X = regression
+Y = quarterly
+Z = critical value",1.64,1.71,2.06,1.96,C
+"X = 6
+Y = 4
+Z = 0.0036
+W = 0.0049
+
+Suppose that two researchers, using the same 3 variables and the same 250 observations on each variable, estimate a VAR. One estimates a VAR(X), while the other estimates a VAR(Y). The determinants of the variance-covariance matrices of the residuals for each VAR are Z and W respectively. What is the values of the test statistic for performing a test of whether the VAR(X) can be restricted to a VAR(Y)?",77.07,0.31,0.33,4.87,A
+"Which of the following is a DISADVANTAGE of using X (relative to Y)?
+
+X = pure time-series models
+Y = structural models",They are not theoretically motivated,They cannot produce forecasts easily,They cannot be used for very high frequency data,It is difficult to determine the appropriate explanatory variables for use in pure time-series models,A
+"Which of the following are alternative names for X (usually denoted by Y) in Z analysis?
+
+(i) The regressand
+
+(ii) The regressor
+
+(iii) The explained variable
+
+(iv) The explanatory variable
+
+X = the dependent variable
+Y = y
+Z = linear regression",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",B
+"Which of the following are advantages of the X approach to modelling the relationship between variables relative to the estimation of Y?
+
+i) Xs receive strong motivation from financial and economic theory
+
+ii) Xs in their reduced forms can be used easily to produce time-series forecasts
+
+iii) X models are typically highly parsimonious
+
+iv) Z can be applied separately to each equation in a reduced form X
+
+X = VAR
+Y = full structural models
+Z = OLS",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",A
+"Which of the following statements is TRUE concerning X?
+
+X = the standard regression model",y has a probability distribution,x has a probability distribution,The disturbance term is assumed to be correlated with x,"For an adequate model, the residual (u-hat) will be zero for all sample data points",A
+"Consider the following model for X:
+
+X = Y + Z * t + u_t
+
+Which one of the following most accurately describes the process for X?
+
+Y = μ
+Z = λ
+X = y_t",A unit root process,A stationary process,A deterministic trend process,A random walk with drift,C
+"Which of the following is correct concerning X and Y models?
+
+X = logit
+Y = probit",They use a different method of transforming the model so that the probabilities lie between zero and one,The logit model can result in too many observations falling at exactly zero or exactly one,"For the logit model, the marginal effect of a change in one of the explanatory variables is simply the estimate of the parameter attached to that variable, whereas this is not the case for the probit model",The probit model is based on a cumulative logistic function,A
+"What is the most important disadvantage of X that is overcome by Y?
+
+X = the diagonal VECH approach to building multivariate GARCH models
+Y = the BEKK formulation",The diagonal VECH model is hard to interpret intuitively,The diagonal VECH model contains too many parameters,The diagonal VECH model does not ensure a positive-definite variance-covariance matrix,The BEKK model reduces the dimensionality problem that arises when a number of series are modelled together.,C
+"X: relevant variable
+Y: regression equation
+Z: included variables
+
+If an X is omitted from a Y, the consequences would be that:
+
+i) The standard errors would be biased
+
+ii) If the excluded X is uncorrelated with all of the Z, all of the slope coefficients will be inconsistent.
+
+iii) If the excluded X is uncorrelated with all of the Z, the intercept coefficient will be inconsistent.
+
+iv) If the excluded X is uncorrelated with all of the Z, all of the slope and intercept coefficients will be consistent and unbiased but inefficient.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",C
+"Which of the following are alternative names for X (usually denoted by x) in Y analysis?
+
+(i) Z1
+
+(ii) The regressand
+
+(iii) Z2
+
+(iv) The effect variable
+
+X = the independent variable
+Y = linear regression
+Z1 = The regressor
+Z2 = The causal variable",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",B
+"X = OLS estimator for the standard error of the slope coefficient
+Y = residual variance
+Z = dispersion of the observations on the explanatory variable about their mean value
+
+Consider X. Which of the following statement(s) is (are) true?
+
+(i) X will be positively related to Y
+
+(ii) X will be negatively related to Z
+
+(iii) X will be negatively related to the sample size
+
+(iv) X gives a measure of the precision of the coefficient estimate.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",D
+"What is the meaning of the term ""X""?
+
+X = heteroscedasticity",The variance of the errors is not constant,The variance of the dependent variable is not constant,The errors are not linearly independent of one another,The errors have non-zero mean,A
+"If an X takes a value close to zero, what will be the value of the Y?
+
+X = Durbin Watson statistic
+Y = first order autocorrelation coefficient",Close to zero,Close to plus one,Close to minus one,Close to either minus one or plus one,C
+"Let X be the null hypothesis of a Bera-Jarque test.
+
+Under X, the distribution has",Zero skewness and zero kurtosis,Zero skewness and a kurtosis of three,Skewness of one and zero kurtosis,Skewness of one and kurtosis of three.,B
+"If an X is said to be Y, it is implied that
+
+X = estimator
+Y = consistent","On average, the estimated coefficient values will equal the true values",The OLS estimator is unbiased and no other unbiased estimator has a smaller variance,The estimates will converge upon the true values as the sample size increases,The coefficient estimates will be as close to their true values as possible for small and large samples.,C
+"Which of the following is a typical characteristic of X?
+
+X = financial asset return time-series",Their distributions are thin-tailed,They are not weakly stationary,They are highly autocorrelated,They have no trend,D
+"X: OLS estimator
+Y: $u_t$
+
+Which of the following assumptions are required to show the consistency, unbiasedness and efficiency of X?
+
+i) $E(Y) = 0$
+
+ii) $\text{Var}(Y) = \sigma^2$
+
+iii) $\text{Cov}(Y, Y_{t-j}) = 0 \forall j$
+
+iv) $Y \sim N(0, \sigma^2)$",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",C
+"Which of the following is a disadvantage of the X approach to estimating a Y model?
+
+X = fixed effects
+Y = panel",The model is likely to be technical to estimate,The approach may not be valid if the composite error term is correlated with one or more of the explanatory variables,"The number of parameters to estimate may be large, resulting in a loss of degrees of freedom",The fixed effects approach can only capture cross-sectional heterogeneity and not temporal variation in the dependent variable.,C
+"Consider an identical situation to that of question X, except that now a Y-sided alternative is used. What would now be the appropriate conclusion?
+
+X = 21
+Y = 2",H0 is rejected,H0 is not rejected,H1 is rejected,There is insufficient information given in the question to reach a conclusion,A
+"The price of X is best described as what type of Y?
+
+X = a house
+Y = number",Discrete,Cardinal,Ordinal,Nominal,B
+"If an X test for a null hypothesis of Y cointegrating vectors is applied to a system containing Z variables is conducted, which eigenvalues would be used in the test?
+
+X = Johansen ""trace""
+Y = 2
+Z = 4",All of them,The largest 2,The smallest 2,The second largest,C
+"Define:
+X = variance decomposition analysis
+Y = VAR (Vector Autoregression)
+
+Which of the following statements is true concerning X of Ys?
+
+i) Xs measure the impact of a unit shock to each of the variables on the Y
+
+ii) Xs can be thought of as measuring the proportion of the forecast error variance that is attributable to each variable
+
+iii) The ordering of the variables is important for calculating impulse responses but not Xs
+
+iv) It is usual that most of the forecast error variance for a given variable is attributable to shocks to that variable",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",A
+"Suppose that we have estimated an X model for daily equity returns, and we are interested in producing a Y-day forecast of the volatility (measured by the standard deviation of returns) for use in a Z model. How could such a forecast most validly be calculated?
+
+X = GARCH
+Y = 10
+Z = value at risk","Produce 1, 2, 3, ..., 10 step ahead conditional variance forecasts and add them up","Produce 1, 2, 3, ..., 10 step ahead conditional variance forecasts and add them up and take the square root","Produce 1, 2, 3, ..., 10 step ahead conditional variance forecasts, take the square roots of each one and add them up","Produce a 1-step ahead conditional variance forecast, take its square root and multiply it by the square root of 10",B
+"Suppose that the value of X for an estimated Y model is exactly zero. Which of the following are true?
+
+i) All coefficient estimates on the slopes will be zero
+
+ii) The fitted line will be horizontal with respect to all of the explanatory variables
+
+iii) The Z line has not explained any of the variability of y about its mean value
+
+iv) The intercept coefficient estimate must be zero.
+
+X = R^2
+Y = regression
+Z = regression",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",C
+"An X process will have
+
+(i) A zero mean
+
+(ii) A constant Y
+
+(iii) Zs that are constant
+
+(iv) Zs that are zero except at lag zero
+
+X = white noise
+Y = variance
+Z = autocovariance",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",A
+"X: Box-Jenkins approach
+Y: ARMA models
+
+Which of the following statements are true concerning the X to diagnostic testing for Y?
+
+(i) The tests will show whether the identified model is either too large or too small
+
+(ii) The tests involve checking the model residuals for autocorrelation, heteroscedasticity, and non-normality
+
+(iii) If the model suggested at the identification stage is appropriate, the acf and pacf for the residuals should show no additional structure
+
+(iv) If the model suggested at the identification stage is appropriate, the coefficients on the additional variables under the overfitting approach will be statistically insignificant",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",A
+"Which one of the following would be a plausible response to a finding of X?
+
+X = residual non-normality",Use a logarithmic functional form instead of a linear one,Add lags of the variables on the right hand side of the regression model,Estimate the model in first differenced form,Remove any large outliers from the data.,D
+"The X model is also sometimes known as
+
+X = fixed effects panel",A seemingly unrelated regression model,The least squares dummy variables approach,The random effects model,Heteroscedasticity and autocorrelation consistent,B
+"Which of the following statements is TRUE concerning X estimation?
+
+X = OLS (Ordinary Least Squares)",OLS minimises the sum of the vertical distances from the points to the line,OLS minimises the sum of the squares of the vertical distances from the points to the line,OLS minimises the sum of the horizontal distances from the points to the line,OLS minimises the sum of the squares of the horizontal distances from the points to the line.,B
+"If the standard tools for X, such as estimation of the Y and Z, find no evidence of structure in the data, this implies that the data are which of the following?
+
+X = time-series analysis
+Y = acf, pacf
+Z = spectral analysis",Normally distributed,Uncorrelated,Independent,Fat-tailed,B
+"X: stationary
+Y: cointegrating equation
+
+If two variables, $x_t$ and $y_t$ are said to be cointegrated, which of the following statements are true?
+
+i) $x_t$ and $y_t$ must both be X
+
+
+ii) Only one linear combination of $x_t$ and $y_t$ will be X
+
+
+iii) The Y for $x_t$ and $y_t$ describes the short-run relationship
+
+between the two series
+
+
+iv) The residuals of a regression of $y_t$ on $x_t$ must be X",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",A
+"A X whose values are not observable outside a certain range but where the corresponding values of the Y are still available would be most accurately described as what kind of variable?
+
+X = dependent variable
+Y = independent variables",Censored,Truncated,Multinomial variable,Discrete choice,A
+"A X test would be used for
+
+X = Hausman",Determining whether an equation that is part of a simultaneous system is identified,Determining whether a simultaneous framework is needed for a particular variable,Determining whether 2SLS or ILS is optimal,Determining whether the structural form equations can be obtained via substitution from the reduced forms,B
+"Given:
+X = matrix notation for the classical linear regression model
+Y = dimensions
+
+Under the X, $y = X \beta + u$, what are the Y of $u$?",T x k,T x 1,k x 1,1 x 1,B
+"Given:
+X = number of variables in the VAR model
+Y = number of lags in the VAR model
+
+How many parameters will be required to be estimated in total for all equations of a standard form, unrestricted, X-variate VAR(Y), ignoring the intercepts?",12,4,3,36,D
+"Define:
+X = 200
+Y = $y_t = \beta_1 + \beta_2 x_{2t} + \beta_3 x_{3t} + u_t$
+
+A researcher tests for structural stability in the following regression model:
+
+Y
+
+The total sample of X observations is split exactly in half for the sub-sample regressions. Which would be the unrestricted residual sum of squares?",The RSS for the whole sample,The RSS for the first sub-sample,The RSS for the second sub-sample,The sum of the RSS for the first and second sub-samples,D
+"Suppose that we are interested in testing the null hypothesis that an X model can be restricted to a process with a constant Y using the Z approach. Which of the following statements are true?
+
+X = GARCH(2,2)
+Y = conditional variance
+Z = likelihood ratio test",The test statistic will follow a chi-squared distribution with 2 degrees of freedom under the null hypothesis,The value of the log-likelihood function will almost always be bigger for the restricted model than for the unrestricted model,"If the relevant values of the log-likelihood functions are -112.3 and -118.4, the value of the test statistic is 12.2",The likelihood ratio test compares the slopes of the log-likelihood function at the maximum and at the restricted parameter value.,C
+"Which one of the following is NOT a plausible remedy for X?
+
+X = near multicollinearity",Use principal components analysis,Drop one of the collinear variables,Use a longer run of data,Take logarithms of each of the variables,D
+"X:
+yt = 1.5 yt-1 - 0.5 yt-2 + ut
+
+Consider the following X process:
+
+This is a",Stationary process,Unit root process,Explosive process,Stationary and unit root process,B
+"Which of the following could be used as a test for X up to Y order?
+
+X: autocorrelation
+Y: third",The Durbin Watson test,White's test,The RESET test,The Breusch-Godfrey test,D
+"The X from a standard Y model is defined as
+
+X = residual
+Y = regression","The difference between the actual value, y, and the mean, y-bar","The difference between the fitted value, y-hat, and the mean, y-bar","The difference between the actual value, y, and the fitted value, y-hat","The square of the difference between the fitted value, y-hat, and the mean, y-bar",C
+"Given:
+X = OLS (Ordinary Least Squares)
+Y = simultaneous system
+
+If X is applied separately to each equation that is part of a Y, the resulting estimates will be",Unbiased and consistent,Biased but consistent,Biased and inconsistent,It is impossible to apply OLS to equations that are part of a simultaneous system,C
+"Which one of the following is NOT an example of X?
+
+X = mis-specification of functional form",Using a linear specification when y scales as a function of the squares of x,Using a linear specification when a double-logarithmic model would be more appropriate,Modelling y as a function of x when in fact it scales as a function of 1/x,Excluding a relevant variable from a linear regression model,D
+"Suppose that we wished to evaluate the factors that affected the probability that an X would choose a Y rather than a Z or a cash investment. Which class of model would be most appropriate?
+
+X = investor
+Y = equity fund
+Z = bond fund",A logit model,A multinomial logit,A tobit model,An ordered logit model,B
+"Which of the following statements will be true if X used in a Y study is small?
+
+i) The statistic of interest may be estimated imprecisely
+
+ii) The results may be affected by unrepresentative combinations of random draws
+
+iii) Z on the estimated quantities may be unacceptably large
+
+iv) Variance reduction techniques can be used to reduce Z
+
+X = the number of replications
+Y = Monte Carlo
+Z = The standard errors",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iv) only","(i), (ii), (iii), and (iv)",D
+"Which of the following is a disadvantage of X?
+
+X = the random effects approach to estimating a panel model",The approach may not be valid if the composite error term is correlated with one or more of the explanatory variables,"The number of parameters to estimate may be large, resulting in a loss of degrees of freedom",The random effects approach can only capture cross-sectional heterogeneity and not temporal variation in the dependent variable.,All of (a) to (c) are potential disadvantages of the random effects approach.,A
+"Which of the following could result in X?
+
+i) Slowness of response of Y to changes in the values of Z
+
+ii) Over-reactions of Y to changes in Z
+
+iii) Omission of relevant explanatory variables that are X
+
+iv) Outliers in the data
+
+X = autocorrelated residuals
+Y = the dependent variable
+Z = the independent variables",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",C
+"X: acf (autocorrelation function)
+Y: pacf (partial autocorrelation function)
+
+Which of the following statements are true concerning X and Y?
+
+(i) X and Y are often hard to interpret in practice
+
+(ii) X and Y can be difficult to calculate for some data sets
+
+(iii) Information criteria represent an alternative approach to model order determination
+
+(iv) If applied correctly, X and Y will always deliver unique model selections",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",C
+"Which of the following conditions are necessary for a X to be classifiable as a Y?
+
+(i) It must have a constant mean
+
+(ii) It must have a constant variance
+
+(iii) It must have constant autocovariances for given lags
+
+(iv) It must have a constant probability distribution
+
+X = series
+Y = weakly stationary process",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",C
+"Consider the following equation and determine the class of X that it best represents:
+
+$Y = \alpha + Z + \mu_i + \nu_{it}$
+
+X = model
+Y = y_{it}
+Z = \beta_{it}",An entity fixed effects model,A time fixed effects model,A random effects model,A pure time series model,A
+"Let X be the number of observations in the sample.
+
+For a sample of X observations, the Y test statistic values are
+
+X = 1000
+Y = Dickey-Fuller",More negative than (i.e. bigger in absolute value than) those in the left hand tail of a normal distribution,Less negative than (i.e. smaller in absolute value than) those in the left hand tail of a normal distribution,Obtained from an analytical formula for the density of the Dickey-Fuller distribution,More negative (i.e. bigger in absolute value) for a 10% size of test than a 5% test.,A
+"Let X = significance level.
+
+Suppose that a hypothesis test is conducted using an X of 5%. Which of the following statements are correct?
+
+(i) The X is equal to the size of the test
+
+(ii) The X is equal to the power of the test 
+
+(iii) 2.5% of the total distribution will be in each tail rejection region for a 2-sided test
+
+(iv) 5% of the total distribution will be in each tail rejection region for a 2-sided test.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",B
+"Which one of the following criticisms of the X approach to dealing with Y variables is overcome by the Z procedure?
+
+X = Dickey-Fuller/Engle-Granger
+Y = cointegrated
+Z = Engle-Yoo (EY)","In the context of small samples, Dickey Fuller tests are prone to conclude that there is a unit root in a series when there is not",The Engle-Granger (EG) approach can only detect up to one cointegrating relationship even though there could be more than one,The variables are treated asymmetrically in the cointegrating tests,It is not possible to perform tests about the cointegrating relationship,D
+"Consider a series that follows an X with Y and a Z of 0.4. What is the value of the autocovariance at lag 1?
+
+X = MA(1)
+Y = zero mean
+Z = moving average coefficient",0.4,1,0.34,It is not possible to determine the value of the autocovariances without knowing the disturbance variance.,D
+"Which of the following X are available for the estimation of Y?
+
+i) OLS
+
+ii) ILS
+
+iii) 2SLS
+
+iv) IV
+
+X = estimation techniques
+Y = over-identified systems of simultaneous equations",(iii) only,(iii) and (iv) only,"(ii), (iii), and (iv) only","(i), (ii), (iii) and (iv)",B
+"Which one of the following statements best describes an X error?
+
+X = Type II",It is the probability of incorrectly rejecting the null hypothesis,It is equivalent to the power of the test,It is equivalent to the size of the test,It is the probability of failing to reject a null hypothesis that was wrong,D
+"Which one of the following would be the most appropriate as an X (Y) confidence interval for the Z of the model given in question 21?
+
+X = 95%
+Y = two-sided
+Z = intercept term","(-4.79,2.19)","(-4.16,4.16)","(-1.98,1.98)","(-5.46,2.86)",D
+"Which of the following are characteristics of an X?
+
+i) It crosses its mean value frequently
+
+ii) It has constant Y and Z
+
+iii) It contains no trend component
+
+iv) It will be X in first difference form
+
+X = stationary process
+Y = mean
+Z = variance",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",D
+"Consider again the X model of equation Y. Which of the following conditions must hold for it to be said that there is Z?
+
+X = VAR
+Y = 16
+Z = bi-directional feedback",The b and d coefficients significant and the a and c coefficients insignificant,The a and c coefficients significant and the b and d coefficients insignificant,The a and c coefficients significant,The b and d coefficients significant,D
+"Consider the following sample X estimates obtained using Y data points:
+
+1) Z 1 2 3
+
+2) Coefficient 0.2 -0.15 -0.1
+
+3) Assuming that the coefficients are approximately normally distributed, which of the coefficients are statistically significant at the 5% level?
+
+X = autocorrelation
+Y = 250
+Z = Lag",1 only,1 and 2 only,"1, 2 and 3 only",It is not possible to determine the statistical significance since no standard errors have been given,B
+"Which one of the following is examined by looking at an X?
+
+X = goodness of fit statistic",How well the population regression function fits the data,How well the sample regression function fits the population regression function,How well the sample regression function fits the data,How well the population regression function fits the sample regression function.,C
+"X: antithetic variates
+Y: Monte Carlo experiment
+
+Which of the following statements are correct concerning the use of X as part of a Y?
+
+i) X work by reducing the number of replications required to cover the whole probability space
+
+ii) X involve employing a similar variable to that used in the simulation, but whose properties are known analytically
+
+iii) X involve using the negative of each of the random draws and repeating the experiment using those values as the draws
+
+iv) X involve taking one over each of the random draws and repeating the experiment using those values as the draws",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iv) only","(i), (ii), (iii), and (iv)",B
+"Which one of the following statements is true concerning X?
+
+X = alternative forecast accuracy measures",Mean squared error is usually highly correlated with trading rule profitability,Mean absolute error provides a quadratic loss function,Mean absolute percentage error is a useful measure for evaluating asset return forecasts,Mean squared error penalises large forecast errors disproportionately more than small forecast errors,D
+"Which of the following criticisms of X models can be overcome by Y models?
+
+i) Estimated coefficient values from X models may be negative
+
+ii) X models cannot account for Z effects
+
+iii) The responsiveness of future volatility to positive and negative shocks is symmetric under a X formulation
+
+iv) X models cannot allow for a feedback from the volatility to the returns
+
+X = standard (""plain vanilla"") GARCH
+Y = EGARCH
+Z = leverage",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",C
+"Suppose that X separate firms were tested to determine how many of them ""beat the Y"" using a Z, and it is found that 3 fund managers significantly do so. Does this suggest prima facie evidence for stock market inefficiency?
+
+X = 100
+Y = market
+Z = Jensen-type regression",Yes,No,"In order to answer this question, you would need to test every fund manager trading in that market",There is insufficient information given in the question to draw a conclusion about market efficiency.,B
+"X = panel data
+Y = cross-sectional
+Z = time-series
+
+Which of the following are advantages of the use of X over pure Y or pure Z modelling?
+
+(i) The use of X can increase the number of degrees of freedom and therefore the power of tests
+
+(ii) The use of X allows the average value of the dependent variable to vary either cross-sectionally or over time or both
+
+(iii) The use of X enables the researcher allows the estimated relationship between the independent and dependent variables to vary either cross-sectionally or over time or both",(i) only,(i) and (ii) only,(ii) only,"(i), (ii), and (iii)",B
+"If the X test is applied to the residuals of a potentially Y regression, what would be the interpretation of the null hypothesis?
+
+X: Engle-Granger
+Y: cointegrating",The variables are cointegrated,The variables are not cointegrated,Both variables are stationary,Both variables are non-stationary,B
+"Given:
+X = autocorrelation function (acf)
+Y = partial autocorrelation function (pacf)
+
+Which of the following statements are true concerning X and Y?
+
+i) X and Y will always be identical at lag one whatever the model
+
+ii) Y for an MA(q) model will in general be non-zero beyond lag q
+
+iii) Y for an AR(p) model will be zero beyond lag p
+
+iv) X and Y will be the same at lag two for an MA(1) model",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",C

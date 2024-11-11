@@ -1,0 +1,106 @@
+"Najděte stupeň pro dané rozšíření tělesa Q(√2, √3, √18) nad Q.",0,4,2,6,B
+"Nechť p = (1, 2, 5, 4)(2, 3) v S_5. Najděte index <p> v S_5.",8,2,24,120,C
+Najděte všechny nulové body v uvedeném konečném tělese daného polynomu s koeficienty v tomto tělese. x^5 + 3x^3 + x^2 + 2x v Z_5,0,1,"0,1","0,4",D
+"Tvrzení 1 | Faktorová grupa neabelovské grupy je neabelovská. Tvrzení 2 | Pokud K je normální podgrupa H a H je normální podgrupa G, pak K je normální podgrupa G.","Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",B
+"Najděte součin daných polynomů v daném polynomiálním okruhu. f(x) = 4x - 5, g(x) = 2x^2 - 4x + 2 v Z_8[x].",2x^2 + 5,6x^2 + 4x + 6,0,x^2 + 1,B
+"Tvrzení 1 | Pokud má skupina prvek řádu 15, musí mít alespoň 8 prvků řádu 15. Tvrzení 2 | Pokud má skupina více než 8 prvků řádu 15, musí mít alespoň 16 prvků řádu 15.","Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",A
+Tvrzení 1 | Každý homomorfní obraz grupy G je izomorfní s faktorovou grupou G. Tvrzení 2 | Homomorfní obrazy grupy G jsou stejné (až na izomorfismus) jako faktorové grupy G.,"Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",A
+"Tvrzení 1 | Homomorfismus okruhů je prostý (injektivní) tehdy a jen tehdy, když jádro je {0}. Tvrzení 2 | Q je ideál v R.","Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",D
+Najděte stupeň pro dané rozšíření tělesa Q(√2 + √3) nad Q.,0,4,2,6,B
+Najděte všechny nulové body uvedeného polynomu s koeficienty v daném konečném tělese. x^3 + 2x + 2 v Z_7,1,2,"2,3",6,C
+"Tvrzení 1 | Pokud H je podskupina G a a patří do G, pak |aH| = |Ha|. Tvrzení 2 | Pokud H je podskupina G a a a b patří do G, pak aH a Hb jsou identické nebo disjunktní.","Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",C
+"Pokud A = {1, 2, 3}, pak relace S = {(1, 1), (2, 2)} je",symetrický pouze,antisymetrický pouze,symetrické i antisymetrické,ekvivalenční relace,C
+"Najděte řád faktorové grupy (Z_11 x Z_15)/(<1, 1>)",1,2,5,11,A
+Polynom x^3 + 2x^2 + 2x + 1 lze rozložit na lineární faktory v Z_7[x]. Najděte tento rozklad.,(x − 2)(x + 2)(x − 1),(x + 1)(x + 4)(x − 2),(x + 1)(x − 4)(x − 2),(x - 1)(x − 4)(x − 2),C
+Najděte maximální možný řád prvku S_n pro n = 10.,6,12,30,105,C
+Tvrzení 1 | R je rozkladové těleso nějakého polynomu nad Q. Tvrzení 2 | Existuje těleso s 60 prvky.,"Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",B
+"Inverzní prvek k -i v multiplikativní grupě {1, -1, i, -i} je",1,-1,i,-i,C
+"Vypočítejte součin v daném okruhu. (2,3)(3,5) v Z_5 x Z_9","(1,1)","(3,1)","(1,6)","(3,6)",C
+"Množina všech reálných čísel s běžnou operací násobení není grupa, protože",násobení není binární operace,násobení není asociativní,Neutrální prvek neexistuje,nula nemá inverzní prvek,D
+"Tvrzení 1| Každá grupa řádu p^2, kde p je prvočíslo, je Abelova. Tvrzení 2 | Pro dané prvočíslo p je Sylowova p-podgrupa grupy G normální podgrupou G tehdy a jen tehdy, když je jedinou Sylowovou p-podgrupou G.","Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",A
+"Tvrzení 1 | Pro konečné grupy G a H platí |G + H| = |G||H|. (G + H je vnitřní přímý součin.) Tvrzení 2 | Pokud r dělí m a s dělí n, pak Z_m + Z_n má podgrupu izomorfní s Z_r + Z_s.","Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",A
+"Najděte součet daných polynomů v daném polynomiálním okruhu. f(x) = 4x - 5, g(x) = 2x^2 - 4x + 2 v Z_8[x].",2x^2 + 5,6x^2 + 4x + 6,0,x^2 + 1,A
+"Tvrzení 1 | Jakákoliv množina dvou vektorů v R^2 je lineárně nezávislá. Tvrzení 2 | Pokud V = span(v1, ... , vk) a {v1, ... , vk} jsou lineárně nezávislé, pak dim(V) = k.","Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",D
+Množina všech n-tých odmocnin z jedničky při násobení komplexních čísel tvoří,pologrupa s identitou,komutativní pologrupy s identitou,skupina,Abelovská grupa,D
+"Tvrzení 1 | Každý maximální ideál je prvočíselný ideál. Tvrzení 2 | Pokud I je maximální ideál komutativního okruhu R, pak R/I je těleso.","Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",B
+Nechť G označuje množinu všech n x n regulárních matic s racionálními čísly jako prvky. Pak při násobení je G,podskupina,konečná abelovská grupa,"nekonečná, neabelovská grupa","nekonečný, abelovský",C
+Tvrzení 1 | Každá grupa řádu 42 má normální podgrupu řádu 7. Tvrzení 2 | Každá grupa řádu 42 má normální podgrupu řádu 8.,"Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",C
+"Určete, zda polynom v Z[x] splňuje Eisensteinovo kritérium ireducibility nad Q. 8x^3 + 6x^2 - 9x + 24","Ano, s p=2.","Ano, s p=3.","Ano, s p=5.",Ne.,B
+Tvrzení 1 | Obraz grupy 6 prvků při homomorfismu může mít 12 prvků. Tvrzení 2 | Existuje homomorfismus nějaké grupy 6 prvků do nějaké grupy 12 prvků.,"Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",D
+Tvrzení 1 | Homomorfní obraz cyklické grupy je cyklický. Tvrzení 2 | Homomorfní obraz Abelovy grupy je Abelova.,"Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",A
+"Tvrzení 1 | Pokud H je podskupina grupy G a a patří do G, pak aH = Ha. Tvrzení 2 | Pokud H je normální podskupina G a a patří do G, pak ah = ha pro všechna h v H.","Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",B
+"Pokud (G, .) je grupa taková, že (ab)^-1 = a^-1b^-1 pro všechna a, b v G, pak G je",komutativní pologrupa,Abelovská grupa,neabelovská grupa,Žádný z nich,B
+"Tvrzení 1 | V konečně rozměrném vektorovém prostoru je každá lineárně nezávislá množina vektorů obsažena v bázi. Tvrzení 2 | Pokud B_1 a B_2 jsou báze stejného vektorového prostoru, pak |B_1| = |B_2|.","Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",A
+"Některá grupa (G, 0) je známá jako abelovská. Která z následujících možností je pak pro G PRAVDIVÁ?",g = g^-1 pro každé g v G,g = g^2 pro každé g v G,"(g o h)^2 = g^2 o h^2 pro každé g,h v G",G má konečný řád,C
+"Tvrzení 1 | Pokud T: V -> W je lineární transformace a dim(V) < dim(W) < 1, pak T musí být injektivní. Tvrzení 2 | Nechť dim(V) = n a předpokládejme, že T: V -> V je lineární. Pokud je T injektivní, pak je bijektivní.","Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",A
+"Najděte stupeň pro dané rozšíření tělesa Q(√2, √3) nad Q.",0,4,2,6,B
+Vypočítejte součin v daném okruhu. (20)(-8) v Z_26,0,1,11,22,D
+"Určete, zda polynom v Z[x] splňuje Eisensteinovo kritérium ireducibility nad Q. x^2 - 12","Ano, s p=2.","Ano, s p=3.","Ano, s p=5.",Ne.,B
+Najděte generátor pro konečné pole Z_7.,1,2,3,4,C
+Tvrzení 1 | Každá permutace je cyklus. Tvrzení 2 | Každý cyklus je permutace.,"Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",D
+"Množina celých čísel Z s binární operací ""*"" definovanou jako a*b = a + b + 1 pro a, b v Z, je grupa. Neutrální prvek této grupy je",0,1,-1,12,C
+Najděte charakteristiku okruhu Z_3 x 3Z.,0,3,12,30,A
+"Tvrzení 1 | Některá abelovská grupa řádu 45 má podgrupu řádu 10. Tvrzení 2 | Podgrupa H grupy G je normální podgrupa tehdy a jen tehdy, když počet levých tříd H je roven počtu pravých tříd H.","Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",B
+Tvrzení 1 | Každý obor integrity s charakteristikou 0 je nekonečný. Tvrzení 2 | Každý obor integrity s prvočíselnou charakteristikou je konečný.,"Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",C
+"Nechť A a B jsou množiny, f: A -> B a g: B -> A jsou funkce takové, že pro všechna a \in A platí g(f(a)) = a. Tvrzení 1 | Funkce f musí být nutně injektivní. Tvrzení 2 | Funkce f musí být nutně surjektivní.","Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",C
+"Tvrzení 1 | Pro libovolné dvě grupy G a G' existuje homomorfismus z G do G'.
+Tvrzení 2 | Každý homomorfismus je vzájemně jednoznačné zobrazení.","Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",C
+Tvrzení 1 | Homomorfismus může mít prázdné jádro. Tvrzení 2 | Není možné mít netriviální homomorfismus z nějaké konečné grupy do nějaké nekonečné grupy.,"Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",B
+"Najděte všechna c v Z_3 taková, že Z_3[x]/(x^3 + x^2 + c) je pole.",0,2,1,3,B
+"Tvrzení 1 | Pokud je R obor integrity, pak R[x] je obor integrity. Tvrzení 2 | Pokud je R okruh a f(x) a g(x) jsou v R[x], pak stupeň (f(x)g(x)) = stupeň f(x) + stupeň g(x).","Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",C
+Najděte maximální možný řád pro některý prvek Z_8 x Z_10 x Z_24.,8,120,240,24,B
+"Tvrzení 1 | Každá řešitelná grupa má řád, který je mocninou prvočísla.
+Tvrzení 2 | Každá grupa, jejíž řád je mocninou prvočísla, je řešitelná.","Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",D
+"Najděte všechna c v Z_3 taková, že Z_3[x]/(x^3 + cx^2 + 1) je pole.",0,2,1,3,B
+"Ve skupině G = {2, 4, 6, 8) při násobení modulo 10 je neutrální prvek",6,8,4,2,A
+"Tvrzení 1 | Pokud G, H a K jsou grupy řádu 4, alespoň dvě z nich jsou izomorfní. Tvrzení 2 | Pokud Z_r + Z_s je izomorfní s podgrupou Z_m + Z_n, pak r dělí m a s dělí n.","Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",C
+Najděte stupeň pro dané rozšíření tělesa Q(√2) nad Q.,0,2,1,3,B
+"Tvrzení 1 | Každá volná abelovská grupa je bez torze.
+Tvrzení 2 | Každá konečně generovaná abelovská grupa bez torze je volná abelovská grupa.","Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",A
+Tvrzení 1 | 4x - 2 je neredukovatelné nad Z. Tvrzení 2 | 4x - 2 je neredukovatelné nad Q.,"Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",D
+Najděte generátor pro konečné pole Z_11.,1,2,3,4,B
+Tvrzení 1 | Každá grupa řádu 159 je cyklická. Tvrzení 2 | Každá grupa řádu 102 má netriviální vlastní normální podgrupu.,"Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",A
+"Tvrzení 1 | Pokud H a K jsou podgrupy G a jedna z H nebo K je normální podgrupa G, pak HK je podgrupa G. Tvrzení 2 | Všechny grupy řádu p^2, kde p je prvočíslo, jsou Abelovy.","Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",A
+Tvrzení 1 | Jednotkový prvek podokruhu musí být stejný jako jednotkový prvek okruhu. Tvrzení 2 | Každé těleso je obor integrity.,"Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",D
+Tvrzení 1 | Množina 2 x 2 matic s celočíselnými prvky a nenulovým determinantem je grupa vzhledem k násobení matic. Tvrzení 2 | Množina 2 x 2 matic s celočíselnými prvky a determinantem 1 je grupa vzhledem k násobení matic.,"Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",D
+"Tvrzení 1 | Každý podílový okruh každého komutativního okruhu je opět komutativní okruh. Tvrzení 2 | Ideál N v okruhu R s jednotkovým prvkem 1 je celé R tehdy a jen tehdy, když 1 patří do N.","Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",C
+"Pokud A = (1, 2, 3, 4). Nechť ~= {(1, 2), (1, 3), (4, 2)}. Pak ~ je",ne antisymetrický,tranzitivní,reflexivní,symetrický,B
+Kolik existuje homomorfismů z Z do Z_2?,1,2,nekonečně mnoho,0,B
+Tvrzení 1 | Každé těleso je také okruh. Tvrzení 2 | Každý okruh má multiplikativní jednotku.,"Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",C
+"Tvrzení 1 | Pokud R je okruh a f(x) a g(x) jsou v R[x], pak stupeň (f(x)+g(x)) = maximum (stupeň f(x), stupeň g(x)). Tvrzení 2 | Pokud F je těleso, pak každý ideál F[x] je hlavní.","Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",D
+"Podmnožina H grupy (G,*) je grupa, pokud","a,b v H => a * b v H",a v H => a^-1 v H,"a,b v H => a * b^-1 v H",H obsahuje neutrální prvek,C
+Polynom x^4 + 4 lze v Z_5[x] rozložit na lineární činitele. Najděte tento rozklad.,(x − 2)(x + 2)(x − 1)(x + 1),(x+1)^4,(x-1)(x+1)^3,(x-1)^3(x+1),A
+"Tvrzení 1 | Existuje volná abelovská grupa každé kladné celočíselné hodnosti.
+Tvrzení 2 | Konečně generovaná abelovská grupa je volná abelovská, pokud se její Bettiho číslo rovná počtu prvků v nějaké generující množině.","Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",A
+"(Z,*) je grupa s a*b = a+b+1 pro všechna a, b v Z. Inverzní prvek k a je",0,-2,a-2,(2+a)*-1,D
+Najděte stupeň pro dané rozšíření tělesa Q(sqrt(2)*sqrt(3)) nad Q.,0,4,2,6,C
+Pomocí Fermatovy věty najděte zbytek po dělení 3^47 číslem 23.,1,2,3,4,D
+Najděte charakteristiku okruhu Z_3 x Z_3.,0,3,12,30,B
+"Tvrzení 1 | Pokud a a b jsou prvky skupiny a a se nerovná b, pak a^2 se nerovná b^2. Tvrzení 2 | Množina rotací v dihedrální grupě tvoří cyklickou podgrupu.","Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",D
+Tvrzení 1 | Ve skupině (ab)^{-2} = b^{-2}a^{-2}. Tvrzení 2 | Ve skupině (ab)^n = a^nb^n.,"Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",B
+"Tvrzení 1 | S_n je neabelovská pro všechna n >= 3. Tvrzení 2 | Pokud a je permutace, která je m-cyklem, a b je permutace, která je n-cyklem, pak |ab| = nsn(m,n).","Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",C
+Najděte charakteristiku okruhu Z x Z.,0,3,12,30,A
+"Tvrzení 1 | Pro n > 1 je množina {1,2, ..., n-1} grupou vzhledem k násobení modulo n. Tvrzení 2 | Existuje celé číslo x takové, že 63x mod 100 = 1.","Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",D
+"Tvrzení 1 | Pokud K je nenulová podgrupa konečně generované volné abelovské grupy, pak K je volná abelovská.
+Tvrzení 2 | Pokud K je nenulová podgrupa konečně generované volné abelovské grupy, pak G / K je volná abelovská.","Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",C
+Tvrzení 1 | Vnější přímý součin cyklických grup je cyklický. Tvrzení 2 | Vnější přímý součin D_3 a D_4 je izomorfní s D_12.,"Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",B
+Tvrzení 1 | Každá nenulová volná abelovská grupa má nekonečný počet bází. Tvrzení 2 | Každá volná abelovská grupa hodnosti alespoň 2 má nekonečný počet bází.,"Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",D
+"Tvrzení 1 | Pro každé kladné celé číslo n existuje cyklická grupa řádu n. Tvrzení 2 | Každá konečná cyklická grupa obsahuje prvek každého řádu, který dělí řád grupy.","Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",A
+"Tvrzení 1 | Pokud skupina má prvek řádu 10, pak má prvky řádů 1, 2 a 5. Tvrzení 2 | Pokud skupina má prvek řádu 2 a prvek řádu 3, pak má prvek řádu 6.","Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",C
+"Nechť A a B jsou množiny, f: A -> B a g: B -> A jsou funkce takové, že pro všechna a \in A platí g(f(a)) = a. Tvrzení 1 | Funkce g musí být nutně injektivní. Tvrzení 2 | Funkce g musí být nutně surjektivní.","Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",D
+"Tvrzení 1 | Homomorfismus je prostý (injektivní) tehdy a jen tehdy, když jádro obsahuje pouze identický prvek. Tvrzení 2 | Obraz grupy o 6 prvcích při nějakém homomorfismu může mít 4 prvky.","Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",C
+"Tvrzení 1 | Pokud H a K jsou podgrupy grupy G, pak |HK| = |H||K|/|H průnik K|. Tvrzení 2 | Grupa řádu 2p, kde p je liché prvočíslo, je cyklická nebo izomorfní s D_p.","Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",A
+"Pro T: Z x Z -> Z, kde T(1, 0) = 3 a T(0, 1) = -5, najděte T(-3,2).",-19,-10,19,10,A
+Vypočítejte součin v daném okruhu. (12)(16) v Z_24,0,1,4,6,A
+"Tvrzení 1 | Každá permutace je vzájemně jednoznačná funkce.
+Tvrzení 2 | Každá funkce je permutace tehdy a jen tehdy, když je vzájemně jednoznačná.","Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",C
+"Tvrzení 1 | Pokud má konečná grupa řád n, pak grupa obsahuje podgrupu řádu d pro každý kladný dělitel d čísla n. Tvrzení 2 | Pokud a patří do konečné grupy, pak |a| dělí |G|.","Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",D
+Najděte všechny rozklady podgrupy 4Z grupy 2Z.,4Z,"4Z, 2 + 4Z",2Z,Z,B
+Které z následujících tvrzení je pravdivé?,Každá ekvivalenční relace je relací částečného uspořádání.,"Počet vztahů z A = {x, y, z} do B = (1, 2) je 64.",Prázdná relace _ je reflexivní,Vlastnosti vztahu být symetrický a být nesymetrický jsou navzájem opačné.,B
+Najděte maximální možný řád prvku S_n pro n = 6.,6,12,30,105,A
+Tvrzení 1 | Q je rozšířené těleso Z_2. Tvrzení 2 | Každý nekonstantní polynom nad tělesem má nulový bod v nějakém rozšířeném tělese.,"Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",D
+"Tvrzení 1 | Pokud H je podskupina G a a patří do G, pak aH je podskupina G tehdy a jen tehdy, když a je v H. Tvrzení 2 | Pokud H je podskupina G a a a b patří do G, pak aH = bH tehdy a jen tehdy, když ab je v H.","Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",C
+Najděte všechny nulové body v uvedeném konečném tělese daného polynomu s koeficienty v tomto tělese. x^2 + 1 v Z_2,0,1,"0,1",2,B
+Najděte počet prvků v uvedené cyklické grupě: Cyklická podgrupa Z_30 generovaná číslem 25.,25,5,6,30,C
+"Prvek (4, 2) z Z_12 x Z_8 má řád",4,8,12,6,C
+Tvrzení 1 | Každý ideál v okruhu je podokruhem tohoto okruhu. Tvrzení 2 | Každý podokruh každého okruhu je ideálem tohoto okruhu.,"Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",C

@@ -1,0 +1,272 @@
+"Nếu một ngũ giác P có các đỉnh tại (– 2, – 4), (– 4, 1), (–1, 4), (2, 4), và (3, 0) được phản chiếu qua đường thẳng y = x để tạo ra một ngũ giác mới, P', thì một trong các đỉnh của P' là","(0, – 3)","(4, 1)","(2, 2)","(– 4, –2)",D
+"Chiều dài của một hình chữ nhật gấp đôi chiều rộng của nó. Biết rằng độ dài đường chéo là $5\sqrt{5}$, hãy tìm diện tích của hình chữ nhật.",2500,2,50,25,C
+"Một số nguyên dương n được gọi là ""mạnh mẽ"" nếu, với mọi thừa số nguyên tố p của n, p^2 cũng là một thừa số của n. Một ví dụ về số mạnh mẽ là",392,336,300,297,A
+"Vào bữa sáng, bữa trưa và bữa tối, Joe ngẫu nhiên chọn với xác suất bằng nhau một trong ba loại quả: táo, cam hoặc chuối để ăn. Trong một ngày, xác suất để Joe ăn ít nhất hai loại quả khác nhau là bao nhiêu?",\frac{7}{9},\frac{8}{9},\frac{5}{9},\frac{9}{11},B
+"Giả sử $f(x)$ là một hàm số có tính chất sau: Với mọi số thực $a$ và $b$ sao cho $a<b$, phần đồ thị của $y=f(x)$ nằm giữa $x=a$ và $x=b$ đều nằm dưới đoạn thẳng có hai điểm đầu mút là $(a,f(a))$ và $(b,f(b))$. (Một hàm số có tính chất này được gọi là hàm lồi chặt.) Biết rằng $f(x)$ đi qua $(-2,5)$ và $(2,9)$, hãy tìm khoảng giá trị có thể của $f(1)$? Hãy biểu diễn câu trả lời của bạn bằng ký hiệu khoảng.","(-vô cùng, 10)","(-vô cùng, 9)","(-vô cùng, 8)","(-vô cùng, 7)",C
+John chia các ghim mũ lưu niệm của mình thành hai đống. Hai đống có số lượng ghim bằng nhau. Anh ấy đã cho em trai mình một nửa của một phần ba của một đống. John còn lại 66 ghim. Ban đầu John có bao nhiêu ghim?,396,72,66,36,B
+"Một nhà khí tượng học báo cáo rằng có 30% xác suất mưa và không có nắng. Nếu có 40% xác suất không mưa, thì xác suất vừa mưa vừa nắng là","0,16","0,24","0,3","0,5",C
+Tổng của tất cả các giá trị nguyên dương của $n$ sao cho $n^2$ là một thừa số của $1200$ là bao nhiêu?,42,12,36,39,A
+Chúng ta tung một con xúc xắc 6 mặt công bằng 5 lần. Xác suất để chúng ta nhận được số 6 trong nhiều nhất 2 lần tung là bao nhiêu?,\frac{125}{648},\frac{25}{648},\frac{625}{648},\frac{1}{648},C
+Có bao nhiêu dãy số cộng của các số nguyên lẻ liên tiếp có tổng bằng 240?,8,12,10,4,B
+Các số nguyên dương $x$ và $y$ có tích là 56 và $x < y$. Bảy lần nghịch đảo của số nhỏ hơn cộng với 14 lần nghịch đảo của số lớn hơn bằng 4. Giá trị của $x$ là bao nhiêu?,13,14,1,2,D
+"Với điều kiện $n > 1$, số nguyên dương nhỏ nhất $n$ mà tích của các ước số dương của nó bằng $n^6$ là bao nhiêu?",30,64,2048,60,D
+Số dư là bao nhiêu khi $2^{87} +3$ được chia cho $7$?,0,1,2,4,D
+"Điểm kiểm tra của Jane là 98, 97, 92, 85 và 93. Điểm trung bình của cô ấy là bao nhiêu?",92,93,"94,5",95,B
+"Giả sử đồ thị của f vừa tăng vừa lồi lên trên đoạn a <= x <= b. Khi đó, sử dụng cùng số lượng phân đoạn, và với L, R, M, và T lần lượt biểu thị tổng trái, tổng phải, tổng điểm giữa và tổng hình thang, ta có thể suy ra rằng",R <= T <= M <= L,L <= T <= M <= R,R <= M <= T <= L,L <= M <= T <= R,D
+"Một con kiến bò thẳng từ điểm $(-4,6)$ đến gốc tọa độ, sau đó tiếp tục bò thẳng đến điểm $(4,3)$. Con kiến đã đi được bao xa?",16,2√2,5,5+2√13,D
+Gọi $n$ là tích của hai số nguyên tố 3 chữ số nhỏ nhất. Tìm tổng các chữ số của $n$.,8,3,6,9,A
+Đa thức thu được từ việc khai triển $(x^2+5x+6)^2+(px+q)(x^3+7x^2+3x)$ có bậc $2$. Tìm $p+q$.,-2,-4,-1,1,B
+"Nếu $f(x)=ax^6-bx^4+x-1$ và $f(2)=5$, thì giá trị của $f(-2)$ là bao nhiêu?",1,3,0,5,A
+Phạm vi của hàm số $f(x) = \frac{1}{1-x}$ là gì? Hãy biểu diễn câu trả lời của bạn bằng ký hiệu khoảng.,"(-∞,-1)∪(1,∞)","(-∞,0)∪(0,∞)","[-1,1]","(-1,1)",B
+Nghịch đảo của $f(x)=4-5x$ là gì?,\frac{5}{x-4},\frac{x-4}{5},\frac{x+4}{5},-\frac{x-4}{5},D
+Số hạng thứ 5 trong một chuỗi mà số hạng đầu tiên là 2 và mỗi số hạng tiếp theo bằng −2 nhân với số hạng trước đó là bao nhiêu?,−16,32,−32,64,B
+Có bao nhiêu cách để đặt 4 quả bóng phân biệt được vào 2 hộp không phân biệt được?,7,11,16,8,D
+Có bao nhiêu số nguyên dương là ước số của 120 và cũng là ước số của 40?,4,8,2,1,B
+"Carlos Montado sinh vào thứ Bảy, ngày 9 tháng 11 năm 2002. Vào ngày nào trong tuần Carlos sẽ được 706 ngày tuổi? (Hãy viết ra toàn bộ tên của ngày trong tuần.)",Thứ Sáu,Thứ Năm,Thứ Tư,Thứ Ba,A
+Ký hiệu $5!$ có nghĩa là $5\cdot 4\cdot 3\cdot 2\cdot 1$. Số nguyên lẻ lớn nhất là ước số của $5!$ là bao nhiêu?,5,3,15,31,C
+"Trong hình bình hành $ABCD$, góc $B$ đo $110^\circ$. Số đo của góc $C$ là bao nhiêu độ?",145,90,60,70,D
+"Tốc độ mà một quá trình lọc có thể loại bỏ chất gây ô nhiễm từ một bể nước tỷ lệ thuận với lượng chất gây ô nhiễm còn lại. Nếu 20% chất gây ô nhiễm có thể được loại bỏ trong phút đầu tiên của quá trình và 98% phải được loại bỏ để làm cho nước an toàn, thì quá trình khử nhiễm sẽ mất khoảng bao lâu?",2 phút,5 phút,18 phút,20 phút,C
+Miền xác định của hàm số $f(x)=\frac{x+6}{\sqrt{x^2-3x-4}}$ là gì?,"(-4,4)","[0,4]","(-vô cùng, -1) U (4, vô cùng)","(-∞, -1) ∪ (-1, 4) ∪ (4, +∞)",C
+Một giá trị cực đại tương đối của hàm số y = (ln x)/x là,1,e,2/e,1/e,D
+Chữ số hàng đơn vị của $1 \cdot 2 \cdot 3 \cdot 4 \cdot 5 \cdot 6 \cdot 7 \cdot 8 \cdot 9$ là gì?,1,2,0,5,C
+Khoảng cách ngắn nhất từ gốc tọa độ đến đường tròn được định nghĩa bởi phương trình $x^2-24x +y^2+10y +160=0$ là bao nhiêu?,10,16,24,12,A
+"Số nguyên dương nhỏ nhất có các thừa số là 16, 15 và 12 là gì?",12,22,840,240,D
+"Có bao nhiêu cách để chọn 3 lá bài từ một bộ bài tiêu chuẩn 52 lá, nếu cả ba lá bài phải thuộc ba chất khác nhau? (Giả sử rằng thứ tự của các lá bài không quan trọng.)",8788,2,2197,21,A
+"Cho $C$ là đường tròn có phương trình $x^2+12y+57=-y^2-10x$. Nếu $(a,b)$ là tâm của $C$ và $r$ là bán kính của nó, thì giá trị của $a+b+r$ là bao nhiêu?",-9,-5,-6,-57,A
+"Giả sử đồ thị của $y=f(x)$ bao gồm các điểm $(1,5),$ $(2,3),$ và $(3,1)$. Chỉ dựa trên thông tin này, có hai điểm chắc chắn phải nằm trên đồ thị của $y=f(f(x))$. Nếu chúng ta gọi những điểm đó là $(a,b)$ và $(c,d),$ thì $ab+cd$ bằng bao nhiêu?",15,5,9,17,D
+Tính $\dbinom{85}{82}$.,252,4680,98770,101170,C
+"Một tờ giấy kích thước 8.5 x 11 inch được gấp đôi nhiều lần (không bao giờ được mở ra), mỗi lần gấp sẽ rút ngắn cạnh dài hơn lúc đó. Chiều dài của cạnh dài nhất, tính bằng inch, ngay sau lần gấp thứ hai là bao nhiêu? Hãy biểu thị câu trả lời của bạn dưới dạng số thập phân, làm tròn đến một chữ số thập phân.","4,5",1,"5,5",5,C
+"Số nguyên dương nhỏ nhất có các thừa số là 16, 15 và 12 là gì?",240,120,60,111,A
+Tìm tổng của tất cả các số nguyên $k$ sao cho $\binom{23}{4} + \binom{23}{5} = \binom{24}{k}$.,24,5,3,21,A
+"Nếu $888x + 889y = 890$ và $891x + 892y = 893$, thì giá trị của $x - y$ là bao nhiêu?",1,-3,-1,3,B
+"Các thừa số nguyên tố của một số là 2, 5, 7, 13 và 31. Trong các số sau đây, số nào chắc chắn là thừa số của số đó?",4,6,10,15,C
+"Một nhóm người có số 12345.6789 được viết trên một mảnh giấy. Sau đó nhóm quyết định chơi một trò chơi. Người chiến thắng của trò chơi là người có thể làm tròn số đã cho và nhận được một số cao hơn bất kỳ người nào khác. Alice làm tròn đến hàng chục nghìn gần nhất, Bob đến hàng nghìn gần nhất, Carol đến hàng trăm gần nhất, Devon đến hàng chục gần nhất, và Eugene đến số nguyên gần nhất. Ngoài ra, Felicity làm tròn số đến phần mười gần nhất, Gerald đến phần trăm gần nhất, Harry đến phần nghìn gần nhất, và Irene làm tròn đến phần mười nghìn gần nhất. Ai là người chiến thắng trò chơi?",Alice,Devon,Bob,Gerald,B
+Phân tích thừa số $36-9x^2$.,(6-3x)(6+3x),(-3x+6)(3x+6),9(2-x)(2+x),3(2+x)^2,C
+"Để đặt viên đá lát đường đầu tiên trong một con đường, Alex bắt đầu từ thùng đá, đi ba feet, đặt viên đá, và quay lại thùng. Đối với mỗi viên đá tiếp theo, Alex đi thêm hai feet mỗi chiều. Alex sẽ đặt 50 viên đá đầu tiên trong một con đường. Sau khi quay lại thùng từ việc đặt viên đá thứ 50, tổng quãng đường Alex đã đi là bao nhiêu feet?",100,90950,5200,50,C
+"Một hộp chứa 4 quả bóng trắng và 4 quả bóng đen. Tôi rút chúng ra khỏi hộp, mỗi lần một quả. Xác suất để tất cả các lần rút của tôi luân phiên màu sắc là bao nhiêu?",\frac{1}{8},\frac{1}{7},\frac{1}{40},\frac{1}{35},D
+Số nguyên tố nhỏ nhất có tổng các chữ số bằng $19$ là gì?,5,11,17,199,D
+Miền xác định của hàm số $h(x) = \sqrt{25-x^2}+\sqrt{-(x-2)}$ là một khoảng có độ rộng bao nhiêu?,7,5,2,25,A
+John chia các ghim mũ lưu niệm của mình thành hai đống. Hai đống có số lượng ghim bằng nhau. Anh ấy đã cho em trai mình một nửa của một phần ba của một đống. John còn lại 66 ghim. Ban đầu John có bao nhiêu ghim?,792,66,396,72,D
+"Nếu $f(x) = 8x^3 - 6x^2 - 4x + 5$, tìm giá trị của $f(-2)$.",5,-75,-64,-24,B
+"Để phạt vì hành vi xấu trong giờ ra chơi, cô Busywork yêu cầu lớp của mình nhân 10 với $\frac{1}{3}$ năm lần. Tuy nhiên, John nhận thấy rằng có thể nhân 10 với một phân số duy nhất và vẫn nhận được kết quả giống như các học sinh khác. Phân số duy nhất đó là gì?",\frac{1}{27},\frac{1}{68},\frac{1}{3},\frac{1}{243},D
+"Giả sử đồ thị của một hàm số nhất định, $y=f(x)$, có tính chất là nếu nó được dịch chuyển 20 đơn vị sang phải, thì đồ thị kết quả sẽ giống hệt đồ thị ban đầu của $y=f(x)$. Vậy giá trị dương nhỏ nhất của $a$ là bao nhiêu để khi đồ thị của $y=f\left(\frac x5\right)$ được dịch chuyển $a$ đơn vị sang phải, thì chúng ta biết rằng đồ thị kết quả sẽ giống hệt đồ thị ban đầu của $y=f\left(\frac x5\right)$?",100,4,5,20,A
+"Có bao nhiêu số phân số duy nhất có thể được tạo ra bằng cách đặt $2,3,4,$ hoặc $6$ ở tử số và $2,3,4,$ hoặc $6$ ở mẫu số?",1,9,2,10,B
+Số thứ hai trong hàng của tam giác Pascal có 43 số là gì?,43,16,42,44,C
+"Ông Patrick đang chuẩn bị một bài kiểm tra đúng-sai gồm năm câu hỏi cho lớp của mình. Ông tung đồng xu trước khi viết câu hỏi đầu tiên. Nếu là mặt ngửa, ông viết một câu đúng và nếu là mặt sấp, ông viết một câu sai. Ông tiếp tục làm như vậy cho đến khi tất cả năm câu được viết xong. Xác suất để chuỗi câu trả lời đúng là TFTFT là bao nhiêu? Hãy biểu thị câu trả lời của bạn dưới dạng phân số thông thường.",\frac{1}{6},\frac{1}{64},\frac{1}{32},\frac{1}{2},C
+"Cho $f(x)=\frac{(x-2)^2-9}{3}$. Phương trình $y=f(x)$ được vẽ đồ thị, và các giao điểm của đồ thị với trục $x$ và trục $y$ được nối lại để tạo thành một đa giác. Diện tích của đa giác đó là bao nhiêu?",5,\frac{25}{6},\frac{\sqrt{2465}{9},2,A
+Tìm $b$ nếu $\log_{b}343=-\frac{3}{2}$.,3,\frac{1}{49},\frac{1}{7},7,B
+"Cạnh dài nhất của một tam giác là 10. Trong số các cặp cạnh sau đây, cặp nào KHÔNG THỂ là độ dài của hai cạnh còn lại?","4, 7","5, 5","3, 9","9, 8",B
+"Bội chung nhỏ nhất của hai số nguyên là 240, và ước chung lớn nhất là 24. Biết rằng một trong hai số nguyên đó là 48, số nguyên còn lại là bao nhiêu?",1,120,20,12,B
+Giải để tìm tổng của tất cả các giá trị có thể của $x$ khi $3^{x^2+4x+4}=9^{x+2}$.,1,2,-2,0,C
+"Vi khuẩn trong một môi trường nuôi cấy tăng trưởng với tốc độ tỷ lệ thuận với số lượng hiện có. Một quần thể ban đầu gồm 200 con tăng gấp ba lần trong 10 giờ. Nếu mô hình tăng trưởng này tiếp tục không bị cản trở, thì số lượng vi khuẩn xấp xỉ sau 1 ngày đầy đủ là",1160,1440,2408,2793,D
+"Nếu x và y tỷ lệ thuận với nhau và x = 3 khi y = 8, thì giá trị của x là bao nhiêu khi y = 13?","0,615","4,875",15,"34,667",B
+"Nếu f (x) = x^3 + 2x^2 – 9x – 18, câu nào trong các câu sau đây là đúng?",f (x) = 0 có ba nghiệm thực.,f (x) ≥ –18 với mọi x ≥ 0.,f (x) ≤ –18 với mọi x ≤ 0.,Hàm số f (x) giảm đối với x ≤ –3.,A
+"Anton có hai loài kiến, Loài A và Loài B, trong trang trại kiến của mình. Hai loài này có hình dáng giống hệt nhau, nhưng Anton biết rằng mỗi ngày, số lượng kiến Loài A tăng gấp đôi so với ngày trước, trong khi số lượng kiến Loài B tăng gấp ba lần. Vào Ngày 0, Anton đếm được có 30 con kiến trong trang trại của mình. Vào Ngày 5, Anton đếm được có 3281 con kiến trong trang trại của mình. Có bao nhiêu con kiến thuộc Loài A?",211,2321,11,608,D
+"Trong phương trình $|x-4| -10 = 2$, tích của tất cả các giá trị có thể có của $x$ là bao nhiêu?",-8,128,-128,16,C
+"Trung bình của 7 số là 15. Khi thêm một số thứ 8, trung bình giảm xuống còn 12. Số thứ 8 là bao nhiêu?",–12,–9,0,8,B
+"Nếu 3^(x – 3) + 10 = 19, thì x =",3,4,5,6,C
+"Giả sử $f(x)$ là một đa thức có bậc $6$ và $g(x)$ là một đa thức có bậc $3$. Nếu $h(x)$ cũng là một đa thức sao cho $f(g(x)) + g(h(x)) + h(f(x))$ là một đa thức bậc $36$, thì bậc của đa thức $h$ là bao nhiêu?",72,6,18,12,B
+"Một điểm $(x,y)$ được chọn ngẫu nhiên từ bên trong hình chữ nhật có các đỉnh $(0,0)$, $(3,0)$, $(3,2)$, và $(0,2)$. Xác suất để $x < y$ là bao nhiêu?",\frac{1}{12},\frac{1}{6},\frac{2}{3},\frac{1}{3},D
+"Roslyn có hai mươi hộp. Mười ba hộp chứa bút chì, chín hộp chứa bút mực, và ba hộp không chứa bút chì cũng không chứa bút mực. Có bao nhiêu hộp chứa cả bút chì và bút mực?",5,2,13,139,A
+Có bao nhiêu số nguyên dương 4 chữ số chỉ chứa các chữ số lẻ?,100,999,625,500,C
+Kết quả của $$\frac{-\frac{18}{7}}{-\frac{6}{5}}$$ là gì?,\frac{7}{15},\frac{15}{7},\frac{15}{8},\frac{15}{11},B
+Căn bậc hai dương của 200 lớn hơn căn bậc hai dương của 121 bao nhiêu phần trăm? Hãy biểu thị câu trả lời của bạn đến số nguyên gần nhất.,29,14,27,11,A
+"Nếu $(2x + 3y)^2 = 4$ và $xy = -5$, thì giá trị của $4x^2 + 9y^2$ là bao nhiêu?",-5,13,64,25,C
+"Một dãy gồm ba số thực tạo thành một cấp số cộng với số hạng đầu tiên là 9. Nếu cộng thêm 2 vào số hạng thứ hai và cộng thêm 20 vào số hạng thứ ba, ba số kết quả tạo thành một cấp số nhân. Giá trị nhỏ nhất có thể của số hạng thứ ba trong cấp số nhân là bao nhiêu?",2,1,9,16,B
+"Số hạng đầu tiên của một dãy số cho trước là 1, và mỗi số hạng tiếp theo là tổng của tất cả các số hạng trước đó trong dãy. Số hạng đầu tiên có giá trị vượt quá 5000 là bao nhiêu?",10240,5001,5002,8192,D
+Câu nào sau đây là đúng?,"Nếu f(x) liên tục tại x = c, thì f′(c) tồn tại.","Nếu f′(c) = 0, thì f có một cực đại hoặc cực tiểu cục bộ tại (c, f(c)).","Nếu f′′(c) = 0, thì đồ thị của f có một điểm uốn tại (c, f(c)).","Nếu f khả vi tại x = c, thì f liên tục tại x = c.",D
+"Cho $a\star b = a^b-ab$. Nếu $2\star x = 22$, tìm $x$.",5,22,11,6,A
+"Tháng Hai năm 2011 có 28 ngày và tháng Ba có 31 ngày. Vậy tháng tới, tháng Tư, sẽ bắt đầu vào thứ mấy trong tuần?",Thứ Tư,Thứ Năm,Thứ Sáu,Thứ Bảy,C
+"Một loại virus đang lây lan trong dân số của một thị trấn, và số người nhiễm virus tăng gấp đôi cứ sau 3 ngày. Nếu có 1.000 người trong thị trấn, và 10 người nhiễm virus vào ngày 1 tháng 1, thì ngày sớm nhất mà toàn bộ thị trấn sẽ bị nhiễm virus là khi nào, biết rằng một năm có 365 ngày và tháng 1 có 31 ngày?",Ngày 10 tháng 1,Ngày 21 tháng 1,Ngày 31 tháng 1,Ngày 10 tháng 2,B
+"Có bao nhiêu số trong danh sách $25, 26, 27, \ldots, 99, 100 ?$",75,76,22,23,B
+"Có bao nhiêu chuỗi đối xứng (sắp xếp đọc từ trái sang phải giống như từ phải sang trái) có từ 2 chữ cái trở lên, chứa chữ cái M, có thể được tạo ra bằng cách sắp xếp lại bất kỳ tập hợp con nào của các chữ cái trong từ MISSISSIPPI?",89,66,86,2012,A
+Tìm số dư khi 25^1059 được chia cho 23.,11,13,8,5,C
+Ước số chung lớn nhất của 252 và 96 là gì?,6,24,5,12,D
+"Chín túi thức ăn cho chim đang ở trong phòng kho. Mười bảy túi nữa sẽ được giao vào thứ Hai. Hai mươi hai túi sẽ được giao vào thứ Ba. Ba túi sẽ được giao vào thứ Tư. Mười một túi sẽ được giao vào thứ Năm. Cuối cùng, mười tám túi sẽ được giao vào thứ Sáu. Đến cuối tuần, tổng cộng sẽ có bao nhiêu túi thức ăn cho chim?",9,25,60,80,D
+Rút gọn $\frac{k-3}{2} + 3k+1+\frac{3k+1}{2}$.,3k+1,5 nghìn,3 nghìn,1,B
+"Nếu một chiếc đồng hồ điểm chuông mỗi giờ với số lần bằng với số giờ đó (ví dụ: lúc 3 giờ chiều nó điểm 3 lần) và một lần cho mỗi khoảng thời gian 15 phút giữa các giờ (ví dụ: lúc 3:15, 3:30 và 3:45), thì tổng số lần điểm chuông sẽ là bao nhiêu trong khoảng thời gian từ 5:10 đến 7:35 tối?",3,15,18,21,D
+Một tam giác đều có các cạnh dài 12 inch. Diện tích xấp xỉ của tam giác này là bao nhiêu?,62,72,84,112,A
+"Khi đồ thị của một hàm số $f(x)$ nào đó được dịch chuyển 2 đơn vị sang phải và kéo dãn theo chiều dọc với hệ số 2 (nghĩa là tất cả tọa độ y được nhân đôi), hình thu được giống hệt với đồ thị ban đầu. Biết rằng $f(0)=0.1$, hãy tìm $f(10)$?","0,01",1,32,"3,2",D
+"Định nghĩa $f(x)=\frac{1+x}{1-x}$ và $g(x)=\frac{-2}{x+1}$. Tìm giá trị của \[g(f(g(f(\dotsb g(f(12)) \dotsb ))))\] trong đó hàm $f$ được áp dụng 8 lần, và hàm $g$ được áp dụng 8 lần, luân phiên giữa hai hàm.",12,8,4,0,C
+"John nhận thấy rằng góc tạo bởi kim phút và kim giờ trên một đồng hồ chuẩn 12 giờ là 110 độ khi anh ấy rời nhà sau 6 giờ chiều; nó cũng là 110 độ khi anh ấy trở về sau 6 giờ chiều nhưng trước 7 giờ tối cùng ngày hôm đó. Nếu anh ấy rời nhà hơn năm phút, anh ấy đã đi vắng trong bao nhiêu phút?",36,40,38,43,B
+"Cho $f(x)=3x+4$ và $g(x)=2x-3$. Nếu $h(x)=f(g(x))$, thì nghịch đảo của $h(x)$ là gì?",\frac{x-5}{3},\frac{x+5}{3},\frac{x+5}{6},\frac{x-5}{6},C
+Tìm $-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}.$,1,-1,0,2,B
+"Đáy của một khối rắn là vùng được giới hạn bởi x^2 = 4y và đường thẳng y = 2, và mỗi mặt cắt vuông góc với trục y là một hình vuông. Thể tích của khối rắn là",8,16,20,32,D
+"Cho rằng $a$ và $b$ là các số thực sao cho $-3\leq a\leq1$ và $-2\leq b\leq 4$, và các giá trị cho $a$ và $b$ được chọn ngẫu nhiên, xác suất để tích $a\cdot b$ dương là bao nhiêu? Hãy biểu diễn câu trả lời của bạn dưới dạng phân số thông thường.",\frac{5}{12},\frac{5}{11},\frac{7}{12},\frac{5}{17},A
+Hệ số của số hạng (x – 8)2 trong đa thức Taylor cho y = x2/3 xung quanh x = 8 là,-1/144,-1/72,1/144,1/6,A
+"Độ dốc của đường thẳng đi qua các điểm (5, 4) và (–2, 3) là bao nhiêu?","0,14","0,2","0,33",5,A
+"Nếu có 70% khả năng trời sẽ mưa vào một ngày nhất định, thì phần trăm khả năng trời sẽ KHÔNG mưa vào cùng ngày đó là bao nhiêu?",0%,30%,50%,70%,B
+Giá trị nào của $N$ thỏa mãn $\frac{4^{(3^3)}}{(4^3)^3} = 2^N$?,9,27,36,34,C
+"Trong số các điểm sau đây, điểm nào KHÔNG phải là nghiệm của cả hai bất đẳng thức y > 9x – 8 và y < – x + 8?","(– 2, 15)","(–1, 5)","(0, 0)","(1, 5)",A
+Rút gọn $(5x+3) - 2(2x-4)$.,10+x,x+11,5x+3,7+2x,B
+Cho $f(x) = 3x^2-2$ và $g(f(x)) = x^2 + x +1$. Tìm tổng của tất cả các giá trị có thể của $g(25)$.,13,25,9,20,D
+Nhân tố lớn nhất của 54.321 mà nhỏ hơn 54.321 là gì?,6,121,18107,54.320,C
+Cạnh huyền của một tam giác vuông đo 10 inch và một góc là 45°. Diện tích của tam giác đó là bao nhiêu inch vuông?,10,45,125,25,D
+"Giả sử 5 số nguyên khác nhau được chọn ngẫu nhiên từ 20 đến 69, bao gồm cả 20 và 69. Xác suất để mỗi số có chữ số hàng chục khác nhau là bao nhiêu?",\frac{1}{4},\frac{1}{3},\frac{1000}{52969},\frac{2500}{52969},D
+"Nếu $f(x) = 2$ với mọi số thực $x$, thì giá trị của $f(x + 2)$ là bao nhiêu?",2,4,0,1,A
+Có bao nhiêu trong số 401 số nguyên từ $-200$ đến $200$ đồng dư với $5 \pmod{13}?$,30,31,60,45,B
+Số nguyên dương nhỏ nhất có thể của $n$ là bao nhiêu để $\sqrt{18\cdot n \cdot 34}$ là một số nguyên?,34,2,17,3,C
+"Nếu f(2x) = x + 5 và f(g(6)) = 13, thì 2 * g(6) =",6,16,32,36,C
+Biểu diễn dưới dạng phân số thông thường nghịch đảo của $0.\overline7$.,\frac{7}{2},\frac{7}{9},\frac{9}{2},\frac{9}{7},D
+"Jennifer đang tham gia một cuộc thi marathon, đó là một cuộc đua dài 26,2 dặm. Nếu Jennifer chạy nửa đầu của cuộc đua với tốc độ 8 dặm/giờ và nửa sau của cuộc đua với tốc độ 6 dặm/giờ, thì cô ấy mất khoảng bao nhiêu giờ để hoàn thành cuộc đua?","2,62","3,74","3,82","4,12",C
+Số chính phương nhỏ nhất có 3 thừa số nguyên tố khác nhau là gì?,300,9,900,666,C
+"Nếu $a=7$ và $b=13$, số lượng các số nguyên dương chẵn nhỏ hơn $ab$ là bao nhiêu?",45,46,90,180,A
+"Giả sử $a$, $b,$ và $c$ là các số dương thỏa mãn $a^2/b = 1, b^2/c = 2, c^2/a = 3$. Tìm $a$.",12^(1/7),7^(1/12),1,6,A
+Giải phương trình với ẩn $x$:$$\left(\frac{1}{25}\right)^{x + 2} = 125^{-x}.$$,1,2,3,4,D
+Hình tròn $2x^2 = -2y^2 + 12x - 4y + 20$ được nội tiếp trong một hình vuông có một cặp cạnh song song với trục x. Diện tích của hình vuông là bao nhiêu?,80,√20,2√20,20,A
+Đánh giá tổng\[\frac{1}{2^1} + \frac{2}{2^2} + \frac{3}{2^3} + \cdots + \frac{k}{2^k} + \cdots \],\infty,1,2,4,C
+"Một điểm trong không gian $(x,y,z)$ được chọn ngẫu nhiên sao cho $-1\le x \le 1$, $-1\le y \le 1$, $-1\le z \le 1$. Xác suất để $x^2+y^2+z^2\le 1$ là bao nhiêu?",\frac{\pi}{24},\frac{\pi}{12},\frac{\pi}{6},\frac{\pi}{3},C
+Một số $x$ bằng $2^{15}\cdot3^6$. Số nào mà lập phương của nó bằng $x$?,288,27,125,121,A
+"Giả sử rằng $a,b,$ và $c$ là các số nguyên dương thỏa mãn $(a+b+c)^3 - a^3 - b^3 - c^3 = 150$. Tìm $a+b+c$.",16,6,12,150,B
+Có bao nhiêu số nguyên dương có ba chữ số?,899,900,1000,999,B
+Juan tung một con xúc xắc bát diện đều công bằng được đánh dấu các số từ 1 đến 8. Sau đó Amal tung một con xúc xắc sáu mặt công bằng. Xác suất để tích của hai lần tung là bội số của 3 là bao nhiêu?,\frac{1}{2},\frac{1}{4},\frac{1}{144},\frac{1}{288},A
+"Năm 1960, có 450.000 ca sởi được báo cáo ở Hoa Kỳ. Năm 1996, có 500 ca được báo cáo. Có bao nhiêu ca sởi sẽ được báo cáo vào năm 1987 nếu số ca báo cáo từ năm 1960 đến 1996 giảm tuyến tính?",337125,449500,27,112875,D
+"Khi $(x\sqrt{x^3})^4$ được đơn giản hóa, số mũ của $x$ là bao nhiêu?",5,10,2,12,B
+"3 lá bài được chọn ngẫu nhiên từ một bộ bài tiêu chuẩn 52 lá. Xác suất để chúng tạo thành một đôi là bao nhiêu? (Một bộ 3 lá bài được gọi là 'đôi' nếu hai trong số các lá bài có cùng giá trị nhưng lá thứ ba khác. Ví dụ, 668 là một đôi, nhưng 999 thì không.)",\frac{1}{8},\frac{1}{36},\frac{1}{78},\frac{72}{425},D
+Có bao nhiêu đường chéo trong một bát giác đều?,8,16,17,20,D
+"Hiệu trưởng trường phải có ba giáo viên khác nhau phát biểu tại buổi lễ tốt nghiệp—một người mở đầu, một người đọc tên, và một người kết thúc. Có 85 giáo viên trong trường. Hiệu trưởng có thể sắp xếp bao nhiêu đội hình phát biểu khác nhau?",592.620,592.704,614.125,614.126,A
+Tìm độ dài của đường cong y = ln x giữa các điểm có y = 1/2 và y = 1.,"0,53","0,86","1,18","1,36",C
+"Tìm diện tích của vùng trong góc phần tư thứ nhất được giới hạn bởi y = x^2, y = cos(x), và trục y.","0,292","0,508","0,547","0,667",C
+Có bao nhiêu số nguyên dương và số nguyên âm mà $12$ là bội số của chúng?,3,12,4,6,B
+Tính giá trị của $\log_3 81$.,4,"0,25",-1,27,A
+"Viết lại biểu thức $6j^2 - 4j + 12$ dưới dạng $c(j + p)^2 + q$, trong đó $c$, $p$, và $q$ là các hằng số. Giá trị của $\frac{q}{p}$ là bao nhiêu?",3,-34,-38,11,B
+"Đối với tất cả các số thực $r$ và $s$, định nghĩa phép toán $\#$ sao cho các điều kiện sau được áp dụng: $r\ \#\ 0 = r, r\ \#\ s = s\ \#\ r$, và $(r + 1)\ \#\ s = (r\ \#\ s) + s + 1$. Giá trị của $11\ \#\ 5$ là bao nhiêu?",11,12,64,71,D
+"Một cuốn tiểu thuyết có 400 trang và Veronica muốn ước tính xem cô ấy sẽ mất bao lâu để đọc xong nó. Cô ấy đọc được 250 từ mỗi phút. Cô ấy đã đếm số từ trên một phần tư trang sách điển hình và thấy rằng có khoảng 200 từ trên mỗi trang. Làm tròn đến phút gần nhất, Veronica sẽ mất bao lâu để đọc xong cuốn sách?",225,Ba trăm hai mươi,400,450,B
+"Một chiếc áo khoác có giá niêm yết là $325,00. Trong tháng Mười Một, nó không bán được, và người bán đã giảm giá 20 phần trăm. Sau đó vào tháng Mười Hai, cô ấy giảm thêm 10 phần trăm nữa. Một người mua sắm Giáng sinh vào tháng Mười Hai sẽ phải trả bao nhiêu đô la cho chiếc áo khoác này?","227,50 đô la","234,00 đô la","286,00 đô la","290,00 đô la",B
+"John đang chơi một trò chơi trong đó anh ấy cố gắng đạt được số cao nhất có thể. Anh ấy phải đặt các ký hiệu +, $\times$, và - (cộng, nhân, và trừ) vào các chỗ trống sau đây, sử dụng mỗi ký hiệu đúng một lần:\[2 \underline{\hphantom{8}} 4 \underline{\hphantom{8}} 6 \underline{\hphantom{8}} 8.\] John không thể sử dụng dấu ngoặc đơn hoặc sắp xếp lại các số. Số cao nhất có thể mà John có thể đạt được là bao nhiêu?",22,46,100,99,B
+Tám mươi lăm cộng với bình phương của một số bằng với bình phương của hiệu giữa số đó và 17. Số đó là bao nhiêu?,17,6,2,11,B
+Hình dạng của biển hiệu bên ngoài Bob's Burger Barn là một bát giác đều. Số độ của một góc trong của biển hiệu này là bao nhiêu?,90,135,45,180,B
+"Các hành tinh X, Y và Z mất lần lượt 360, 450 và 540 ngày để quay quanh cùng một mặt trời. Nếu ba hành tinh này xếp thẳng hàng trên một tia có mặt trời là điểm cuối, thì số ngày tối thiểu dương cần thiết để chúng trở lại đúng vị trí ban đầu là bao nhiêu?",360,5400,900,1200,B
+"Độ lớn của vector v = (5, 0, 7) là bao nhiêu?",0,"3,5","4,2","8,6",D
+"Nếu chúng ta lấy sin x và thay đổi nó thành 3 sin 2x, điều gì sẽ xảy ra với miền xác định và miền giá trị của hàm số?",Miền và tập giá trị vẫn giữ nguyên,Miền là số thực; khoảng giá trị vẫn giữ nguyên,Miền được nhân ba; khoảng được nhân đôi,Miền xác định không đổi; khoảng giá trị tăng gấp ba lần,D
+"Giả sử rằng với một số $a,b,c$ nào đó, ta có $a+b+c = 1$, $ab+ac+bc = abc = -4$. Vậy $a^3+b^3+c^3$ bằng bao nhiêu?",0,1,112,12,B
+Đơn giản hóa biểu thức sau: $(9x^9+7x^8+4x^7) + (x^{11}+x^9+2x^7+3x^3+5x+8).$ Biểu diễn câu trả lời của bạn dưới dạng một đa thức với bậc của các số hạng theo thứ tự giảm dần.,x^{11}+2x^9+2x^8,x^{11}-6x^8+6x^7+3x^3+5x+8,x^11 + 10x^9 + 7x^8+6x^73x^3+5x+8,x^{11}+10x^9+7x^8+6x^7+3x^3+5x+8,D
+"Tiền boa tiêu chuẩn trong nhà hàng là 15% hóa đơn trước thuế. Nhiều người ở California tính tiền boa bằng cách nhân đôi thuế bán hàng, là 8,25%. Cách tính này vượt quá tiền boa tiêu chuẩn bao nhiêu xu trên một hóa đơn 60$ trước thuế?",90,80,70,60,A
+"Thương lớn nhất có thể của hai phần tử khác nhau bất kỳ trong tập hợp $\{\frac{2}{5}, \frac{1}{2},5,10\}$ là bao nhiêu? Cụ thể, chúng ta muốn tối đa hóa $\frac{x}{y}$, trong đó $x$ và $y$ được chọn từ tập hợp trên.",5,10,20,25,D
+Diện tích được giới hạn bởi parabol y = x^2 và các đường thẳng y = 1 và y = 9 bằng,8,84/3,64\sqrt{2}/3,104/3,D
+"Giả sử rằng với một số $a,b,c$ nào đó, ta có $a+b+c = 6$, $ab+ac+bc = 5$ và $abc = -12$. Vậy $a^3+b^3+c^3$ bằng bao nhiêu?",90,99,64,91,A
+Ba điểm được chọn ngẫu nhiên và độc lập trên một đường tròn. Xác suất để cả ba khoảng cách giữa các cặp điểm đều nhỏ hơn bán kính của đường tròn là bao nhiêu?,\frac{1}{20},\frac{1}{32},\frac{1}{12},\frac{1}{16},C
+"Nếu chúng ta biểu diễn $3x^2 + x - 4$ dưới dạng $a(x - h)^2 + k$, thì $k$ bằng bao nhiêu?",-\frac{7}{12},-7,49,-\frac{49}{12},D
+"Vào buổi trưa, một nhà thí nghiệm có 50 gram một đồng vị phóng xạ. Vào buổi trưa 9 ngày sau đó, chỉ còn lại 45 gram. Làm tròn đến ngày gần nhất, bao nhiêu ngày sau khi bắt đầu thí nghiệm sẽ chỉ còn lại 20 gram?",54,59,60,78,D
+Có ba số thực $x$ không nằm trong miền xác định của$$f(x) = \frac{1}{1+\frac{1}{1+\frac 1x}}.$$ Tổng của ba số đó là bao nhiêu?,1,0,"-1,5",-1,C
+"Một lon nước ngọt 12 ounce chứa 41 gram đường, chiếm 14% lượng đường cho phép hàng ngày thông thường. Vậy khoảng bao nhiêu gram đường được khuyến nghị trong chế độ ăn uống bình thường?","5,74",69,293,574,C
+"Có bao nhiêu số trong danh sách $ -36, -29, -22, \ldots, 41, 48?$",12,10,13,11,C
+"Tìm tổng các số nguyên tố trong khoảng từ 100 đến 200, bao gồm cả 100 và 200, mà lớn hơn một số chính phương 1 hoặc 2 đơn vị.",102,298,256,300,B
+Biểu diễn $0.1\overline{7}$ dưới dạng phân số thông thường.,\frac{8}{45},\frac{8}{5},\frac{8}{7},\frac{8}{33},A
+Có thể vẽ bao nhiêu đường chéo khác nhau trong một lục giác lồi?,6,8,9,36,C
+"Sáu số nguyên dương được viết trên các mặt của một khối lập phương. Mỗi đỉnh được gắn nhãn bằng tích của ba số trên các mặt kề với đỉnh đó. Nếu tổng các số trên các đỉnh bằng $1001$, thì tổng các số được viết trên các mặt là bao nhiêu?",18,13,1001,31,D
+"Nếu một số nguyên kết thúc bằng chữ số $0$ và tổng các chữ số của nó chia hết cho $3$, thì có bao nhiêu trong số các số $2, 3, 4, 5, 6, 8, 9$ chắc chắn chia hết cho nó?",1,2,3,4,D
+"Morgan đang sử dụng một trang mạng xã hội. Cô ấy có 60 bạn nữ và 50 bạn nam và tham gia 5 nhóm xã hội. Nếu 30% bạn nữ của cô ấy sống trong thành phố và 40% bạn nam của cô ấy sống trong thành phố, thì cô ấy có bao nhiêu bạn sống ngoài thành phố trên trang mạng xã hội đó?",38,72,110,360,B
+"Tại Học viện Học thuật, để đậu một bài kiểm tra đại số, bạn phải đạt ít nhất 80%. Nếu có 35 bài toán trong bài kiểm tra, số lượng bài tối đa bạn có thể làm sai mà vẫn đậu là bao nhiêu?",7,28,35,8,A
+"Cho một hình chữ nhật có chiều dài $3x$ inch và chiều rộng $x + 5$ inch với tính chất diện tích và chu vi của nó có giá trị bằng nhau, hãy tìm $x$?",1,5,\frac{10}{3},\frac{3}{10},A
+"Một khoản đầu tư 4000 đô la tăng trưởng với tốc độ 320*e^(0,08t) đô la mỗi năm sau t năm. Giá trị của nó sau 10 năm là xấp xỉ",4.902 đô la,$8.902,7.122 đô la,12.902 đô la,B
+Có bao nhiêu ủy ban khác nhau gồm 5 người có thể được chọn từ một nhóm 15 người?,75,120,225,3.003,D
+Tìm diện tích được giới hạn bởi đường xoắn ốc r = ln θ trong khoảng π <= θ <= 2π.,"2,405",2.931,"3,743","4,81",C
+"Đối với phương trình: 3 x − 4(x − 2) + 6 x − 8 = 0, tìm giá trị của x.",−4,0,2,4,B
+"Một con amip được đặt vào một vũng nước vào một ngày nọ, và ngay trong ngày đó nó phân chia thành hai con amip. Ngày hôm sau, mỗi con amip mới lại phân chia thành hai con amip mới, và cứ tiếp tục như vậy, để mỗi ngày mọi con amip đang sống đều phân chia thành hai con amip mới. Sau một tuần, có bao nhiêu con amip trong vũng nước? (Giả sử vũng nước không có amip nào trước khi con đầu tiên được đặt vào vũng nước.)",256,1024,64,128,D
+Tìm $(2^{20} + 2^{20} + 2^{20} +2^{21}) \div 2^{17}$.,20,40,0,10,B
+"Ở Canada vào năm 2014, giá bán buôn trung bình của đậu nành là 0,24 đô la một pound. Năm 2015, giá bán buôn trung bình của đậu nành là 0,16 đô la một pound. Nếu một nhà bán lẻ mua 20.000 pound đậu nành vào năm 2014 và năm 2015, thì phần trăm thay đổi trong chi phí của nhà bán lẻ từ năm 2014 đến năm 2015 là bao nhiêu?",–8%,–33%,–50%,8%,B
+"Một tam giác vuông có các cạnh góc vuông dài $6$ và $b$, và cạnh huyền dài $c$. Chu vi của tam giác là $18$. Tính $c$.",18,\frac{15}{2},8,6,B
+Cái nào trong những điều sau đây KHÔNG THỂ là các cạnh của một tam giác cân?,"2,2,3","2,2,4","4,12,12","5,5,5",B
+"Ramanujan và Hardy chơi một trò chơi trong đó cả hai đều chọn một số phức. Nếu tích của các số họ chọn là $32-8i$, và Hardy chọn $5+3i$, thì Ramanujan đã chọn số nào?",32-8i,5+3i,4-i,4-4i,D
+"Nếu điểm $(3,6)$ nằm trên đồ thị của $y=g(x)$, và $h(x)=(g(x))^2$ với mọi $x$, thì có một điểm chắc chắn phải nằm trên đồ thị của $y=h(x)$. Tổng các tọa độ của điểm đó là bao nhiêu?",12,36,39,13,C
+"Dãy Fibonacci là dãy số 1, 1, 2, 3, 5, $\ldots$ trong đó mỗi số hạng là tổng của hai số hạng trước đó. Số dư khi số hạng thứ 100 của dãy này chia cho 4 là bao nhiêu?",2,3,4,5,B
+"Chiều cao (tính bằng mét) của một quả đạn pháo được bắn ra tuân theo quỹ đạo được cho bởi $h(t) = -4.9t^2 + 14t - 0.4$ tại thời điểm $t$ (tính bằng giây). Dưới dạng phân số chưa tối giản, quả đạn pháo ở trên độ cao 6 mét trong bao lâu?",\frac{5}{7},\frac{7}{12},\frac{12}{7},\frac{7}{5},C
+"Nếu Wayne xem chữ ""Y"" là một nguyên âm nhưng Kristen thì không, cho rằng chỉ có 5 nguyên âm, thì xác suất một chữ cái được chọn ngẫu nhiên từ bảng chữ cái 26 chữ sẽ là nguyên âm cao hơn bao nhiêu phần trăm theo ý kiến của Wayne so với ý kiến của Kristen?",5%,6%,20%,30%,C
+Cho biểu thức: $1990\times1991 - 1989\times1990$. Số đếm nào tương đương với biểu thức này?,5,8,3980,1160,C
+"Mức lương khởi điểm hàng năm của Patricia ở công việc mới là 20.000 đô la. Sau một năm làm việc, lương của cô ấy tăng 10%; sau năm thứ hai làm việc, lương của cô ấy tăng thêm 10% so với mức lương của năm trước. Sau khi hai năm này trôi qua, mức lương của cô ấy sẽ là bao nhiêu?",24.200 đô la,24.000 đô la,22.000 đô la,4.000 đô la,A
+"Xác suất để một số nguyên được chọn ngẫu nhiên trong tập $$\{1,2,3,\ldots,100\}$$ chia hết cho 2 và không chia hết cho 3 là bao nhiêu? Hãy biểu diễn câu trả lời của bạn dưới dạng phân số thông thường.",\frac{31}{66},\frac{17}{66},\frac{17}{31},\frac{17}{50},D
+"Nếu tôi tung 5 con xúc xắc 6 mặt tiêu chuẩn và nhân số trên mặt của mỗi con xúc xắc, xác suất để kết quả là một số hợp số là bao nhiêu?",\frac{485}{486},\frac{16}{7776},\frac{4}{7776},\frac{2}{7776},A
+"Một khối rắn được cắt ra từ một quả cầu có bán kính 2 bởi hai mặt phẳng song song, mỗi mặt phẳng cách tâm 1 đơn vị. Thể tích của khối rắn này là",8π,32π/3,25π/3,22π/3,D
+"Nếu tỷ lệ của $2x-y$ với $x+y$ là 2 trên 3, thì tỷ lệ của $x$ với $y$ là bao nhiêu? Hãy biểu diễn câu trả lời của bạn dưới dạng phân số thông thường.",\frac{5}{4},\frac{4}{5},\frac{5}{2},\frac{2}{5},A
+Một đường cong được cho dưới dạng tham số bởi các phương trình,π/2,π,2 + π,2π,D
+"Trên một mặt phẳng tọa độ Descartes, các điểm $(1,2)$ và $(7, 4)$ là các đỉnh đối diện của một hình vuông. Diện tích của hình vuông đó là bao nhiêu?",20,34,40,√40,A
+Phương trình bậc hai $2x^2+5x+12=19-7x$ có hai nghiệm. Hiệu dương giữa hai nghiệm này là bao nhiêu?,2,√2,5\sqrt{2},5,C
+Tổng $1^2 + 2^2 + 3^2 + 4^2 + \cdots + n^2 = n(n+1)(2n+1) \div 6$. Giá trị của $21^2 + 22^2 + \cdots + 40^2$ là bao nhiêu?,41,22140,19270,2870,C
+Sáu xúc xắc 6 mặt được tung. Xác suất để ba xúc xắc hiển thị số nguyên tố và ba xúc xắc còn lại hiển thị số hợp số là bao nhiêu?,\frac{125}{2916},\frac{5}{16},\frac{5}{54},\frac{5}{55},C
+Tính giá trị của $\log_8 2$.,\frac{1}{4},4,3,\frac{1}{3},D
+"Nếu một tam giác đều có cạnh dài 8, thì diện tích của một hình vuông có chu vi bằng với chu vi của tam giác này sẽ là bao nhiêu?",9,16,36,49,C
+"Một số $x$ phân tích thành $107\cdot109^5$, và $107$ và $109$ là các số nguyên tố. Số mũ của $109$ trong phân tích thừa số nguyên tố của $x^{11}$ là bao nhiêu?",9,55,21,11,B
+"Cho $M=4a^2 - 2b^2 +a$. Gọi $j$ là giá trị của $M$ khi $a=5$ và $b=3$, và gọi $k$ là giá trị của $M$ khi $a=-1$ và $b=4$. Tính $j+2k$.",29,28,27,26,A
+"Ben tung bốn con xúc xắc 20 mặt công bằng, và mỗi con xúc xắc có các mặt được đánh số từ 1 đến 20. Xác suất để có chính xác hai con xúc xắc hiển thị số chẵn là bao nhiêu?",\frac{5}{24},\frac{5}{16},\frac{3}{8},\frac{5}{8},C
+"Nếu $m$ và $n$ là các số nguyên lẻ, có bao nhiêu số hạng trong khai triển của $(m+n)^6$ là số lẻ?",4,2,1,9,A
+"Một khách hàng không chắc chắn liệu chiều rộng được quảng cáo của một chiếc tivi 48 inch là dọc theo chiều dài ngang của màn hình hay dọc theo đường chéo của màn hình. Nếu tỷ lệ chiều dài so với chiều cao của màn hình tivi là 5 trên 3, thì chiều dài ngang của màn hình tivi sẽ ngắn hơn bao nhiêu inch, làm tròn đến inch gần nhất, nếu đo dọc theo đường chéo của màn hình tivi thay vì dọc theo chiều dài ngang?",3,7,8,9,B
+"Lớp của thầy Cleary và lớp của cô Ntuala đi sử dụng phòng máy tính. Có 20 máy tính sẵn có, trong đó hai máy không hoạt động. Lớp của thầy Cleary có 14 học sinh, và lớp của cô Ntuala có 12 học sinh. Nếu mỗi học sinh phải sử dụng một máy tính và tối đa chỉ có thể có 2 học sinh trên một máy tính, thì số học sinh tối đa có thể có một máy tính riêng cho mình là bao nhiêu?",2,6,10,14,C
+"Khi ba con xúc xắc tiêu chuẩn được tung, các số $a,b,c$ được nhận được. Tìm xác suất để $abc = 180$.",\frac{1}{30},\frac{1}{72},\frac{1}{71},\frac{1}{70},B
+"Một thùng chứa 5 quả bóng màu xanh lá cây và $k$ quả bóng màu tím, trong đó $k$ là một số nguyên dương chưa biết. Một quả bóng được rút ngẫu nhiên từ thùng. Nếu rút được quả bóng xanh lá cây, người chơi thắng 2 đô la, nhưng nếu rút được quả bóng tím, người chơi thua 2 đô la. Nếu số tiền kỳ vọng thắng được khi chơi trò chơi này là 50 xu, thì $k$ bằng bao nhiêu?",6,12,3,4,C
+"Cho $p$, $q$, và $r$ là các hằng số. Một nghiệm của phương trình $(x-p)(x-q) = (r-p)(r-q)$ là $x=r$. Tìm nghiệm còn lại theo $p$, $q$, và $r$.",pqr,pq-r,p-q-r,p+q-r,D
+"Nếu ma trận A có kích thước 2 × 7 và ma trận B có kích thước 7 × 5, thì kích thước của ma trận tích AB là gì?",2 × 2,2 × 5,5 × 2,7 × 7,B
+"Giả sử $x-3$ và $y+3$ là bội số của $7$. Số nguyên dương nhỏ nhất, $n,$ mà với số đó $x^2+xy+y^2+n$ là bội số của $7$ là bao nhiêu?",2,6,4,5,D
+"Nếu g(x) = f(–x) với mọi số thực x, và nếu (3, 2) là một điểm trên đồ thị của g, thì điểm nào trong các điểm sau đây PHẢI nằm trên đồ thị của f?","(3, 2)","(3, –2)","(–3, 2)","(–3, –2)",C
+"Grady đi xe đạp nhanh hơn em trai Noah của mình $60\%$. Nếu Grady đi được xa hơn Noah $12$ dặm trong hai giờ, thì Noah đi xe đạp với tốc độ bao nhiêu dặm một giờ?",32,20,10,"7,2",C
+"Một túi có 4 viên bi đỏ và 6 viên bi xanh. Một viên bi được chọn và không được thay thế, sau đó một viên thứ hai được chọn. Xác suất để cả hai viên bi đều cùng màu là bao nhiêu?",\frac{1}{8},\frac{8}{15},\frac{1}{15},\frac{7}{15},D
+"Số nguyên dương nhỏ nhất khi chia cho 4 dư 1, khi chia cho 3 dư 1, và khi chia cho 5 dư 2 là bao nhiêu?",67,43,57,37,D
+Tổng của tất cả các nghiệm nguyên thỏa mãn $|n| < |n-3| < 9$ là bao nhiêu?,-9,-14,14,9,B
+(i + 1)(5 – 5i)(5 + 5i) =,50 + 50i,50 – 50i,25 + 25i,25 – 25i,A
+"Đối với số phức z = a + bi, biết rằng a và b là các số nguyên dương, và z^3 + z^2 + z là một số thực. Tìm giá trị nhỏ nhất có thể của b.",10,1,6,11,D
+"Các số $x$ và $y$ tỷ lệ nghịch với nhau. Khi tổng của $x$ và $y$ là 42, $x$ gấp đôi $y$. Giá trị của $y$ là bao nhiêu khi $x=-8$?",-49,-7,-40,40,A
+"Một cái thang dài 26 feet tựa vào một tòa nhà sao cho chân thang di chuyển ra xa tòa nhà với tốc độ 3 feet mỗi giây. Khi chân thang cách tòa nhà 10 feet, đỉnh thang đang di chuyển xuống với tốc độ r feet mỗi giây, trong đó r là",46/3,3/4,5/4,5/2,C
+Đồ thị của phương trình $x + 2y + 3 = 0$ vuông góc với đồ thị của phương trình $ax + 2y + 3 = 0$. Giá trị của $a$ là bao nhiêu?,-4,-13,-9,-15,A
+"Số hạng thứ $n$ của một cấp số nhân nhất định được cho bởi $a\cdot r^{n-1}$, trong đó $a$ và $r$ là các số nguyên dương và $r$ lớn hơn 1. Bill chọn ra $k$ số khác nhau trong dãy này, tất cả đều có cùng số chữ số. Giá trị lớn nhất có thể của $k$ là bao nhiêu?",4,5,8,16,A
+"Nếu Owen có quần jean màu xanh với vòng eo 32 inch, vòng eo mới của quần jean mà Owen phải mặc sẽ là bao nhiêu (làm tròn đến inch gần nhất) nếu chu vi vòng eo của anh ấy tăng 15%?",35 inch,36 inch,37 inch,38 inch,C
+"Lượng sơn mà David cần để phủ một khối lập phương tỷ lệ thuận với diện tích bề mặt. Nếu David có thể phủ hoàn toàn một khối lập phương có cạnh dài 2 feet với đúng 16 quart sơn, thì David có thể phủ một khối lập phương lớn như thế nào (tính theo chiều dài cạnh tính bằng feet) với 169 quart sơn?",\frac{13}{4},8,\frac{13}{2},13,C
+Có bao nhiêu số chính phương lẻ nằm giữa 5 và 211?,2,25,6,75,C
+"Tìm $x$, biết rằng\[\dfrac{\sqrt{x}}{x\sqrt{3}+\sqrt{2}} = \dfrac{1}{2x\sqrt{6}+4}.\]",\frac{3}{4},\frac{1}{4},\frac{1}{2},\frac{1}{8},D
+Có bao nhiêu cách để chọn 5 học sinh từ một nhóm 6 học sinh?,12,3,5,6,D
+"Trong số các nguyên âm này, nguyên âm nào KHÔNG có trục đối xứng dọc?",A,E,Tôi,Ô,B
+Phạm vi của hàm số y = 5 + 3 * sin(pi – x) là gì?,–3 ≤ y ≤ 3,–2 ≤ y ≤ 8,0 ≤ y ≤ 6,2 ≤ y ≤ 8,D
+"Viết một phương trình cho đường tiếp tuyến với đường cong được xác định bởi F(t) = (t^2 + 1, 2^t) tại điểm có y = 4.",y – 4 = ln 2(x – 2),y – 4 = 4 ln 2(x – 2),y - 4 = 4(x - 5),y – 4 = ln 2(x – 5),D
+John có năm đứa con. Xác suất để ít nhất một nửa số con của anh ấy là con gái là bao nhiêu? (Chúng ta có thể giả định rằng khả năng sinh con trai và con gái là như nhau.),\frac{1}{2},\frac{1}{4},\frac{1}{8},\frac{3}{5},A
+"Nếu parabol $y_1 = x^2 + 2x + 7$ và đường thẳng $y_2 = 6x + b$ chỉ giao nhau tại một điểm, thì giá trị của $b$ là bao nhiêu?",7,3,12,4,B
+"Tại bao nhiêu điểm trên khoảng [0,π] hàm số f(x) = 2 sin x + sin 4x thỏa mãn Định lý Giá trị Trung bình?",1,2,3,4,D
+"Năm năm trước, một máy tính hoạt động chậm bằng một nửa so với máy tính hiện tại có giá gấp đôi. Tỷ lệ tốc độ trên giá của máy tính hiện tại bằng bao nhiêu phần trăm so với tỷ lệ tốc độ trên giá của máy tính cũ hơn?",20,400,32,\frac{2}{5},B
+"Ben tung hai con xúc xắc sáu mặt công bằng. Giá trị kỳ vọng của số lớn hơn trong hai số được tung là bao nhiêu? Hãy biểu thị câu trả lời của bạn dưới dạng phân số. (Nếu hai số giống nhau, chúng ta coi số đó là số ""lớn hơn"".)",\frac{161}{6},\frac{161}{36},161,\frac{161}{3},B
+"Tính giá trị của
+$$\lceil\sqrt{5}\rceil + \lceil\sqrt{6}\rceil + \lceil\sqrt{7}\rceil + \cdots + \lceil\sqrt{29}\rceil$$
+Lưu ý: Với một số thực $x,$ $\lceil x \rceil$ biểu thị số nguyên nhỏ nhất lớn hơn hoặc bằng $x.$",112,111,2006,110,A
+"Diện tích, tính bằng đơn vị vuông, của một hình vuông có cạnh bằng bán kính của một đường tròn có chu vi $12\pi$ đơn vị là bao nhiêu?",10,11,12,36,D
+"Nếu f(x) = 3x, g(x) = 5x + 3, và h(x) = 1 – x^2, thì f(g(h(x)))=",15x^2 + 15,–15x^2 + 18,–15x^2 + 24,–225x^2 + 90x – 8,C
+Một báo cáo người tiêu dùng tiết lộ thông tin sau về ba loại kem đánh răng. Bright đắt hơn Fresh 60% và có thể tích ít hơn Glow 25%. Glow rẻ hơn Bright 25% và có thể tích nhiều hơn Fresh 33⅓%. Fresh có giá $1.00 cho mỗi đơn vị thể tích. Số xu cho mỗi đơn vị thể tích của Glow là bao nhiêu?,90,120,60,Ba trăm hai mươi,A
+"Tìm thể tích của khối rắn được tạo ra khi vùng giới hạn bởi trục y, y = e^x, và y = 2 được quay quanh trục y.","0,296","0,592","2,427",3.998,B
+Số nguyên dương nhỏ nhất $n$ sao cho $\frac{1}{n}$ là một số thập phân hữu hạn và $n$ chứa chữ số 9 là bao nhiêu?,32,64,4096,256,C
+"Trong năm lần thử trước đó, Sarah đã đạt được thời gian, tính bằng giây, lần lượt là 86, 94, 97, 88 và 96, cho việc bơi 50 mét. Sau lần thử thứ sáu, cô ấy đã giảm thời gian trung vị xuống còn 92 giây. Thời gian, tính bằng giây, của lần thử thứ sáu của cô ấy là bao nhiêu?",92,90,87,10,B
+"Khi bội chung nhỏ nhất của hai số nguyên dương được chia cho ước chung lớn nhất của chúng, kết quả là 33. Nếu một số nguyên là 45, thì giá trị nhỏ nhất có thể của số nguyên kia là bao nhiêu?",165,46,45,9,A
+Đường cong được định nghĩa bởi x^3 + xy - y^2 = 10 có một tiếp tuyến thẳng đứng khi x =,0 hoặc –1/3,"1,037","2,074","2,096",C
+"John có 12 viên bi với các màu khác nhau, bao gồm một viên màu đỏ, một viên màu xanh lá cây và một viên màu xanh dương. Có bao nhiêu cách để John chọn 4 viên bi, nếu trong số những viên bi được chọn có đúng một viên là màu đỏ, xanh lá cây hoặc xanh dương?",252,276,441,84,A
+"Nếu 4 daps = 7 yaps, và 5 yaps = 3 baps, thì bao nhiêu daps bằng 42 baps?",28,21,40,30,C
+Tính $\left(\frac{1}{a}\right)^4 \cdot 2 \cdot a^4+a^{2+1-3}$ khi $a=42$.,0,1,2,3,D
+"Zoey đang lát gạch cho sân hiên của cô ấy. Người bán hàng muốn bán cho Zoey càng nhiều gạch càng tốt để phủ kín sân hiên với độ dày một viên gạch, mà không có gạch thừa. Khu vực sân hiên là một hình chữ nhật có kích thước 12 feet chiều dài và 10 feet chiều rộng, và mỗi viên gạch riêng lẻ có kích thước 4 inch x 6 inch x 2 inch. Số lượng gạch lớn nhất mà người bán hàng có thể bán để đáp ứng tiêu chí bán hàng của anh ta là bao nhiêu?",5.760,2.880,2.160,1.440,C
+"Mười một cây bút chì có giá bằng ba cây bút mực. Nếu bảy cây bút mực có giá $9,24 đô la, thì một cây bút chì có giá bao nhiêu xu?",11,33,36,52,C
+Một máy tính trong phòng thí nghiệm được lập trình để sao lưu dữ liệu vào đầu phút cứ mỗi năm phút một lần. Một máy tính khác được lập trình để sao lưu dữ liệu vào đầu phút cứ mỗi hai phút một lần. Tìm số lần trong hai mươi bốn giờ mà hai máy tính sao lưu dữ liệu cùng lúc. (Giả sử rằng các máy tính không sao lưu vào thời điểm bắt đầu của khoảng thời gian 24 giờ.),144,12,6,36,A
+Đơn giản hóa phân số bằng cách hợp lý hóa mẫu số: $$\frac{4}{\sqrt{108}+2\sqrt{12}+2\sqrt{27}}.$$,\frac{4\sqrt{3}}{33},\frac{\sqrt{3}}{12},2√27,\frac{1}{4\sqrt{3}},B
+Giá trị lớn nhất của hàm số f (x) = xe^{–x} là,1/e,e,1,-1,A
+"Bốn gói hàng được giao đến bốn ngôi nhà, mỗi nhà một gói. Nếu những gói hàng này được giao ngẫu nhiên, xác suất để chính xác hai gói trong số đó được giao đến đúng nhà là bao nhiêu? Hãy biểu thị câu trả lời của bạn dưới dạng phân số thông thường.",\frac{1}{4},\frac{27}{128},\frac{1}{2},\frac{1}{9},A
+"Một vận động viên trượt băng nghệ thuật đang hướng mặt về phía bắc khi cô ấy bắt đầu xoay về bên phải. Cô ấy xoay 2250 độ. Cô ấy đang hướng mặt về hướng nào (bắc, nam, đông hay tây) khi kết thúc vòng xoay?",bắc,đông,nam,tây,B
+Số nguyên dương nhỏ nhất có thể của $n$ là bao nhiêu để $\sqrt{18\cdot n \cdot 34}$ là một số nguyên?,15,10,17,34,C
+Có bao nhiêu số nguyên dương và số nguyên âm mà $12$ là bội số của chúng?,1,4,12,3,C
+"Rowena có thể sơn một căn phòng trong 14 giờ, trong khi Ruby có thể sơn nó trong 6 giờ. Nếu Rowena sơn trong x giờ và Ruby sơn trong y giờ, họ sẽ hoàn thành một nửa bức tranh, trong khi nếu Rowena sơn trong y giờ và Ruby sơn trong x giờ, họ sẽ sơn toàn bộ căn phòng. Tìm cặp số thứ tự (x,y).","(\frac{11}{10}, \frac{11}{10})","(\frac{231}{20}, \frac{21}{20})","(\frac{231}{40}, \frac{21}{40})","(1,1)",C
+"Trong góc phần tư thứ nhất, ở đâu đường cong hoa hồng r = sin 3θ có tiếp tuyến thẳng đứng?",không ở đâu,"θ = 0,39","θ= 0,47","θ = 0,52",C
+"Nếu chu kỳ bán rã của một chất phóng xạ là 8 năm, thì mất bao lâu, tính bằng năm, để hai phần ba chất đó phân rã?","4,68","7,69","12,21","12,68",D
+"Một vật chuyển động dọc theo một đường thẳng có vận tốc v(t) = t cos(t) - ln (t + 2), trong đó 0 <= t <= 10. Vật này đổi chiều chuyển động bao nhiêu lần?",không,một,hai,ba,C
+Có bao nhiêu số nguyên dương là ước số của 120 và cũng là ước số của 40?,1,3,4,8,D
+"Khoảng nào bao gồm tất cả các $u$ sao cho cả $2u$ và $-20u$ đều không nằm trong khoảng $(-\infty,-1)$?","[-\frac{1}{2}, 0]","[-1,1]","[-\frac{1}{2}, -\frac{1}{20}]","[0,2]",C
+"Khoảng cách ngắn nhất giữa trục y và điểm (2, 7) là bao nhiêu?",1,2,3,7,B
+Ước số chung lớn nhất của $2^{1001}-1$ và $2^{1012}-1$ là bao nhiêu?,1,2049,2048,2047,D
+"Khi thủy triều thay đổi, mực nước trong vịnh biến đổi theo hàm sin. Vào lúc thủy triều cao hôm nay lúc 8 giờ sáng, mực nước là 15 feet; vào lúc thủy triều thấp, 6 giờ sau lúc 2 giờ chiều, mực nước là 3 feet. Mực nước đang giảm với tốc độ bao nhiêu feet mỗi giờ vào lúc trưa hôm nay?",3,π\sqrt{3}/2,3√3,π√3,B
+"Một người đi bộ 3 dặm về phía đông, sau đó rẽ sang phía bắc và đi 10 dặm, rồi rẽ sang phía tây và đi 6 dặm, và cuối cùng rẽ sang phía nam và đi 16 dặm. Người đó cách điểm xuất phát khoảng bao nhiêu dặm?","3,4","6,7","9,2","12,8",B
+"Terri đã mở một nhà hàng thức ăn nhanh. Chi phí ban đầu để mở nhà hàng là 800.000 đô la. Cô ấy phải trả chi phí hoạt động hàng ngày là 250 đô la và chi phí nhân công là 400 đô la. Biểu thức nào thể hiện tổng chi phí của cô ấy nếu cô ấy đã mở nhà hàng trong ""D"" ngày?",800.000 + 150 D,800.000 + 650 D,800.000 − 650 D,650 + 800.000 đồng,B
+"Giả sử $f(x)$ là một hàm khả nghịch, và giả sử rằng $f(2)=f^{-1}(2)=4$. Giá trị của $f(f(2))$ là bao nhiêu?",1,2,4,0,B
+"Nếu $725x + 727y = 1500$ và $729x+ 731y = 1508$, thì giá trị của $x - y$ là bao nhiêu?",725,-2,2,-48,D
+"Xét hai số nguyên dương chẵn nhỏ hơn $15$ (không nhất thiết phải khác nhau). Khi tổng của hai số này được cộng vào tích của chúng, có bao nhiêu giá trị khác nhau có thể xuất hiện?",21,27,49,45,B
+Giả sử chúng ta tung hai con xúc xắc 6 mặt công bằng. Xác suất để tổng của hai số trên xúc xắc bằng 4 là bao nhiêu?,\frac{1}{4},\frac{1}{12},\frac{1}{3},\frac{1}{9},B
+Tìm tất cả các giá trị dương của $c$ sao cho bất đẳng thức $x^2-6x+c<0$ có nghiệm thực đối với $x$. Biểu diễn câu trả lời của bạn bằng ký hiệu khoảng.,"(0, 9)","(1, 1)","(6, 0)","(6, 6)",A
+"Tính diện tích của tam giác có các đường cao có độ dài 10, 12 và 15.",56\sqrt{15},240\sqrt{7},60\sqrt{7},240\sqrt{7}/7,D
+"Trong mã Morse, mỗi ký hiệu được biểu diễn bằng một chuỗi các dấu gạch ngang và dấu chấm. Có bao nhiêu ký hiệu khác nhau có thể được biểu diễn bằng cách sử dụng các chuỗi gồm tổng cộng 1, 2, 3 hoặc 4 dấu chấm và/hoặc dấu gạch ngang?",3,4680,30,10,C
+Hai số cộng lại bằng 19. Tích của chúng là 70. Hai số đó là gì?,"5, 14","7, 10","4, 15","3, 16",A
+"Một nhóm kịch có tám thành viên, trong đó có bốn nữ. Có bao nhiêu cách để phân công vai diễn cho một vở kịch bao gồm một vai nữ chính, một vai nam chính, và ba vật thể khác nhau có thể được đóng bởi cả nam lẫn nữ?",640,720,8,1920,D
+"Quỹ đạo của một vệ tinh được cho bởi các phương trình tham số x = 4 cos(t) + cos(12t), y = 4 sin(t) + sin(12t). Vận tốc hướng lên tại t = 1 bằng",2.829,"3,005",3.999,12.287,D
+"Alex cần vay 10.000 đô la từ ngân hàng. Ngân hàng đưa ra cho anh ấy hai lựa chọn. 1. Một khoản vay 10 năm với lãi suất hàng năm 10% được tính lãi kép hàng quý, với điều kiện là vào cuối năm thứ 5, Alex phải trả một khoản bằng một nửa số tiền anh ấy nợ. Nửa còn lại tiếp tục tích lũy lãi, và vào cuối 10 năm, Alex sẽ trả hết số dư còn lại. 2. Một khoản vay 10 năm với lãi suất đơn hàng năm 12%, chỉ trả một lần vào cuối 10 năm. Tìm hiệu số dương giữa tổng số tiền Alex phải trả lại theo hai phương án. Làm tròn câu trả lời của bạn đến đô la gần nhất.",16401,16400,382,383,C
+"Nếu f là một hàm tuyến tính có độ dốc khác không, và c < d, điều nào sau đây phải là SAI?",f (c) = f (d),f (c) ≠ f (d),f (c) > f (d),f (c) < f (d),A
+Nếu F(3) = 8 và F′(3) = -4 thì F(3.02) xấp xỉ bằng,"-8,08","7,92","7,98","8,02",B
+"Bob tung một con xúc xắc sáu mặt công bằng mỗi sáng. Nếu Bob tung được số hợp, anh ấy ăn ngũ cốc có đường. Nếu anh ấy tung được số nguyên tố, anh ấy ăn ngũ cốc không đường. Nếu anh ấy tung được số 1, thì anh ấy sẽ tung lại. Trong một năm không nhuận, số lần Bob tung xúc xắc dự kiến là bao nhiêu?",\frac{5}{8},\frac{1825}{4},\frac{5}{4},438,D
+"Khi biểu thức $-2x^2-20x-53$ được viết dưới dạng $a(x+d)^2+e$, trong đó $a$, $d$, và $e$ là các hằng số, tổng $a+d+e$ bằng bao nhiêu?",-80,0,6,53,B

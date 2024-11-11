@@ -1,0 +1,447 @@
+"Person 1: Hey, I've been hearing a lot about bitcoin and other cryptocurrencies lately. What do you think about them?
+
+Person 2: They're definitely becoming more mainstream, but there are some serious ethical implications to consider.
+
+Person 1: Like what?
+
+Person 2: Well, cryptocurrencies are known for being decentralized and anonymous, which can be both good and bad. They've also been used for illegal activities in some cases.
+
+Person 1: Interesting. Can you complete this sentence about them? ""______ such as bitcoin are becoming increasingly mainstream and have a whole host of associated ethical implications, for example, they are ______ and more ______. However, they have also been used to engage in _______.""","Cryptocurrencies, Expensive, Secure, Financial Crime","Traditional currency, Cheap, Unsecure, Charitable giving","Cryptocurrencies, Cheap, Secure, Financial crime","Traditional currency, Expensive, Unsecure, Charitable giving",C
+"Person 1: Hey, I have a question about advertising regulations.
+Person 2: Okay, what's your question?
+Person 1: Typical advertising regulatory bodies suggest that adverts must not encourage certain things, cause unnecessary things, and must not cause a certain type of offence. Do you know what those specific things are?","Unsafe practices, Wants, Fear, Trivial","Unsafe practices, Distress, Fear, Serious","Safe practices, Wants, Jealousy, Trivial","Safe practices, Distress, Jealousy, Serious",B
+"Person 1: Hey, I have a question about employment.
+Person 2: What's your question?
+Person 1: What are the obligations of workers towards their employer, based on individual contracts and wider employment laws?",Employee rights,Employee rights,Employer duties,Employee duties,D
+"Person 1: Hey, I have a question about work-life balance.
+Person 2: What about it?
+Person 1: You know how it's become a really big issue lately, with work getting more intense and technology changing things?
+Person 2: Yeah, definitely. What's your specific question?
+Person 1: Well, there's a term for an employee's preferred ratio between work and non-work activities. What's it called again?",Presenteeism,Absenteeism,Work-play balance,Work-life balance,D
+"Person 1: Hey, I have a question about something related to sustainability thinking.
+Person 2: Okay, what's your question?
+Person 1: Well, I read that a certain concept can be likened to natural counterparts, consisting of a balanced network of interdependent organisms and environments. This adds value to sustainability thinking because it considers companies and industries as interconnected and interdependent due to various resources and wastes.
+Person 2: Interesting! Do you remember what that concept is called?",Industrial supply loops,Industrial ecosystems,Ecological ecosystems,Corporate ecosystems,B
+"Person 1: Hey, I've been learning about business-CSO collaborations. Do you know much about their limitations and risks?
+Person 2: A bit. What specifically are you wondering about?
+Person 1: Well, I know that ________, where for example one party possesses more resources, is one limitation. And unfair distribution of ________, where one party gains more from the relationship, is another. CSOs being ________ is also a risk. I'm just blanking on the specific terms used to describe those issues.","Power imbalance, Benefits, Hoodwinked","Power imbalance, Resources, Co-opted","Informational asymmetries, Benefits, Hoodwinked","Informational asymmetries, Resources, Co-opted",B
+"Person 1: Hey, I have a question about corporate profit maximization and normative theories.
+Person 2: Okay, what's your question?
+Person 1: Well, corporate profit maximization isn't directly prescribed by any major normative theories, right?
+Person 2: That's correct.
+Person 1: So, to which normative theory is corporate profit maximization most similar?",hedonistic utilitarianism,preference utilitarianism,The Categorical Imperative,ethics of care,B
+"Person 1: Hey, I have a question about Milton Friedman's views on business.
+Person 2: Oh, what's your question?
+Person 1: According to Friedman, what does he believe is the sole responsibility of a business?",The only social responsibility of business is to its shareholders,Managers should act in ways that balance the interest of society and shareholders,The primary responsibility organizations have is to its employees,The primary responsibility organizations have is to its stakeholders,A
+"Person 1: Hey, I have a question about regulation.
+Person 2: What about it?
+Person 1: Well, ______ regulation goes further than the ______ that CSOs have with businesses, right?
+Person 2: Yes, that's correct.
+Person 1: But it also concerns _______ of such processes, doesn't it?","Legal, Interactions, Mechanics","Civil, Relations, Outcomes","Political, Interactions, Outcomes","Environmental, Relations, Mechanics",B
+"Person 1: Hey, I came across this term called ""_______ working practices."" Do you know what that refers to?
+Person 2: I think it's related to certain working patterns, but I'm not entirely sure. What did you find out about it?
+Person 1: Apparently, it refers to working patterns that involve fluidity in terms of time, space, and tasks.
+Person 2: Oh, that's interesting! So it's a more flexible approach to work, I guess.",Dynamic,Fluid,Flexible,Modern,C
+"Person 1: Hey, I was reading a paper by Schnackenberg and Tomlinson from 2014. Do you know what they said about assessing the quality of corporate transparency?
+
+Person 2: I think I recall that paper. Didn't they mention some specific criteria that can be used?
+
+Person 1: Yes, that's right. I'm trying to remember what those three criteria were that they listed for evaluating corporate transparency quality.","Breadth, Clarity, Accuracy","Disclosure, Detail, Accuracy","Disclosure, Clarity, Accuracy","Disclosure, Clarity, Efficiency",C
+"Person 1: Hey, I have a question about corporations.
+Person 2: Okay, what's your question?
+Person 1: A corporation is ________ from its managers, employees, investors and customers, right?
+Person 2: Yes, that's correct. And because of that, it has _______ succession and also ________.","Indistinguishable, Perpetual, Does not own its own assets","Independent, Limited, Owns its own assets","Independent, Perpetual, Owns its own assets","Indistinguishable, Perpetual, Owns its own assets",C
+"Person 1: Hey, I have a question about the UK Public Services (Social Value) Act 2013.
+Person 2: Okay, what's your question?
+Person 1: The Act requires those procuring something to consider how they can secure three types of wider benefits. Do you know what those three benefits are?","Private services, social, economic and environmental","Public services, social, cultural and environmental","Private services, cultural, economic and environmental","Public services, social, economic and environmental",D
+"Person 1: Hey, I have a question about business practices.
+Person 2: Alright, what's your question?
+Person 1: You know how sometimes companies try to hide the real price of their products?
+Person 2: Yeah, what about it?
+Person 1: What's the term for when a company intentionally obscures the true cost of an item?",Predatory pricing,Deceptive pricing,Price fixing,Skimming,B
+"Person 1: Hey, I've been learning about stakeholder theory in my business ethics class. Do you know about the different types of stakeholder theory?
+Person 2: I'm familiar with stakeholder theory in general, but I don't know all the details. What did you learn about the different types?
+Person 1: Well, according to Donaldson and Preston (1995), there are three differing types of stakeholder theory. Do you happen to know what those three types are?","Normative, Descriptive and Economic","Normative, Moral and Instrumental","Political, Descriptive and Instrumental","Normative, Descriptive and Instrumental",D
+"Person 1: Hey, I have a question about employee rights.
+Person 2: What's your question?
+Person 1: You know how the right to _______ has been a long-standing ethical concern for employees?
+Person 2: Yeah, I'm familiar with that issue.
+Person 1: Well, in most developed countries today, how are those concerns typically addressed?",Work-life balance,Healthy and safe working conditions,Employee privacy,Free Speech,B
+"Person 1: Hey, I have a question about business organizations.
+Person 2: Okay, what's your question?
+Person 1: What do you think would most effectively act as the primary objective of a business organization?",To make a profit,To procure resources,To communicate with shareholders,To mediate between the organisation and the environment,A
+"Person 1: Hey, I have a question about corporate social responsibility.
+Person 2: Okay, what's your question?
+Person 1: I've heard of this concept called the ""enlightened self-interest model"" of CSR. What exactly is that?",That it is in an organization's own best interest to put itself first rather than its ethics,That it is in an organization's best interest to consider what a shareholder would want,That it is in an organization's own best interest to act in an ethical way,That it is in an organization's own best interest to follow the legislation and abide by the law,C
+"Person 1: Hey, do you know what right consumers have when it comes to their personal information?
+Person 2: What do you mean?
+Person 1: Well, companies collect data about consumers all the time. But there's a specific right that lets consumers control that process.
+Person 2: Interesting. So consumers have a right related to what information companies collect about them and what they do with it?
+Person 1: Exactly! Do you know what that right is called?",Consumer inclusion,Consumer control,Consumer privacy,Consumer exclusion,C
+"Person 1: Hey, I've been thinking about the Anglo-American model lately.
+Person 2: Oh, what about it?
+Person 1: Well, you know how it was considered the best model, especially in light of the recession in the late 2000s?
+Person 2: Yeah, I remember that. What's your question?
+Person 1: The Anglo-American model being considered the best model in light of the recession in the late 2000s.","1,2,3","1,3,4","2,3,4","1,2,3,4",A
+"Hey, I heard about this new type of economy where people are hired for specific tasks instead of long-term positions. Do you know what it's called?
+
+Oh yeah, I think I know what you're talking about. It has some benefits for businesses, right?
+
+Definitely, but I also heard there are some downsides for the workers. Do you know what kind of issues they might face?
+
+I imagine it could lead to a lot of uncertainty and instability for them. Plus, they probably don't get the same kind of benefits and protections as long-term employees.","Gig, Flexibility, Risk, Social welfare structures","Sharing, Risk, Flexibility, Autonomy","Gig, Risk, Flexibility, Autonomy","Sharing, Flexibility, Risk, Social welfare structures",A
+"Person 1: Hey, I have a question about moral reasoning.
+Person 2: Okay, what's your question?
+Person 1: There's a theory that posits that there are 3 levels of moral reasoning that an individual can engage in to assess ethical issues, depending on their cognitive capacity. Do you know what that theory is called?",Egoism,Cognitive moral development,Power distance,Uncertainty avoidance,B
+"Person 1: Hey, I have a question about moral theories.
+Person 2: Okay, what's your question?
+Person 1: There's a theory that can be described as a code of conduct that all rational beings should follow. Do you know what it's called?
+Person 2: I think I know what you're referring to. How does it contrast with the moral codes adopted by specific societies?","Descriptive, Normative","Normative, Instrumental","Normative, Descriptive","Ethical, Descriptive",C
+"Person 1: Hey, I have a question about moral intensity.
+Person 2: Okay, what's your question?
+Person 1: I know there are several factors that can impact moral intensity, but I can't remember all of them. Can you help me out?
+Person 2: Sure, I'd be happy to. What are the factors you can remember?","Social consensus, Temporal immediacy, Proximity","Proximity, Social dissensus, Futility of effect","Proximity, Temporal immediacy, Social dissensus","Social dissensus, Cultural immediacy, Proximity",A
+"Person 1: Hey, I have a question about environmental performance and business.
+Person 2: Okay, what's your question?
+Person 1: Better access to certain markets, differentiation of products, and the sale of pollution-control technology are ways in which better environmental performance can what?",Increase Revenue,Increase Costs,Decrease Revenue,Decrease Costs,A
+"Person 1: Hey, do you know the term used to describe the ongoing approval and acceptance of a company's activities by society?
+Person 2: Hmm, I think I've heard of that concept before. It's especially relevant among local communities and civil societies, right?
+Person 1: Exactly! But I can't seem to remember the specific term for it. Do you happen to know what it's called?",Enlightened self interest,Social licence to operate,Community approval,Supply chain responsibility,B
+"Person 1: Hey, I have a question about corporate transparency.
+Person 2: Okay, what's your question?
+Person 1: You know how companies make decisions, implement policies, and engage in various activities that have impacts, right?
+Person 2: Yes, I'm familiar with that.
+Person 1: Well, the degree to which all of those things are acknowledged and made visible to relevant stakeholders is known as what?",Corporate Opaqueness,Corporate Transparency,Corporate Openness,Corporate Visibility,B
+"Person 1: Hey, I have a question about how organizations implement environmental goals and policies.
+Person 2: Okay, what's your question?
+Person 1: Well, there are certain processes organizations use to do this and ensure regular auditing and reporting, which go beyond legal compliance. Can you name a couple of those processes for me?","Environmental management systems, SA8000, EMAS","Social accountability standards, ISO14001, SA8000","Environmental management systems, ISO14001, EMAS","Social accountability standards, EMAS, SA8000",C
+"Hey, I have a question about the BRIC countries and their approach to corporate governance.
+
+Oh, interesting. What's your question?
+
+Well, the BRIC countries include Brazil, Russia, India and one other country I can't remember. Do you know which one I'm missing?
+
+Hmm, I'm not entirely sure. What else do you know about their corporate governance approach?
+
+I know they have traditionally followed a certain approach, but recently it has been moving towards more of another type of mechanism.
+
+I see. Do you remember what those two contrasting approaches or mechanisms were? That might help narrow it down.","Canada, Market, Relationship","China, Market, Relationship","Canada, Relationship, Market","China, Relationship, Market",D
+"Person 1: Hey, I have a question about stakeholder orientation.
+Person 2: Alright, what's your question?
+Person 1: Well, a stakeholder orientation includes several activities, right?
+Person 2: Yes, that's correct.
+Person 1: But there's one activity that's not included. Do you know which one that is?",Generating Data About Stakeholder Groups,Assessing The Firm's Effects On Stakeholder Groups,Distributing Stakeholder Information Throughout The Firm,Minimizing The Influence Of Stakeholder Information On The Firm,D
+"Person 1: Hey, I have a question about the ethical issues related to marketing communications.
+Person 2: Okay, what's your question?
+Person 1: Well, I know that marketing communications have several ethical issues associated with them. They are something and unavoidable, they create something needs, reinforce something, and perpetuate something and something. I can't remember the exact words though. Do you know?","Intrusive, Artificial, Consumerism, Insecurity, Social Stereotypes","Intrusive, Artificial, De-materialism, Security, Happiness","Intrusive, Real, Consumerism, Insecurity, Happiness","Intrusive, Real, De-materialism, Security, Social stereotypes",A
+"Person 1: Hey, I have a question about aligning the interests of shareholders and senior management in a company.
+Person 2: Okay, what's your question?
+Person 1: Well, I know that in order to try and align their interests, something is often made available to someone in the company. But I can't remember the specifics.
+Person 2: Hmm, and this is done to ensure it's in their interests to increase something and dividend performance, right?
+Person 1: Yes, exactly! Do you know what I'm talking about?","Share options, Senior managers, Share Price","Share options, All employees, Share Price","Non-financial remunerations, Senior managers, Employee Satisfaction","Non-financial remunerations, All employees, Employee Satisfaction",A
+"Person 1: Hey, I have a question about predatory pricing.
+Person 2: Okay, what's your question?
+Person 1: Well, I'm a bit unclear on what exactly qualifies as predatory pricing. Could you explain it to me?","1,2,4","1,2,3,4","1,2","1,4",D
+"Person 1: Hey, I have a question about the different means by which something can be influenced.
+Person 2: Okay, what's your question?
+Person 1: Well, there are a number of means by which influence can occur, right?
+Person 2: Yes, that's correct.
+Person 1: And these means include things like the directness of the mode, whether it's public or private, and the type of communication used?","Government, Avenue of approach, Breadth of transmission, Content","Consumers, Avenue of approach, Height of transmission, Content","Government, Breath of transmission, Avenue of approach, Content","Employees, Breadth of transmission, Content, Avenue of approach",A
+"Person 1: Hey, I have a question about utilitarianism.
+Person 2: Alright, what's your question?
+Person 1: I'm trying to pick the correct description of the term. Utilitarianism is...?",A theory which states that an action is morally incorrect if it promotes the greatest good for the greatest number,A theory which states that an action is morally right if it promotes the greatest good for the decision maker,A theory which states that an action is morally right if it promotes the greatest good for the smallest number,A theory which states that an action is morally right if it promotes the greatest good for the greatest number,D
+"Person 1: Hey, I have a question about cognitive models.
+Person 2: Okay, what about them?
+Person 1: Well, models like the Theory of _________ try to explain consumer behavior, right?
+Person 2: Yes, that's correct.
+Person 1: But don't they kind of oversimplify and overestimate individual ________?","Decision, Market equilibrium, Rationality","Attitudinal, Planned Behaviour, Social pressures","Decision, Planned behaviour, Rationality","Attitudinal, Market equilibrium, Social pressures",C
+"Person 1: Hey, I have a question about a certain business strategy.
+Person 2: Okay, what's the question?
+Person 1: It refers to a strategic process involving stakeholder assessment to create long-term relationships with customers, while maintaining, supporting, and enhancing the natural environment.
+Person 2: Hmm, that's an interesting one. Do you know what that strategy is called?",Eco-strategy,Green Marketing,Superfund reauthorization,Recycle and reprocess management,B
+"Person 1: Hey, I've been hearing the term ""sustainability"" a lot lately. Do you know what it means?
+Person 2: Yeah, it's a pretty broad concept. Why don't you tell me what you think it might mean?
+Person 1: I'm not entirely sure, but I think it has something to do with being environmentally friendly and not using up all our resources. Is that right?
+Person 2: You're on the right track! Sustainability can be defined in a few different ways. Do you want to take a guess at a more complete definition?","The short-term maintenance of systems according to environmental, economic and social considerations","The long-term maintenance of processes according to environmental, economic and cultural considerations.","The short-term maintenance of systems according to environmental, political and social considerations.","The long-term maintenance of systems according to environmental, economic and social considerations.",D
+"Person 1: Hey, I've been thinking about the organizational characteristics of small businesses lately.
+Person 2: Oh yeah? What about them?
+Person 1: Well, I was wondering which of these three characteristics tend to characterize how small businesses engage with business-related issues.","Size and complexity, owner and family member influence on the organisation, shareholder and stakeholder power","Lack of organisational resources, size and complexity, owner and family member influence","Informal relationships, owner and family member influence on the organisation, lack of organisational resources","Bureaucratic and formal organisational structure, lack of organisational resources, conflicts of interest",C
+"Person 1: Hey, I have a question about a certain type of framework.
+Person 2: Okay, what's your question?
+Person 1: Well, it's a framework that goes beyond linear functions, operations, and transactions to produce a commodity or product.
+Person 2: I see. And you're trying to fill in the blanks for what this framework is called?
+Person 1: Exactly! It's called ""A(n) __________ is a ________, __________ framework"". I just can't remember the specific terms that go in the blanks.","International supply chain, Static, Disconnected","Global production network, Dynamic, Relational","International supply chain, Dynamic, Disconnected","Global production network, Static, Relational",B
+"Person 1: Hey, I have a question about economics.
+Person 2: Alright, what's your question?
+Person 1: I keep hearing the term ""demand reduction"" but I'm not quite sure what it means. Can you explain it to me?","1,3,4","2,3,4","1,2,3","1,2,4",D
+"Hey, I was reading about the role of civil society in promoting sustainability and helping those in need. It's quite developed in some places.
+
+Oh, interesting. But I guess it varies a lot from country to country, right? 
+
+Definitely. The article mentioned that in certain countries, civil society is far less established compared to others.
+
+I see. Did it give any specific examples of where it's less developed versus where it's quite strong?","Russia, China, Britain","Norway, China, Russia","Britain, United States, Australia","Canada, Russia, United States",A
+"Person 1: Hey, I have a question about moral decision making.
+Person 2: Okay, what's your question?
+Person 1: Well, there's a term for the extent to which someone can creatively consider the consequences, resolutions, and issues related to making moral decisions. Do you know what it's called?
+Person 2: Hmm, I'm not sure off the top of my head. What is the term?",Moral imagination,Ethical reflexivity,Moral originality,Moral reflexivity,A
+"Person 1: Hey, I have a question about businesses using unethical practices in negotiations.
+Person 2: Okay, what's your question?
+Person 1: Well, if the negotiations are part of a longer-term business association, what can businesses risk?
+Person 2: That's an interesting question. What else can be impacted by unethical negotiation practices?
+Person 1: I'm thinking it could affect the company's image and stymy progress, but I'm not sure how to phrase it.","Rigid negotiations, Enhanced reputation, Greater opportunities","Damaged relationships, Sullied reputation, Lost opportunities","Rigid negotiations, Sullied Reputation, Lost opportunities","Damaged relationships, Rigid negotiations, Lost opportunities",B
+"Person 1: Hey, I've been thinking about how language can be used to hide or reveal the moral aspects of our choices and actions.
+Person 2: That's an interesting topic. What do they call that?
+Person 1: I can't remember the exact term, but it's something like ""the use of language to mask or expose the ethical nature of decisions, actions and behaviors."" Do you know what I'm talking about?",Ethical splicing,Moral framing,Ethical window dressing,Moral splicing,B
+"Person 1: Hey, I have a question for you about psychology.
+Person 2: Alright, what's your question?
+Person 1: Well, I was wondering, the extent to which an individual believes they can control their life is determined by their what?
+Person 2: Hmm, that's an interesting question. What do you think the answer might be?
+Person 1: I'm not totally sure, that's why I'm asking you!",Moral imagination,Personal integrity,Cognitive moral development,Locus of control,D
+"Person 1: Hey, I have a question about the enforcement of company privacy.
+Person 2: What about it?
+Person 1: Well, it's pretty complex since corporations are somewhat... what's the word I'm looking for?
+Person 2: Hmm, okay. And you're saying it's difficult to do something due to the number of people involved?
+Person 1: Yeah, exactly. And a lot of corporate activity happens somewhere in particular. I'm just blanking on the words.","Boundaryless, Control information, Private spaces","Public spaces, Maintain individual privacy, Private spaces","Boundaryless, Control information, Public spaces","Private spaces, Maintain individual privacy, Public spaces",C
+"Person 1: Hey, I have a question about political philosophy.
+Person 2: Alright, what's your question?
+Person 1: There's this concept that describes a hypothetical agreement between members of society and those who govern it. It establishes the inter-relationships, rights, and responsibilities on a fair basis.
+Person 2: Okay, and what are you trying to figure out about this concept?
+Person 1: I'm trying to remember the specific term used to describe it. Do you know what it's called?",Social Contract,Duty Ethics,Consequentialism,Virtue Ethics,A
+"Person 1: Hey, I have a question about businesses and their role in society.
+Person 2: Okay, what's your question?
+Person 1: Well, businesses have a certain role within society, right? And they have the potential to provide something to society...
+Person 2: Yes, that's true. But what else?
+Person 1: While at the same time, something else has the potential to inflict enormous harm on individuals, communities and the environment. Do you know what that something else is?","Little power, Small contribution, Business malpractice","Little power, Major contribution, Corporate social responsibility","Huge power, Small contribution, Corporate social responsibility","Huge power, Major contribution, Business malpractice",D
+"Person 1: Hey, I have a question about corporate social responsibility.
+Person 2: Okay, what's your question?
+Person 1: According to Carroll, what four categories or aspects can corporate social responsibility be broken down into?","Political, Legal, Ethical and Philanthropic","Economic, Legal, Ethical and Philanthropic","Economic, Legal, Cultural and Philanthropic","Economic, Legal, Ethical and Environmental",B
+"Person 1: Hey, I have a question about affirmative action.
+Person 2: Okay, what's your question?
+Person 1: It involves some kind of attempts to target certain groups within an organization's workforce, right?
+Person 2: Yes, that's correct. Do you know what those attempts try to do?
+Person 1: I think they try to change the proportion of underrepresented groups in certain positions, like increasing women or minorities in senior management. Is that right?","Proactive, Groups, Under-represented, Increase","Passive, Groups, Under-represented, Retain","Proactive, Individuals, Represented, Increase","Passive, Individuals, Represented, Retain",A
+"Hey, I have a question about consumer rights.
+
+What about them?
+
+Well, you know how they were traditionally based on a certain notion, right?
+
+Yeah, I think I know what you're referring to. What was that notion called again?
+
+And the responsibility was on the consumer to avoid subpar products, correct?
+
+That's right. But something has changed recently, hasn't it?
+
+Yes, that traditional notion has gradually eroded due to increased something at multiple levels.
+
+Interesting. Do you know at what levels this has occurred?","Caveat emptor, Company Responsibility, Informal codes, International","Caveat emptor, Buyer beware, Regulation, National","Cemptor Eaveat, Buyer beware, Regulation, National","Cemptor Eaveat, Company Responsibility, Informal Codes, International",B
+"Person 1: Hey, I have a question for you about consumer behavior.
+Person 2: Alright, what's your question?
+Person 1: You know how sometimes people just can't seem to make a well-informed, logical decision when buying a product?
+Person 2: Yeah, I've noticed that before. What's the term for that state of being unable to make a reasoned purchase decision?",Consumer inclusion,Consumer competence,Consumer exclusion,Consumer vulnerability,D
+"Person 1: Hey, I have a question about stakeholder salience theory.
+Person 2: Okay, what's your question?
+Person 1: According to Mitchell et al. (1997), there are three factors that determine stakeholder salience, right?
+Person 2: Yes, that's correct. What are the three factors?
+Person 1: The perceived ability of a stakeholder to influence organisational action, whether the organisation perceives the stakeholder's actions as desirable, proper and appropriate, and the immediacy of attention the stakeholder claims require. But I can't remember the term used to describe the overall stakeholder salience.","Power, Legitimacy, Salience Urgency","Legitimacy, Urgency, Salience, Power","Power, Legitimacy, Urgency, Salience","Salience, Power, Urgency, Legitimacy",C
+"Person 1: Hey, I have a question about some theories in ethics.
+Person 2: Okay, what's your question?
+Person 1: _______ and _______ are both examples of what kind of theories?
+Person 2: They are both examples of _______-based theories.
+Person 1: And what are those theories based on?
+Person 2: They are based on basic universal principles of right and wrong.","Ethics of duty, Ethics of rights and justice, Principle","Utilitarianism, Egoism, Principle","Ethics of duty, Utilitarianism, Consequentialist","Egoism, Ethics of rights and justice, Consequentialist",A
+"Person 1: Hey, I have a question about the complexity of theories.
+Person 2: Alright, what's your question?
+Person 1: Do you think the complexity of a theory is a good indicator of its validity or accuracy?","1,2,3,4","1,3,4","1,2,3","1,2,4",C
+"Person 1: Hey, I have a question about businesses influencing government and public policy.
+Person 2: Okay, what's your question?
+Person 1: There's a term for any business effort to influence government or public policy, right? It includes activities like advertising, financial contributions, and some other things.
+Person 2: Yes, I think I know what you're referring to. What are the other activities you're trying to remember as part of that term?","Private regulation, Lobbying, Environmental, Fundraising","Private regulation, Consumer Marketing, Legal, Fundraising","Corporate political activity, Lobbying, Legal, Campaigning","Corporate political activity, Consumer marketing, Environmental, Campaigning",C
+"Person 1: Hey, I have a question about business ethics.
+Person 2: Okay, what's your question?
+Person 1: You know how certain factors drive ethical business practices in the United States?
+Person 2: Yes, I'm aware of that. What about it?
+Person 1: Well, _________ such as the ________ is a key factor in driving ethical business practices, right?","Legislation, Sarbanes-Oxley Act","Internal company policy, Unethical corporate practices act","Internal company policy, Sarbanes-Oxley Act","Legislation, Unethical corporate practices act",A
+"Person 1: Hey, I have a question about strategies for justifying or denying unethical behavior.
+Person 2: Okay, what's your question?
+Person 1: There are three strategies mentioned: one where actors are convinced their actions harm nobody, another where actors argue their norm violation is an attempt to realize higher-order values, and a third one where actors argue they are owed something.
+Person 2: Right, and what are you asking about these strategies?
+Person 1: I'm just wondering which one of those three is not actually a strategy for justifying or denying unethical behavior.","Appeal to higher loyalties, Denial of injury, Metaphor of the ledger","Appeal to higher loyalties, Metaphor of the ledger, Denial of injury","Denial of injury, Appeal to higher loyalties, Metaphor of the ledger","Denial of injury, Metaphor of the ledger, Appeal to higher loyalties,",C
+"Person 1: Hey, I have a question about the underlying principles of the corporate governance Combined Code of Practice.
+Person 2: Okay, what's your question?
+Person 1: Well, I know most of the principles, but I'm not sure about one thing. Which of the following is not one of those underlying principles?",Openness,Integrity,Availability,Acceptability,D
+"Person 1: Hey, I've been thinking about the factors that impact ethical decision making. Can you help me understand them better?
+Person 2: Sure, I'd be happy to. From what I know, the factors can be broadly broken down into two main categories.
+Person 1: Oh, interesting. What are those two categories?
+Person 2: Well, the first category relates to the unique characteristics of the person making the decision. The second category involves features of the person's environment or the specific issue they're dealing with.
+Person 1: I see. So if I'm understanding correctly, one set of factors is internal to the person, while the other set is more external and situational?
+Person 2: Exactly! The internal factors are called ________ factors, and the external ones are known as _________ factors.
+Person 1: That makes sense. Thanks for clarifying the two main types of factors that come","Tailored, Individual","Situational, Individual","Situational, Tailored","Individual, Situational",D
+"Person 1: Hey, I've been thinking about the key driving forces shaping business ethics. Do you have any ideas?
+Person 2: Well, there are quite a few factors at play. What areas of business ethics are you particularly interested in?
+Person 1: I'm curious about how a certain driving force is influencing issues related to three specific topics. Can you take a guess at what those might be?","Globalisation, Cultural, Legal, Accountability","Nationalisation, Cultural, Environmental, Accountability","Privatisation, Cultural, Legal, Accountability","Globalisation, Technological, Financial, Accountability",A
+"Person 1: Hey, I have a question about CSOs and their performance measures.
+Person 2: Okay, what's your question?
+Person 1: Do you think CSOs frequently spend too much time communicating their performance measures and too much time devising them with input from beneficiaries?","2,3","1,3","3,4","1,2,3,4",B
+"Person 1: Hey, I have a question about international competition for foreign investment.
+Person 2: Okay, what's your question?
+Person 1: You know how countries sometimes compete to attract companies to relocate there?
+Person 2: Yes, by offering incentives and favorable conditions, right?
+Person 1: Exactly. Well, there's a specific term for when countries weaken certain standards in order to be more attractive to foreign companies. Do you know what it's called when they do this?","Bottom, Globalisation, Social, Environmental","Top, Globalisation, Political, Environmental","Bottom, Standardisation, Social, Economic","Top, Standardisation, Political, Economic",A
+"Person 1: Hey, I have a question about the responsibilities of managers in a company.
+Person 2: Okay, what's your question?
+Person 1: Managers are entrusted to run the company in the best interest of whom?
+Person 2: That's a good question. They also have a specific duty to act for the benefit of the company, as well as a duty of what and of what?","Shareholders, Care and Skill, Diligence","Stakeholder, Care and Skill, Diligence","Shareholders, Self-interest, Diligence","Stakeholders, Care and skill, Self-interest",A
+"Person 1: Hey, I have a question about supply chains.
+Person 2: Okay, what's your question?
+Person 1: Replacing supply chains with something enhances the importance of product something as well as a fundamental redesign of every activity a firm engages in that produces something.
+Person 2: Hmm, that's an interesting question. What do you think the blanks could be referring to?","Supply loops, Recapture, Waste","Supply loops, Redesign, Profit","Global production networks, Recapture, Waste","Global production networks, Redesign, Profit",A
+"Person 1: Hey, I have a question about companies and insolvency.
+Person 2: Okay, what's your question?
+Person 1: A company may become insolvent if it what?",has negative working capital,cannot meet its budgeted level of profit,makes a loss,cannot pay creditors in full after realisation of its assets,D
+"Person 1: Hey, I have a question about the ISO 26000 standard.
+Person 2: What about it?
+Person 1: Well, it's emblematic of a number of trends emerging within the shared global governance space, right?
+Person 2: Yes, that's correct. What are you wondering about those trends?
+Person 1: I'm trying to remember the specifics. These trends concern more deliberation and something else, a greater focus on the process rather than outcomes, and more of something else rather than specific norms.
+Person 2: Hmm, let me think. More deliberation and...","Social responsibility, Collaboration, Process, Frameworks","Social responsibility, Individualism, Process, Legislation","Environmental responsibility, Individualism, Inputs, Frameworks","Environmental responsibility, Collaboration, Inputs, Legislation",A
+"Person 1: Hey, do you know about that global workplace standard that was launched in 1997?
+Person 2: I think so. It covers things like working hours, forced labor, and discrimination, right?
+Person 1: Yeah, that's the one. What's it called again? It has two names.
+Person 2: Hmm, I know compliance is certified by independent auditors, but I'm blanking on the actual names at the moment. Do you remember?","Social accountability standard, SA 8000","Social accountability standard, SA 9000","Sarbanes-Oxley Act, SA 8000","Sarbanes-Oxley Act, SA 9000",A
+"Person 1: Hey, I have a question about the responsibilities of managers and directors.
+Person 2: Okay, what's your question?
+Person 1: Don't managers and directors have a certain type of responsibility to protect the investment of shareholders?
+Person 2: Yes, they do. What specific type of responsibility are you referring to?
+Person 1: I'm blanking on the term. It starts with an ""f"" I think?","1,3,4","1,2,3,","1,2,4","2,3,4",A
+"Person 1: Hey, I have a question about cultural homogenization.
+Person 2: Alright, what's your question?
+Person 1: Well, cultural homogenization refers to the reduction in cultural diversity through the popularization and diffusion of a wide array of cultural symbols, right?
+Person 2: Yes, that's correct. Did you have a specific question about it?","1,3,4","1,2,3","1,2,3,4","2,3,4",B
+"Person 1: Hey, I have a question about insider trading.
+Person 2: Okay, what's your question?
+Person 1: Doesn't insider trading undermine something? I can't remember exactly what.
+Person 2: Are you thinking of the fiduciary relationship?
+Person 1: Yes, that's it! Insider trading undermines the fiduciary relationship, right?","1,2,3","1,2,4","2,3,4","1,2,3,4",B
+"Person 1: Hey, I have a question about workforce sizing.
+Person 2: Okay, what's your question?
+Person 1: There are two main issues associated with it, right?
+Person 2: Yes, that's correct. Do you know what they are?
+Person 1: I think one is related to information policy and employees' right to know about redundancies. What was the other one again?
+Person 2: The second main issue is about the package that laid off employees receive. Do you remember the specific term for that package?","Down, Involvement, Remuneration, Compensation","Up, Involvement, Autonomy, Compensation","Down, Autonomy, Remuneration, Benefit","Up, Independence, Involvement, Benefit",A
+"Person 1: Hey, I have a question about the location of morality.
+Person 2: Okay, what's your question?
+Person 1: Well, some people think morality is based on rationality, right?
+Person 2: Yes, that's a common view. What about it?
+Person 1: But _______ locate morality beyond the sphere of rationality in an emotional 'moral impulse' towards others.",Virtue ethics,Ethical egoism,Postmodern ethics,Ethics of duty,C
+"Person 1: Hey, I have a question about ethics and morality.
+Person 2: Okay, what's your question?
+Person 1: Under ethical ________, objective moral principles can be rationally determined, while under ethical ________, morality is both context dependent and subjective.
+Person 2: Hmm, that's an interesting question. It seems to be asking about two contrasting ethical frameworks or approaches.","Normativity, Relativism","Absolutism, Relativism","Relativism, Absolutism","Absolutism, Normativity",B
+"Person 1: Hey, I've been reading about Islamic finance lately. Do you know some of the key differences between it and conventional finance?
+Person 2: Yeah, I've heard a bit about that. What are you curious about specifically?
+Person 1: Well, I know there are certain prohibitions and requirements that set Islamic finance apart. Can you fill in the blanks for me? Islamic finance prohibits charging and paying _____, prohibits _____ and _____ transactions, prohibits sinful investments, and requires all financial products to be backed by __________.","Interest, Certain, Speculative, Intangible assets","Interest, Uncertain, Assured, Intangible assets","Interest, Uncertain, Speculative, Tangible assets","Interest, Certain, Assured, Tangible assets",C
+"Person 1: Hey, I have a question about a certain type of reasoning.
+Person 2: Okay, what's the question?
+Person 1: This type of reasoning is considered by many to be prevalent within society and particularly within businesses.
+Person 2: I see. And in businesses, it's often referred to in a specific form, right?
+Person 1: Yes, that's right. Do you know what type of reasoning I'm talking about?","Consequentialist, Cost-benefit analysis","Rationalised, Annual audit","Consequentialist, Annual audit","Rationalised, Cost-benefit analysis",A
+"Person 1: Hey, I have a question about the UN Global Compact.
+Person 2: Okay, what's your question?
+Person 1: You know the principles enshrined in the UN Global Compact, right?
+Person 2: Yes, I'm familiar with them.
+Person 1: So, which of the following areas is not covered by those principles?",Human rights,Labour,Commercial performance,Anti-corruption,C
+"Person 1: Hey, I have a question about Corporate Social Responsibility.
+Person 2: Okay, what's your question?
+Person 1: According to Wood (1991), what are the three outcomes of CSR?","Social policies, Social programmes and Social impacts","Social evaluations, Social programmes and Social impacts","Social policies, Social evidencing and Social impacts","Social policies, Social programmes and Social analysis",A
+"Person 1: Hey, I have a question about businesses and social accounting.
+Person 2: Okay, what's your question?
+Person 1: So businesses engage in social accounting due to demands from certain groups, right?
+Person 2: Yes, that's correct.
+Person 1: And they do this in order to identify something, improve something, and encourage a couple of things?
+Person 2: That's right. Do you know what those specific things are that fit in the blanks?","Stakeholders, Risks, Stakeholder management, Accountability, Transparency","Stakeholders, Accountability, Transparency, Risks, Stakeholder Management","Stakeholders, Accountability, Risks, Stakeholders, Stakeholder Management","Stakeholders, Stakeholder Management, Transparency, Risks, Accountability",A
+"Person 1: Hey, I have a question about post-modern ethics.
+Person 2: Okay, what's your question?
+Person 1: Don't post-modern ethics assert something specific about ethics?
+Person 2: What do they assert?
+Person 1: That ethics are context and individual specific and as such have an internal guide to ethics.","2,3","1,3","1,2,3","1,2",B
+"Person 1: Hey, I have a question about corporate social responsibility.
+Person 2: Okay, what's your question?
+Person 1: The focus on issues, the intended audience extending beyond shareholders, and the voluntary nature of something distinguish it from something else. I can't remember the two things being compared.
+Person 2: Hmm, let me think. Corporate social responsibility focuses on issues beyond just shareholders and is voluntary in nature. What do you think it's being distinguished from?","Financial accounting, Environmental management initiatives","Financial accounting, Social accounting.","Social accounting, Financial accounting.","Annual report publication, Social accounting",C
+"Person 1: Hey, I have a question about business strategies.
+Person 2: Okay, what's your question?
+Person 1: You know how negative advertising, stealing customers, and predatory pricing are all strategies used by some businesses?
+Person 2: Yes, I'm familiar with those tactics. What about them?
+Person 1: Well, what's the umbrella term used to describe businesses that employ those kinds of strategies?",Reasonable competitive behaviour,Swindles,Competitive tricks,Dirty tricks,D
+"Person 1: Hey, I have a question about the workplace.
+Person 2: What's your question?
+Person 1: It involves empowering employees through certain methods. For example, there's something called ""job enrichment"" where employees are given more scope for deciding how to organize their work. There's also ""job enlargement"" where they are given a wider range of tasks to do.
+Person 2: I see. So what exactly are you asking about those concepts?
+Person 1: Well, the question is asking me to fill in the blank. ""______ the workplace involves empowering employees through, for example, 'job enrichment' where employees are given a larger scope for deciding how to organize their work or 'job enlargement' where employees are given a wider range of tasks to do.""",Re-invigorating,Re-flourishing,Revitalizing,Rehumanizing,D
+"Person 1: Hey, I have a question for you.
+Person 2: What's up?
+Person 1: You know how companies sometimes need to address potential controversies, right?
+Person 2: Yeah, definitely. What about it?
+Person 1: Well, what do you call the actions companies take to prevent negative publicity before it happens?","1,3,4","2,3,4","1,2,3","1,2,3,4",C
+"Person 1: Hey, I have a question about the rise in business-led, private regulation.
+Person 2: Okay, what's your question?
+Person 1: Well, the rise can be attributed to the encouragement of a certain approach from industry, and the achievement of two specific things. Do you know what those are?","Faster, Cost effectiveness, Slower","Faster, Heightened costs, Slower","Proactive, Cost effectiveness, Faster","Proactive, Heightened costs, Faster",C
+"Person 1: Hey, I have a question about perspectives on sustainability.
+Person 2: Okay, what's your question?
+Person 1: So there's this perspective that resulted from growth models that analyzed the carrying capacity of the planet. It concluded that the finite capacity of the earth and something done by current and past generations could reduce quality of life for future generations.
+Person 2: Interesting. How does that contrast with the environmental perspective?
+Person 1: Well, the environmental perspective focuses on the need to maintain and preserve the natural environment instead.","Economic, Overuse of resources, Overpopulation, Over pollution,","Economic, Underuse of resources, Underpopulation, Unsustainability","Environmental, Underuse of resources, Overpopulation, Over pollution","Environmental, Overuse of resources, Underpopulation, Unsustainability",C
+"Person 1: Hey, I've been thinking about business ethics lately.
+Person 2: Oh yeah? What specifically?
+Person 1: Well, things like healthy eating, particularly relating to sugar and salt consumption, food and packaging waste, and supply chain CO2 emissions. Aren't those all big issues facing a certain industry?
+Person 2: Definitely. Which industry are you referring to?",Supermarket industry,Chemicals industry,Construction industry,Information and mobile technology industry,A
+"Person 1: Hey, I have a question for you about a certain system of exchange.
+Person 2: Alright, what's the question?
+Person 1: It's a system based on guaranteeing producers in developing countries certain things. Do you know which one I'm talking about?
+Person 2: Hmm, what kinds of things does it guarantee those producers?
+Person 1: It guarantees them a living wage, decent working conditions, and opportunities for community development.",Sustainable sourcing,Fair trade,Ethical sourcing,Supply chain responsibility,B
+"Person 1: Hey, I have a question for you about individual beliefs and decision making.
+Person 2: Okay, what's your question?
+Person 1: Well, there are certain individual beliefs about desirable behaviors and goals that remain stable over time. These beliefs influence how people make decisions. What are those individual beliefs called?",Character traits,Personal values,Personal attitudes,Personal traits,B
+"Person 1: Hey, I have a question about legal systems.
+Person 2: Okay, what's your question?
+Person 1: I've heard it said that legal systems have a certain flaw. Do you know what that is?
+Person 2: Hmm, I'm not sure. What do people say the flaw is?
+Person 1: They are too irrational and uncodified.","3,4","1,3","2,3","4,1",B
+"Person 1: Hey, I have a question about the purposes for which information is used.
+Person 2: Okay, what's your question?
+Person 1: Do you think the purposes for which information is used is in the public's interest?","1,2","1,3","2,3","1,2,3",A
+"Person 1: Hey, I've been thinking about different business models lately.
+Person 2: Oh yeah? What's on your mind?
+Person 1: I keep hearing about this private sector social enterprise model. Do you know much about it?
+Person 2: A bit. What would you like to know?
+Person 1: Well, what exactly is the private sector social enterprise model?","1,2,4","2,3,4","1,2,3,4","1,2,3",D
+"Person 1: Hey, I have a question about corporate governance.
+Person 2: What's your question?
+Person 1: I'm wondering, what is the corporate role in governing citizenship rights for the individual?",Political Corporate Social Responsibility,Triple Bottom Line,Sustainability,Corporate Citizenship,D
+"Person 1: Hey, I have a question about how code is enforced.
+Person 2: Okay, what specifically are you wondering about code enforcement?
+Person 1: Well, I'm curious about the different ways that code can be enforced. What are some of the main methods used?","1,2,3","1,2,4","1,3,4","2,3,4",B
+"Person 1: Hey, I have a question about the Principles mentioned by Evan and Freeman in their 1993 work.
+Person 2: Alright, what's your question?
+Person 1: According to them, which two Principles can be used together in a specific situation to determine who constitutes a certain group?
+Person 2: Hmm, that's an interesting question. Can you tell me the specific terms used for those Principles and the group they help identify?","Corporate rights, Corporate effect, Stakeholder","Corporate deniability, Corporate effect, Stakeholder","Corporate rights, Corporate responsibility, Stakeholder","Corporate rights, Corporate effect, Shareholder",A
+"Person 1: Hey, I've been thinking about the relationship between ethics and the law.
+Person 2: That's an interesting topic. What specifically are you wondering about?
+Person 1: Well, how would you describe the relationship between ethics and the law?","Incredibly close, in fact, in all instances what is ethical is also what is legal and vice versa.","Not close, ethics and the law share a small amount of overlap, but fundamentally address differing questions and themes.","Close, as there is considerable overlap between ethics and law, but the two are not equivalent.","Not at all close, ethics and the law are virtually incompatible.",C
+"Person 1: Hey, I have a question about conflicts of interest in a business to business context.
+Person 2: Okay, what's your question?
+Person 1: Well, I know that conflicts of interest can arise in two main ways in that context. Do you know what those two ways are?
+Person 2: I think I do, but why don't you tell me what you're thinking and I'll let you know if I agree.
+Person 1: Alright, so the first way is a conflict of _______ and _______ interests, which might happen when one firm hires another firm to provide professional services. The second way is a conflict of _________ and ________ interests, like when an individual's interests conflict with their employer's interests.","Professional, Organizational, Personal, Organizational","Professional, Individual, Personal, Organizational","Individual, Organizational, Organizational, Professional","Individual, Professional, Organizational, Personal",A
+"Person 1: Hey, I have a question about a certain business ethics management tool.
+Person 2: Okay, what tool are you referring to?
+Person 1: Well, they have grown a lot over the last few decades. They typically cover areas like compliance, corruption, and environmental issues.
+Person 2: I see. And you mentioned they are constantly evolving?
+Person 1: Yes, for instance, the emphasis on a particular aspect has increased in recent years.
+Person 2: Interesting. So what exactly is your question about this tool?","Annual reports, Company financial performance","Annual report, Internet - social media and networking","Codes of ethics, Company financial performance","Codes of ethics, Internet - social media and networking",D
+"Person 1: Hey, I have a quick question for you.
+Person 2: Alright, what's your question?
+Person 1: I was wondering, which of the following statements is correct?",Business ethics is not a real concept as the rules and ethics of everyday life don't apply to the world of business.,"Business Ethics is the study of business situations, activities and decisions where issues of right and wrong are addressed.",Business ethics cannot be defined as a real concept as it is an oxymoronic term.,Business ethics is concerned with the study of assessing the activities of a business based on their profitability.,B

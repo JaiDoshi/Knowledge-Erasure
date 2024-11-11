@@ -1,0 +1,574 @@
+"The X approach to protection has the difficulty that
+
+X = access matrix","the matrix, if stored directly, is large and can be clumsy to manage",it is not capable of expressing complex protection requirements,deciding whether a process has access to a resource is undecidable,there is no way to express who has rights to change the access matrix itself,A
+"An integer X is a common divisor of two integers Y and Z if and only if X is a divisor of Y and X is a divisor of Z. Which of the following sets of integers could possibly be the set of all common divisors of two integers?
+
+X = c
+Y = x
+Z = y","{-6,-2, -1, 1, 2, 6}","{-6, -2, -1, 0, 1, 2, 6}","{-6, -3, -2, -1, 1, 2, 3, 6}","{-6, -3, -2, -1, 0, 1, 2, 3, 6}",C
+"X: 1,000 bytes
+Y: 4,000 bytes
+
+In the NoNicks operating system, the time required by a single file-read operation has four nonoverlapping components:
+disk seek time-25 msec
+disk latency time-8 msec
+disk transfer time- 1 msec per X
+operating system overhead-1 msec per X + 10 msec
+In version 1 of the system, the file read retrieved blocks of X. In version 2, the file read (along with the underlying layout on disk) was modified to retrieve blocks of Y. The ratio of-the time required to read a large file under version 2 to the time required to read the same large file under version 1 is approximately",1:4,1:3.5,1:1,1.1:1,B
+"X = 7
+Y = 3
+Z = k-Means Clustering
+
+You want to cluster X points into Y clusters using the Z algorithm. Suppose after the first iteration, clusters C1, C2 and C3 contain the following two-dimensional points:
+C1 contains the 2 points: {(0,6), (6,0)}
+C2 contains the 3 points: {(2,2), (4,4), (6,6)}
+C3 contains the 2 points: {(5,5), (7,7)}
+What are the cluster centers computed for these Y clusters?","C1: (3,3), C2: (4,4), C3: (6,6)","C1: (3,3), C2: (6,6), C3: (12,12)","C1: (6,6), C2: (12,12), C3: (12,12)","C1: (0,0), C2: (48,48), C3: (35,35)",A
+"Which of the following is NOT X?
+
+X = complete, where complete means any set of Boolean operators that is sufficient to represent all Boolean expressions","{AND, NOT}","{NOT, OR}","{AND, OR}",{NAND},C
+"Let X be the number of nodes and Y be the number of edges.
+
+Consider the collection of all undirected graphs with X nodes and Y edges. Let M and m, respectively, be the maximum and minimum number of connected components in any graph in the collection. If a graph has no selfloops and there is at most one edge between any pair of nodes, which of the following is true?
+
+X = 10
+Y = 6","M = 10, m = 10","M = 10, m = 1","M = 7, m = 4","M = 6, m = 4",C
+"X theorem proving for showing that a Y is not Z has which of the following properties?
+I. It is a sound proof system in the sense that there does not exist a proof of the unsatisfiability of a satisfiable Y.
+II. It is a complete proof system in the sense that there is a proof of unsatisfiability for every unsa tisfiable Y.
+III. It is a succinct proof system in the sense that whenever an unsatisfiable Y F has a X proof, F also has a proof whose length is polynomial in the length of F.
+
+X = Resolution
+Y = formula of propositional logic
+Z = satisfiable",I only,III only,I and II only,I and III only,C
+"Which of the following statements describe(s) properties of a purely X memory system?
+I. It divides memory into units of equal size.
+II. It permits implementation of Y.
+III. It suffers from Z.
+
+X = segmented
+Y = virtual memory
+Z = internal fragmentation",I only,II only,III only,I and III,B
+"Which of the following statements about X is NOT true?
+
+X = floating-point arithmetic",It is inherently nonassociative because some numbers have no exact representation.,It is inherently nonassociative because there have to be upper and lower bounds on the size of numbers.,Associativity can be achieved with appropriate roundoff conventions.,Some rational numbers have no exact representation.,C
+"Suppose sharing of X in a Y is achieved with Z that are links pointing to a node containing information about a shared file. Information in this node includes (1) the owner of the file, (2) a count of the number of links to the tile, and (3) the disk block numbers of the file. What is a primary drawback to this approach to sharing?
+
+X = tiles
+Y = multilevel directory structure
+Z = directory entries","If the owner modifies the file, another user who does not share will see the changes.","If the owner renames the file, other users will not be able to access it.","If the owner is allowed to delete a file, dangling links may result.","If any user who shares the file appends to it, others who share it will not be able to access the new disk blocks.",C
+"Which of the following X will allow Y to work in O(n log n) time?
+I. A singly linked list
+II. A doubly linked list
+III. An array
+
+X = data structures
+Y = mergesort, which works by splitting a list of n numbers in half, sorting each half recursively, and merging the two halves",None,III only,I and II only,"I, II, and III",D
+"X: minimal-degree interpolating polynomial
+Y: real-valued function
+Z: n + 1
+
+If X for the Y f(x) at the Z distinct real numbers x0, ..., xn, what is the maximum possible degree of X?",n,n + 1,n + 2,2n,A
+"X = 5
+Y = i mod 5
+Z = 13, 8, 24, 10, and 3
+
+An internal hash table has X buckets, numbered 0, 1, 2, 3, 4. Keys are integers, and the hash function h(i) = Y is used, with linear resolution of collisions (i.e., if bucket h(i) is filled, the buckets h(i) + 1, h(i) + 2, ... are tried successively with all bucket numbers computed modulo X). If elements with keys Z are inserted, m that order, into an initially blank hash table, then the content of the bucket numbered 2 is",3,8,10,13,A
+"X is responsible (among other things) for:
+
+X = TCP protocol",Routing packets through the network,Reliable delivery of packets between directly connected machines,Reliable delivery of large (multi-packet) messages between machines that are not necessarily directly connected,Dealing with differences among operating system architectures,C
+"Let X and Y be two sets of words (strings) from Z, for some alphabet of symbols Z. Suppose that Y is a subset of X. Which of the following statements must always be true of X and Y ?
+I. If X is finite, then Y is finite.
+II. If X is regular, then Y is regular.
+III. If X is context-free, then Y is context-free.
+
+X = A
+Y = B
+Z = Σ*",I only,II only,III only,I and II only,A
+"Let X be a string with length 1, and let Y and Z be arbitrary strings. Which of the following is true?
+
+X = a string with length 1
+Y = an arbitrary string
+Z = an arbitrary string",a^M = a,(ax)^M = (xa)^M,(xy)^M = y^Mx^M,None of the above,D
+"Which of the following is NOT a reasonable justification for choosing to X on a Y?
+
+X = busy-wait
+Y = asynchronous event",The wait is expected to be short.,A busy-wait loop is easier to code than an interrupt handler.,There is no other work for the processor to do.,The program executes on a time-sharing system.,D
+"Let X = {ww | w in (0 + 1)*}.
+
+The language X is",not accepted by any Turing machine,"accepted by some Turing machine, but by no pushdown automaton","accepted by some pushdown automaton, but not context-free","context-free, but not regular",B
+"Which of the following statements about X is typically FALSE?
+
+X = Ethernets",Ethernets use circuit switching to send messages.,Ethernets use buses with multiple masters.,Ethernet protocols use a collision-detection method to ensure that messages are transmitted properly.,Networks connected by Ethernets are limited in length to a few hundred meters.,A
+"Let X be a procedure that for some inputs calls itself (i.e., is X). If X is guaranteed to terminate, which of the following statements must be true?
+I. X has a Y.
+II. X has an execution path where it does not call itself.
+III. X either refers to a Z or has at least one parameter.
+
+X = recursive
+Y = local variable
+Z = global variable",I only,II only,I and II only,II and III only,D
+"Which of the following comes closest to being a perfectly secure X?
+
+X = encryption scheme","The Caesar Cipher, a substitution cipher","DES (Data Encryption Standard), a symmetric-key algorithm","Enigma, a transposition cipher",One-time pad,D
+"Given:
+X = undirected graph G
+
+Of the following problems concerning a given X, which is currently known to be solvable in polynomial time?",Finding a longest simple cycle in G,Finding a shortest cycle in G,Finding ALL spanning trees of G,Finding a largest clique in G,B
+"X is primarily concerned with
+
+X = The IP protocol",Routing packets through the network,Reliable delivery of packets between directly connected machines,Reliable delivery of large (multi-packet) messages between machines that are not necessarily directly connected,Dealing with differences among operating system architectures,A
+"Let X be a positive integer.
+
+Of the following, which best approximates the ratio of the number of nonterminal nodes to the total number of nodes in a complete Y-ary tree of depth Z?
+
+X = K
+Y = K
+Z = N",1/K,K-1/K,log_10 (1/N),N-1/m,A
+"Consider a computer system in which X can request and release one or more Y. Once an X has been granted a Y, the X has exclusive use of that Y until it is released. If an X requests a Y that is already in use, the X enters a queue for that Y, waiting until the Y is available. Which of the following will NOT deal effectively with the problem of Z?
+
+X = process
+Y = resource
+Z = deadlock",Giving priorities to processes and ordering the wait queues by priority,"Having a process request all its required resources when it first begins, and restarting if it cannot obtain them all",Numbering the resources and requiring that processes request resources in order of increasing number,Having processes time out and restart after a random interval of waiting,A
+"Let X be ""Magic memory"".
+
+Which of the following is (are) true of X?
+I. It can provide the functionality of an atomic Test-and-Set.
+II. It can be used to coordinate processes running on a shared-memory multiprocessor.
+III. It is only useful on a multiprocessor.
+
+X = ""Magic memory""",I only,II only,III only,I and II,D
+"Which of the following is the name of the X in a Y that is responsible for managing information about Z and their attributes?
+
+X = data structure
+Y = compiler
+Z = variables",Abstract Syntax Tree (AST),Attribute Grammar,Symbol Table,Semantic Stack,C
+"Which of the following X has Y in the worst case but Z on average?
+
+X = algorithms
+Y = running time Θ(n^2)
+Z = Θ(n log n)",Bubblesort,Mergesort,Heapsort,Quicksort,D
+"X with a structure that implements Y (e.g., a C++ class) can prevent access to components of this structure by all operations except those that are part of this structure. However, definitions of such a structure often contain declarations of components of the structure (e.g., the header file for a C++ class may contain declarations of its private components). For such a X, an object's name could be bound at run time to stack storage for its component values (Z) or to a stack pointer referencing heap storage for its component values (indirect representation). Which of the following statements about comparisons between Z and indirect representations is (are) true?
+I. Indirect representation noticeably increases compilation time.
+II. Z decreases the time needed to access components of a variable.
+III. When the storage size of some private component of a variable changes, indirect representation minimizes the number of recompilations of source modules that must be performed.
+
+X",I only,III only,I and II only,II and III only,D
+"Which of the following is NOT a property of X?
+
+X = bitmap graphics",Fast hardware exists to move blocks of pixels efficiently.,Realistic lighting and shading can be done.,All line segments can be displayed as straight.,Polygons can be filled with solid colors and textures.,C
+"Which of the following is true of X?
+
+X = interrupts","They are generated when memory cycles are ""stolen"".",They are used in place of data channels.,They can indicate completion of an I/O operation.,They cannot be generated by arithmetic operations.,C
+"Let X be ""height-balanced binary search tree"".
+
+In an X, the heights of the left and right descendents of any node differ by at most 1. Which of the following are true of such a tree?
+I. Worst-case search time is logarithmic in the number of nodes.
+II. Average-case search time is logarithmic in the number of nodes.
+III. Best-case search time is proportional to the height of the tree.
+IV. The height of the tree is logarithmic in the number of nodes.
+
+X = height-balanced binary search tree",I and III only,II and III only,II and IV only,"I, II, and IV",D
+"Let X be the range of numbers Bob can write down, from 1 to 1,000 inclusive.
+
+Mary must identify Bob's number by asking ""yes/no"" questions of Bob. Mary knows that Bob always tells the truth. If Mary uses an optimal strategy, then she will determine the answer at the end of exactly how many questions in the worst case?","1,000",999,500,10,D
+"Which of the following is (are) true about X that use Y?
+I. The Z can be larger than the amount of physical memory.
+II. Programs must be resident in main memory throughout their execution.
+III. Y correspond to semantic characteristics of the program.
+
+X = virtual memory systems
+Y = pages
+Z = virtual address space",I only,II only,I and II,I and III,A
+"Which of the following is usually NOT represented in X for Y?
+
+X: a subroutine's activation record frame
+Y: a stack-based programming language",Values of local variables,A heap area,The return address,Stack pointer for the calling activation record,B
+"Which of the following statements about X is true?
+
+X = remote procedure call",It is used to call procedures with addresses that are farther than 2^16 bytes away.,It cannot return a value.,It cannot pass parameters by reference.,It cannot call procedures implemented in a different language.,C
+"Given:
+- X: sorting algorithms
+- Y: running time
+- Z: initial ordering of the input
+
+Of the following X, which has a Y that is LEAST dependent on the Z?",Insertion sort,Quicksort,Merge sort,Selection sort,C
+"A particular X computation requires Y seconds when executed on a single processor. If Z percent of this computation is ""inherently sequential"" (i.e., will not benefit from additional processors), then the theoretically best possible elapsed times for this program running with 2 and 4 processors, respectively, are
+
+X = parallel program
+Y = 100
+Z = 40",20 and 10 seconds,30 and 15 seconds,50 and 25 seconds,70 and 55 seconds,D
+"Consider the representation of X-bit numbers by Y, Z, or by sign and magnitude. In which representation is there overflow from the addition of the integers 011000 and 011000?
+
+X = six
+Y = two's complement
+Z = one's complement",Two's complement only,Sign and magnitude and one's complement only,Two's complement and one's complement only,All three representations,D
+"Here is the rephrased question with variables:
+
+Which of the following best describes X that use Y?
+
+X = computers
+Y = memory-mapped I/O",The computer provides special instructions for manipulating I/O ports.,I/O ports are placed at addresses on the bus and are accessed just like other memory locations.,"To perform an I/O operation, it is sufficient to place the data in an address register and call the channel to perform the operation.",Ports are referenced only by memory-mapped instructions of the computer and are located at hardwired memory locations.,B
+"Let X be the following phrase: ""the computational difficulty of integer factorization"".
+
+Many cryptographic protocols base their security on assumptions about X. Integer factorization serves this purpose because we believe that","integer multiplication is a function whose inverse, factorization, remains difficult for a large class of inputs",P = NP,"even if P = NP, integer factorization is still likely not to be polynomial-time computable",testing primality is computationally intractable,A
+"Which of the following sets of X CANNOT be described with a Y?
+
+X = bit strings
+Y = regular expression",All bit strings whose number of zeros is a multiple of five,All bit strings starting with a zero and ending with a one,All bit strings with an even number of zeros,All bit strings with more ones than zeros,D
+"X: Boolean variables p_1, p_2, p_3, p_4
+Y: connectives ∧,∨ (without ¬)
+
+Which of the following conditions can be expressed by a Boolean formula in the X and the Y?
+I. At least three of X are true.
+II. Exactly three of X are true.
+III. An even number of X are true.",I only,II only,III only,I and III,A
+"Let X be the number of processors, where X is an even number greater than 2.
+
+Two alternatives for interconnecting a set of X processors with bidirectional links are (1) the fully interconnected network, in which each processor is directly connected to every other processor, and (2) the ring network, in which each processor is connected to two other processors. The worst-case path length for a network is the maximum, over all pairs of nodes in the network, of the minimum length paths (measured in number of links) between the nodes. For each type of interconnection of X processors, a figure of merit can be formed as the product of the number of links required for the network times the worst-case path length connecting any two processors. The ratio of this figure of merit for the fully interconnected network compared to that of the ring network, for even X > 2, is",1/(n^2),1/(n(n-1)),1/n,(n-1)/n,D
+"For a connected, X graph Y, which of the following must be true?
+I. Σ_{v∈V} degree(v) is even.
+II. |E| ≥ |V| − 1
+III. Y has at least one vertex with degree 1.
+
+X = undirected
+Y = G = (V, E)",I only,II only,III only,I and II,D
+"In X systems it is advantageous if some programs such as Y and Z can be shared by several users. Which of the following must be true of X systems in order that a single copy of a program can be shared by several users?
+I. The program is a macro.
+II. The program is recursive.
+III. The program is reentrant.
+
+X = multiprogrammed
+Y = editors
+Z = compilers",I only,II only,III only,II and III only,C
+"Which of the following X numbers has an exact representation in Y notation?
+
+X = decimal
+Y = binary",0.1,0.2,0.3,0.5,D
+"Given:
+X = real
+Y = function
+
+Which of the following is correct?
+Y signatures describe the types of the arguments to a Y as well as the return value of the Y. For instance, the addition Y on Xs has a signature of
+add : X x X -> X
+since it takes two Xs and returns an X. But, for a language that allows Ys as return values, addition could be considered to have the signature
+add : X -> (X -> X)
+which means that add takes a single X (the first operand) and returns a new Y that itself takes a single X (the second operand) and returns an X (the result). This process of reducing a Y with multiple arguments to a Y with fewer arguments is called currying.",Currying can be applied to any function to the point where it has exactly one input argument.,Currying cannot be applied to functions of more than two arguments.,Currying cannot be applied to functions that return functions as arguments.,Currying cannot be applied w functions that haw arguments that are functions.,A
+"X contains 256 elements of Y bytes each. Its first element is stored at physical address 4,096.
+B contains 512 elements of Y bytes each. Its first element is stored at physical address 8,192.
+Assume that only X and B can be cached in an initially empty, physically addressed, physically tagged, direct-mapped, Z-byte cache with an 8-byte block size. The following loop is then executed.
+for (i = 0; i < 256; i++)
+        X[i] = X[i] + B[2*i];
+During the execution of the loop, how many bytes will be written to memory if the cache has a write-back policy?
+
+X = Array A
+Y = 4
+Z = 2K",0,256,1024,2000,A
+"In which of the following representations of numbers by X is the addition of the integers Y and Z within range?
+I. One's complement
+II. Two's complement
+III. Sign and magnitude
+
+X = 8-bit words
+Y = 109
+Z = -42",I only,II only,I and II only,"I, II, and III",D
+"If a malicious X is granted temporary Y-level access to a Z
+
+X = process
+Y = administrator
+Z = system",the threat is over as soon as the process is killed,the threat is over after the operating system is rebooted,the thread is over after rebooting the machine and replacing files that show a virus infection,the threat is often permanent until the entire disk is wiped clean,D
+"Let X = ""horizontal"" and Y = ""vertical"".
+
+Which of the following statements about X versus Y microarchitecture is (are) true?
+I. Programs for X architectures require more time steps than those for Y architectures.
+II. X microinstructions are unencoded.
+III. X microinstructions usually have a single opcode and multiple operand specifiers.",I only,II only,III only,II and III only,B
+"Let X be a strictly binary tree.
+Let Y be the number of nodes in X, where Y > 1.
+Let Z be the height of X.
+
+Suppose that for a class of X there exists c > 0 such that, for any X in the class, the ratio of the lengths of any two root-to-leaf paths is bounded above by c. Which of the following best characterizes Z, where Y is the number of nodes in X?",h <= log2(N),h = 1/c * log2(N),h < c log2(N),h > c log2(N),C
+"Which of the following X has Y and Z running times of O(n log n)?
+
+X = sorting algorithms
+Y = average-case
+Z = worst-case",Bubble sort,Insertion sort,Merge sort,Quicksort,C
+"Consider the following equations concerning an X module that has the operations Y, Z, Top, and IsEmpty. Which of the equations does NOT represent the conventional semantics of an X?
+
+X = stack
+Y = Push
+Z = Pop","IsEmpty(Push(Stack,Elem)) = true","Pop(Push(Stack,Elem)) = Stack","Top(Push(Stack,Elem)) = Elem","IsEmpty(Push(Push(Stack,Elem1),Elem2)) = false",A
+"X := Y + Z
+Y := X - Y
+Z := X * C
+D := X/F
+C := Y - Z
+F := X + Y
+
+If as many identical processors as needed are used, what is the minimum number of time units needed to execute the assignments with the same result as if the assignments were executed in the order shown?
+
+X = A
+Y = B
+Z = C",1,2,3,4,C
+"Given:
+X = expression
+Y = variable
+
+Which pairs of these Xs is (are) pairs of unifiable Xs?
+I. f(Y,Y)
+II. f(Y,1)
+III. f(Y,g(Y))","(I, II) only","(I, III) only","(II, III) only","(I, II) and (I, III) only",D
+"Which of the following X features is NOT generally considered an obstacle to aggressive Y of an Z?
+
+X = instruction-set
+Y = pipelining
+Z = integer unit",Condition codes set by every instruction,Variable-length encoding of instructions,Instructions requiring widely varying numbers of cycles to execute,Several different classes (sets) of registers,D
+"Let X >= 2. Let Y be the set of strings in {0, 1}^* such that x \in Y if and only if the number of 0's in x is divisible by X and the number of 1's in x is odd. The minimum number of states in a Z that recognizes Y is
+
+X = k
+Y = L
+Z = deterministic finite automaton (DFA)",k + 2,2k,k log k,k^2,B
+"Let X = (Y, Z) be a finite directed acyclic graph with |Z| > 0. Which of the following must be true?
+I. X has a vertex with no incoming edge.
+II. X has a vertex with no outgoing edge.
+III. X has an isolated vertex, that is, one with neither an incoming edge nor an outgoing edge.
+
+X = G
+Y = V
+Z = E",I only,II only,III only,I and II only,D
+"X: depth-first search tree
+Y: connected undirected graph
+Z: lowest common ancestor
+
+Let T be an X of a Y G. For each vertex v of T, let pre(v) be the number of nodes visited up to and including v during a preorder traversal of T, and post(v) be the number of nodes visited up to and including v during a postorder traversal of T. The Z of vertices u and v in T is a vertex w of T such that w is an ancestor of both u and v, and no child of w is an ancestor of both u and v. Let (u, v) be an edge in G that is not in T, such that pre(u) < pre(v). Which of the following statements about u and v must be true?
+I. post(u) < post(v)
+II. u is an ancestor of v in T.
+III. If w",I only,II only,III only,II and III,D
+"Which of the following is NOT part of X in a typical Y?
+
+X = the root set
+Y = garbage collector",Actual parameters of the active procedures,Dynamically allocated objects on the heap,Global variables of the program,Local variables on the call stack,B
+"Which of the following best describes the purpose of X in Y?
+
+X = Address Resolution Protocol
+Y = the Internet Protocol (IP) suite of protocols",To translate Web addresses to host names,To determine the IP address of a given host name,To determine the hardware address of a given host name,To determine the hardware address of a given IP address,D
+"Which of the following X features requires that Y storage allocation be used rather than Z allocation?
+
+X = language
+Y = stack-based
+Z = static",Recursive procedures,Arbitrary goto's,Two-dimensional arrays,Integer-valued functions,A
+"Which of the following is not a sentence that is generated by the grammar X -> Y, Y -> x|Yx, X -> Y|Z, Z -> y|Wy, W -> z?
+
+X = A
+Y = B
+Z = D",xyz,xy,xxzy,xxxxy,A
+"Let X be defined by X(1) = 7 and X(Y + 1) = 3Y + X(Y) for all integers Y ≥ 1. Which of the following represents the order of growth of X(Y) as a function of Y?
+
+X = T
+Y = n",Θ(n),Θ(n log n),Θ(n^2),Θ(n^2 log n),C
+"Given:
+X = a (finite) string w
+Y = the decimal expansion of π
+Z = a program
+
+Which of the following problems is (are) decidable?
+I. Given X, is X a prefix of Y?
+II. Given Z and an input, is Z's output Y?
+III. Given Z that takes as input a prefix of Y, is Z's output always the same for every prefix?",I only,II only,III only,I and II only,A
+"Which of the following statements about X is (are) true?
+I. Y may have feedback; Z do not.
+II. Y have a ""memoryless"" property; Z do not.
+III. Both Z and Y must be controlled by an external clock.
+
+X = circuits
+Y = Combinational circuits
+Z = sequential circuits",I only,II only,I and II only,II and III only,B
+"X single-user workstations are attached to the same local area network. On one of these workstations, file pages are accessed over the network from a file server; the average access time per page is Y second. On the other of these workstations, file pages are accessed from a local disk; the average access time per page is Z second. A particular compilation requires 30 seconds of computation and 200 file page accesses. What is the ratio of the total time required by this compilation if run on the diskless (file server) workstation to the total time required if run on the workstation with the local disk, if it is assumed that computation is not overlapped with file access?
+
+X = Two
+Y = 0.1
+Z = 0.05",1/1,5/4,5/3,10/5,B
+"Assume that a debugger places a breakpoint at a load instruction at virtual address X in a debugged process P. If the text segment of P begins at Y in P's virtual address space and if the debugger has mapped this same text segment at Z in its virtual address space, which of the following is the virtual address used by the debugger in its WRITE operation, along with a description of how the debugger has mapped the virtual memory page containing this address?
+
+X = 0x77E81234 (hexadecimal notation)
+Y = 0x77E80000
+Z = 0x01000000",0x01001234; page mapped with READ/WRITE access,0x01001234; page mapped with COPY-ON-WRITE access,0x76E81234; page mapped with READ/WRITE access,0x76E81234; page mapped with COPY-ON-WRITE access,A
+"Which of the following considerations applies (apply) to choosing X in a Y system?
+I. An advantage of larger X is that they lead to smaller Z.
+II. An advantage of smaller X is that they lead to less waste due to internal fragmentation.
+III. Normally, the dominant factor in disk access time is not dependent on X length, so longer X can be used advantageously.
+
+X = pages
+Y = paging
+Z = page tables",I only,II only,I and III only,"I, II, and III",D
+"X and Y implement the same Z. X uses a 5-stage pipeline and a clock cycle of 10 nanoseconds. Y uses a 7-stage pipeline and a clock cycle of 7.5 nanoseconds. Which of the following is (are) true?
+I. Y's pipeline has better maximum throughput than X's pipeline.
+II. The latency of a single Z is shorter on Y's pipeline than on X's pipeline.
+III. Programs executing on Y will always run faster than programs executing on X.
+
+X = Processor M-5
+Y = Processor M-7
+Z = instruction set",I only,II only,I and III,II and III,A
+"Which of the following pairs of X numbers will result in Y when the members of the pairs are Z?
+
+X = 8-bit, two's-complement
+Y = overflow
+Z = added","11111111, 00000001","00000001, 10000000","11111111, 10000001","10000001, 10101010",D
+"X computers communicate with each other by sending data packets across Y. The size of these packets is Z bytes. Y has the capacity to carry 1,000 packets per second. The CPU time required to execute the network protocol to send one packet is 10 milliseconds. The maximum rate at which one computer can send data to another is approximately
+
+X = Two
+Y = a local area network
+Z = 1,000","10,000 bytes/second","25,000 bytes/ second","100,000 bytes/ second","500,000 bytes/ second",C
+"Consider the following X.
+S → ( S )
+S → Y
+Which of the following statements is (are) true?
+I. The X is ambiguous.
+II. The X is suitable for Z parsing.
+III. The X is suitable for bottom-up parsing.
+
+X = grammar
+Y = x
+Z = top-down",I only,II only,III only,II and III only,D
+"Given:
+X = Hash tables
+
+X can contribute to an efficient average-case solution for all of the problems described below EXCEPT:","Counting distinct values: Given a set of n keys, determine the number of distinct key values.","Dynamic dictionary: Support the operations of insert, delete, and search in a dictionary.","Range search: Given values a and b, find all the records whose key value is in the range a, b.","Symbol table lookup: Given a program identifier, find its type and address.",C
+"Let X be a finite set with Y elements, and let Z be a finite set with n elements. The number of distinct functions mapping X into Z is
+
+X = A, a finite set
+Y = m, the number of elements in set A
+Z = B, a finite set",n^m,n!/(n - m)!,n!,n!/(m!(n - m)!),A
+"To compute the matrix product X, where X has p rows and q columns and where Y has q rows and r columns, takes time proportional to pqr, and the result is a matrix of p rows and r columns. Consider the product of three matrices N_1N_2N_3 that have, respectively, w rows and x columns, x rows and y columns, and y rows and z columns. Under what condition will it take less time to compute the product as (N_1N_2)N_3 (i.e., multiply the first two matrices first) than to compute it as N_1(N_2 N_3)?
+
+X = M_1
+Y = M_2","There is no such condition; i.e., they will always take the same time.",1/x + 1/z < 1/w + 1/y,x > y,1/w + 1/x < 1/y + 1/z,B
+"Given:
+X = hit ratio
+Y = write-through
+Z = write-back
+
+If it is assumed that write-allocation is always used, which of the following is true about the relationship between X of a cache memory when using Y versus Z?",Write-back usually results in a better hit ratio than write-through.,Write-through usually results in a better hit ratio than write-back.,The percentage of write operations resulting in a main memory operation will never be larger for write-back than for write-through.,The percentage of write operations resulting in a main memory operation will never be larger for writethrough than for write-back.,C
+"A particular X uses a Y to record the occupancy or vacancy of its tracks, with O denoting vacant and 1 denoting occupied. A 32-bit segment of this Y has the hexadecimal value D4FE2003. The percentage of occupied tracks for the corresponding part of the X, to the nearest percent, is
+
+X = disk unit
+Y = bit string",12%,25%,38%,44%,D
+"An X of an Y is a circuit in which each edge of the Y appears exactly once. Which of the following Y must have an X?
+I. A complete Y with 12 Z
+II. A complete Y with 13 Z
+III. A tree with 13 Z
+
+X = Euler circuit
+Y = undirected graph
+Z = vertices",I only,II only,III only,I and II,B
+"Which of the following X of a Y is best specified using a Z?
+
+X = characteristics
+Y = programming language
+Z = context-free grammar",Identifier length,Maximum level of nesting,Operator precedence,Type compatibility,C
+"Which of the following statements about X sent by a node in a network using Y is (are) true?
+I. X at the source must be the size of the smallest Z of all the links on a path to the destination.
+II. X may be fragmented during routing.
+III. X are reassembled only at the destination.
+
+X = datagrams
+Y = IPv4 protocol
+Z = maximum transmission unit (MTU)",I only,II only,III only,II and III,D
+"Which of the following X policies is Y?
+
+X = job-scheduling
+Y = starvation-free, meaning no job waits indefinitely for service",Round-robin,Priority queuing,Shortest job first,Youngest job first,A
+"Given:
+X = f(N) + log N
+Y = f(1) = 0
+
+Of the following, which gives the best upper bound for the value of X where f is a solution to the recurrence f(2N + 1) = f(2N) = X for N >= 1, with Y?",O(log N),O(N log N),O(log N) + 0(1),O((log N)^2),D
+"X shipped 5 Y, 1 of which was Z, and Company Y shipped 4 Y, 2 of which were Z. One Y is to be chosen uniformly at random from the 9 Y shipped by the companies. If the chosen Y is found to be Z, what is the probability that the Y came from Company Y?
+
+X = Company X
+Y = computer chips
+Z = defective",2 / 9,4 / 9,1 / 2,2 / 3,D
+"Which of the following problems can be solved by X?
+I. Finding Y in an undirected graph with positive-integer edge weights
+II. Finding a maximum clique in an undirected graph
+III. Finding Z from a source node to a sink node in a directed graph with positive-integer edge capacities
+
+X = a standard greedy algorithm
+Y = a minimum spanning tree
+Z = a maximum flow",I only,II only,III only,I and II only,A
+"A program that checks X works in the following way. A Y has been defined in which each entry is a Boolean variable initialized to false. A Z has been applied to each word in the dictionary, and the appropriate entry in the Y has been set to true. To check the X in a document, the Z is applied to every word in the document, and the appropriate entry in the Y is examined. Which of the following is (are) correct?
+I. true means the word was in the dictionary.
+II. false means the word was not in the dictionary.
+III. Y size should increase with document size.
+
+X = spelling
+Y = hash table
+Z = hash function",I only,II only,I and II only,II and III only,B
+"If each X is called a Y, how many Ys are required to represent at least Z different values?
+
+X = ternary (base-3) logic element
+Y = flit
+Z = 256",4,5,6,7,C
+"Local caching of files is common in X, but it has the disadvantage that Y.
+
+X = distributed file systems
+Y = data can become inconsistent if multiple clients modify the same file",Temporary inconsistencies among views of a file by different machines can result,The file system is likely to be corrupted when a computer crashes,A much higher amount of network traffic results,Caching makes file migration impossible,A
+"X contains 256 elements of Y bytes each. Its first element is stored at physical address 4,096.
+B contains 512 elements of Y bytes each. Its first element is stored at physical address 8,192.
+Assume that only X and B can be cached in an initially empty, physically addressed, physically tagged, direct-mapped, Z-byte cache with an 8-byte block size. The following loop is then executed.
+for (i = 0; i < 256; i++)
+        X[i] = X[i] + B[2*i];
+During the execution of the loop, how many bytes will be written to memory if the cache has a write-through policy?
+
+X = Array A
+Y = 4
+Z = 2K",0,256,1024,2048,C
+"Given:
+X = service times of the jobs (in time units)
+
+At time 0, five jobs are available for execution on a single processor, with X of 25, 15, 5, 3, and 2. Which of the following is the minimum value of the average completion time of these jobs?",50,208/5,92/5,10,C
+"Let X = (Y, Z) be a connected, undirected graph, and let a and b be two distinct vertices in Y. Let P_1 be the problem of finding a shortest simple path between a and b, and let P_2 be the problem of finding a longest simple path between a and b. Which of the following statements about P_1 and P_2 is true?
+
+X = G
+Y = V
+Z = E",Both P_1 and P_2 can be solved in polynomial time.,P_1 can be solved in polynomial time but P_2 is not known to be solvable in polynomial time.,P_1 is not known to be solvable in polynomial time but P_2 can be solved in polynomial time.,It is not known whether either P_1 or P_2 can be solved in polynomial time.,B
+"A major advantage of X is its simplicity. The main disadvantage of this organization is that Y.
+
+X = direct mapping of a cache
+Y = it can lead to high contention for cache lines, resulting in frequent cache misses and reduced performance, especially when multiple memory addresses map to the same cache line",it does not allow simultaneous access to the intended data and its tag,it is more expensive than other types of cache organizations,the cache hit ratio is degraded if two or more blocks used alternately map onto the same block frame in the cache,its access time is greater than that of other cache organizations,C
+"Let X be a single-tape, deterministic Turing machine with tape alphabet {blank,0,1}, and let Y denote the (possibly infinite) computation of X starting with a blank tape. The input to each problem below is X, together with a positive integer n. Which of the following problems is (are) decidable?
+I. The computation Y lasts for at least n steps.
+II. The computation Y lasts for at least n steps, and X prints a 1 at some point after the nth step.
+III. X scans at least n distinct tape squares during the computation Y.
+
+X = a single-tape, deterministic Turing machine with tape alphabet {blank,0,1}
+Y = the (possibly infinite) computation of X starting with a blank tape",None,III only,I and II only,I and III only,D
+"A Y-way, X-associative cache is
+
+X: set
+Y: 3",one in which each main memory word can be stored at any of 3 cache locations,effective only if 3 or fewer processes are running alternately on the processor,possible only with write-back,faster to access than a direct-mapped cache,A
+"Consider an X in which all entities are Y. Two relationships arise: (1) the Z relationship, between a Y and the X of which that Y is a member, and (2) the subclass relationship, between an X and the superclass from which that X inherits properties. In such a language, when a message is sent to a Y requesting execution of one of its methods (procedures), the method is located by following
+
+X = object-oriented language
+Y = object
+Z = instance",one instance link and then zero or more subclass links,one or more instance links and then one or more subclass links,one or more instance links,one subclass link and then one or more instance links,A
+"Given:
+X = CPI (cycles per instruction)
+Y = clock cycle rate
+Z = instruction cache and data cache sizes
+
+In a pipelined RISC computer where all arithmetic instructions have the same X, which of the following actions would improve the execution time of a typical program?
+I. Increasing the Y
+II. Disallowing any forwarding in the pipeline
+III. Doubling the Z without changing the Y",I only,II only,III only,I and III,D
+"Let X be the number of microseconds required for the external analog-to-digital converter to digitize one input signal.
+Let Y be the number of CPU instructions that must be executed for each signal digitized, including the triggering instruction.
+Let Z be the number of CPU instructions that are executed to average each set of four samples and output this value.
+
+A microcomputer used for data acquisition and control is required to digitize and process four analog input signals and to output their average continually; i.e., in real time. The time for an external analog-to-digital converter (which is triggered by a CPU instruction) to digitize one input is X microseconds, and only one digitization occurs at a time. Y CPU instructions must be executed for each signal digitized. Z CPU instructions are executed in order to average each set of four samples and output this value. The time to convert the output from digital to analog form is to be ignored. If",0.8 microseconds,1.2 microseconds,1.6 microseconds,2.4 microseconds,C
+"Suppose that a certain X has a Y of 10,000 hours and has a Z of 20 hours. If the X is used by 100 customers, what is its availability?
+
+X = software product
+Y = mean time between failures
+Z = mean time to repair",80%,90%,98%,99.80%,D

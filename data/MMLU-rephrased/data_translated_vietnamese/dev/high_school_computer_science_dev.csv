@@ -1,0 +1,39 @@
+"Trong các ví dụ sau đây, cái nào là một ví dụ về việc sử dụng thiết bị trên Internet vạn vật (IoT)?",Một chiếc xe cảnh báo người lái rằng nó sắp đâm vào một vật thể.,Một người đi bộ đường dài sử dụng đồng hồ G P S để theo dõi vị trí của mình.,Một tủ lạnh đặt sữa từ dịch vụ giao hàng trực tuyến khi sữa trong tủ lạnh gần hết.,Một vận động viên chạy bộ sử dụng đồng hồ có cảm biến quang học để theo dõi nhịp tim của mình.,C
+"Nhiều trình duyệt Web cho phép người dùng mở các cửa sổ ẩn danh. Trong một phiên duyệt web trong cửa sổ ẩn danh, trình duyệt không ghi lại lịch sử duyệt web hoặc danh sách các tệp đã tải xuống. Khi thoát khỏi cửa sổ ẩn danh, các cookie được tạo trong phiên đó sẽ bị xóa. Trong số các phát biểu sau đây về các phiên duyệt web trong cửa sổ ẩn danh, phát biểu nào là đúng?","Các hoạt động của người dùng khi duyệt web trong cửa sổ ẩn danh sẽ không bị nhìn thấy bởi những người giám sát mạng của người dùng đó, chẳng hạn như quản trị viên hệ thống.",Các mặt hàng được đặt vào giỏ hàng của cửa hàng trực tuyến để mua sau này trong phiên duyệt web ẩn danh sẽ không được lưu trên máy tính của người dùng.,Người dùng sẽ không thể đăng nhập vào tài khoản email hoặc mạng xã hội trong phiên duyệt web ẩn danh.,Một người dùng duyệt web trong cửa sổ ẩn danh sẽ được bảo vệ khỏi virus phát tán từ bất kỳ trang web nào được truy cập hoặc tệp tin nào được tải xuống.,B
+"Kết quả đầu ra của ""abc""[::-1] trong Python 3 là gì?",Lỗi,abc,cba,c,C
+"Trong chương trình dưới đây, giá trị ban đầu của x là 5 và giá trị ban đầu của y là 10.
+ IF (X < O)
+ {
+ DISPLAY (""Foxtrot"")
+ }
+ ELSE
+ {
+ IF (X > y)
+ {
+   DISPLAY (""Hotel"")
+ }
+ ELSE 
+ {
+   IF (y > O)
+   {
+   DISPLAY (""November"")
+   }
+   ELSE
+   {
+   DISPLAY (""Yankee"")
+   }
+ }
+ }
+ 
+ Kết quả hiển thị sau khi chạy chương trình là gì?",Foxtrot,Khách sạn,Tháng Mười Một,Người Mỹ,C
+"Một danh sách các số có n phần tử, được đánh số từ 1 đến n. Thuật toán sau đây nhằm hiển thị số lượng phần tử trong danh sách có giá trị lớn hơn 100. Thuật toán sử dụng các biến count và position. Bước 3 và 4 bị thiếu.
+ Bước 1: Đặt count bằng 0 và position bằng 1.
+ Bước 2: Nếu giá trị của phần tử tại vị trí position lớn hơn 100, tăng giá trị của count lên 1.
+ Bước 3: (bước bị thiếu)
+ Bước 4: (bước bị thiếu)
+ Bước 5: Hiển thị giá trị của count.
+ Cái nào trong số sau đây có thể được sử dụng để thay thế bước 3 và 4 để thuật toán hoạt động như dự định?","Bước 3: Tăng giá trị của vị trí lên 1.
+Bước 4: Lặp lại bước 2 và 3 cho đến khi giá trị của count lớn hơn 100.","Bước 3: Tăng giá trị của vị trí lên 1.
+Bước 4: Lặp lại bước 2 và 3 cho đến khi giá trị của vị trí lớn hơn n.","Bước 3: Lặp lại bước 2 cho đến khi giá trị của count lớn hơn 100.
+Bước 4: Tăng giá trị của position lên 1.","Bước 3: Lặp lại bước 2 cho đến khi giá trị của vị trí lớn hơn n.
+Bước 4: Tăng giá trị của count lên 1.",D

@@ -1,0 +1,309 @@
+Nechť x = 1. Jaká je hodnota x << 3 v Pythonu 3?,1,3,8,16,C
+"V Pythonu 3, která z následujících funkcí převádí řetězec na celé číslo (int) v pythonu?","int(x [,base])","long(x [,base] )",float(x),str(x),A
+"Uživatel zadá webovou adresu do prohlížeče a na webový server je odeslán požadavek na soubor. Který z následujících popisů nejlépe vystihuje, jak je soubor odeslán uživateli?",Soubor je rozdělen na pakety pro přenos. Pakety musí být po přijetí znovu sestaveny.,"Soubor je rozdělen na pakety pro přenos. Prohlížeč uživatele musí požadovat každý paket v pořadí, dokud nejsou přijaty všechny pakety.","Server se pokusí připojit přímo k počítači uživatele. Pokud je připojení úspěšné, celý soubor je odeslán. Pokud je připojení neúspěšné, uživateli je zaslána chybová zpráva.","Server opakovaně zkouší navázat přímé spojení s počítačem uživatele, dokud se spojení nepodaří. Jakmile je spojení navázáno, je odeslán celý soubor.",A
+"Digitální obrazy jsou často reprezentovány hodnotami červené, zelené a modré (RGB trojice) pro každý jednotlivý pixel v obraze. Fotograf manipuluje s digitálním obrazem a přepisuje původní obraz. Která z následujících možností popisuje bezeztrátovou transformaci digitálního obrazu?","Komprimování obrázku způsobem, který může ztratit informace, ale povede pouze k malé ztrátě kvality obrazu.","Vytvoření stupnice šedi obrázku průměrováním množství červené, zelené a modré barvy v každém pixelu a přiřazením této nové hodnoty odpovídajícímu pixelu v novém obrázku. Nová hodnota každého pixelu představuje odstín šedi, od bílé po černou.","Vytvoření negativu obrázku vytvořením nové RGB trojice pro každý pixel, ve které je každá hodnota vypočítána odečtením původní hodnoty od 255. Negativ obrázku je opakem originálu; světlé oblasti se jeví tmavé a barvy jsou obrácené.","Úprava části obrázku tím, že vezmeme pixely z jedné části obrázku a zkopírujeme je do pixelů v jiné části obrázku.",C
+"Programátor píše program, který má být schopen zpracovávat velké množství dat. Která z následujících úvah je NEJMÉNĚ pravděpodobné, že ovlivní schopnost programu zpracovávat větší datové soubory?",Jak dlouho trvá spuštění programu,Kolik programových příkazů program obsahuje,Kolik paměti program vyžaduje během svého běhu,Kolik úložného prostoru program vyžaduje během svého běhu,B
+"Předpokládejme, že znaky 0,1, . . . ,8,9,A,B,C,D,E,F jsou použity k reprezentaci hexadecimálního (základ 16) čísla. Zde A = 10, B = 11, . . . ,F = 15. Jaké je největší celé číslo v desítkové soustavě, které lze reprezentovat dvoumístným hexadecimálním číslem, jako je například 14 nebo 3A?",32,225,255,256,C
+"Velký soubor dat obsahuje informace o všech studentech, kteří studují informatiku na vysokých školách v celých Spojených státech. Datový soubor obsahuje následující informace o každém studentovi.
+   ° Pohlaví studenta
+   ° Stát, ve kterém student navštěvuje vysokou školu
+   ° Studijní průměr studenta na stupnici 4,0
+
+ Které z následujících otázek by bylo možné zodpovědět pouze analýzou informací v tomto datovém souboru?",Mají studenti oboru informatika tendenci mít vyšší studijní průměry než studenti jiných oborů?,Kolik států má vyšší procento žen studujících informatiku než mužů studujících informatiku na vysokých školách v daném státě?,Jaké procento studentů navštěvujících vysokou školu v určitém státě studuje obor informatika?,Která vysoká škola má nejvyšší počet studentů studujících informatiku?,B
+"Níže uvedený segment kódu používá proceduru IsFound (seznam, položka), která vrací hodnotu true, pokud se položka nachází v seznamu, a v opačném případě vrací hodnotu false. Seznam resultList je zpočátku prázdný.
+  FOR EACH item IN inputList1{
+ IF (isFound (inputList2, item) )
+ APPEND (resultList, item)
+ }
+ Který z následujících popisů nejlépe vystihuje obsah seznamu resultList po provedení tohoto segmentu kódu?",Všechny prvky v inputList1 následované všemi prvky v inputList2,"Pouze prvky, které se vyskytují v obou seznamech inputList1 a inputList2","Pouze prvky, které se vyskytují buď v inputList1, nebo v inputList2, ale ne v obou seznamech současně","Pouze prvky, které se vyskytují v inputList1, ale ne v inputList2",B
+Program je vyjádřen v programovacím jazyce. Která z následujících možností platí pro tento program?,"Program lze také vyjádřit v binárním kódu, ale bude pro lidi snadněji srozumitelný, když bude vyjádřen v programovacím jazyce vyšší úrovně.","Program lze také vyjádřit jako binární kód, což sníží pravděpodobnost chyb.","Program nelze vyjádřit jako binární kód, protože binární kód lze použít pouze k reprezentaci dat.","Některé části programu lze vyjádřit jako binární kód, ale operace musí být vyjádřeny pomocí programovacího jazyka vyšší úrovně.",A
+"V Pythonu 3, jaký je výstup print tuple[0], pokud tuple = ( 'abcd', 786 , 2.23, 'john', 70.2 )?","( 'abcd', 786 , 2.23, 'john', 70.2 )",abcd,Chyba,Žádná z uvedených možností.,B
+"Z následujících potenciálních výhod, která je NEJMÉNĚ pravděpodobné, že bude poskytnuta vylepšeným systémem?",Lidští zástupci nebudou potřeba k odpovídání na některé dotazy.,Společnost bude schopna poskytnout lidského zástupce pro každý příchozí hovor.,"Zákazníci pravděpodobně stráví méně času posloucháním informací, které nejsou relevantní pro jejich problém.",Zákazníci nebudou moci omylem vybrat nesprávné oddělení pro svůj konkrétní problém.,B
+"Historicky bylo pozorováno, že rychlost počítačového zpracování má tendenci se každé dva roky zdvojnásobit. Která z následujících možností nejlépe popisuje, jak mohou technologické společnosti využít toto pozorování pro účely plánování?","Technologické společnosti dokážou přesně předpovědět data, kdy budou nové výpočetní inovace k dispozici pro použití.","Technologické společnosti mohou plánovat zdvojnásobení nákladů na nové produkty pokaždé, když dojde k pokroku v rychlosti zpracování.",Technologické společnosti mohou stanovit cíle výzkumu a vývoje na základě očekávaných rychlostí zpracování.,"Technologické společnosti mohou vynaložit méně úsilí na vývoj nových procesorů, protože rychlost zpracování se bude vždy zlepšovat pozorovaným tempem.",C
+"Programátor napsal níže uvedený program. Program používá seznam čísel nazvaný numList. Program má zobrazit součet čísel v seznamu.
+ sum ← numList [1]
+ FOR EACH value IN numList
+ sum ← sum + value
+ DISPLAY sum
+ Za účelem otestování programu programátor inicializuje numList na [0 , 1 , 4 , 5]. Program zobrazí 10 a programátor dojde k závěru, že program funguje podle záměru. Která z následujících možností je pravdivá?",Závěr je správný; program funguje podle očekávání.,"Závěr je nesprávný; program nezobrazuje správnou hodnotu pro testovací případ [0, 1, 4, 5].","Závěr je nesprávný; použití testovacího případu [0, 1, 4, 5] není dostačující k vyvození závěru, že program je správný.","Závěr je nesprávný; použití testovacího případu [0, 1, 4, 5] pouze potvrzuje, že program funguje pro seznamy ve vzestupném pořadí.",C
+Počítačová simulace je vytvořena k simulaci růstu určitého druhu rostlin v různých podmínkách. Které z následujících akcí by mohly být použity k ověření modelu použitého v simulaci?,Vyjádřete simulační software pomocí rekurzivních i iterativních algoritmů. Porovnejte výsledky rekurzivního algoritmu s výsledky iterativního algoritmu.,Proveďte reálné experimenty s růstem rostlinných druhů v různých prostředích. Porovnejte výsledky experimentů s výsledky poskytnutými simulací.,Odstraňte z modelu veškeré zbytečné detaily. Porovnejte doby běhu původní simulace a zjednodušené simulace.,Spusťte simulační software na více zařízeních. Porovnejte výsledky získané z každého ze zařízení.,B
+"Huffmanovo kódování přiřazuje jedinečné kódy proměnné délky vstupním hodnotám na základě četnosti výskytu každé hodnoty. Často se vyskytujícím hodnotám jsou přiřazeny kódy obsahující méně bitů než hodnotám, které se vyskytují méně často a kterým jsou přiřazeny kódy obsahující více bitů. Která z následujících možností nejlépe popisuje vhodné použití Huffmanova kódování?",Dešifrování,Efektivní třídění,Bezeztrátová komprese,Ztrátová komprese,C
+"V Pythonu 3, která z následujících funkcí kontroluje, zda jsou všechny znaky v řetězci velkými písmeny?",isupper(),join(seq),délka(řetězec),"ljust(šířka[, výplňový_znak])",A
+"Následující fragment kódu má zobrazit ""odd"", pokud je kladné číslo num liché.
+ IF (<CHYBĚJÍCÍ PODMÍNKA>)
+ DISPLAY ""odd""
+
+ Která z následujících možností může být použita k nahrazení <CHYBĚJÍCÍ PODMÍNKA> tak, aby fragment kódu fungoval podle záměru?",(num MOD 1) = 0,(num MOD 1) = 1,(num MOD 2 ) = 0,(num MOD 2) = 1,D
+Programátor použije kód zveřejněný online pod licencí Creative Commons Attribution (CC BY) v komerčním produktu. Která z následujících možností nejlépe popisuje přijatelné použití tohoto kódu?,Kopírování kódu z online zdroje do produktu programátora bez jakýchkoli dalších úkonů,Kopírování kódu z online zdroje do produktu programátora a omezení kopírovaného kódu na deset řádků kódu,Kopírování kódu z online zdroje do produktu programátora a změna všech názvů proměnných,Zkopírování kódu z online zdroje do produktu programátora a uvedení původního autora způsobem stanoveným v licenci,D
+"Nová banka plánuje upřednostnit pohodlí zákazníků tím, že minimalizuje dobu, kterou zákazník čeká ve frontě. Banka zvažuje dvě možnosti: jednu frontu, kde zákazník v čele čeká na dalšího dostupného pokladníka, nebo samostatné fronty pro každého pokladníka. Banka se rozhodne použít počítačovou simulaci těchto dvou možností k určení průměrné doby čekání pro zákazníky. Která z následujících možností NENÍ pravdivá o plánu banky?","Banka může do simulace zahrnout i další faktory, jako je počet pokladních.","Banka může využít simulaci k prozkoumání těchto dvou možností, aniž by způsobila nepříjemnosti zákazníkům.",Banka může zvážit nové alternativy na základě výsledků simulace.,"Simulace neposkytne použitelné výsledky, protože nejsou k dispozici skutečná zákaznická data.",D
+"Který z následujících bodů nejlépe vysvětluje, jak jsou data obvykle sestavována do paketů pro přenos přes internet?","Každý paket obsahuje data, která mají být přenesena, spolu s metadaty obsahujícími informace používané pro směrování dat.","Každý paket obsahuje šifrovanou verzi dat, která mají být přenesena, spolu s metadaty obsahujícími klíč potřebný k dešifrování dat.","Každý paket obsahuje pouze metadata používaná k navázání přímého spojení, aby mohla být data přenesena.","Každý paket obsahuje více datových souborů spojených dohromady, spolu s metadaty popisujícími, jak kategorizovat každý datový soubor.",A
+"Má být napsána metoda pro vyhledávání v poli hodnoty, která je větší než daná položka, a vrácení jejího indexu. Specifikace problému neuvádí, co by mělo být vráceno, pokud je v poli několik takových hodnot. Která z následujících akcí by byla nejlepší?","Metoda by měla být napsána za předpokladu, že v poli existuje pouze jedna hodnota, která je větší než daná položka.","Metoda by měla být napsána tak, aby vracela index každého výskytu větší hodnoty.","Specifikace by měla být upravena tak, aby uváděla, co by se mělo dělat v případě, že existuje více než jeden index větších hodnot.","Metoda by měla být napsána tak, aby vypsala zprávu, pokud je nalezena více než jedna větší hodnota.",C
+"Jaký je výstup příkazu ""a"" + ""ab"" v Pythonu 3?",Chyba,aab,ab,a ab,B
+"V pythonu 3, která z následujících možností je celočíselné dělení?",/,//,%,"I understand. I will translate the text after the colon to Czech, outputting only the translated text without any additional comments. If translation is not possible, I will output the original text. I will not omit anything from the text. Please provide the text to be translated after the colon.",B
+Která z následujících školních politik bude mít pravděpodobně nejpozitivnější dopad na digitální propast?,Škola umožňuje studentům přinést si z domova grafickou kalkulačku k vypracování matematických úkolů ve třídě.,"Škola umožňuje studentům přinášet každý den do třídy tablet, aby se mohli účastnit hodnocených kvízů.",Škola poskytuje notebook nebo tablet všem studentům zapsaným ve škole.,"Škola doporučuje, aby si všichni studenti zakoupili počítač s co nejvyšší rychlostí zpracování, aby projekty běžely rychleji.",C
+"V určité zemi musí být člověk starý alespoň 16 let, aby mohl řídit auto, a musí být starý alespoň 18 let, aby mohl volit. Proměnná age představuje věk osoby jako celé číslo. Který z následujících výrazů se vyhodnotí jako pravdivý, pokud je osoba dostatečně stará na řízení, ale ne dostatečně stará na volení, a vyhodnotí se jako nepravdivý v opačném případě?
+ I. (age ≥ 16) AND (age ≤ 18)
+ II. (age ≥ 16) AND (NOT(age ≥ 18))
+ III. (age < 18) AND (NOT(age < 16))",II pouze,I a II pouze,Pouze I a III,Pouze II a III,D
+Internetový obchod používá 6bitové binární sekvence k identifikaci každé jedinečné položky k prodeji. Obchod plánuje zvýšit počet prodávaných položek a zvažuje použití 7bitových binárních sekvencí. Která z následujících možností nejlépe popisuje výsledek použití 7bitových sekvencí místo 6bitových sekvencí?,Další 2 položky lze jednoznačně identifikovat.,Dalších 10 položek lze jednoznačně identifikovat.,2krát více položek může být jednoznačně identifikováno.,10krát více položek může být jednoznačně identifikováno.,C
+Který z následujících programů pravděpodobně nejvíce využije heuristiku?,"Program, který vypočítá známku studenta na základě jeho výsledků z kvízů a domácích úkolů","Program, který šifruje složku digitálních souborů","Program, který najde nejkratší trasu pro jízdu autem mezi dvěma místy na mapě","Program, který seřadí seznam čísel od nejmenšího po největší",C
+"Zvažte následující segment kódu.
+ int num1 = value1, num2 = value2, num3 = value3;
+ while (num1 > num2 || num1 > num3)
+ {
+ /* tělo smyčky */
+ }
+ Můžete předpokládat, že value1, value2 a value3 jsou hodnoty typu int. Která z následujících možností je dostačující k zaručení toho, že /* tělo smyčky */ nebude nikdy provedeno?",num1 < num2,num1 < num3,num1 > num2 && num1 > num3,num1 < num2 && num1 < num3,D
+"Dva seznamy, list1 a list2, obsahují názvy knih nalezených ve dvou různých sbírkách. Knihovník chce vytvořit newList, který bude obsahovat názvy všech knih nalezených v obou seznamech, v abecedním pořadí, s odstraněnými duplicitními záznamy.
+
+Například, pokud list1 obsahuje
+[""Macbeth"", ""Frankenstein"", ""Jana Eyrová""]
+a list2 obsahuje
+[""Frankenstein"", ""Drákula"", ""Macbeth"", ""Hamlet""],
+pak newList bude obsahovat
+[""Drákula"", ""Frankenstein"", ""Hamlet"", ""Jana Eyrová"", ""Macbeth""].
+
+Pro vytvoření newList jsou k dispozici následující procedury.
+Procedura
+Vysvětlení
+Sort (list)
+Seřadí seznam v abecedním pořadí a vrátí výsledný seznam.
+Combine (list1, list2)
+Vytvoří nový seznam skládající se ze záznamů z
+list1 následovaných záznamy z list2. Výsledný seznam je vrácen.
+RemoveDuplicates (list)
+Prochází seznam. Pokud mají dva nebo více záznamů stejnou hodnotu, duplicitní záznamy jsou odstraněny tak, že se každý záznam objeví nejvýše jednou. Výsledný seznam je vrácen.
+
+Který z následujících úseků kódu správně vytvoří newList?","newList ← Kombinovat (listl, list2)
+ newList ← Seřadit (newList)
+ newList ← OdstranitDuplikáty (newList)","listl ← Seřadit (listl)
+ list2 ← Seřadit (list2)
+ newList ← Kombinovat (listl, list2)
+ newList ← OdstranitDuplikáty (newList)","listl ← OdstranitDuplikáty (listl)
+ list2 ← OdstranitDuplikáty (list2)
+ novýSeznam ← Spojit (listl, 1ist2)
+ novýSeznam ← Seřadit (novýSeznam)","listl ← RemoveDuplicates (listl)
+ listl ← Sort (listl)
+ list2 ← RemoveDuplicates (list2)
+ 1ist2 ← Sort (list2)
+ newList ← Combine (listl, list2)",A
+Jsou názvy proměnných v Pythonu citlivé na velikost písmen?,Ano,Ne,Je to závislé na stroji,Nic z výše uvedeného,A
+"Počítačový program používá 3 bity k reprezentaci celých čísel. Když program sečte decimální (základ 10) čísla 5 a 3, výsledek je 0. Které z následujících vysvětlení je nejlepší pro tento výsledek?",Došlo k chybě přetečení.,Došlo k chybě zaokrouhlení.,Výsledek byl ovlivněn ztrátovou kompresí dat.,Výsledek byl aproximován reprezentací s plovoucí desetinnou čárkou.,A
+Která je asymptoticky největší?,O(1),O(n),O(n^2),O(log n),C
+"Programátor napsal níže uvedený segment kódu pro zobrazení průměru všech prvků v seznamu nazvaném numbers. V seznamu je vždy alespoň jedno číslo.
+ Line 1: count ← 0
+ Line 2: sum ← 0
+ Line 3: FOR EACH value IN numbers
+ Line 4: {
+ Line 5: count ← count + 1
+ Line 6: sum ← sum + value
+ Line 7: average ← sum / count
+ Line 8: }
+ Line 9: DISPLAY (average)
+
+ Programátor chce snížit počet operací, které jsou prováděny při spuštění programu. Která změna povede ke správnému programu se sníženým počtem prováděných operací?",Záměna řádku 1 a řádku 2,Záměna řádku 5 a řádku 6,Záměna řádku 6 a řádku 7,Záměna řádku 7 a řádku 8,D
+"Jak online noviny, tak sociální sítě se používají k šíření informací na internetu. Která z následujících možností nejlépe popisuje výhodu, kterou mají online noviny oproti sociálním sítím?",Schopnost okamžitě šířit informace,Schopnost poskytnout důvěryhodnost šířeným informacím,"Schopnost poskytovat informace, které jsou široce dostupné",Schopnost poskytovat mediálně bohatý obsah za nízkou cenu,B
+Rozsáhlý program v Javě byl důkladně testován a nebyly nalezeny žádné chyby. Co z toho lze vyvodit?,Všechny předpoklady v programu jsou správné.,Všechny postkondice v programu jsou správné.,Program může obsahovat chyby.,Každou metodu v programu lze bezpečně použít v jiných programech.,C
+Jaká je hodnota tohoto pythonového výrazu: 1 + 3 % 3?,0,1,3,4,B
+"Každému studentovi, který se zapíše do školy, je přiděleno jedinečné identifikační číslo, které je uloženo jako binární číslo. Identifikační čísla se s každým nově zapsaným studentem postupně zvyšují o 1. Pokud bylo identifikační číslo přidělené poslednímu zapsanému studentovi binární číslo 1001 0011, jaké binární číslo bude přiděleno dalšímu studentovi, který se zapíše?",1001 0100,1001 0111,1101 0100,1101 0111,A
+"V Pythonu 3, který z následujících operátorů provádí výpočet mocniny (umocnění) na operandech?",**,//,je,ne v,A
+Která z následujících možností je hexadecimální reprezentace decimálního čísla 231_{10} ?,17_{16},E4_{16},E7_{16},F4_{16},C
+"Která z následujících funkcí tabulkového procesoru by byla nejužitečnější pro odhalení nepravděpodobně vysokých nebo nízkých hodnot, které se staly součástí datového souboru v důsledku chyb při zadávání dat?","Funkce, která počítá průměr číselných hodnot ve sloupci nebo řádku","Funkce, která počítá hodnoty ve sloupci nebo řádku","Funkce, která zaokrouhluje číselnou hodnotu","Funkce, která seřadí hodnoty ve sloupci nebo řádku",D
+"Určitá počítačová hra se hraje mezi lidským hráčem a počítačem řízeným hráčem. Pokaždé, když je na tahu počítačem řízený hráč, hra běží pomalu, protože počítač vyhodnocuje všechny potenciální tahy a vybírá ten nejlepší. Která z následujících možností nejlépe popisuje možnost zlepšení rychlosti běhu hry?","Rychlost hry lze zlepšit pouze v případě, že hru hrají dva lidští hráči namísto hry s počítačem řízeným hráčem.","Rychlost hry by mohla být zlepšena použitím procesu, který nachází přibližná řešení pokaždé, když je na tahu hráč ovládaný počítačem.","Rychlost běhu hry nelze zlepšit, protože počítače lze naprogramovat pouze k nalezení nejlepšího možného řešení.","Rychlost běhu hry nelze zlepšit, protože hra je příkladem algoritmu, který neběží v rozumném čase.",B
+"V Pythonu 3, jaký je výstup print list[1:3], pokud list = [ 'abcd', 786 , 2.23, 'john', 70.2 ]?","[ 'abcd', 786 , 2.23, 'john', 70.2 ]",abcd,"[786, 2,23]",Žádná z uvedených možností.,C
+"Uvažujte následující segment kódu.
+ Řádek 1: IF (a = 0)
+ Řádek 2: {
+ Řádek 3: b ← a + 10
+ Řádek 4: }
+ Řádek 5: ELSE
+ Řádek 6: {
+ Řádek 7: b ← a + 2O
+ Řádek 8: }
+ Která z následujících změn NEOVLIVNÍ výsledky při spuštění tohoto segmentu kódu?",Změna řádku 3 na b ← 10,Změna řádku 3 na a ← b + 10,Změna řádku 7 na b ← 20,Změna řádku 7 na a ← b + 10,A
+"Seřazený seznam 120 celých čísel má být prohledán, aby se zjistilo, zda se v něm nachází hodnota 100. Za předpokladu, že je použit nejefektivnější vyhledávací algoritmus, jaký je maximální počet prvků, které musí být prozkoumány?",7,8,20,100,A
+Která z následujících možností je správná ohledně Pythonu?,Podporuje automatický sběr odpadu.,"Lze jej snadno integrovat s jazyky C, C++, COM, ActiveX, CORBA a Java.",Obojí výše uvedené.,Žádná z uvedených možností.,C
+Nechť x = 8. Jaká je hodnota x>>1 v Pythonu 3?,3,4,2,8,B
+"Barvu pixelu lze reprezentovat pomocí barevného modelu RGB (červená, zelená, modrá), který ukládá hodnoty pro červenou, zelenou a modrou, každou v rozsahu od 0 do 255. Kolik bitů (binárních číslic) by bylo potřeba k reprezentaci barvy v modelu RGB?",8,16,24,32,C
+Booleovský výraz a[i] == max || !(max != a[i]) lze zjednodušit na,a[i] == max,a[i] != max,a[i] < max || a[i] > max,NEPRAVDA,A
+Programátor se rozhoduje mezi použitím lineárního nebo binárního vyhledávání k nalezení cílové hodnoty v seřazeném seznamu. Které z následujících tvrzení je pravdivé?,Ve všech případech vyžaduje binární vyhledávání v seřazeném seznamu méně porovnání než lineární vyhledávání.,"Obecně platí, že výhoda použití binárního vyhledávání oproti lineárnímu vyhledávání roste s velikostí seznamu.","Lineární vyhledávání bude obecně běžet rychleji než binární vyhledávání, protože lineární vyhledávání vyžaduje méně řádků kódu k implementaci.","Použití lineárního vyhledávání je vhodnější než použití binárního vyhledávání, pokud existuje možnost, že cíl nemusí být v seznamu nalezen.",B
+Které typy funkcí rostou nejpomaleji?,O(log e^N),O(log N),O(log log N),O(N),C
+"Studentka nahrává píseň na svém počítači. Když je nahrávání dokončeno, uloží kopii na svůj počítač. Studentka si všimne, že uložená kopie má nižší kvalitu zvuku než původní nahrávka. Které z následujících možností by mohly být možným vysvětlením rozdílu v kvalitě zvuku?",Píseň byla uložena s použitím méně bitů za sekundu než původní skladba.,Píseň byla uložena s použitím více bitů za sekundu než původní skladba.,Píseň byla uložena pomocí bezeztrátové kompresní techniky.,Při každém uložení souboru z jednoho umístění v počítači do jiného umístění dochází ke ztrátě některých informací.,A
+"V Pythonu 3, jaká následující funkce vrací položku ze seznamu s maximální hodnotou?",cmp(list),len(list),max(list),min(list),C
+Která je asymptoticky nejmenší?,O(1),O(n),O(n^2),O(log n),A
+Která z následujících možností je NEJMÉNĚ pravděpodobná jako indikátor phishingového útoku?,"E-mail od vaší banky vás žádá, abyste zavolali na číslo uvedené na vaší kartě pro ověření transakce","E-mail od obchodníka vás žádá, abyste klikli na odkaz pro obnovení hesla","E-mail od společnosti poskytující veřejné služby vás žádá, abyste pro ověřovací účely zadali své datum narození a číslo sociálního pojištění.","E-mail naznačuje, že jste vyhráli velkou sumu peněz a žádá vás o zadání čísla vašeho bankovního účtu, aby vám mohly být peníze převedeny",A
+"Níže uvedený algoritmus se používá k simulaci výsledků hodu mincí 4krát. Zvažte cíl určit, zda simulace vyústila ve stejný počet hlav a orlů.
+
+   Krok 1: Inicializujte proměnné heads_counter a f1ip_counter na 0.
+   Krok 2: Proměnné coin_f1ip je náhodně přiřazena hodnota buď 0 nebo 1.
+   Pokud má coin_f1ip hodnotu 0, výsledek hodu mincí je hlava, takže
+   heads_counter se zvýší o 1.
+   Krok 3: Zvyšte hodnotu f1ip_counter o 1.
+   Krok 4: Opakujte kroky 2 a 3, dokud se f1ip_counter nerovná 4.
+
+ Po provedení algoritmu, který z následujících výrazů naznačuje, že simulace vyústila ve stejný počet hlav a orlů?",coin_f1ip = 1,flip_counter = 1,flip_counter = 2,heads_counter = 2,D
+"Který pilíř kybernetické bezpečnosti je ohrožen, když se někdo přihlásí do systému pomocí ukradeného přihlašovacího jména a hesla?",Autentizace,Důvěrnost,Integrita,Nepopiratelnost,A
+"Následující postup má za cíl vrátit počet výskytů hodnoty val v seznamu myList. Postup nefunguje tak, jak bylo zamýšleno.
+ Line 1: PROCEDURE countNumOccurences(myList, val)
+ Line 2: {
+ Line 3: FOR EACH item IN myList
+ Line 4: {
+ Line 5: count 0
+ Line 6: IF(item = val)
+ Line 7: {
+ Line 8: count count + 1
+ Line 9: }
+ Line 10: }
+ Line 11: RETURN(count)
+ Line 12:}
+ Která z následujících změn může být provedena, aby postup fungoval tak, jak bylo zamýšleno?",Změna řádku 6 na IF(item = count),Změna řádku 6 na IF(myList[item] = val),"Přesunutí příkazu na řádku 5 tak, aby se objevil mezi řádky 2 a 3","Přesunutí příkazu na řádku 11 tak, aby se objevil mezi řádky 9 a 10",C
+Která z následujících možností je pravdivé tvrzení o dokumentaci programu?,"Programová dokumentace by se neměla měnit poté, co je poprvé napsána.","Dokumentace programu je potřebná pouze pro programy ve vývoji; není potřebná poté, co je program dokončen.","Programová dokumentace je užitečná, když programátoři spolupracují, ale ne když programátor pracuje individuálně na projektu.",Programová dokumentace je užitečná během počátečního vývoje programu a také při provádění úprav stávajících programů.,D
+"Zvažte následující tři scénáře, které by mohly být modelovány pomocí tří datových struktur - slovníku/mapy, fronty a zásobníku. Scénář 1: Auta se řadí do jedné řady v automyčce. Když každý řidič dorazí ke vchodu do automyčky, vystoupí z auta. Automatický dopravník přesune auto skrz automyčku, zatímco řidič jde k východu z automyčky zaplatit a vyzvednout auto. Scénář 2: Soutěžícím, kteří se účastní konkurzu do reality show talentů, je po vyplnění registračního formuláře přiděleno jedinečné číselné ID. Scénář 3: Tenisové míčky se prodávají v cylindrické plechovce, která pojme maximálně 3 míčky, přičemž každý míček kromě spodního spočívá na míčku pod ním. 3 míčky jsou do plechovky vkládány jeden po druhém skrz jediný otvor na vrcholu plechovky. 3 míčky jsou z plechovky vyjímány jeden po druhém skrz stejný otvor. Která z následujících možností ukazuje datové struktury, které nejlépe modelují tyto scénáře? Scénář 1 | Scénář 2 | Scénář 3",Slovník/mapa | Fronta | Zásobník,Slovník/mapa | Zásobník | Fronta,Fronta | Slovník/mapa | Zásobník,Zásobník | Fronta | Slovník/mapa,C
+"Nechť l = [1,2,3,4]. Jaká je hodnota min(l) v Python3?",1,2,3,4,A
+"Nechť l = [1,2,3,4]. Jaká je hodnota max(l) v Python3?",1,2,3,4,D
+Která z následujících možností je charakteristická pro odolnost vůči chybám při směrování na internetu?,Schopnost používat hierarchický systém pojmenování k zabránění konfliktům v názvech,"Schopnost poskytovat přenos dat i v případě, že některá spojení selhala",Schopnost řešit chyby při vyhledávání v systému doménových jmen (DNS),"Schopnost používat více protokolů, jako je protokol pro přenos hypertextu (HTTP), internetový protokol (IP) a jednoduchý protokol pro přenos pošty (SMTP), k přenosu dat",B
+"Zvažte následující čísla.
+   ° Binární 1100
+   ° Decimální 11
+   ° Hexadecimální D
+ Která z následujících možností seřazuje čísla od nejmenšího po největší?","Binární 1100, Desítkové 11, Hexadecimální D","Desítkové 11, Binární 1100, Šestnáctkové D","Desítkové 11, Šestnáctkové D, Binární 1100","Hexadecimální D, Decimální 11, Binární 1100",B
+Jaká je role kompilátoru v procesu vývoje spustitelného softwaru?,Správa specifikačních souborů vytvořených v rámci vývojového procesu,Spouštění a testování spustitelného souboru vytvořeného programátorem,"Sledování starších verzí softwaru pro případ, že by byla nalezena chyba a software by bylo nutné vrátit do dřívější podoby","Překlad programu napsaného v abstraktním, vysokoúrovňovém jazyce do programu se stejným chováním vyjádřeného ve strojovém kódu",D
+Která z následujících možností je nejpravděpodobnější obavou ohledně ochrany osobních údajů v rámci vylepšeného systému?,"Osobní údaje zákazníků by mohly být ohroženy, pokud by neoprávněná osoba získala přístup k databázi hovorových relací.",Ukládání informací do databáze relací hovorů usnadňuje jednotlivcům oklamat systém pomocí škodlivých odkazů.,"Návrh systému zvyšuje pravděpodobnost, že zákazníci nevědomky nainstalují na svá zařízení malware, který bude sdílet jejich data s neoprávněnými osobami.",Návrh systému usnadňuje neoprávněným osobám získat soukromé šifrovací klíče zákazníků.,A
+"Jaký je výstup ""abc""[-1] v Pythonu 3?",Chyba,a,b,c,D
+"Algoritmus bude použit k identifikaci maximální hodnoty v seznamu jednoho nebo více celých čísel. Zvažte dvě verze algoritmu níže.
+
+ Algoritmus I: Nastavte hodnotu proměnné max na -1. Projděte seznam celých
+   čísel. Pokud je datová hodnota větší než hodnota proměnné max, nastavte
+   max na tuto datovou hodnotu.
+ Algoritmus II: Nastavte hodnotu proměnné max na první datovou hodnotu. Projděte
+   zbývající hodnoty v seznamu celých čísel. Pokud je datová hodnota větší než
+   hodnota proměnné max, nastavte max na tuto datovou hodnotu.
+
+ Které z následujících tvrzení nejlépe popisuje chování těchto dvou algoritmů?",Oba algoritmy fungují správně pro všechny vstupní hodnoty.,"Algoritmus I vždy funguje správně, ale Algoritmus II funguje správně pouze tehdy, když maximální hodnota není první hodnotou v seznamu.","Algoritmus II vždy funguje správně, ale Algoritmus I funguje správně pouze tehdy, když je maximální hodnota větší nebo rovna -l.","Ani jeden z algoritmů správně neidentifikuje maximální hodnotu, když vstup obsahuje jak kladné, tak záporné vstupní hodnoty.",D
+"Uvažujte následující instanční proměnnou a metody ve stejné třídě.
+ private int[][] matrix;
+ /** Předpoklad: array.length > 0.
+ * @return největší celé číslo v poli array
+ */
+ private int max(int[] array)
+ { /* implementace není zobrazena */ }
+ /** @return num1 pokud num1 >= num2; jinak vrátí num2
+ */
+ public int max(int num1, int num2)
+ { /* implementace není zobrazena */ }
+ Předpokládejme, že matrix má aktuální hodnotu
+ 2 1 4 8
+ 6 0 3 9
+ 5 7 7 6
+ 1 2 3 4
+ Co bude vráceno následujícím voláním metody ve stejné třídě?
+ max(max(matrix[2]), max(matrix[3]))",9,8,7,4,C
+Jaká je hodnota tohoto pythonového výrazu: 4 + 3 % 2?,1,6,4,5,D
+"Airmail Express účtuje za přepravu malých balíků podle celých hodnot hmotnosti. Poplatky za hmotnost w v librách jsou následující:
+ 0 < w ≤ 2 $4.00
+ 2 < w ≤ 5 $8.00
+ 5 < w ≤ 20 $15.00
+ Společnost nepřijímá balíky, které váží více než 20 liber. Která z následujících možností představuje nejlepší sadu dat (hmotností) pro testování programu, který počítá poplatky za přepravu?","0, 2, 5, 20","1, 4, 16","−1, 1, 2, 3, 5, 16, 20","−1, 0, 1, 2, 3, 5, 16, 20, 22",D
+"V programu níže je y kladné celé číslo (např. 1, 2, 3, ...).
+ result ← 0
+ REPEAT 3 TIMES {
+ REPEAT y TIMES {
+ result ← result + 1
+ }
+ }",y+3,3y,y^3,3^y,B
+"Programátor navrhuje program pro katalogizaci všech knih v knihovně. Plánuje vytvořit třídu Book, která bude ukládat vlastnosti každé knihy: autora, název, zda je na polici a tak dále, s operacemi jako getAuthor, getTitle, getShelfInfo a setShelfInfo. Další třída, LibraryList, bude ukládat pole objektů Book. Třída LibraryList bude zahrnovat operace jako listAllBooks, addBook, removeBook a searchForBook. Programátor plánuje nejprve implementovat a otestovat třídu Book, než implementuje třídu LibraryList. Programátorův plán napsat nejprve třídu Book je příkladem",vývoj shora dolů,vývoj zdola nahoru,procedurální abstrakce,skrývání informací,B
+"Nechť l = [1,2,3,4]. Jaký je výsledek sum(l) v Python3?",4,1,10,8,C
+"Webová stránka používá několik strategií, aby zabránila neoprávněným osobám v přístupu k uživatelským účtům. Která z následujících možností NENÍ příkladem vícefaktorové autentizace?","Každému zaměstnanci společnosti je vydáno USB zařízení, které obsahuje jedinečný kód tokenu. Pro přihlášení do firemního počítače musí zaměstnanec vložit USB zařízení do počítače a zadat správné heslo.","Po přihlášení do účtu z nového zařízení musí uživatel zadat kód, který je odeslán e-mailem na e-mailovou adresu uvedenou v účtu.","Pro přihlášení do účtu musí uživatel poskytnout jak heslo, tak otisk prstu, který je zachycen pomocí uživatelova zařízení.","Když uživatel zadá nesprávné heslo více než dvakrát za sebou, je uživateli zablokován přístup k účtu na 24 hodin.",D
+"Níže uvedený postup má za cíl zobrazit index v seznamu jedinečných jmen (nameList), kde je nalezeno konkrétní jméno (targetName). Pokud targetName není v nameList nalezeno, kód by měl zobrazit 0.
+ PROCEDURE FindName (nameList, targetName)
+ {
+  index ← 0
+  FOR EACH name IN nameList
+  {
+   index ← index + 1
+   IF (name = targetName)
+   {
+   foundIndex ← index
+   }
+   ELSE
+   {
+   foundIndex ← 0
+   }
+  }
+  DISPLAY (foundIndex)
+ }
+ Které z následujících volání procedury lze použít k prokázání toho, že procedura NEFUNGUJE tak, jak bylo zamýšleno?","FindName ([""Andrea"", ""Ben""], ""Ben"" )","FindName ([""Andrea"", ""Ben"" ], ""Diane"" )","FindName ([""Andrea"", ""Ben"", ""Chris""], ""Ben"")","FindName ([""Andrea"", ""Chris"", ""Diane""], ""Ben"")",C
+"Tato otázka je založena na následujících deklaracích: String strA = ""CARROT"", strB = ""Carrot"", strC = ""car""; Vzhledem k tomu, že všechna velká písmena předcházejí všem malým písmenům při zohlednění abecedního pořadí, co je pravda?",strA.compareTo(strB) < 0 && strB.compareTo(strC) > 0,strC.compareTo(strB) < 0 && strB.compareTo(strA) < 0,strB.compareTo(strC) < 0 && strB.compareTo(strA) > 0,!(strA.compareTo(strB) == 0) && strB.compareTo(strA) < 0,C
+"V níže uvedené proceduře Mystery je parametr number kladné celé číslo.
+
+ PROCEDURE Mystery (number)
+ {
+  REPEAT UNTIL (number <= 0)
+  {
+   number ← number - 2
+  }
+  IF (number = 0)
+  {
+   RETURN (true)
+  }
+  ELSE
+  {
+   RETURN (false)
+  }
+ }
+
+ Který z následujících popisů nejlépe vystihuje výsledek spuštění procedury Mystery?","Procedura vrátí hodnotu true, když je počáteční hodnota čísla 2, jinak vrátí hodnotu false.","Procedura vrátí true, když je počáteční hodnota čísla větší než 2, jinak vrátí false.","Procedura vrátí hodnotu true, když je počáteční hodnota čísla sudá, a v opačném případě vrátí hodnotu false.","Procedura vrátí hodnotu true, když je počáteční hodnota čísla lichá, jinak vrátí hodnotu false.",C
+"Třída Insect má být napsána a bude obsahovat následující datová pole: age, které bude inicializováno na 0 při vytvoření instance Insect. nextAvailableID, které bude inicializováno na 0 mimo konstruktor a bude inkrementováno pokaždé, když je vytvořena instance Insect. idNum, které bude inicializováno na aktuální hodnotu nextAvailableID při vytvoření instance Insect. position, které bude inicializováno na pozici v zahradě, kam je Insect umístěn při jeho vytvoření. direction, které bude inicializováno na směr, kterým Insect čelí při umístění do zahrady. Která proměnná ve třídě Insect by měla být statická?",věk,nextAvailableID,idNum,pozice,B
+"Seřazený seznam čísel obsahuje 500 prvků. Která z následujících možností je nejblíže maximálnímu počtu prvků seznamu, které budou prozkoumány při provádění binárního vyhledávání hodnoty v seznamu?",10,50,250,500,A
+"V Pythonu 3, která z následujících funkcí nastavuje počáteční celočíselnou hodnotu používanou při generování náhodných čísel?",choice(seq),"randrange ([start,] stop [,krok])",random(),seed([x]),D
+"V Pythonu 3, jaký je výstup ['Hi!'] * 4?","['Ahoj!', 'Ahoj!', 'Ahoj!', 'Ahoj!']",['Hi!'] * 4,Chyba,Žádná z uvedených možností.,A
+"Zvažte následující předpoklady o elektronickém ukládání textu ve všech knihách univerzitních knihoven:
+- Knihovny na univerzitě společně obsahují 3 miliony knih.
+- Kniha obsahuje v průměru 400 stran.
+- Stránka obsahuje v průměru 50 řádků.
+- Řádek na stránce obsahuje v průměru 10 slov.
+- Slovo obsahuje v průměru 5 písmen/znaků.
+- Písmeno/znak je reprezentován 1 bytem.
+Na základě daných předpokladů, která z následujících jednotek by nejlépe měřila elektronické úložiště potřebné pro text ve všech knihách univerzitních knihoven?",Megabajt (2^20 nebo přibližně 10^6 bajtů),Gigabajt (2^30 nebo přibližně 10^9 bajtů),Terabajt (2^40 nebo přibližně 10^12 bajtů),Petabyte (2^50 nebo přibližně 10^15 bajtů),C
+"Vyhledávač má funkci sledování trendů, která poskytuje informace o tom, jak populární je vyhledávaný výraz. Data lze filtrovat podle geografické oblasti, data a kategorie. Kategorie zahrnují umění a zábavu, počítače a elektroniku, hry, zprávy, lidi a společnost, nakupování, sport a cestování. Která z následujících otázek je NEJMÉNĚ pravděpodobné, že by mohla být zodpovězena pomocí funkce trendů?",Ve kterém měsíci má konkrétní sport nejvíce vyhledávání?,O které politické kandidáty se lidé zajímají?,Jaká je cena určitého elektronického výrobku?,Která oblast země má největší počet lidí hledajících operní představení?,C
+"V Pythonu 3, co je ['a', 'Chemistry', 0, 1][1]?",a,Chemie,0,1,B
+"Která z následujících možností nejlépe popisuje hlavní způsob, jakým se distribuovaný útok odepření služby (DDoS) liší od útoku odepření služby (DoS)?",Cíl útoku,Počet napadených počítačů,Počet počítačů zahajujících útok,"Časové období, ve kterém k útoku dochází",C
+Která z následujících možností má největší potenciál ohrozit osobní soukromí uživatele?,Skupina souborů cookie uložených webovým prohlížečem uživatele,IP adresa počítače uživatele,E-mailová adresa uživatele,Veřejný klíč uživatele používaný pro šifrování,A
+"Který z následujících bodů nejlépe vysvětluje, co se stane, když je k internetu připojeno nové zařízení?",Ovladač zařízení je přiřazen k zařízení.,Zařízení je přidělena adresa internetového protokolu (IP).,Číslo paketu je přiřazeno zařízení.,Webová stránka je přiřazena k zařízení.,B
+"Pokud a, b a c jsou celá čísla, která z následujících podmínek je dostačující k zaručení toho, že výraz a < c || a < b && !(a == c) se vyhodnotí jako pravdivý?",a < c,a < b,a > b,a == b,A
+"Nechť l = [1,2,2,3,4]. V Pythonu3, jaký je možný výstup set(l)?","I apologize, but there is no text following the colon in your message. Without any text to translate, I cannot provide a translation to Czech. If you'd like a translation, please provide the text you want translated after the colon.","{1,2,2,3,4}","{1,2,3,4}","{4,3,2,2,1}",C
+"Maloobchodník prodávající obuv udržuje jednu databázi obsahující záznamy s následujícími informacemi o každé položce k prodeji v obchodě maloobchodníka.
+
+   ° Identifikační číslo položky
+   ° Typ obuvi (tenisky, boty, sandály atd.)
+   ° Prodejní cena (v dolarech)
+   ° Velikost
+   ° Barva
+   ° Dostupné množství
+
+ Pouze s použitím databáze, které z následujících údajů lze určit?",Které položky uvedené v databázi nejsou momentálně v obchodě,Které barvy jsou oblíbenější u mužů než u žen,Který typ obuvi je nejoblíbenější mezi dospělými?,Celkový počet bot prodaných v určitém měsíci,A
+Jaký je výstup 4*1**4 v pythonu?,4,1,256,16,A
+"Podívejte se na metodu nextIntInRange níže:
+ /** @return náhodné celé číslo v rozsahu od low do high, včetně */
+ public int nextIntInRange(int low, int high)
+ {
+ return /* výraz */
+ }
+ Který /* výraz */ vždy vrátí hodnotu, která splňuje podmínku po provedení?",(int) (Math.random() * high) + low;,(int) (Math.random() * (high - low)) + low;,(int) (Math.random() * (high - low + 1)) + low;,(int) (Math.random() * (high + low)) + low;,C
+"V Pythonu 3, b = [11,13,15,17,19,21]; print(b[::2]) vypíše co?","[19,21]","[11,15]","[11,15,19]","[13,17,21]",C
+"Algoritmus pro nalezení průměru N čísel je průměr = součet / N, kde N a součet jsou obě celá čísla. V programu používajícím tento algoritmus programátor zapomněl zahrnout test, který by kontroloval, zda je N rovno nule. Pokud je N nula, kdy bude chyba detekována?",Při kompilaci,Při úpravách,Jakmile je zadána hodnota N,Během běhu programu,D
+"Velký seznam čísel má být seřazen vzestupně. Za předpokladu, že ""pohyb dat"" je záměna nebo přeřazení prvku, které z následujících tvrzení je pravdivé?","Pokud je pole zpočátku seřazeno sestupně, pak bude řazení vkládáním efektivnější než řazení výběrem.",Počet porovnání pro řazení výběrem je nezávislý na počátečním uspořádání prvků.,Počet porovnání pro řazení vkládáním je nezávislý na počátečním uspořádání prvků.,Počet přesunů dat v řadicím algoritmu výběrem závisí na počátečním uspořádání prvků.,B
+"Zvažte následující segment kódu, který používá proměnné r, s a t.
+  r ← 1
+   s ← 2
+   t ← 3
+   r ← s
+   s ← t
+   DISPLAY (r)
+   DISPLAY (s)
+
+ Co se zobrazí jako výsledek spuštění tohoto segmentu kódu?",1 1,1 2,2 3,3 2,C
+"Digitální fotografický soubor obsahuje data reprezentující úroveň červené, zelené a modré barvy pro každý pixel fotografie. Soubor také obsahuje metadata, která popisují datum a geografickou polohu, kde byla fotografie pořízena. Pro který z následujících cílů by byla analýza metadat vhodnější než analýza samotných dat?","Určení pravděpodobnosti, že fotografie je snímkem oblohy","Určení pravděpodobnosti, že fotografie byla pořízena na konkrétní veřejné akci","Určení počtu osob, které se objevují na fotografii",Určení použitelnosti fotografie pro projekci na konkrétní barevné pozadí,B
+"V Pythonu 3, co je ['a', 'Chemistry', 0, 1][-3]?",a,Chemie,0,1,B
+Dva počítače jsou vyrobeny různými výrobci. Jeden provozuje webový server a druhý webový prohlížeč. Která z následujících možností nejlépe popisuje schopnost těchto dvou počítačů komunikovat spolu přes internet?,"Počítače nemohou komunikovat, protože různí výrobci používají různé komunikační protokoly.","Počítače mohou komunikovat, ale je zapotřebí dodatečný hardware pro převod datových paketů z protokolu jednoho počítače na protokol druhého počítače.","Počítače mohou komunikovat přímo pouze v případě, že zprávy sestávají z textu; jiné formáty nemohou být mezi počítači interpretovány.","Počítače mohou komunikovat přímo, protože internetová komunikace používá standardní protokoly.",D
+Která z následujících činností představuje největší riziko pro osobní kybernetickou bezpečnost?,"Provedení nákupu v internetovém obchodě, který používá šifrování veřejným klíčem pro přenos informací o kreditní kartě",Placení účtu pomocí zabezpečeného elektronického platebního systému,Rezervace hotelového pokoje zasláním čísla kreditní karty hotelu e-mailem,Výběr peněz z bankovního účtu pomocí bankomatu (ATM),C

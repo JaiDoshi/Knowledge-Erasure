@@ -1,0 +1,17 @@
+How long do unexpected events keep affecting a process that depends on its own past values?,Eventually die away,Persist indefinitely,Grow exponentially,Never occur,A
+"Considering a pattern where the current value depends on the previous value and a random factor, with the random factors having an average of zero and standard unit size, the pattern is:
+
+Current value = 0.2 + 0.4 x Previous value + Random factor
+
+What will be the long-term average value in this pattern?",0.2,0.4,0.5,0.33,D
+"Using simple terms, if a result has a probability of 0.08, which of the following statements is correct?
+
+(i) If the cutoff for decision was exactly 8%, we would be unsure about accepting or rejecting the initial claim
+
+(ii) The initial claim would be rejected if the cutoff for decision was 10%
+
+(iii) The initial claim would not be rejected if the cutoff for decision was 1%
+
+(iv) The initial claim would be rejected if the cutoff for decision was 5%.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",C
+"If the different values for the explained variable have different degrees of variability, but this variability is disregarded, what would happen to the estimate of the relationship between the variables?",It will be biased,It will be inconsistent,It will be inefficient,"All of (a), (b) and (c) will be true.",C
+"Let's say someone wants to find the best number of past time periods to include when studying how two things are related over time. They have information on 500 time periods and have calculated the spread of the data for different numbers of past periods included. The spreads are 0.0336 for 1 past period, 0.0169 for 2 past periods, 0.0084 for 3 past periods, and 0.0062 for 4 past periods. Based on these numbers, what is the best number of past periods to include according to a certain method?",1 lag,2 lags,3 lags,4 lags,C

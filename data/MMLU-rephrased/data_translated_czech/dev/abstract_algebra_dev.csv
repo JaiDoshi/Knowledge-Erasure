@@ -1,0 +1,5 @@
+"Najděte všechna c v Z_3 taková, že Z_3[x]/(x^2 + c) je pole.",0,1,2,3,B
+"Tvrzení 1 | Pokud aH je prvkem faktorové grupy, pak |aH| dělí |a|. Tvrzení 2 | Pokud H a K jsou podgrupy G, pak HK je podgrupa G.","Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",B
+Tvrzení 1 | Každý prvek grupy generuje cyklickou podgrupu této grupy. Tvrzení 2 | Symetrická grupa S_10 má 10 prvků.,"Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",C
+Tvrzení 1| Každá funkce z konečné množiny na sebe samu musí být vzájemně jednoznačná. Tvrzení 2 | Každá podgrupa abelovské grupy je abelovská.,"Pravda, Pravda","Nepravda, Nepravda","Pravda, Nepravda","Nepravda, Pravda",A
+Najděte charakteristiku okruhu 2Z.,0,3,12,30,A

@@ -1,0 +1,17 @@
+"Đối với một quá trình tự hồi quy dừng, các cú sốc sẽ",Cuối cùng sẽ biến mất,Tồn tại vô thời hạn,Phát triển theo cấp số nhân,Không bao giờ xảy ra,A
+"Xem xét mô hình AR(1) sau đây với các nhiễu loạn có trung bình bằng không và phương sai đơn vị
+
+yt = 0.2 + 0.4 yt-1 + ut
+
+Giá trị trung bình (không điều kiện) của y sẽ được cho bởi","0,2","0,4","0,5","0,33",D
+"Giả sử một thống kê kiểm định có giá trị p là 0,08. Trong số các phát biểu sau đây, phát biểu nào đúng?
+
+(i) Nếu mức ý nghĩa của kiểm định chính xác là 8%, chúng ta sẽ không phân biệt được giữa việc bác bỏ và không bác bỏ giả thuyết không
+
+(ii) Giả thuyết không sẽ bị bác bỏ nếu sử dụng mức ý nghĩa 10%
+
+(iii) Giả thuyết không sẽ không bị bác bỏ nếu sử dụng mức ý nghĩa 1%
+
+(iv) Giả thuyết không sẽ bị bác bỏ nếu sử dụng mức ý nghĩa 5%.",(ii) và (iv) chỉ,Chỉ (i) và (iii),"(i), (ii), và (iii) chỉ","(i), (ii), (iii), và (iv)",C
+Hậu quả gì sẽ xảy ra đối với ước lượng OLS nếu tính không đồng nhất phương sai xuất hiện trong mô hình hồi quy nhưng bị bỏ qua?,Nó sẽ bị thiên vị,Nó sẽ không nhất quán,Nó sẽ không hiệu quả,"Tất cả (a), (b) và (c) sẽ đúng.",C
+"Giả sử bây giờ một nhà nghiên cứu muốn sử dụng các tiêu chí thông tin để xác định độ dài trễ tối ưu cho một mô hình VAR. Có sẵn 500 quan sát cho mô hình VAR hai biến, và các giá trị của định thức ma trận phương sai-hiệp phương sai của phần dư lần lượt là 0,0336, 0,0169, 0,0084 và 0,0062 cho 1, 2, 3 và 4 độ trễ. Theo tiêu chí thông tin Akaike, mô hình có bậc tối ưu là bao nhiêu?",1 độ trễ,2 chân,3 chân,4 chân,C

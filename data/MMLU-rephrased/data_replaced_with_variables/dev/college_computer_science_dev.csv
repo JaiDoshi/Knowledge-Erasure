@@ -1,0 +1,26 @@
+"X = a* + b
+Y = c + d
+
+Which of the following regular expressions is equivalent to (describes the same set of strings as) X*Y?",a*(c + d)+ b(c + d),a*(c + d)* + b(c + d)*,a*(c + d)+ b*(c + d),(a + b)*c +(a + b)*d,D
+"X = RISC machine
+Y = general-purpose registers
+Z = operations
+
+A certain pipelined X has 8 Y R0, R1, . . . , R7 and supports the following Z.
+ADD Rs1, Rs2, Rd Add Rs1 to Rs2 and put the sum in Rd
+MUL Rs1, Rs2, Rd Multiply Rs1 by Rs2 and put the product in Rd
+A Z normally takes one cycle; however, a Z takes two cycles if it produces a result required by the immediately following Z in a Z sequence. Consider the expression AB + ABC + BC, where variables A, B, C are located in Y R0, R1, R2. If the contents of these three Y must not be modified, what is the minimum number of clock cycles required for a Z sequence that computes the value of AB + ABC + BC?",5,6,7,8,B
+"X = Singleton
+Y = class
+
+X = a design pattern used to guarantee that only a single instance of a Y may be instantiated. Which of the following is (are) true of this design pattern?
+I. The X Y has a static factory method to provide its instance.
+II. The X Y can be a subclass of another Y.
+III. The X Y has a private constructor.",I only,II only,III only,"I, II, and III",D
+"X := (A + B) * C - (Y + E) * F
+Y = D
+The target machine has a single accumulator and a single-address instruction set consisting of instructions load, store, add, subtract, and multiply. For the arithmetic operations, the left operand is taken from the accumulator and the result appears in the accumulator. The smallest possible number of instructions in the resulting code is",5,6,7,9,D
+"X = 500 nanoseconds
+Y = 2,000 nanoseconds
+
+Consider a computer design in which multiple processors, each with a private cache memory, share global memory using a single bus. This bus is the critical system resource. Each processor can execute one instruction every X as long as memory references are satisfied by its local cache. When a cache miss occurs, the processor is delayed for an additional Y. During half of this additional delay, the bus is dedicated to serving the cache miss. During the other half, the processor cannot continue, but the bus is free to service requests from other processors. On average, each instruction requires 2 memory references. On average, cache misses occur on 1 percent of references. What proportion of the capacity of the bus would a single processor consume, ignoring delays due to competition from other processors?",1/50,1/27,1/25,2/27,B

@@ -1,0 +1,17 @@
+"Pour un processus autorégressif stationnaire, les chocs vont",Finir par disparaître,Persister indéfiniment,Croître de façon exponentielle,Ne jamais se produire,A
+"Considérez le modèle AR(1) suivant avec les perturbations ayant une moyenne nulle et une variance unitaire
+
+yt = 0.2 + 0.4 yt-1 + ut
+
+La moyenne (inconditionnelle) de y sera donnée par","0,2","0,4","0,5","0,33",D
+"Supposons qu'une statistique de test ait une valeur p associée de 0,08. Laquelle des affirmations suivantes est vraie ?
+
+(i) Si la taille du test était exactement de 8%, nous serions indifférents entre rejeter et ne pas rejeter l'hypothèse nulle
+
+(ii) L'hypothèse nulle serait rejetée si un test de taille 10% était utilisé
+
+(iii) L'hypothèse nulle ne serait pas rejetée si un test de taille 1% était utilisé
+
+(iv) L'hypothèse nulle serait rejetée si un test de taille 5% était utilisé.",(ii) et (iv) seulement,(i) et (iii) seulement,"(i), (ii), et (iii) seulement","(i), (ii), (iii), et (iv)",C
+Quelles seraient alors les conséquences pour l'estimateur des moindres carrés ordinaires si l'hétéroscédasticité est présente dans un modèle de régression mais ignorée ?,Ce sera biaisé,Ce sera incohérent,Ce sera inefficace,"Tout (a), (b) et (c) seront vrais.",C
+"Supposons maintenant qu'un chercheur souhaite utiliser des critères d'information pour déterminer la longueur de retard optimale pour un VAR. 500 observations sont disponibles pour le VAR bivarié, et les valeurs du déterminant de la matrice de variance-covariance des résidus sont 0,0336, 0,0169, 0,0084 et 0,0062 pour 1, 2, 3 et 4 retards respectivement. Quel est l'ordre optimal du modèle selon le critère d'information d'Akaike ?",1 retard,2 pattes,3 pattes,4 pattes,C

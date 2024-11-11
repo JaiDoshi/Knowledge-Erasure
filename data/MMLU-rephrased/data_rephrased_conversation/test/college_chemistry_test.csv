@@ -1,0 +1,417 @@
+"Person 1: Hey, I have a question about the rate of a zero-order chemical reaction.
+Person 2: Alright, what's your question?
+Person 1: So, for a zero-order reaction A → B, how can the rate, r, be expressed?",r = k ln[A],r = k [A]^2,r = k [A],r = k,D
+"Person 1: Hey, I have a question about infrared spectroscopy.
+Person 2: What's your question?
+Person 1: Well, I know that IR spectroscopy is useful for determining certain aspects of the structure of organic molecules, but I'm not sure why that is.
+Person 2: That's a great question! Do you want me to explain the reason?",all molecular bonds absorb IR radiation,IR peak intensities are related to molecular mass,most organic functional groups absorb in a characteristic region of the IR spectrum,each element absorbs at a characteristic wavelength,C
+"Person 1: Hey, I have a question about phase equilibrium.
+Person 2: Alright, what's your question?
+Person 1: In a three component mixture, what is the maximum number of phases that can be at equilibrium with each other?",2,3,4,5,D
+"Person 1: Hey, I have a question about balancing equations.
+Person 2: Alright, what's the equation?
+Person 1: It's __ MnO4− + __ I− + __ H+ <-> __ Mn2+ + __ IO3− + __ H2O.
+Person 2: Okay, and what do you want to know about it?
+Person 1: When the equation is balanced, which of the following is true?",The I− : IO3− ratio is 3:1.,The MnO4- : I- ratio is 6:5.,The MnO4- : Mn2+ ratio is 3:1.,The H+ : I− ratio is 2:1.,B
+"Person 1: Hey, I have a question about thermodynamics.
+Person 2: Alright, what's your question?
+Person 1: You know the equation ΔH = ΔU + PΔV?
+Person 2: Yes, I'm familiar with that equation. What about it?
+Person 1: Is it applicable under all conditions?",always,only for constant pressure processes,only for constant temperature processes,only for constant volume processes,B
+"Person 1: Hey, I have a question about nitronyl nitroxides.
+Person 2: Okay, what's your question?
+Person 1: Well, you know how they are stable radicals where the unpaired electron is coupled to two equivalent nitrogen nuclei?
+Person 2: Yes, I'm familiar with that.
+Person 1: So, how many lines will appear in the EPR spectrum of a solution of a rigid nitronyl nitroxide diradical with J << a?",3 lines,9 lines,5 lines,7 lines,B
+"Person 1: Hey, I have a question about cobalt-60.
+Person 2: What about it?
+Person 1: You know how it's used in radiation therapy for cancer treatment?
+Person 2: Yes, I'm aware of that.
+Person 1: Well, I was wondering, cobalt-60 can be produced by bombarding cobalt-59 with which particle or particles?",Neutrons,Alpha particles,Beta particles,X-rays,A
+"Person 1: Hey, I have a question about magnetism.
+Person 2: Alright, what's your question?
+Person 1: You know how there are different types of magnetism, like paramagnetism and ferromagnetism?
+Person 2: Yes, I'm familiar with those.
+Person 1: Well, I was wondering, which of the following is required for both paramagnetism and ferromagnetism?",Strong oxidizing conditions,Low-spin electron configuration,Metallic physical properties,Unpaired electrons,D
+"Person 1: Hey, I have a question about NMR spectroscopy.
+Person 2: Alright, what's the question?
+Person 1: So, there's a 1H spectrum of a mixture containing dimethylsulphoxide (DMSO) and acetonitrile (AN).
+Person 2: Okay, and what about the spectrum?
+Person 1: The lines in the spectrum have relative intensities of α for DMSO and 3α for AN. I need to find the ratio of their concentrations, [DMSO]:[AN].",1:1,1:3,1:6,2:3,C
+"Person 1: Hey, I have a question about T1 and T2 relaxation times in NMR.
+Person 2: Alright, what's your question?
+Person 1: I'm wondering why the T1 of a nucleus is sometimes longer than its T2. How would you explain that?","T1, unlike T2, is sensitive to very low-frequency molecular motions.","T2, unlike T1, is sensitive to very low-frequency molecular motions.","T1, unlike T2, is sensitive to molecular motions at the Larmor frequency.","T2, unlike T1, is sensitive to molecular motions at the Larmor frequency.",D
+"Person 1: Hey, I have a question about NMR spectroscopy.
+Person 2: Alright, what's the question?
+Person 1: So, on a 400 MHz spectrometer, the 1H Larmor frequency of benzene is 1.656 kHz higher than that of trifluoroacetic acid.
+Person 2: Okay, and what else do we know?
+Person 1: The 1H chemical shift of benzene is 7.16 ppm. I need to find out the chemical shift of trifluoroacetic acid.",3.02 ppm,5.03 ppm,10.56 ppm,11.30 ppm,D
+"Person 1: Hey, I have a question about NMR spectroscopy.
+Person 2: Alright, what's your question?
+Person 1: Suppose the 13C nuclei in a molecule in a 600 MHz spectrometer can be 100% polarized, with p = 1.
+Person 2: Okay, and what else is given?
+Person 1: If T1 is 5.0 seconds, how long would it take for p to reach a value equal to twice the thermal equilibrium polarization at 298 K?",[The polarization relaxes exponentially: p(t) = [p(0) - peq]exp(-t/T1) + peq.],72.0 s,56.6 s,12.7 s,B
+"Person 1: Hey, I have a question about the cyclobutyl radical.
+Person 2: Okay, what's your question?
+Person 1: Assuming the radical is flat and the HCH angle is 115°, how would you estimate the β-hyperfine value for it?",4.6 mT,27 G,5.4 mT,3.8 mT,A
+"Person 1: Hey, I have a question about the EPR spectrum of the t-Bu radical.
+Person 2: Okay, what's your question specifically?
+Person 1: I'm trying to figure out the ratio of line intensities in the EPR spectrum of the (CH3)3C• radical. Do you know how to determine that?",1:19:36:84:126:126:84:36:19:1,1:9:36:84:126:126:84:36:9:1,1:9:35:82:120:120:82:35:9:1,1:8:28:56:70:56:28:8:1,D
+"Person 1: Hey, I have a question about spin trapping.
+Person 2: Okay, what's your question?
+Person 1: You know how spin trapping is often used to detect free radical intermediates?
+Person 2: Yes, I'm familiar with that. What about it?
+Person 1: Well, I was wondering, which one sentence explains most accurately why spin trapping is used for that purpose?",spin trapping provides more structural information than direct detection by EPR,spin trapping makes it easy to quantify free radical intermediates,steady state concentration of free radical intermediates is often too low to enable direct detection by EPR,detection of spin adducts requires lower power than direct detection of radical intermediates,D
+"Person 1: Hey, I have a question about magnetic moments.
+Person 2: Okay, what's your question?
+Person 1: How do you calculate the magnetic moment, symbolized as μI, for a 13C nucleus?",6.1445 x 10^-27 J T-1,3.1445 x 10^-27 J T-1,9.1445 x 10^-27 J T-1,1.1445 x 10^-28 J T-1,C
+"Person 1: Hey, I have a question about the normal modes of a carbon dioxide molecule.
+Person 2: Okay, what's your question specifically?
+Person 1: Well, I know some of the modes are infrared-active, but I'm not sure which ones.
+Person 2: I see. So you're wondering which of the normal modes of CO2 are infrared-active?
+Person 1: Exactly! I'm considering bending, symmetric stretching, and asymmetric stretching. Can you help me figure out which of those are infrared-active?",I only,II only,III only,I and III only,D
+"Person 1: Hey, I have a question about optical isomerism.
+Person 2: Alright, what's your question?
+Person 1: It's about complexes containing achiral ligands.
+Person 2: Okay, go on.
+Person 1: Which of the following is a true statement about optical isomerism of complexes containing achiral ligands?",Square planar complexes can display optical isomerism only if all four ligands are identical.,Tetrahedral complexes never display optical isomerism.,Linear complexes can display optical isomerism when both ligands are different.,Octahedral complexes of monodentate ligands can display optical isomerism only when they have at least three different ligands.,D
+"Person 1: Hey, I have a question for you.
+Person 2: Alright, what's your question?
+Person 1: It's about statements. Which one of the following statements is true?",Protons and neutrons have orbital and spin angular momentum.,"Protons have orbital and spin angular momentum, neutrons have spin angular momentum.",Protons and neutrons possess orbital angular momentum only.,Protons and neutrons possess spin angular momentum only.,C
+"Person 1: Hey, I have a question about Larmor frequency.
+Person 2: Okay, what's your question?
+Person 1: How do you calculate the Larmor frequency for a proton in a 1 T magnetic field?",23.56 GHz,42.58 MHz,74.34 kHz,13.93 MHz,B
+"Person 1: Hey, I have a question about semiconductors.
+Person 2: Alright, what's your question?
+Person 1: I'm trying to figure out which of the following is an n-type semiconductor.
+Person 2: Okay, what are the options you're considering?
+Person 1: Let me list them out for you.",Silicon,Diamond,Silicon carbide,Arsenic-doped silicon,D
+"Person 1: Hey, I have a question about NMR spectroscopy.
+Person 2: Alright, what's your question?
+Person 1: So, I'm looking at the 1H spectrum of 12CHCl3, and I noticed it's a singlet. Do you know why that is?
+Person 2: Hmm, that's an interesting observation. There could be a few reasons for that. What do you think might be the most accurate explanation?",Both 35Cl and 37Cl have I = 0.,The hydrogen atom undergoes rapid intermolecular exchange.,The molecule is not rigid.,Both 35Cl and 37Cl have electric quadrupole moments.,D
+"Person 1: Hey, I have a chemistry question for you.
+Person 2: Alright, what's the question?
+Person 1: It's about the solubility product of lead iodide at 25°C.
+Person 2: Okay, give me the details.
+Person 1: At 25°C, the maximum amount of PbI2 that can be dissolved in 1.00 L of pure water is 1.0 mmol. Assuming complete dissociation, what is the solubility product, Ksp, for lead iodide at 25°C?",1.0 × 10^−3,1.0 × 10^−6,1.0 × 10^−9,4.0 × 10^−9,D
+"Person 1: Hey, I have a question about the 13C spectrum of isomers.
+Person 2: Okay, what's your question specifically?
+Person 1: So for isomers of C6H14, which one has a 13C spectrum with lines at five distinct chemical shifts?",hexane,2-methylpentane,3-methylpentane,"2,3-dimethylbutane",B
+"Person 1: Hey, I have a question about silicon.
+Person 2: Alright, what's your question?
+Person 1: You know how silicon is found naturally in different forms?
+Person 2: Yes, that's right.
+Person 1: So, which of the following is the most common naturally-occurring form in which silicon is found?",Metallic element,Sulfide,Fluoride,Oxide,D
+"Person 1: Hey, I have a question about NMR frequencies.
+Person 2: Alright, what's your question?
+Person 1: So, if a nuclide is in a 20.0 T magnetic field, which one would have an NMR frequency of 115.5 MHz?",17O,19F,29Si,31P,A
+"Person 1: Hey, I have a question about binary liquid mixtures that obey Raoult's law.
+Person 2: Alright, what's your question?
+Person 1: I'm trying to figure out which statements must be true for such a mixture.
+Person 2: Okay, let me see if I can help. What are the statements you're considering?
+Person 1: I have three statements:
+I. The partial pressure of each component at equilibrium is proportional to its mole fraction in the liquid mixture.
+II. The volume of the mixture is equal to the sum of the volumes of each component before mixing.
+III. Intermolecular interactions in the mixture are identical to intermolecular interactions in the pure components.
+Which of these must be true for a binary liquid mixture that obeys Raoult's law?",I only,III only,I and III only,"I, II, and III",D
+"Person 1: Hey, I have a question about 31P NMR spectroscopy.
+Person 2: Alright, what's your question?
+Person 1: So, when you have a solution of sodium phosphate, you see a single line in the 31P spectrum, right?
+Person 2: Yes, that's correct.
+Person 1: And the 31P chemical shifts of H2PO4‾ and HPO42– are 3.42 ppm and 5.82 ppm, respectively?
+Person 2: That's right.
+Person 1: So, what would be the chemical shift when the pH of the solution equals the pKa of H2PO4‾?",3.41 ppm,3.98 ppm,4.33 ppm,4.62 ppm,D
+"Person 1: Hey, I have a question about EDTA titrations.
+Person 2: What's your question?
+Person 1: In EDTA titrations, the analyte and titrant solutions are both buffered at the same pH. Do you know the reasons why?
+Person 2: There are a few possible reasons. Can you tell me what you think they might be?
+Person 1: Well, I have a few ideas. First, the conditional formation constant might be affected by pH. Second, the fraction of EDTA in the fully deprotonated Y4− form could vary with pH. And third, when EDTA reacts to form a metal complex, H+ might be a product in most cases. What do you think?",I only,I and II only,I and III only,"I, II, and III",D
+"Person 1: Hey, I have a question about Henry's law constant for CO2 dissolved in water at 25°C.
+Person 2: Okay, what's the question?
+Person 1: The Henry's law constant is 30.0 atm M^−1. If a vessel is pressurized with 2.0 atm of CO2, what would be the concentration of dissolved CO2?",1.5 M,0.15 M,0.067 M,0.015 M,C
+"Person 1: Hey, I have a question about titration results.
+Person 2: Alright, what's your question?
+Person 1: So, a student performs five titrations and gets a mean result of 0.110 M, with a standard deviation of 0.001 M.
+Person 2: Okay, and what's the actual concentration of the titrated solution?
+Person 1: It's 0.100 M. Based on that, which statement is true about the student's titration results?",Accurate but not precise,Precise but not accurate,Both accurate and precise,Neither accurate nor precise,B
+"Person 1: Hey, I have a question about the hyperfine splitting produced by a Cu(II) metal ion.
+Person 2: Okay, what's the question?
+Person 1: So, this Cu(II) metal ion with giso = 2.12 produces four lines, and there's a separation of 500 MHz between each line.
+Person 2: Right, and what do you need to find out?
+Person 1: I need to express the hyperfine splitting in field units of mT and the hyperfine coupling in units of wavenumbers.",500 MHz = 0.185 mT = 0.29842 cm-1,500 MHz = 16.850 mT = 0.01667 cm-1,500 MHz = 32.953 mT = 0.76298 cm-1,500 MHz = 45.672 mT = 2.86329 cm-1,C
+"Person 1: Hey, I have a question about oxidation-reduction potential.
+Person 2: Okay, what's your question?
+Person 1: Based on oxidation-reduction potential, which of the following is most likely to occur?",Al(s) + 3 NaNO3(aq) 3 Na(s) + Al(NO3)3(aq),Zn(s) + 2 Ag(NO3)(aq) → 2 Ag(s) + Zn(NO3)2(aq),Pb(s) + Ca(NO3)2(aq) → Ca(s) + Pb(NO3)2(aq),Pb(s) + 2 LiNO3(aq) → 2 Li(s) + Pb(NO3)2(aq),B
+"Person 1: Hey, I have a question about tetramethylsilane.
+Person 2: What about it?
+Person 1: It's used as a 1H chemical shift reference, right?
+Person 2: Yes, that's correct.
+Person 1: So which of the following statements is not a reason why it's used for that purpose?",Its 1H spectrum is a singlet.,Its protons are quite strongly shielded.,It dissolves in most organic solvents.,Most organic compounds do not contain silicon atoms.,D
+"Person 1: Hey, I have a question about the X-band EPR spectrum of a matrix isolated Na atom.
+Person 2: Alright, what's the question?
+Person 1: The spectrum reveals four hyperfine lines with specific resonant field positions. How do I calculate the g value of the atom from this information?",g = 2.002,g = 1.950,g = 2.250,g = 2.005,A
+"Person 1: Hey, I have a question about calculating spin angular momentum.
+Person 2: Okay, what's the question?
+Person 1: I need to calculate the spin angular momentum of 43Ca. The nuclear spin is 7/2. How would I go about doing that?",2.166 x 10^-34 J s,3.691 x 10^-34 J s,4.185 x 10^-34 J s,5.493 x 10^-34 J s,C
+"Person 1: Hey, I have a question about magnetic fields and polarization.
+Person 2: Okay, what's the question?
+Person 1: Can you calculate the magnetic field responsible for a specific polarization of 13C at a given temperature?
+Person 2: Sure, what are the details of the problem?
+Person 1: The polarization is 2.5 x 10^-6 for 13C at 298 K. What magnetic field would cause that?",0.5 T,1.2 T,2.9 T,100 T,C
+"Person 1: Hey, I have a question about NMR spectroscopy.
+Person 2: Alright, what's your question?
+Person 1: If the T2 of an NMR line is 15 ms, how do you calculate its linewidth? You can ignore other sources of line broadening.
+Person 2: Okay, let's think about this. Do you know the relationship between T2 and linewidth?",0.0471 Hz,21.2 Hz,42.4 Hz,66.7 Hz,B
+"Person 1: Hey, I have a question about the spin angular momentum of 43Ca.
+Person 2: Alright, what's your question?
+Person 1: So, given that the nuclear spin quantum number I is 7/2 for 43Ca, what would be the maximum possible value of the z-component of its spin angular momentum?",3.691 x 10^-34 J s,4.185 x 10^-34 J s,5.493 x 10^-34 J s,8.370 x 10^-34 J s,A
+"Person 1: Hey, I have a chemistry question for you.
+Person 2: Alright, what's the question?
+Person 1: So, I have a list of compounds here. Which one do you think has the lowest melting point?",HCl,AgCl,CaCl2,CCl4,A
+"Person 1: Hey, I have a question about nuclear binding energies.
+Person 2: Alright, what's your question?
+Person 1: Well, I know there are several statements about nuclear binding energies, but I'm trying to figure out which one of them is not true.
+Person 2: Okay, go ahead and tell me the statements you're considering.
+Person 1: Which of the following statements about nuclear binding energies is NOT true?",Binding energy per nucleon reaches a maximum for 56Fe.,Nuclear binding energies have about the same magnitude as chemical bond energies.,Nuclei have slightly less mass than the sum of their component nucleons.,The nuclei of heavy elements have more neutrons than protons in order to provide sufficient binding energy to hold the nuclei together.,B
+"Person 1: Hey, I have a question about EPR spectroscopy.
+Person 2: Alright, what's your question?
+Person 1: How would you predict the hyperfine value for the EPR spectrum of fully deuterated benzene radical anion, C6D6•-?",0.375 mT,3.75 G,2.35 mT,0.58 G,D
+"Person 1: Hey, I have a chemistry question for you.
+Person 2: Alright, what's the question?
+Person 1: Do you know what the strongest base in liquid ammonia is?",NH3,NH2−,NH4+,N2H4,B
+"Person 1: Hey, I have a question about the equilibrium populations of energy levels in a molecule.
+Person 2: Alright, what's the question?
+Person 1: So, the equilibrium populations of the 1H energy levels are given as nα = nαeq and nβ = nβeq, right?
+Person 2: Yes, that's correct.
+Person 1: Great. Now, what I want to know is, what will the populations be after applying a 5.0 μs pulse with B1 = 4.697 mT?",nα = nβeq and nβ = nαeq,nα = nαeq and nβ = nβeq,nα = ½(nαeq + nβeq) and nβ = ½(nαeq + nβeq),nα = nαeq + nβeq and nβ = nαeq + nβeq,A
+"Person 1: Hey, I have a question about calculating the Q-factor for an EPR cavity.
+Person 2: Alright, what specifically do you need to know?
+Person 1: I'm working with an X-band EPR cavity that has a resonator bandwidth of 1.58 MHz. How do I calculate the Q-factor for this cavity?",Q = 1012,Q = 2012,Q = 3012,Q = 6012,D
+"Person 1: Hey, I have a question about NMR spectroscopy.
+Person 2: Alright, what's your question?
+Person 1: So, benzene and chloroform have 13C chemical shifts of 128.4 ppm and 77.2 ppm, respectively. 
+Person 2: Okay, and what do you want to know about that?
+Person 1: I'm trying to figure out the difference in their 13C NMR frequencies when using a 600 MHz spectrometer.",7.73 kHz,30.7 kHz,91.6 kHz,122 kHz,A
+"Person 1: Hey, I have a question about ionic strength.
+Person 2: Okay, what's your question?
+Person 1: If you have a bunch of different solutions and assume they all completely dissociate, which one would have the highest ionic strength?",0.050 M AlCl3,0.100 M NaCl,0.050 M CaCl2,0.100 M HCl,A
+"Person 1: Hey, I have a question about NMR spectroscopy.
+Person 2: Alright, what's your question?
+Person 1: I'm trying to figure out the strength of a specific pulse. Do you know how to calculate the strength (B1) of a 13C 90° pulse that has a duration of 1 μs?",3.72 mT,5.18 mT,17.0 mT,23.3 mT,B
+"Person 1: Hey, I have a question about Planck's quantum theory.
+Person 2: Okay, what's your question?
+Person 1: Well, I know Planck's quantum theory explained some key experimental observations...
+Person 2: That's right. So what are you wondering about those observations?
+Person 1: I'm trying to figure out which of the following experimental observations were actually explained by Planck's quantum theory?",Blackbody radiation curves,Emission spectra of diatomic molecules,Electron diffraction patterns,Temperature dependence of reaction rates,A
+"Person 1: Hey, I have a question about a radioactive isotope used in diagnostic imaging.
+Person 2: Okay, what's the question?
+Person 1: So, this isotope has a half-life of 6.0 hours. If a hospital receives a quantity of this isotope with an activity of 150 mCi, how much activity will be left after 24 hours?
+Person 2: Hmm, that's an interesting question. Can you tell me what mCi stands for?
+Person 1: Oh, mCi is the abbreviation for microcuries, which is a unit of radioactivity.",150 mCi,38 mCi,19 mCi,9.4 mCi,D
+"Person 1: Hey, I have a question about the electron configuration of aluminum.
+Person 2: Okay, what's your question?
+Person 1: When ground-state aluminum is ionized, what is the orbital angular momentum quantum number, l, of the electron that is most easily removed?",3,2,1,0,C
+"Person 1: Hey, I have a question about pH in aqueous solutions.
+Person 2: Alright, what's your question?
+Person 1: If you have 0.1 M aqueous solutions of different compounds, which solution would have the lowest pH?",Na2CO3,Na3PO4,Na2S,NaCl,D
+"Person 1: Hey, I have a question about a silyl radical.
+Person 2: Okay, what's the question?
+Person 1: So there's this silyl radical bearing an Si-H· fragment. It has a g value of 2.0033 and a pair of lines separated by 15.5 MHz.
+Person 2: Right, and what do you need to know about it?
+Person 1: I need to express the splitting in units of mT, Gauss and cm-1. How would I go about doing that?",15.5 MHz = 11.104 mT = 27.201 Gauss = 0.862 x 10^-4 cm-1,15.5 MHz = 7.352 mT = 10.104 Gauss = 18.39 x 10^-4 cm-1,15.5 MHz = 1.55 mT = 0.562 Gauss = 31.0 x 10^-4 cm-1,15.5 MHz = 0.553 mT = 5.530 Gauss = 5.17 x 10^-4 cm-1,B
+"Person 1: Hey, I have a question about elements with partially filled orbitals.
+Person 2: Okay, what's your question?
+Person 1: Elements with partially filled 4f or 5f orbitals include all of the following except for what?",Cu,Gd,Eu,Am,A
+"Person 1: Hey, I have a question about calculating spin density.
+Person 2: Okay, what's the question?
+Person 1: How do you calculate the spin density on the central carbon atom of the malonic acid radical, you know, •CH(COOH)2?
+Person 2: Well, what additional information are you given? 
+Person 1: The hyperfine value for the α-hydrogen atom is 21.9 G.",0.95,0.85,0.15,0.65,C
+"Person 1: Hey, I have a question about fluorescence spectroscopy.
+Person 2: Okay, what's your question?
+Person 1: It's about the quantum yield, represented by the symbol Φ_f.
+Person 2: Alright, what about the quantum yield?
+Person 1: In fluorescence spectroscopy, how is the quantum yield best defined?",rate of fluorescence emission,number of photons emitted,"number of photons emitted, divided by the number of photons absorbed","number of excitation photons impinging on the sample, divided by the number of photons absorbed",C
+"Person 1: Hey, I have a question for you.
+Person 2: Alright, what's your question?
+Person 1: It's about statements. Which one of the following statements is true?",Large and positive g shifts are observed when the LUMO – HOMO gap is small and λ is positive.,Large deviations in g occurs when the energy difference between the SOMO and lowest lying excited state is large.,A large deviation of g from ge is expected when λ is large and the energy difference between the SOMO and the lowest lying excited state is small.,A small deviation of g from ge is expected when λ is small and positive.,C
+"Person 1: Hey, I have a question about magnetic moments.
+Person 2: Okay, what's your question?
+Person 1: What is the magnetic moment of the isotope thallium-205?","[ɣ (205TI = 1.569 x 108 T-1 s-1, I = ½]",0.717 x 10^-26 J T-1,0.827 x 10^-26 J T-1,1.433 x 10^-26 J T-1,C
+"Person 1: Hey, I have a question about spin-lattice relaxation in NMR spectroscopy.
+Person 2: Alright, what's your question?
+Person 1: If a molecule has a rotational correlation time of 1 ns, at what magnetic field would the protons in this molecule have the fastest spin-lattice relaxation?
+Person 2: Hmm, that's an interesting question. I think you'll need to use equations 5.3 and 5.4 to figure that out.
+Person 1: Thanks for the tip! I'll give it a try using those equations.",3.74 T,5.19 T,6.08 T,9.49 T,A
+"Person 1: Hey, I have a question about ionic substances.
+Person 2: Okay, what's your question?
+Person 1: Out of a list of ionic substances, how would I determine which one has the greatest lattice enthalpy?",MgO,MgS,NaF,NaCl,A
+"Person 1: Hey, I have a question about 1H NMR spectroscopy.
+Person 2: Alright, what's your question?
+Person 1: So, if you have a spectrometer with a 12.0 T magnet, which of the following compounds would have a 1H resonance approximately 1.55 kHz away from TMS?",CH3F,CH3Cl,CH3Br,CH3I,B
+"Person 1: Hey, I have a question about nuclear magnetic resonance.
+Person 2: Alright, what's your question?
+Person 1: How would you calculate the equilibrium polarization of 13C nuclei in a 20.0 T magnetic field at 300 K?",10.8 x 10^-5,4.11 x 10^-5,3.43 x 10^-5,1.71 x 10^-5,D
+"Person 1: Hey, I have a question about magnetic moments of nuclides.
+Person 2: Alright, what's the question?
+Person 1: So, there's this unknown nuclide with a magnetic moment of 2.884 x 10^-27 J T-1.
+Person 2: Okay, and what else do we know about it?
+Person 1: The nuclear spin of this nuclide is known to be 1. Can you help me identify the unknown nuclide?",14N,2H,19F,6Li,B
+"Person 1: Hey, I have a question about mass spectrometry.
+Person 2: Alright, what's your question?
+Person 1: I'm trying to determine which characteristics are associated with mass spectrometry. Can you help me out?
+Person 2: Sure, go ahead and tell me the characteristics you're considering.
+Person 1: Okay, here they are:
+I. Analyte molecules are converted to gaseous ions. 
+II. The ions are separated according to their mass-to-charge ratio.
+III. In addition to compound identification, mass spectra can be utilized to determine precise isotopic masses and isotopic ratios.
+Which of these are characteristic of mass spectrometry?",II only,I and II only,I and III only,"I, II, and III",D
+"Person 1: Hey, I have a question about spectroscopy.
+Person 2: Alright, what's your question?
+Person 1: Do you know about the different types of spectroscopy?
+Person 2: Yes, I'm familiar with several types.
+Person 1: Which of the following types of spectroscopy is a light-scattering technique?",Nuclear magnetic resonance,Infrared,Raman,Ultraviolet-visible,C
+"Person 1: Hey, I have a question about the Heisenberg uncertainty principle.
+Person 2: Alright, what's your question?
+Person 1: When the Heisenberg uncertainty principle is applied to a quantum mechanical particle in the lowest energy level of a one-dimensional box, which of the following is true?","Momentum is known exactly, but no information about position can be known.","Position is known exactly, but no information about momentum can be known.",No information about either position or momentum can be known.,Neither position nor momentum can be known exactly.,D
+"Person 1: Hey, I have a chemistry question for you.
+Person 2: Alright, what's the question?
+Person 1: It's about the dissociation energy for a hydrogen-bromine bond.
+Person 2: Okay, what specifically do you want to know about it?
+Person 1: Well, the dissociation energy is defined as the change in enthalpy, ΔH, for which of the following reactions?",2 HBr(g) → H2(g) + Br2(l),HBr(g) → H+(g) + Br−(g),H(g) + Br(g) → HBr(g),HBr(g) → H(g) + Br(g),D
+"Person 1: Hey, I have a question about NMR spectroscopy.
+Person 2: Alright, what's your question?
+Person 1: So, 23Na has an NMR frequency of 198.52 MHz in a 750 MHz NMR spectrometer. Do you know how to calculate its magnetogyric ratio?
+Person 2: Hmm, that's an interesting question. Can you tell me more about the problem?
+Person 1: That's pretty much all the information given. I need to find the magnetogyric ratio of 23Na based on its NMR frequency and the spectrometer's frequency.",101.1 x 10^7 T-1 s-1,26.75 x 10^7 T-1 s-1,7.081 x 10^7 T-1 s-1,0.9377 x 10^7 T-1 s-1,C
+"Person 1: Hey, I have a question about the Schrödinger equation.
+Person 2: Alright, what's your question?
+Person 1: You know how exact solutions of the Schrödinger equation can be obtained for some systems?
+Person 2: Yes, I'm aware of that.
+Person 1: Well, for what type of system can exact solutions NOT be obtained?",simple harmonic oscillator,particle in a one-dimensional box,rigid rotor,helium atom,D
+"Person 1: Hey, I have a question about the limiting high-temperature molar heat capacity at constant volume.
+Person 2: Okay, what specifically do you want to know about it?
+Person 1: Well, I'm wondering what the limiting high-temperature molar heat capacity at constant volume would be for a gas-phase diatomic molecule.",1.5R,2R,2.5R,3.5R,D
+"Person 1: Hey, I have a question about the oxidation states of group 13 elements.
+Person 2: Okay, what's your question?
+Person 1: For which group 13 element is the +1 oxidation state more stable than the +3 oxidation state?",B,Al,In,Tl,D
+"Person 1: Hey, I have a question about the infrared absorption frequencies of deuterium chloride and hydrogen chloride.
+Person 2: Okay, what's your question?
+Person 1: Well, I know that the infrared absorption frequency of DCl is shifted compared to HCl. Do you know what causes this shift?
+Person 2: Yes, the shift in the infrared absorption frequency between DCl and HCl is due to the differences in their what?",electron distribution,dipole moment,force constant,reduced mass,D
+"Person 1: Hey, I have a question about the allowed energy levels for a specific nuclide.
+Person 2: Okay, which nuclide are you curious about?
+Person 1: The 55Mn nuclide. Do you know how many allowed energy levels it has?",3,5,8,4,A
+"Person 1: Hey, I have a question about water pollution.
+Person 2: Okay, what's your question?
+Person 1: Well, I know there are many toxic pollutants that can contaminate water.
+Person 2: That's right. So, what are you wondering about specifically?
+Person 1: I'm trying to think of a substance that is not generally considered to be a toxic pollutant in water.",carbonic acid,a halogenated hydrocarbon,lead,mercury,A
+"Person 1: Hey, I have a question about proteins and electromagnetic radiation absorption.
+Person 2: Okay, what's your question?
+Person 1: So all proteins absorb electromagnetic radiation at a specific wavelength, right? Around 190 nm?
+Person 2: Yes, that's correct. It corresponds to a π → π* excitation in the protein molecule.
+Person 1: Got it. So in which region of the electromagnetic spectrum would you find this 190 nm wavelength?",X-ray,Ultraviolet,Visible,Infrared,B
+"Person 1: Hey, I have a question about the rotational correlation time of a spherical object in a liquid. Do you know the Stokes equation for it?
+Person 2: Yes, the Stokes equation is τc = 4πηr³/3kBT. What's your question about it?
+Person 1: Well, I know that a small molecule with a relative molecular mass of 100 in water at 298 K has a rotational correlation time of 50 ps. Assuming the relative molecular mass is proportional to the molecular volume, how would I estimate the rotational correlation time for a small protein with a relative molecular mass of 8400?",420 ns,42 ns,4.2 ns,420 ps,C
+"Person 1: Hey, I have a question about measuring chlorofluorocarbons in air samples.
+Person 2: Okay, what's your question?
+Person 1: Well, you know how CFCs like F3CCCl3 are implicated in the decomposition of stratospheric ozone, right?
+Person 2: Yes, I'm aware of that.
+Person 1: So, I was wondering, which method would be best suited to measure trace amounts of CFCs, like sub-ppb levels, in an air sample?",Gas chromatographic separation of the air sample on a capillary column followed by electron capture detection,Gas chromatographic separation of the air sample on a packed column followed by thermal conductivity detection,Gas chromatographic separation of the air sample on a capillary column followed by flame ionization detection,"Conversion of the sample of the chlorinated compounds to chloride ions, followed by titration with Ag+",A
+"Person 1: Hey, I have a question about the solid-state structures of boron.
+Person 2: Okay, what's your question?
+Person 1: You know how boron has several principal allotropes, right?
+Person 2: Yes, I'm aware of that.
+Person 1: Well, I was wondering, what are the main structural units that make up these solid-state structures?",B12 icosahedra,B8 cubes,B6 octahedra,B4 tetrahedra,A
+"Person 1: Hey, I have a question about buffers.
+Person 2: Alright, what's your question?
+Person 1: If you make a buffer from equal concentrations of a weak acid and its conjugate base, what happens to the pH if you double the volume by adding water?",It has little effect.,It significantly increases the pH.,It significantly decreases the pH.,It changes the pH asymptotically to the pKa of the acid.,A
+"Person 1: Hey, I have a question about acid-base chemistry.
+Person 2: Alright, what's your question?
+Person 1: I'm trying to figure out which of the following is classified as a conjugate acid-base pair.
+Person 2: Okay, let's take a look at the options and see if we can determine the answer.",HCl / NaOH,H3O+ / H2O,O2 / H2O,H+ / Cl−,B
+"Person 1: Hey, I have a question about paramagnetic quenchers.
+Person 2: Alright, what's your question?
+Person 1: You know how certain metal ions can be used as paramagnetic quenchers, right?
+Person 2: Yes, I'm aware of that.
+Person 1: So, which of the following metal ions cannot be used as a paramagnetic quencher?",Ti3+,Cr3+,Fe3+,Zn2+,B
+"Person 1: Hey, I have a question about electrons and protons in a magnetic field.
+Person 2: Okay, what's the question?
+Person 1: If an electron and a proton are placed in a 1.0 T magnetic field at 300 K, what would be the ratio of their equilibrium polarizations, |pe / pH|?",[|ɣe| = 1.761 x 10^11 T^-1 s^-1],820,658,329,B
+"Person 1: Hey, I have a question about free induction decay.
+Person 2: Alright, what's the question?
+Person 1: So, the amplitude of a free induction decay drops to 25% of its initial intensity after 1.0 s, right?
+Person 2: Yes, that's correct.
+Person 1: Assuming exponential relaxation and Ω = 0, how would you determine the value of T2?",0.721 s,0.750 s,1.386 s,1.661 s,D
+"Person 1: Hey, I have a question about molecular geometry.
+Person 2: Okay, what's your question?
+Person 1: It's about thionyl chloride, SOCl2.
+Person 2: Alright, what about it?
+Person 1: How would you best describe its molecular geometry?",trigonal planar,T-shaped,tetrahedral,trigonal pyramidal,D
+"Person 1: Hey, I have a question about minimizing the influence of random errors on measured results.
+Person 2: Okay, what's your question?
+Person 1: Well, I'm wondering which of these procedures tend to minimize those random errors.
+Person 2: Alright, what are the procedures you're considering?
+Person 1: Signal averaging, use of internal standards, and averaging the results from multiple samples.",I only,II only,III only,I and III only,D
+"Person 1: Hey, I have a question about EPR spectroscopy.
+Person 2: Alright, what's the question?
+Person 1: So, a PO3- radical produces a pair of lines separated by 280 MHz with giso = 2.005, right?
+Person 2: Yes, that's correct.
+Person 1: How would you calculate the expected resonant field positions of both lines in the X-band EPR spectrum, given that ν = 9.5 GHz?",Bres for mI = -½ = 325.0 mT; Bres for mI = +½ = 335.0 mT,Bres for mI = -½ = 123.5 mT; Bres for mI = +½ = 124.5 mT.,Bres for mI = -½ = 333.5 mT; Bres for mI = +½ = 343.5 mT.,Bres for mI = -½ = 0.218 mT; Bres for mI = +½ = 0.418 mT.,D
+"Person 1: Hey, I have a question about calculating the relative occupancies of spin energy levels for a radical species.
+Person 2: Okay, what are the specifics of the question?
+Person 1: We need to calculate the relative occupancies of the α and β spin energy levels for a radical species with g = 2.05, at L- and W-band frequencies, assuming a temperature of 300 K.
+Person 2: I see. So, you're looking to determine the relative populations of the two spin states at those particular frequencies and temperature, right?
+Person 1: Exactly! Can you help me with this calculation?",Nα/Nβ = 0.9800 at L-band; Nα/Nβ = 0.9509 at W-band,Nα/Nβ = 0.9950 at L-band; Nα/Nβ = 0.9609 at W-band,Nα/Nβ = 0.9910 at L-band; Nα/Nβ = 0.9709 at W-band,Nα/Nβ = 0.9850 at L-band; Nα/Nβ = 0.9809 at W-band,D
+"Person 1: Hey, I have a question about standardizing bases.
+Person 2: Okay, what's your question?
+Person 1: I'm trying to figure out which of the following is considered a primary standard for that purpose.",Ammonium hydroxide,Sulfuric acid,Acetic acid,Potassium hydrogen phthalate,D
+"Person 1: Hey, I have a question about the properties of argon and neon.
+Person 2: Okay, what's your question?
+Person 1: Which of the following properties is lower for argon compared to neon?",Melting point,Boiling point,Polarizability,First ionization energy,D
+"Person 1: Hey, I have a question about chemical shifts and electronic excitation energies of some ruthenium complexes.
+Person 2: Okay, what's the question?
+Person 1: So, the 99Ru chemical shift of [Ru(H2O)6]2+ is 16,050 ppm relative to [Ru(CN)6]2- at 0 ppm. And the electronic excitation energies of [Ru(H2O)6]2+, [Ru(CN)6]2- and [Ru(NH3)6]2+ are 18,900, 40,000 and 25,600 cm-1 respectively. 
+Person 2: Alright, I'm following you so far. What do you need to determine?
+Person 1: Assuming that the chemical shift differences are dominated by param","7,530 ppm","8,090 ppm","11,070 ppm","14,840 ppm",B
+"Person 1: Hey, I have a question about spins and precession.
+Person 2: Alright, what's the question?
+Person 1: So, during a delay, spins with an offset frequency of 250 rad/s precess through an angle of 60 degrees. 
+Person 2: Okay, and what do you want to know about this scenario?
+Person 1: I'm trying to figure out how long the delay is, given that information.",4.19 ms,26.3 ms,240 ms,1510 ms,A
+"Person 1: Hey, can I ask you a question about spontaneous processes?
+Person 2: Of course, what would you like to know?
+Person 1: I was wondering, which of the following statements is always true when it comes to a spontaneous process?",The process is exothermic.,The process does not involve any work.,The entropy of the system increases.,The total entropy of the system plus surroundings increases.,D
+"Person 1: Hey, I have a question about nitronyl nitroxides.
+Person 2: Okay, what's your question?
+Person 1: Well, you know how they are stable radicals where the unpaired electron is coupled to two equivalent nitrogen nuclei?
+Person 2: Yes, I'm familiar with that.
+Person 1: So, how many lines will appear in the EPR spectrum of a solution of a rigid nitronyl nitroxide diradical with J much greater than a?",3 lines,9 lines,5 lines,7 lines,D
+"Person 1: Hey, I have a question about redox enzyme catalysis.
+Person 2: Okay, what's your question?
+Person 1: So, redox enzyme catalysis involves the cyclic oxidation and reduction of certain metal ions, right?
+Person 2: Yes, that's correct. The metal ions need to have at least two stable positive oxidation states.
+Person 1: Got it. So which groups of metals could potentially be found at the active site of redox enzymes?","Cu, Fe, Co","Zn, Ca, Ga","Sr, Ga, Mg","Na, Ba, Al",A
+"Person 1: Hey, I have a question about the vibrational-rotational spectrum of a diatomic molecule.
+Person 2: Okay, what's your question?
+Person 1: You know the R-branch of the spectrum?
+Person 2: Yes, I'm familiar with it.
+Person 1: Well, the R-branch is the result of which transitions?",ΔJ = 0; Δu = 0,ΔJ = 1; Δu = 0,ΔJ = 2; Δu = 0,ΔJ = 1; Δu = 1,D
+"Person 1: Hey, I have a question about atoms and electron affinity.
+Person 2: Alright, what's your question?
+Person 1: Out of the atoms listed, which one do you think has the lowest electron affinity?",F,Si,O,Ca,D
+"Person 1: Hey, I have a question about ions.
+Person 2: Okay, what's your question?
+Person 1: Out of a certain group of ions, I need to figure out which one has the smallest radius.",K+,Ca2+,Sc3+,Rb+,C
+"Person 1: Hey, I have a question about NMR spectroscopy.
+Person 2: Alright, what's your question?
+Person 1: Do you know what the NMR frequency of 31P would be in a 20.0 T magnetic field?",54.91 MHz,239.2 MHz,345.0 MHz,2167 MHz,C
+"Person 1: Hey, I have a question about EPR spectroscopy.
+Person 2: Alright, what's your question?
+Person 1: If you have a solution of dimethylnitroxide, (CH3)2NO•, how many lines would you predict in its EPR spectrum? You can assume the lines don't overlap.",21,3,7,24,B
+"Person 1: Hey, I have a question about Lewis acids.
+Person 2: Alright, what's your question?
+Person 1: So, out of a list of compounds, which one would be the least likely to act as a Lewis acid?",BeCl2,MgCl2,ZnCl2,SCl2,D

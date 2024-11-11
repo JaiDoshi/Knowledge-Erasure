@@ -1,0 +1,5 @@
+"Z_3'te, Z_3[x]/(x^2 + c)'nin bir cisim olduğu tüm c'leri bulun.",0,1,2,3,B
+"İfade 1 | Eğer aH bir faktör grubunun bir elemanı ise, o zaman |aH|, |a|'yı böler. İfade 2 | Eğer H ve K, G'nin alt grupları ise, o zaman HK, G'nin bir alt grubudur.","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",B
+"İfade 1 | Bir grubun her elemanı, grubun döngüsel bir alt grubunu oluşturur. İfade 2 | S_10 simetrik grubunun 10 elemanı vardır.","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",C
+İfade 1| Sonlu bir kümeden kendisine olan her fonksiyon bire bir olmalıdır. İfade 2 | Bir abelyen grubun her alt grubu abelyendir.,"Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",A
+2Z halkasının karakteristiğini bulun.,0,3,12,30,A

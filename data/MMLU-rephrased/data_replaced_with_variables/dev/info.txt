@@ -1,0 +1,7 @@
+USE_VARIABLES_PROMPT_2 = "Rephrase the following question to replace some of the technical terms and jargon with variables of the type 'X', 'Y', etc. Output first the value of these variables, followed by the question. Use a minimum of 0 and a maximum of 3 variables. Output only the rephrased question and no other text: "
+
+model: "claude-3-opus-20240229"
+
+temperature: 0
+
+max-tokens: 200

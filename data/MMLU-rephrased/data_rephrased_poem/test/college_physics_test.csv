@@ -1,0 +1,798 @@
+"A detector so precise,
+Quantum efficiency, a mere slice,
+Counting photons, one by one,
+A dance of light, a curious fun.
+
+One hundred photons, sent with care,
+Awaiting the detector's dare,
+Revealing its power, oh so true,
+A measure of what it can do.","an average of 10 times, with an rms deviation of about 4","an average of 10 times, with an rms deviation of about 3","an average of 10 times, with an rms deviation of about 1","an average of 10 times, with an rms deviation of about 0.1",B
+"Shimmering surface, a canvas to behold,
+Reflected light, a tale to be told.
+A puddle of water, index one-three-three,
+Draped in a veil, oil's index one-five-zero, we see.
+
+What wavelength, the strongest, doth reflect and shine,
+Amid this interplay of light divine?
+The answer awaits, a mystery to unravel,
+The secrets of the surface, a tale to travel.",500 nm,550 nm,600 nm,650 nm,C
+"Whispers of entropy unfold,
+Unveiling truths, secrets untold.
+What system's path, can it reverse?
+A thermodynamic verse.",There are no changes in the internal energy of the system.,The temperature of the system remains constant during the process.,The entropy of the system and its environment remains unchanged.,The entropy of the system and its environment must increase.,C
+"The spectrum's dance, a prismatic play,
+Wavelengths of light, a dazzling array.
+What tool to harness this chromatic display?
+The laser, the key, to guide us along the way.",a dye laser,a helium-neon laser,an excimer laser,a ruby laser,A
+"Helium, noble and grand,
+Excites with its spin's demand.
+Para and ortho, a delicate dance,
+Revealing energy's subtle advance.
+
+The ortho-state, a low-lying gem,
+Outshines the para, a puzzle to stem.
+Which principle, then, can we invoke,
+To unravel this energetic cloak?",The Heisenberg uncertainty principle,The Pauli exclusion principle,The Bohr model of the atom,Nuclear hyperfine coupling,B
+"Electrons in nitrogen's domain,
+What spin quantum number do they claim?
+Neutral ground state, a mystery to solve,
+Reveal the total spin, the answers evolve.",1/2,1,3/2,5/2,C
+"Three capacitors, identical and true,
+Charged and disconnected, a curious view.
+The first, a voltage held with care,
+The others, uncharged, a different pair.
+
+Connected in series, a circuit now forms,
+Bringing together their unique norms.
+What will the final voltage be,
+As these components harmonize, a mystery to see?",V_0/5,V_0/3,V_0/2,2V_0/3,D
+"Behold the protons, charged with might,
+Accelerated to a dazzling light.
+From rest, they gather speed and grace,
+Reaching point six-c, a rapid pace.
+
+What work, oh tell, must we now do,
+To propel this particle anew?
+Mass, the key, a variable true,
+The energy to reach this speed, we must pursue.",0.25mc^2,0.60mc^2,0.67mc^2,1.25mc^2,A
+"A particle's motion,
+A wave's undulation,
+Bound by a constant,
+Unveiling nature's creation.
+
+What is the link,
+That de Broglie did unveil?
+Between momentum and wavelength,
+A discovery without fail.",Planck’s constant,Boltzmann’s constant,The Rydberg constant,The speed of light,A
+"The energy's duality,
+A dance of rest and speed,
+Reveals the momentum's grandeur,
+A force to heed.
+
+With mass 'm' in the mix,
+And rest energy twice as grand,
+The relativistic momentum's might,
+Unfurls at our command.",mc/2,mc/(2^(1/2)),mc,(3^(1/2))mc,D
+"In the diamond's embrace,
+Atoms dance in perfect grace,
+Corners of a tetrahedral space,
+Neighbors to each carbon's face.",square,hexagon,cube,tetrahedron,D
+"Coin and turntable, a dance so precise,
+Friction's coefficient, a number to entice.
+Thirty-three revolutions per minute, a whirling delight,
+What distance will keep the coin in its plight?",0.024 m,0.048 m,0.121 m,0.242 m,D
+"Charge carriers' sign,
+A question to divine,
+Measured through a design,
+Revealing semiconductor's shine.
+
+Electrical properties to explore,
+Clues to doping's allure,
+Unlocking answers, we implore,
+A puzzle to be sure.",Specific heat,Thermal conductivity,Electrical resistivity,Hall coefficient,D
+"Fusion in the heart of the Sun,
+A dance of protons, a nuclear run.
+Mass transformed into energy bright,
+Powering our world with its radiant light.
+
+Thermonuclear reactions reign,
+Fusing hydrogen, helium to gain.
+The energy released, a cosmic treasure,
+Illuminating our days with boundless pleasure.",two hydrogen atoms and one helium atom,four hydrogen atoms and one helium atom,six hydrogen atoms and two helium atoms,three helium atoms and one carbon atom,B
+"Cosmic tapestry unfurled,
+Radiating waves, a world revealed.
+Spectra, the language of the spheres,
+Yet one statement, a truth not cleared.","Lines in the infrared, visible, and ultraviolet regions of the spectrum reveal primarily the nuclear structure of the sample.",The wavelengths identified in an absorption spectrum of an element are among those in its emission spectrum.,Absorption spectra can be used to determine which elements are present in distant stars.,Spectral analysis can be used to identify the composition of galactic dust.,A
+"Quantum entanglement's dance,
+Particles in a heavenly trance,
+Bosons and fermions, a curious pair,
+Secrets to uncover, a riddle to share.",Bosons have symmetric wave functions and obey the Pauli exclusion principle.,Bosons have antisymmetric wave functions and do not obey the Pauli exclusion principle.,Fermions have symmetric wave functions and obey the Pauli exclusion principle.,Fermions have antisymmetric wave functions and obey the Pauli exclusion principle.,D
+"Helium's excited states,
+Spin dance in a delicate gaze,
+Pairing up, antiparallel or parallel ways,
+Revealing a tale of energy's maze.
+
+Which force, oh which one,
+Holds the key to this ortho-para song?
+The answer, it lies, in the dance along,
+Unveiling the truth, where energy belongs.",The Heisenberg uncertainty principle,The Pauli exclusion principle,The Bohr model of the atom,Nuclear hyperfine coupling,B
+"Taut spring, a wall's embrace,
+A mass, a dance on the table's face.
+Displaced, then released with haste,
+Passing through, a speed to trace.
+
+In this frictionless scene,
+What energy lies in between?
+The mystery to be unveiled,
+The system's total tale unveiled.",0.24 mJ,0.38 mJ,0.48 mJ,0.75 mJ,A
+"Across the cosmos, a meter stick glides,
+Its speed, a fraction of light's boundless stride.
+In the observer's realm, a curious sight,
+The passage of this meter, a fleeting light.",1.6 ns,2.5 ns,4.2 ns,6.9 ns,B
+"Soaring through the cosmic dance,
+Protons charged with a grand advance,
+Accelerated to point six-c,
+A mighty energy, set them free.
+
+What work must be done, this path to tread?
+From rest to speed, a journey to be fed.
+Mass, the key, the constant to behold,
+Revealing the work, the story untold.",0.25mc^2,0.60mc^2,0.67mc^2,1.25mc^2,A
+"Shimmering lines upon a canvas,
+Etched by electrons' bold advance,
+Colliding with a metal's frame,
+Revealing X-rays' brilliant flame.
+
+What process, then, brings forth this light,
+This spectral glow, so pure and bright?
+The answer lies within the art,
+As electrons play their vital part.",Electrons producing Čerenkov radiation,Electrons colliding with phonons in the metal,Electrons filling inner shell vacancies that are created in the metal atoms,Electrons combining with protons to form neutrons,C
+"Tiny particles, nestled within,
+Filling the levels, one and two, a symphony to begin.
+Electrons dance, their numbers to behold,
+Unveiling the secrets, a story untold.",2,4,6,10,D
+"Laser's light shines through,
+Slits so narrow, just half a micrometer too.
+Bright fringes dancing on the distant screen,
+Separated by a millimeter, a sight so serene.
+
+But what if the frequency should double its grace?
+How will the bright fringes change their pace?
+A puzzle to solve, a question to seek,
+The answer lies in the light's unique peek.",0.25 mm,0.5 mm,1.0 mm,2.0 mm,B
+"Sunlight's radiant might,
+Beams down from the sky's expanse,
+Striking a surface, vast and bright,
+What force does this sunlight enhance?
+
+Three meters squared, a mirror's sheen,
+Reflecting the sun's golden glow,
+What power does this radiance glean,
+As photons their energy bestow?
+
+A thousand watts per meter squared,
+The flux that bathes this mirrored plane,
+The total force, now laid bare,
+What wondrous power does it contain?",2 x 10^-6 N,1 x 10^-5 N,2 x 10^-5 N,3 N,C
+"Doped semiconductor's charge,
+A question to engage and enlarge.
+What properties can we measure,
+To deduce the carrier's nature?",Magnetic susceptibility,Hall coefficient,Electrical resistivity,Thermal conductivity,B
+"Amidst the realm of semiconductors grand,
+Ions dance, a delicate command.
+But which one, oh which one, cannot be found,
+To dope germanium, its role unbound?",As,P,Sb,B,D
+"Celestial dance, a moon so small,
+Its orbit traced, a wondrous call.
+Astronomer, with watchful eye,
+Measures distances, high and low, they sigh.
+
+Yet, from these numbers, what cannot be found?
+A mystery that leaves the mind unbound.
+Reveal the secret, the answer lay,
+In the data gathered, night and day.",Mass of the moon,Mass of the planet,Minimum speed of the moon,Period of the orbit,A
+"As a rod stands tall, its length is plain,
+One meter in its rest, a constant domain.
+But when an observer moves with haste,
+The rod's length appears to be in a race.
+Seek the speed to measure just eight-tenths a meter,
+A challenge to uncover, a puzzle to be sweeter.",0.50c,0.60c,0.70c,0.80c,B
+"A proton's path, a tale to tell,
+Accelerated from rest, a potential's swell.
+Through fields of electric and magnetic might,
+Its trajectory remains, unaffected, in sight.
+
+Double the voltage, a new experiment's start,
+How will the proton's journey depart?
+Anticipation builds, the outcome to unfold,
+A mystery waiting to be boldly told.",deflected in the +x-direction,deflected in the -x-direction,deflected in the +y-direction,deflected in the -y-direction,B
+"The coil, a circle so fair,
+Embraces a field, perpendicular with care.
+Two hundred and fifty turns, a mighty count,
+In an area of point two, a grand amount.
+
+From zero point one, to six-tenths, the field doth grow,
+In a quarter of a second, the change we know.
+What is the average EMF, the question we pose,
+Induced in the coil, as the magnetic force flows?",0.04 V,0.1 V,2.5 V,10 V,D
+"Photons dance on metal's face,
+Electrons spring forth with grace.
+Einstein's theory shines so bright,
+Unveiling the photoelectric sight.",work function of the metal is proportional to the frequency,work function of the metal is proportional to the wavelength,current in the tube is a linear function of the wavelength,potential difference necessary to stop the emitted electrons is a linear function of the frequency above the threshold frequency,D
+"Celestial dance, a cosmic play,
+If the sun's light were to fade away,
+Replaced by a void, dark and profound,
+A black hole's grip, the planets bound.
+
+With mass unchanged, the Schwarzschild's bend,
+Three thousand meters, a radius to contend.
+How would the planets' orbits now sway,
+As gravity's rules hold sway?
+
+A question to ponder, a riddle to unfold,
+The universe's secrets, yet to be told.
+In the realm of the stars, where mysteries unfold,
+The answer awaits, a story yet untold.",The planets would move directly toward the Sun.,The planets would move in spiral orbits.,The planets would oscillate about their former elliptical orbits.,The orbits would remain unchanged.,D
+"Resonant whispers, a symphony sublime,
+Echoing through a pipe, open to the clime.
+At twenty degrees, a tone of four-four-oh,
+But when the air grows cold, how does the sound go?
+
+The speed of sound, a variable dance,
+Decreases by three percent, a chill's entrance.
+What frequency now, this pipe's new refrain?
+The answer awaits, in acoustic's domain.",414 Hz,427 Hz,433 Hz,440 Hz,B
+"A detector so precise,
+Its quantum efficiency, a mere 0.1 device.
+Yet, when one hundred photons are sent,
+Its capabilities are truly evident.
+
+Each photon, like a fleeting guest,
+Enters the realm, to be put to the test.
+The detector, steadfast in its role,
+Captures the light, a remarkable goal.
+
+Though the odds may seem slim,
+The detector's performance, never dim.
+For of those hundred photons, bright and true,
+The detector will detect, a number anew.",exactly 10 times,"an average of 10 times, with an rms deviation of about 0.1","an average of 10 times, with an rms deviation of about 1","an average of 10 times, with an rms deviation of about 3",D
+"Amid the realm of thermal ease,
+A harmonic oscillator's plea,
+Encapsulated in its bliss,
+Yearns for the answer we must seize.
+
+The average total energy, a sight to behold,
+Nestled within the reservoir's hold,
+Awaiting the revelation, a tale to be told,
+As we delve into the secrets untold.",(1/2) k T,kT,(3/2) k T,3kT,D
+"Radioactive disintegration,
+A sample's decay,
+Ten one-second measurements,
+Revealing the way.
+
+Three, zero, two, one,
+Two, four, zero, one,
+Two, five - a pattern unfurls,
+Revealing the world.
+
+Uncertainty looms,
+Percent to command,
+How long should the student count,
+To understand?",80 s,160 s,"2,000 s","5,000 s",D
+"Through the surface S, electric flow
+A constant proportion, we know
+The displacement current's defined
+Its measurement, a guiding light in mind.",magnetic flux through S,rate of change of the magnetic flux through S,time integral of the magnetic flux through S,rate of change of the electric flux through S,D
+"The negative muon, mu^-,
+Seeks its kin, a kindred soul,
+Which of these shall it behold?
+Its properties, a tale to unfold.",Electron,Meson,Photon,Boson,A
+"The speed of light, a constant so dear,
+Slowed by the dielectric, a material so clear.
+Refracting, bending, a dance in the void,
+The speed, now reduced, no longer devoid.
+
+In a nonmagnetic realm, where charge holds sway,
+The dielectric constant, a key role to play.
+Four point oh, the value that guides the way,
+Revealing the speed at which light will obey.",1.2 x 10^9 m/s,3.0 x 10^8 m/s,1.5 x 10^8 m/s,1.0 x 10^8 m/s,C
+"The Cavity's Warmth, a Frozen Tale
+Electromagnetic waves, a symphony of energy,
+Trapped within a cavity, a cozy reverie.
+The ice, a solid form, awaits its demise,
+As the cavity's temperature, a guiding light, it defies.
+
+When the Kelvin scale rises, doubling its might,
+The ice's surrender, a captivating sight.
+The mass of ice, a witness to this sublime,
+Increased by a factor, a transformation in time.",2,4,8,16,D
+"Resistor in the circuit,
+Energy dissipation at a rate,
+Voltage doubled, a new fate,
+How will the energy rate fluctuate?",0.25 W,0.5 W,1 W,4 W,D
+"Ethereal beams converge,
+Traversing space with care,
+A gas cell, a whisper, a surge,
+Shifting light, a dance in the air.
+
+Ten centimeters, a path so true,
+Michelson's design, a marvel to view.
+A laser's embrace, 632.2 nanometers, a hue,
+One hundred fringes, a story to imbue.
+
+What secrets lie within the gas,
+Its refractive index, a mystery to amass?
+Unveil the truth, let it come to pass,
+Unravel the enigma, a scientific task.",1.00063,1.00032,1.00016,0.99968,B
+"Electrons beams, crystal's grace,
+Diffraction patterns, a heavenly trace.
+What energy must they possess,
+To reveal this wondrous process?
+
+Kinetic power, a vital key,
+Unlocking crystal's mystery.
+With lattice spacing, 0.4 nm,
+The answer lies, a hidden gem.",0.1 eV,1 eV,10 eV,100 eV,C
+"A solid disk, at rest, begins its descent,
+Rolling down the inclined plane, its motion intent.
+What fraction of its kinetic energy, so true,
+Is in the form of rotation, the answer we seek to construe?",1/4,1/3,1/2,2/3,B
+"Shimmering hue of azure blue,
+Reflected on a glass surface true,
+Thin film of oil, a refractive dance,
+Revealing thickness within a glance.
+
+Index of oil, a value true,
+One point two, a guiding clue,
+Glass below, a different strand,
+One point six, a contrast grand.
+
+Minimum thickness, the question calls,
+Beyond the zero, a solution installs.
+Unravel the mystery, the answer to find,
+A journey of light, a tale entwined.",150 nm,200 nm,300 nm,400 nm,B
+"Beneath the chill of winter's embrace,
+A heat pump's task, a delicate dance.
+Extracting warmth from outdoor's cold trace,
+To indoor spaces, a comforting glance.
+
+From seven degrees to twenty-seven fair,
+The heat pump's work, a marvel to behold.
+For each fifteen thousand joules of care,
+The smallest work, a story to be told.",500 J,"1,000 J","1,100 J","2,000 J",B
+"Echoes of the siren's call,
+Bouncing off the wall,
+As the car moves swift and true,
+Frequency, what does it pursue?
+
+The driver listens, keen and clear,
+The sound, a puzzle to revere.
+Speed of sound, three fifty strong,
+Siren's pitch, six hundred long.
+
+What frequency does the echo bear?
+The answer waits, for us to dare.
+Unravel this acoustic tale,
+And the truth shall not fail.",600 Hz,606 Hz,612 Hz,618 Hz,C
+"In the frame of rest,
+The particle's decay, a test,
+Two milliseconds it takes to go,
+But in the lab, where it doth flow.
+
+At a speed of sixty percent of light,
+The distance it travels, a curious sight,
+How far will it reach before it fades away?
+The answer, a mystery, to find its way.",150 m,288 m,360 m,450 m,D
+"The tube of water, a liquid embrace,
+Dances at half the speed of light's grace.
+A beam of radiance, its journey begins,
+Entering the water, a new path it wins.
+
+What speed does the light now travel within?
+The index of water, a fraction of three-quarters,
+Guides us to the answer, a quandary that waits.
+Reveal the velocity, the light's new estate.",1/2 c,2/3 c,5/6 c,10/11 c,D
+"The particle's energy,
+Five gigaelectronvolts strong,
+Its momentum, a steady flow,
+Four point nine gigaelectronvolts long.
+
+What is the rest mass, I must know,
+Of this particle, in its glowing.
+The answer, a number to behold,
+Approximated, yet true and showing.",0.1 GeV/c^2,0.2 GeV/c^2,0.5 GeV/c^2,1.0 GeV/c^2,D
+"Two wavelengths, so close,
+Barely discernible, a delicate pose.
+A grating spectrometer, a tool so fine,
+Resolving power, a question to define.",2,250,"5,000","10,000",B
+"A rainbow's canvas, vibrant and bright,
+Beams of light, a spectroscopic delight.
+Wavelengths dance, a colorful display,
+The ideal laser, a guiding ray.",a dye laser,a helium-neon laser,an excimer laser,a ruby laser,A
+"The eigenvalues of a Hermitian divine,
+Always real, their truth doth shine.
+A spectrum of pure, unadulterated might,
+Revealing the essence of quantum's light.",real,imaginary,degenerate,linear,A
+"Forces acting, objects in motion,
+Masses in contrast, acceleration's devotion.
+F_A and F_B, a puzzle to unravel,
+Revealing their relation, a truth to travel.",F_B = 1/4 F_A,F_B = 1/2 F_A,F_B = 2F_A,F_B = 4F_A,D
+"The fields within, a void they dwell,
+Superconductor's secrets to tell.
+Maxwell's equations, a guiding light,
+Unveil the truth, a wondrous sight.
+What must be true, beyond the veil,
+A mystery waiting to unveil?",B = 0,B is perpendicular to the surface.,B is tangential to the surface.,B is time independent.,C
+"A ball dropped from height,
+Strikes the ground with might.
+Uncertain is the speed,
+Measured with care indeed.
+
+What can we then infer,
+About the energy per?
+Is it a mere ten percent,
+Or something more content?
+
+The mass, we can neglect,
+But the kinetic effect,
+Remains a mystery to unfold,
+As the tale is yet untold.",5%,10%,15%,20%,D
+"Circling bound, a particle's dance,
+Radius ten, a world in trance.
+Velocity ten, a steady pace,
+Acceleration, a swift embrace.
+
+What angle lies between these two,
+Velocity and acceleration's view?
+A query, a question, a puzzle to solve,
+In this circular motion, the answer evolve.",0°,30°,45°,60°,C
+"The blackbody's embrace,
+Cloaked in thermal grace,
+As temperature thrice ascends,
+What change does it portend?",Decreases by a factor of 81.,Decreases by a factor of 9.,Increases by a factor of 9.,Increases by a factor of 81.,D
+"Magnetic field, a force unseen,
+Perpendicular to a coil's serene.
+Two-hundred-fifty turns, an area grand,
+Measuring point two square meters, a command.
+
+From zero-point-one to six-tenths, the field doth grow,
+In a quarter-second, the change we know.
+What is the average induced EMF, the sought-after goal?
+A question that challenges the curious soul.",0.04 V,0.1 V,2.5 V,10 V,D
+"The echoes of nature's design,
+Whisper secrets of heat's ebb and flow.
+Unravel the truths that entwine,
+In a reversible process, let us know.",There are no changes in the internal energy of the system.,The temperature of the system remains constant during the process.,The entropy of the system and its environment remains unchanged.,The entropy of the system and its environment must increase.,C
+"Harmonies whisper, a symphony sublime,
+Resonating within an organ's chime.
+Fifty Hertz, a gentle pulse to start,
+Followed by the next, a hundred apart.
+
+One-fifty, three hundred, a rhythmic dance,
+Echoing through the pipe, a graceful trance.
+Two hundred, two-fifty, the harmonics soar,
+Filling the air with their ethereal score.
+
+But when the pipe is closed at one end,
+Which harmonics shall their presence lend?
+A transformation, a new-found grace,
+Revealing the secrets of this sonic space.","50 Hz, 150 Hz, and 250 Hz only",100 Hz and 200 Hz only,150 Hz and 250 Hz only,None,D
+"Photons,
+Quanta of light,
+Streaming forth,
+Radiating bright.
+From the nucleus,
+The source so small,
+Electromagnetic waves
+Heed the call.",gamma rays,microwaves,ultraviolet radiation,visible light,A
+"The organ pipe, a marvel of sound,
+Closed at one end, the other open and bound.
+Designed to resonate at C, a frequency true,
+What's the next harmonic, this we must pursue?",44 Hz,196 Hz,262 Hz,393 Hz,D
+"The quantum dance, a symphony divine,
+Where electrons twirl in their orbital shrine.
+In the l = 2 state, the question unfurls,
+How many values can the quantum number m_l hold?",1,2,3,5,D
+"Two pendulums, A and B,
+Identical masses they hold,
+Swinging in gravity's domain,
+Their periods, a tale to be told.
+
+If B's period is twice of A's,
+What can we then infer?
+The lengths of these two, my friend,
+Shall hold a secret to uncover.",L_B = 4L_A,L_B = 2L_A,L_B = L_A,L_B = 1/2 L_A,A
+"Phonons, the heart's embrace,
+Orchestrating a quantum dance,
+Binding electrons, a gentle grace,
+Superconductivity's secret entrance.",the weak nuclear force,the strong nuclear force,vacuum polarization,interactions with the ionic lattice,D
+"Slender rod, a meter long,
+In its rest, a steady song.
+Yet, when an observer swiftly glides,
+Measuring 0.80, the length now hides.
+What speed must this observer claim,
+To witness the rod's contracted frame?",0.50c,0.60c,0.70c,0.80c,B
+"The Helium's Secrets
+
+Electrons two, in helium's cloak,
+Bound with strength, a mighty yoke.
+Seventy-nine eV, the energy's tale,
+To strip them both, a task not frail.
+
+Now, a question we must ask,
+To remove one, what is the task?
+The energy required, a hidden treasure,
+Reveal its worth, a weighty measure.",24.6 eV,39.5 eV,51.8 eV,54.4 eV,A
+"The cosmos whispers its secrets,
+A dance of light and shade.
+When the universe's veil was 12 K,
+Galaxies, in their splendor, swayed.
+
+The chill of 3 K, a cosmic breath,
+Echoes the past, a timeless tale.
+Across the expanse, celestial spheres,
+Their stories, they unfurl and unveil.",one-quarter as distant as they are today,one-half as distant as they are today,separated by about the same distances as they are today,two times as distant as they are today,A
+"The electric displacement,
+Through a surface S, it flows,
+Proportional to the unseen,
+A current that grows.",rate of change of the electric flux through S,electric flux through S,time integral of the magnetic flux through S,rate of change of the magnetic flux through S,A
+"Descent in the dark,
+Gravity's grip, a stark,
+Elevator plunges down,
+Brakes engage, a daring crown.
+
+A hundred meters fall,
+Kinetic energy's call,
+The brakes must now dispel,
+The heat that they compel.
+
+How much energy must they claim?
+To bring the lift to tame,
+And save the passengers within,
+From a fate that none would win.",100 J,"1,000 J","10,000 J","1,000,000 J",D
+"A celestial dance, a cosmic rhyme,
+Hydrogen's lines, a shift sublime.
+Three times the length, a crimson glow,
+The quasar's speed, a tale to know.
+
+In the spectrum of 3C9,
+A redshift observed, a cosmic sigh.
+If motion alone, the cause we seek,
+The quasar's speed, a treasure to reap.",2c,c,0.8c,0.5c,C
+"Gliding box, no friction's hold,
+Speeds at one, a meter untold.
+Constant force, a change bestowed,
+Five meters traveled, a story told.
+
+Now, the force departs, leaving speed anew,
+Two meters per second, a question to redo.
+What force was applied, the answer to pursue?
+A poem unveils, the solution in view.",1 N,2 N,3 N,4 N,C
+"Celestial dance, a cosmic sight,
+Two ships approach, with equal might.
+One from the east, the other west,
+Both measured by Earth, their speeds attest.
+
+A meter stick, sixty centimeters long,
+Observed by those who dwell in the throng.
+What speed, oh Earth, do these ships possess?
+Unravel the mystery, our minds to address.",0.4c,0.5c,0.6c,0.7c,B
+"Plummeting down, the elevator falls,
+Its cable snapped, no longer holds.
+A race against time, the brakes engage,
+Dissipating heat, a desperate stage.
+
+Hundred meters of descent, the journey's start,
+Stopping the mass, a herculean art.
+The brakes must act, with power and might,
+To bring the elevator to a safe plight.","10,000 J","100,000 J","1,000,000 J","10,000,000 J",C
+"The dance of electrons, so swift and so bright,
+Surpassing the bounds of thermal delight.
+The kinetic they hold, a force to behold,
+Defying the limits that kT would hold.",electrons have many more degrees of freedom than atoms do,the electrons and the lattice are not in thermal equilibrium,the electrons form a degenerate Fermi gas,electrons in metals are highly relativistic,C
+"Gliding box, swift and sleek,
+Across the plane, a steady trek.
+A force appears, a constant guide,
+Propelling it for meters wide.
+
+The journey ends, the force departs,
+A final speed, new vigor starts.
+What force, then, did the box endure?
+Reveal the answer, true and pure.",1 N,2 N,3 N,4 N,C
+"The photon's dance,
+Illuminates the metal's expanse.
+Einstein's insight, a guiding light,
+Unveils the photoelectric plight.",work function of the metal is proportional to the frequency,work function of the metal is proportional to the wavelength,current in the tube is a linear function of the wavelength,potential difference necessary to stop the emitted electrons is a linear function of the frequency above the threshold frequency,D
+"The spring's embrace,
+A dance of force and grace.
+Stretched with care, a certain way,
+Revealing secrets of the day.
+
+Two springs, one a mirror true,
+Yet work demands a different view.
+Twice the effort, half the length,
+Unveiling the second spring's strength.",k,2k,4k,8k,D
+"In the realm of light, two beacons bright,
+Shining forth, a mesmerizing sight.
+An observer, at rest, in between,
+Witnesses their flashes, serene.
+
+Yet, a second observer, swift and true,
+Perceives a difference, a tale to renew.
+One flash before the other, a time delay,
+Revealing the speed of O', a cosmic sway.",0.13c,0.15c,0.36c,0.53c,C
+"Radiant Sun, ablaze with heat,
+Emitting light, a spectrum so sweet.
+Its surface, a scorching six thousand K,
+Reaching a peak near five hundred nm, they say.
+
+For a body, three hundred K so fair,
+At what wavelength does its thermal glow dare?
+Reveal the secrets, the answer unwind,
+Let the wavelength of maximum shine shine shine.",10:00 PM,100 Pm,10 mm,100 mm,A
+"Here is the question rephrased as a poem:
+
+Electron in hydrogen, in state so grand,
+n = 4, l = 1, a sight so grand.
+What final states, we must ponder and see,
+Cannot be reached by an allowed decree?","n = 3, l = 2","n = 3, l = 1","n = 3, l = 0","n = 2, l = 0",B
+"Four,
+The electron's dance,
+In the l = 2 state,
+Quantum number's chance.",5,4,3,2,A
+"Echoes of the siren's cry,
+Bouncing off the wall so nigh.
+A speed of three-point-five, the chase,
+As sound waves travel 'cross the space.
+
+The frequency, six hundred hertz,
+Reflected back, the driver's ears.
+Which of the following, the truth?
+Reveal the answer, in its proof.",588 Hz,594 Hz,600 Hz,612 Hz,D
+"The doubly ionized lithium's light,
+Shines with a familiar sight.
+Its emission spectrum, a mirror divine,
+Matches the hydrogen atom, a wonder so fine.
+
+The wavelengths, a dance of grace,
+Echoing the hydrogen's embrace.
+A symphony of nature's grand design,
+Revealing secrets, a spectral shine.",decreased by a factor of 9,decreased by a factor of 49,decreased by a factor of 81,increased by a factor of 9,A
+"A photon's strike, a dance of fate,
+Electrons stirred, a wondrous slate.
+From rest, a pair is born anew,
+Positron and electrons, a trio's view.
+
+Equal speeds, they move with grace,
+Along the path, the photon's trace.
+The energy it held, now shared,
+A cosmic dance, its tale declared.",mc^2,2mc^2,3mc^2,4mc^2,D
+"Amidst the gleam of light so bright,
+Transient atoms dance and ignite.
+Which laser, from the options we seek,
+Draws its power from their energy peaks?",Diode laser,Dye laser,Free-electron laser,Gas laser,D
+"The dance of light, a canvas unfurled,
+Unpolarized, a world yet to be whirled.
+Two polarizers, their axes intertwine,
+Angled at forty-five degrees, a perfect design.
+
+The light, once pure, now its path must choose,
+Through the polarizers, its intensity to lose.
+What percentage of the initial glow,
+Shall through the pair of filters, steadily flow?",100%,75%,50%,25%,D
+"Vibrant waves, swift and true,
+Emanating from a slit so new,
+Diffraction's dance, a captivating sight,
+At what frequency will it fade from sight?
+
+Angled at forty-five degrees,
+The sound will vanish, if you please,
+Unveil the frequency, a puzzle to solve,
+As the speaker's face, its secrets evolve.",500 Hz,"1,750 Hz","2,750 Hz","3,500 Hz",D
+"Doubly charged lithium's glow,
+Mirroring hydrogen's awe-inspiring show.
+Wavelengths that dance in perfect sync,
+A cosmic symphony, a spectral link.",decreased by a factor of 9,decreased by a factor of 49,decreased by a factor of 81,increased by a factor of 9,A
+"A disk at rest, on an incline,
+Rolls without slip, a motion divine.
+What fraction of kinetic energy,
+Is rotational, for all to see?",1/4,1/3,1/2,2/3,B
+"The speed of light, a cosmic dance,
+Slowed by a dielectric's gentle stance.
+With a constant of four, a refractive display,
+The light's velocity, a different way.",1.2 * 10^9 m/s,3.0 * 10^8 m/s,1.5 * 10^8 m/s,1.0 * 10^8 m/s,C
+"Capacitors linked in series,
+A 3-microfarad and 6-microfarad pair.
+A 300-volt potential difference applied,
+What is the total energy stored with care?",0.09 J,0.18 J,0.27 J,0.41 J,A
+"Electrons' journey, a dance of light,
+Colliding with crystal's surface, a mighty sight.
+Diffraction patterns, a spectacle divine,
+Reveal the kinetic energy, a key to unlock the shine.
+
+With lattice spacing, a mere 0.4 nm,
+The electrons' energy, a puzzle to comprehend.
+What force propels them, a clue to unravel?
+The answer lies, in this tale to unravel.",0.1 eV,1 eV,10 eV,100 eV,C
+"Celestial dance, a cosmic grace,
+Two twins in orbit, their paths to trace.
+Satellite A, its radius twice as vast,
+Compared to its sibling, B, unsurpassed.
+
+What ratio reveals their angular might,
+As they circle the Earth, a captivating sight?
+The answer lies in this celestial play,
+A mystery to unravel, a tale to convey.",4,2,sqrt(2),1/sqrt(2),C
+"Hurtled forth from window's grace,
+An object, its journey to trace.
+Twenty meters per second its speed,
+As it falls to the ground, a swift deed.
+
+Two seconds elapse, a fleeting span,
+Ere the impact, the end of its grand plan.
+What height did this projectile take,
+As it made its descent, Earth to sate?
+
+Neglect not the air, nor the level ground,
+As the answer we seek, to be found.
+Reveal to us the window's lofty lair,
+Whence the object was launched, free and fair.",4.9 m,9.8 m,10.0 m,19.6 m,D
+"Particles in motion,
+Colliding with might,
+Masses intertwine,
+A unified sight.
+
+One-dimensional dance,
+Nonrelativistic stance,
+Particle of 2m, another of m,
+What fraction of energy is lost in the end?",0,1/4,1/3,1/2,C
+"Wavelengths dance upon the water's face,
+Reflecting, refracting, a mesmerizing grace.
+A thin film of oil, a layer so fine,
+Alters the path of light, a play divine.
+
+What hue shines the brightest, the most intense?
+The answer lies in the physics, a tale to convince.
+Unveil the wavelength that stands out, so clear,
+Revealing the secrets this scene holds so dear.",500 nm,550 nm,600 nm,650 nm,C
+"A particle dances in the field,
+Twice the charge, a curious yield.
+Through the magnetic realm it glides,
+Perpendicular to the force that guides.
+
+The strength, a constant π/4 tesla,
+The frequency, a rhythm of sixteen-hundred hertz.
+What is the mass of this particle so fair,
+As it circles in the field with grace and flair?",2.5 * 10^-23 kg,1.2 * 10^-22 kg,3.3 * 10^-22 kg,5.0 * 10^-21 kg,A
+"Soaring through the skies,
+A payload takes its flight,
+Dropped from the plane, it vies,
+A challenge to our sight.
+
+Neglecting air's embrace,
+The payload's pace we seek,
+Four seconds into the chase,
+Its velocity we peek.
+
+Constant speed, a hundred meters,
+The plane moves due north with might,
+The payload's path, our meter,
+Its velocity, our delight.",0,40 m/s down,80 m/s down,100 m/s north and 40 m/s down,B
+"Electron and positron unite,
+A positronium atom, a wondrous sight.
+Akin to hydrogen, yet with a twist,
+The positron, the proton's counterpart, it does persist.
+
+From n=3 to n=1, a transition unfolds,
+The energy of the photon, a story untold.
+What is the value, the answer to seek?
+The energy of the photon, a truth to speak.",6.0 e,6.8 eV,12.2 eV,13.6 eV,A
+"Around the planet, a satellite doth glide,
+Circling endlessly in an orbit so wide.
+With mass 'm' it moves, and 'M' the planet's might,
+Radius 'R' defines its path of celestial flight.
+
+The time it takes, a mystery to unfold,
+As the satellite its revolution doth hold.
+A dance of cosmic forces, a captivating sight,
+Revealing the secrets of the heavens' delight.",independent of M,proportional to m^(1/2),linear in R,proportional to R^(3/2),D

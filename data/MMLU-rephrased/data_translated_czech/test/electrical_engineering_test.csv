@@ -1,0 +1,145 @@
+Barkhausenovo kritérium pro oscilátor,Zesílení smyčky by mělo být jednotkové,Zesílení smyčky by mělo být menší než jedna,Fáze zpětnovazebního signálu vzhledem ke vstupu by měla být 0° nebo 360°,A i C,D
+"Metoda měření stejnosměrného napětí pomocí potenciometru je přesnější než přímé měření voltmetrem, protože",Zatěžuje obvod mírně.,Zatěžuje obvod na maximum.,Používá galvanometr s nulou uprostřed namísto voltmetru.,Vůbec nezatěžuje obvod.,D
+Které z těchto sad logických hradel jsou označovány jako univerzální hradla?,"NOR, NAND.","XOR, NOR, NAND.","NEBO, NE, A","NOR, NAND, XNOR.",A
+Jednofázový obvod řízený jedním pulzem má odpor R a protielektromotorickou sílu E zátěže 400 sin(314 t) jako zdrojové napětí. Pro protielektromotorickou sílu zátěže 200 V je rozsah řízení úhlu sepnutí,30° až 150°,30° až 180°,60° až 120°,60° až 180°,A
+"Krabice, která ukazuje vliv vstupů na řídicí podsystém, je známá jako",Datová schránka,Logický box.,Rozhodovací pole,Státní krabice,C
+Dvě nekonečné rovnoběžné kovové desky jsou nabity stejnou plošnou hustotou náboje stejné polarity. Elektrické pole v mezeře mezi deskami je,"stejné jako to, které vytváří jedna deska.",zdvojnásobit pole vytvořené jednou deskou,závislé na souřadnicích bodů pole,nula,D
+Odpor v obvodu pohyblivé cívky wattmetru s dynamometrem by měl být,Nízký.,Velmi nízký.,Vysoký.,Téměř nula.,C
+Následující jsou nezbytné požadavky na oscilátor,Amplitudová stabilita,Frekvenční stabilita,Stabilita výkonu,A i B,D
+Běžné napětí používané při směrovém ohřevu je,"1,5 kV",15 kV,33 kV,66 kV,A
+LC oscilátory se používají k vytvoření vlnového průběhu s frekvencí v rozsahu od,1 MHz až 500 MHz,100 kHz až 500 MHz,1 kHz až 1 MHz,1 MHz až 100 GHz,A
+Funkční dioda musí mít,Vysoký odpor při propustném nebo závěrném předpětí,"Nízký odpor při propustném směru, zatímco vysoký odpor při závěrném směru","Vysoký odpor při propustném směru, zatímco nízký odpor při závěrném směru",Nízký odpor při propustném nebo závěrném směru,B
+"Jaký je název fluorescenčního materiálu, který dává červenou fluorescenci?",Křemičitan zinečnatý,Křemičitan vápenatý,Sulfid zinečnatý,Křemičitan hořečnatý.,D
+Kolik bitů je potřeba k uložení jedné číslice BCD?,1,2,3,4,D
+Komutátor v DC generátoru se používá pro,sbírání proudu,snížit ztráty,zvýšit efektivitu,převést střídavý proud kotvy na stejnosměrný,D
+1 F se teoreticky rovná,1 ohm odporu,poměr 1 V ku 1 C,poměr 1 C ku 1 V,žádný z těchto,C
+Kolik záznamů bude v pravdivostní tabulce třívstupoví hradla NAND?,3,6,8,9,C
+V desítkové soustavě co je MSD,První číslice zleva doprava,První číslice zprava doleva,Prostřední číslice,Průměr všech číslic,A
+V digitálním logickém návrhu je GAL zkratka pro,Obecná pokročilá logika,Obecná logika pole,Obecná pokročilá logika,Generická logika polí,D
+"Signál ALE mikroprocesoru Inintel 8085A je nastaven na vysokou úroveň, aby",Povolit použití datové sběrnice jako nižší části adresové sběrnice,Zachytit data D0-D7 z datové sběrnice,Deaktivovat datovou sběrnici,K dosažení všech výše uvedených funkcí,A
+"Pro charakteristiku katody SCR hradla je přímka 130. Pro spouštěcí napětí zdroje 15 V a přípustný ztrátový výkon hradla 0,5 W vypočítejte odpor mezi hradlem a zdrojem?","111,9 ohmů","11,19 ohm",108 ohmů,115 ohmů,A
+Koncept řízení V/f měničů pohánějících indukční motory vede k,provoz s konstantním krouticím momentem,změna směru rychlosti,snížená magnetická ztráta,harmonická eliminace,A
+"Energie uložená v magnetickém poli solenoidu dlouhého 30 cm a o průměru 3 cm, navinutého 1000 závity drátu, kterým prochází proud 10 ampérů, je","0,015 joulu","0,15 joulu","0,015 joulu","1,15 joulu",B
+"Při provozu na zdrojích s proměnnou frekvencí vyžaduje střídavý motor proměnné napětí, aby",chránit izolaci,vyhnout se účinku nasycení,zlepšit schopnosti měniče.,chránit tyristor před dV / dt,B
+Které z následujících vinutí jsou nezbytné u všech stejnosměrných strojů?,uzavřené vinutí,Smyčkové vinutí,vinutí vlnou,otevřené vinutí,A
+Relaxační napětím řízené oscilátory se používají ke generování,Sinusová vlna,Trojúhelníková vlna,Pilovitá vlna,B i C,D
+Obvykle používaná frekvence napájení pro vysokofrekvenční ohřev vířivými proudy je,1 kHz,5 kHz,10 MHz,10 kHz až 400 kHz,D
+V přepínacím režimu má JK klopný obvod,"J = 0, K = 0.","J = 1, K = 1.","J = 0, K = 1.","J = 1, K = 0.",B
+"Elektrický pohon se stává stále populárnějším, protože",vše níže uvedené,Poskytuje plynulé a snadné ovládání.,je to levnější.,je to jednoduché a spolehlivé.,A
+Zvyšující měnič má vstupní napětí 110 V a výstupní napětí 150 V. Hodnota pracovního cyklu je,"0,32","0,67","0,45","0,27",B
+Kolik číslic má binární číselný systém?,0,1,2,10,C
+"Nejnižší kritická frekvence je způsobena pólem a může být přítomna v počátku nebo blíže k počátku, pak typ sítě je",LC.,RL,RC,Kterékoli z výše uvedeného.,C
+Výhody systému řízení s otevřenou smyčkou jsou/je,jednoduché a úsporné,přesný,spolehlivý,vše výše uvedené,A
+"Napětí indukované v cívce je vyjádřeno jako,",součin jeho indukčnosti a proudu procházejícího jím,poměr jeho indukčnosti k proudu procházejícímu jím,poměr proudu procházejícího cívkou k její indukčnosti,součin jeho indukčnosti a rychlosti změny proudu procházejícího jím.,D
+"Pokud je třeba převést hexadecimální číslo na binární, kolik bitů bude pro každou hexadecimální číslici?",1,2,4,8,C
+Indukční ohřev probíhá v,"vodivé, ale nemagnetické materiály","vodivé materiály, které mohou být buď magnetické nebo nemagnetické materiály.",izolační materiály,vodivé a magnetické materiály,B
+V lapovém vinutí stejnosměrného stroje je počet vodičů 100 a počet paralelních cest 10. Určete průměrný krok.,10,100,50,1,A
+Magnetický tok má jednotku,Newton,Ampérzávit,Weber,Tesla,C
+"V případě vyváženého můstku, pokud jsou zaměněny pozice detektoru a zdroje, můstek zůstane stále vyvážený. Toto lze vysvětlit pomocí kterého teorému",Princip reciprocity,Théveninova věta,Nortonův teorém,Kompenzační teorém,A
+"D-klopný obvod je považován za transparentní, když",výstup je NÍZKÝ,výstup je VYSOKÝ,výstup následuje hodiny,výstup následuje vstup,D
+Lissajousův obrazec na osciloskopu má 5 horizontálních tečen a 2 vertikální tečny. Frekvence horizontálního vstupu je 100 Hz. Frekvence vertikálního vstupu bude,500 Hz,250 Hz,400 Hz,625 Hz,B
+Řízení rychlosti změnou magnetického toku pole vede k,pohon s konstantním výkonem,pohon s konstantním krouticím momentem,proměnný pohon,žádná z uvedených možností,A
+Která z následujících pamětí používá jako základní paměťovou jednotku jeden tranzistor a jeden kondenzátor,SRAM,DRAM,"Jak SRAM, tak DRAM",Žádný,B
+"Jaký bude počet lamp, každá s 300 lumeny, potřebných k dosažení průměrné osvětlenosti 50 luxů v obdélníkové místnosti o rozměrech 4 m * 3 m?",2,4,5,6,A
+"Výstup systému má vliv na vstupní veličinu, pak je systém",systém řízení s otevřenou smyčkou,uzavřený regulační systém,"buď A, nebo B",žádná z uvedených možností,B
+"Sinusový signál je analogový signál, protože",může mít řadu hodnot mezi záporným a kladným vrcholem,je záporný po dobu poloviny cyklu,je kladný po dobu jedné poloviny cyklu,má pozitivní i negativní hodnoty,A
+FM znamená,častá modulace,frekvenční modulace,frekvenční moderátor,častý moderátor,B
+Zásobník je také znám jako,Paměť typu FIFO,Flash paměť,Paměť typu LIFO,Paměť LILO,C
+V systému Ward-Leonard je dolní limit rychlosti stanoven,Polní odolnost.,Odpor vinutí.,Zbytkový magnetismus generátoru.,Nic z výše uvedeného.,C
+Colpittsův oscilátor je také nazýván jako,Oscilační obvod s rezonančním obvodem,LC oscilátor,Rezonanční obvodový oscilátor,Vše výše uvedené,D
+SCR má jmenovitý proud při půlvlnném rázu 3000 A pro napájení 50 Hz. Proud při jednom cyklu rázu bude,1500 n. l.,6000 A.,"2121,32 A.","4242,64 A.",C
+"Která speciální úložná místa využívají jak ALU, tak řídicí sekce CPU?",Vyrovnávací paměti,Dekodéry,Akumulátory,Registry,C
+Systematické chyby jsou,chyby prostředí,pozorovací chyby,chyby přístrojů,vše výše uvedené,D
+Která z následujících možností je/jsou nevýhodami systému řízení s otevřenou smyčkou?,Nepřesné.,Nespolehlivý.,"jak A, tak B.",žádná z uvedených možností,C
+Dioda (p-n přechod) při závěrném předpětí působí jako,Na přepínači,Zenerova dioda,Kondenzátor,Vypínač,D
+Piezoelektrický jev se provádí v,kompozitní filtr,krystalový filtr,m odvozeno.,konstantní k prototyp,B
+Rezistivita vodiče závisí na,plocha vodiče,délka vodiče,typ materiálu,žádný z těchto,C
+"Nejmenší změna v měřené proměnné, na kterou přístroj zareaguje, je",rozlišení,přesnost,přesnost,citlivost,A
+"V elektronické komunikaci znamená ""AM""",Úprava zesilovače,Amplitudová metoda,Amplitudová modulace,Ampérova metoda,C
+Který systém je také znám jako automatický řídicí systém?,Systém řízení s otevřenou smyčkou,Uzavřený regulační systém,"Buď A, nebo B",Ani A ani B,B
+Kombinační PLD s pevným polem AND a programovatelným polem OR se nazývá,PLD,MATURITNÍ PLES,PAL,PLA,B
+Nulový typ přístroje ve srovnání s vychýleným typem přístroje má,nižší citlivost,rychlejší odpověď.,vyšší přesnost.,vše výše uvedené,C
+"Délka kabelu je zdvojnásobena, jeho kapacita C bude",jedna čtvrtina,jedna polovina,zdvojnásobený,nezměněný,C
+Elektrony v materiálu typu p polovodiče se nazývají,buď minoritní nosiče nebo majoritní nosiče,minoritní nosiče,majoritní nosiče,závěsové garnýže,B
+________ je nejškodlivější nečistota v magnetických materiálech,Uhlík,Síra.,Kyslík.,Dusík.,A
+Napětím řízené oscilátory se běžně používají v,Pulzní modulátory Frekvenční modulátory Fázové smyčky,Frekvenční modulátory,Fázově synchronizované smyčky,Vše výše uvedené,D
+"Nízká frekvence napájení je nezbytná pro indukční pece s přímým jádrem, protože",Při normální frekvenci napájení způsobují elektromagnetické síly silné míchání roztaveného kovu.,Magnetická vazba mezi primárním a sekundárním obvodem je slabá.,"Jak A, tak B.",Žádná z uvedených možností.,C
+"Ručičkové přístroje s pohyblivou cívkou, tlumení je zajištěno pomocí",hliníkový rám cívky,pružina připojená k pohyblivé části,vířivoproudá brzda,tlumicí lopatka ve vzduchotěsné komoře,A
+Která z následujících možností je analogickou veličinou pro hmotnostní element v analogii síla-napětí?,Odpor,Indukčnost,Kapacita,Vše výše uvedené.,B
+Latch je ________ citlivý,úroveň i hrana,hrana,úroveň,Žádný,C
+Co se používá k ochraně tyristoru před nadproudem?,CB a pojistka.,Chladič,Tlumicí obvod.,Napěťové omezovací zařízení.,A
+Chyby způsobené převážně lidskými omyly jsou,hrubá chyba,přístrojová chyba,pozorovací chyba,systematická chyba,A
+Elektrická analogická veličina pro tlumič v analogii síla-proud je,odpor,vodivost,indukčnost,kapacita,B
+Která lampa má nejlepší index podání barev (CRI)?,LED,Fluorescenční,Žhavý,Vysokotlaká sodíková výbojka,C
+Výkonová ztráta v ideální cívce je,Maximum,Minimum,Nula,Konečná hodnota,C
+"Pro přerušovanou práci, který z následujících typů pecí je vhodný?",Pec bez jádra.,Nepřímá oblouková pec.,Kterékoli z výše uvedeného.,Ani jedno z výše uvedeného.,B
+V elektrickém odporovém svařování by měl materiál elektrody mít,vyšší elektrické vodivosti,vyšší tepelné vodivosti,dostatečná pevnost k udržení vysokého tlaku při zvýšených teplotách.,vše výše uvedené,D
+Které z následujících jsou pasivní prvky?,Rezistor,Žárovka,Obojí,Žádná z těchto možností.,C
+"Hlavní výhodou dielektrického ohřevu je, že",k ohřevu dochází přímo v materiálu.,Ohřev nastává v důsledku vysoké frekvence.,lze jej použít k sušení výbušnin.,Žádná z uvedených možností.,A
+Materiály používané v chladiči by měly mít,vysoká tepelná vodivost,velká plocha povrchu,vysoký bod tání,Všechny tyto.,D
+"Vodič je statický a pole se mění, pak se indukuje elektromotorické napětí. Tento princip se nazývá",virtuálně indukovaná elektromotorická síla,dynamicky indukované elektromotorické napětí,staticky indukovaná elektromotorická síla,žádný z těchto,C
+"Čtyři identické alternátory, každý dimenzovaný na 20 MVA, 11 KV s přechodnou reaktancí 16 %, pracují paralelně. Úroveň zkratu na přípojnici je",500 MVA,400 MVA,125 MVA,100 MVA,A
+Podle Bohrova modelu elektron získává nebo ztrácí energii pouze,pohybující se rychleji nebo pomaleji v povoleném orbitu.,přeskakování z jedné povolené oběžné dráhy na druhou,být zcela odstraněn z atomu.,skákání z jednoho atomu na druhý atom,B
+Třístavový buffer má následující výstupní stavy,"1, 0, float","Vysoký, Nízký, Plovoucí",A i B,"Nastavit, Resetovat, Zastavit",C
+Použitím kterých z následujících prvků se získávají mechanické translační systémy?,hmotný prvek,pružinový prvek,tlumič,všechno výše uvedené,D
+"Čtyři kondenzátory, každý o kapacitě 40 µF, jsou zapojeny paralelně, ekvivalentní kapacita systému bude",160 µF,10 µF,40 µF,5 µF,A
+"Odpor vodiče o průměru d a délce l je R Ω. Pokud se průměr vodiče sníží na polovinu a jeho délka se zdvojnásobí, odpor bude",R Ω,2R Ω,4R Ω,8R Ω,C
+"Jednofázový můstkový střídač s plným můstkem může pracovat v režimu komutace zátěže v případě, že zátěž sestává z",RL,RLC podtlumený.,RLC přetlumený.,RLC kriticky tlumený.,B
+Mikroprocesor je ALU,a řídicí jednotka na jednom čipu.,a paměť na jednom čipu.,registrovat jednotku a vstupně/výstupní zařízení na jednom čipu.,registr a řídicí jednotka na jednom čipu,D
+K dosažení vysoké hodnoty kapacity by měla být permitivita dielektrického média,nízký,nula,vysoký,jednota,C
+"Metody přímého měření průhybu jsou nejčastěji používány, protože jsou",nejméně časově náročné,nejjednodušší,nejjednodušší a nejméně časově náročné,nejpřesnější,C
+"Čistě mechanické přístroje nelze použít pro dynamická měření, protože mají",vysoká setrvačnost,vyšší doba odezvy,velká časová konstanta,vše výše uvedené,D
+Výhody vyššího přenosového napětí jsou,Přenosová schopnost elektrického vedení je zvýšena,Ztráty na přenosovém vedení jsou sníženy,Plocha průřezu a objem vodiče se zmenšují,všechno výše uvedené,D
+Za podmínky přepětí nebo podpětí je impedance nabízená napěťovým omezovacím zařízením,vysoký,nízký,mírný,nekonečno,B
+"Dlouhý drát tvořený hladkým kulatým vodičem vede nad zemí a rovnoběžně s ní (předpokládá se, že jde o velkou vodivou rovinu). Mezi vodičem a zemí existuje vysoké napětí. Maximální elektrické namáhání nastává v",spodní povrch vodiče,horní povrch vodiče,povrch země.,v polovině vzdálenosti mezi vodičem a zemí.,A
+V DC stroji je použito 6pólové vlnové vinutí. Jaký je počet paralelních cest?,6,4,2,1,C
+Který z následujících je digitální zařízení,Regulátor ventilátoru,Mikrofon,Odpor materiálu,Vypínač světla,D
+Okamžitý výkon v cívce je úměrný,součin okamžitého proudu a rychlosti změny proudu,kvadrát okamžitého proudu,čtverec rychlosti změny proudu,teplota induktoru,A
+Který z následujících je snímač s proměnným posunutím?,tachometr,potenciometr,synchros,žádná z uvedených možností,B
+"Pět kondenzátorů, každý o kapacitě 5 µF, je zapojeno do série, ekvivalentní kapacita systému bude",5 µF,25 µF,10 µF,1 µF,D
+Vnímavost je negativní pro,nemagnetické látky,diamagnetické látky,feromagnetické látky,žádná z výše uvedených,B
+Jedna z následujících možností je hlavní funkcí oscilátoru,vytváří sinusové oscilace,generuje nesinusové průběhy,generuje trvalé oscilace s konstantní amplitudou a specifickou frekvencí,žádná z uvedených možností,C
+Kovové povrchy pro elektrické odporové svařování musí být,hrubý,čistý,zvlhčený,barevný,B
+Přídržný proud SCR je 20 mA. Jeho přídržný proud bude,23 mA,40 mA,10 mA,60 mA,C
+V analogii síla-proud je elektrickou analogickou veličinou pro posunutí (x),napětí,indukčnost,kapacita,tok,D
+Zpětnovazební obvod v oscilátoru lze realizovat pomocí,Odporová vazba mezi vstupem a výstupem,Kapacitní vazba mezi vstupem a výstupem,Induktivní vazba mezi vstupem a výstupem,Kterákoli z výše uvedených metod nebo jejich kombinace,D
+"Nejnižší kritická frekvence je způsobena nulou a může být přítomna na počátku nebo blíže k počátku, pak je typ sítě",LC obvod,RC obvod,Obvod RLC,RL obvod,D
+Jaká je hodnota dielektrické konstanty vzduchu?,Méně než 1,0,1.,žádný z těchto,C
+Teplotní variace je,Digitální množství,Analogová veličina,Buď digitální nebo analogové veličiny,Žádný,B
+Osvětlení v bodě 5 metrů pod lampou je 6 luxů. Svítivost lampy je,30,140,150,200,C
+Pro stejnosměrný stroj jsou hodnoty bočníkového odporu a odporu kotvy,vysoký a vysoký,vysoký a nízký,nízký a nízký,nízký a vysoký,B
+Změna průřezu vodiče v magnetickém poli bude mít vliv,neochota vodiče,odpor vodiče,(A) a (B) oba stejným způsobem.,žádná z výše uvedených,C
+Který z následujících prvků se používá v SCR k ochraně před vysokým dV / dt?,Tlumicí obvod.,Pojistka,Vyrovnávací obvod.,Jistič,A
+"Jaké jsou sady příkazů v programu, které nejsou během procesu sestavování překládány do strojových instrukcí, nazývány?",Mnemotechnické pomůcky,Směrnice,Identifikátory,Operandy,B
+Rychlost přenosu dat v síti 4G telekomunikačního operátora je,386 kb/s - 2 Mb/s,2 Mb/s,2 Mb/s – 1 Gb/s,100 Mb/s - 1 Gb/s,D
+Který z následujících je/jsou aktivní prvek/prvky?,Zdroj napětí,Aktuální zdroj,Obojí,Žádná z těchto možností.,C
+Elektricky analogická veličina pro pružinový prvek (K) v analogii síla-napětí je,L,R,1/C,C,C
+Křemenný krystalový oscilátor se skládá z,pouze sériová rezonanční frekvence,pouze paralelní rezonanční frekvence,"jak sériové, tak paralelní frekvence",ani sériová ani paralelní frekvence,C
+Který z následujících oscilátorů se používá pro nízkofrekvenční (LF) aplikace,LC oscilátory,RC oscilátory,Oba LC a RC oscilátory,Žádný,B
+"Prostorový úhel, který zabírá plocha 2400 cm^2 na povrchu koule o průměru 1,2 m, je",3 / 2,1 / 3,2 / 3,2 / 5,C
+Relativní chyba je stejná jako,poměr absolutní chyby a skutečné hodnoty,absolutní chyba,skutečná chyba,žádná z uvedených možností,A
+"Pokud je přídržný proud tyristoru 2 mA, pak zapínací proud by měl být","0,01 A","0,002 A","0,009 A","0,004 A",D
+"V procesoru Intel 8085A, který je prvním strojovým cyklem instrukce?",Cyklus načítání operačního kódu,Cyklus čtení paměti,Cyklus zápisu do paměti,Čtecí cyklus I/O,A
+Které z následujících možností jsou nevýhody uzavřeného řídicího systému?,Snižuje celkový zisk.,Složité a nákladné.,Oscilační odezva.,Vše výše uvedené.,D
+"Póly a nuly jsou uspořádány střídavě na záporné reálné ose, pak typ sítě je/jsou",LC síť,RC síť,RL síť,Obojí 2 i 3.,D
+Magnetizace a aplikované pole ve feromagnetických materiálech spolu souvisejí,sinusoidálně,nelineárně,lineárně,parabolicky,B
+Tenké laminace se používají ve stroji za účelem snížení,Ztráty vířivými proudy,Hysterezní ztráty,A i B,Ztráty v mědi,A
+Kovový povrch s poloměrem 1 metr a plošnou hustotou náboje 20 coulombů / m2 je uzavřen v krychli o straně 10 m. Celkový vnější elektrický posun kolmý k povrchu krychle je,40π coulombů,80π coulombů,10π coulombů,žádný z těchto,B
+V binární číselné soustavě se první číslice (bit) zprava doleva nazývá,"LSB, nejméně významný bit","MSB, nejvýznamnější bit",První bit,Poslední bit,A
+"V metodě měření výkonu pomocí dvou wattmetrů, pokud je celkový výkon měřen pouze jedním wattmetrem, pak je účiník systému",0,"0,5",1.,žádná z výše uvedených,B
+Voltmetr s rozsahem 0 - 100 V má zaručenou přesnost 2 % z plné stupnice. Napětí naměřené voltmetrem je 75 V. Mezní chyba je v procentech,"3,33 %","2,66 %",2 %,1 %,B
+Která z následujících metod se používá/používají pro reaktivní nebo napěťovou kompenzaci,paralelní kondenzátor,sériový kondenzátor,buzení generátoru,všechno výše uvedené,D
+ROM naprogramovaná během samotného výrobního procesu se nazývá,MROM,MATURITNÍ PLES,EPROM,EEPROM,A
+V 8085 název/názvy 16bitových registrů je/jsou,ukazatel zásobníku,čítač instrukcí,"jak A, tak B.",žádný z těchto,C
+Stabilitu přenosového vedení lze zvýšit pomocí,paralelní kondenzátor,sériový kondenzátor,tlumivka,A i B,D
+Tlumicí obvod se používá s tyristorem,v sérii,paralelně,buď sériově nebo paralelně,antiparalelní,B
+Počet slupek v Bohrově modelu jakéhokoli prvku je určen čím?,Číslo sloupce v periodické tabulce.,Atomová hmotnost,Číslo řádku v periodické tabulce.,Atomové číslo,C
+Křemík a germanium jsou ________ prvky.,trojmocný,pětimocný,šestimocný,čtyřmocný,D
+Počet výstupních pinů v mikroprocesorech 8085 je,27.,40.,21.,19.,A
+"Pokud P je výkon hvězdicově zapojeného systému, jaký bude výkon ekvivalentního trojúhelníkově zapojeného systému?",P,3P,P/3,Nic z výše uvedeného,A
+Které oscilátory se snadno vyrábějí v monolitickém integrovaném obvodu?,Krystalový oscilátor,Hartleyův oscilátor,Wienův můstkový oscilátor,Relaxační oscilátor.,D
+"Pokud jsou všechny prvky v konkrétní síti lineární, pak by platil princip superpozice, když je buzení",Pouze stejnosměrný proud,Pouze střídavý proud,Buď střídavý proud nebo stejnosměrný proud,Impuls,C
+Zpětnovazební faktor Wienova můstkového oscilátoru používajícího operační zesilovač je,1/3,1/4,1/2,1,C
+"Délka cyklu sběrnice v 8086/8088 je čtyři hodinové cykly, T1, T2, T3, T4 a neurčitý počet hodinových cyklů čekacího stavu označovaných jako Tw. Čekací stavy jsou vždy vkládány mezi",T1 a T2,T2 a T3,T3 a T4,T4 a T1,C
+Který z následujících není sinusový oscilátor?,LC oscilátor,RC oscilátory s fázovým posuvem,Relaxační oscilátor,Krystalový oscilátor,C
+Drát nesoucí proud je ohnutý do tvaru kruhové smyčky. Pak magnetické pole kolem každé části drátu bude,rovnoběžně s rovinou drátu,kolmo k obvodu drátu,rovnoběžně s polovinou části a kolmo na druhou polovinu.,žádná z výše uvedených,A

@@ -1,0 +1,5 @@
+NOR kapılarından oluşan bir SR flip-flop'ta hangi durum izin verilmez,"S=0, R=0","S=0, R=1","S=1, R=0","S=1, R=1",D
+"2 kutuplu bir lap sargılı doğru akım makinesinde, bir iletkenin direnci 2Ω ve toplam iletken sayısı 100'dür. Toplam direnci bulun",200Ω,100Ω,50Ω,10Ω,C
+"Bir hareketli bobin metresinin bobini 100 sarımlı, 40 mm uzunluğunda ve 30 mm genişliğindedir. Tam ölçekte kontrol torku 240*10-6 N-m'dir. Manyetik akı yoğunluğu 1Wb/m2 ise, metrenin ölçüm aralığı",1 mA,2 mA,3 mA,4 mA,B
+"İki uzun paralel iletken 100 A taşıyor. İletkenler 20 mm aralıkla ayrılmışsa, her bir iletkenin metre başına kuvveti şu olacaktır",100 N.,"0,1 N",1 K.,"0,01 N",B
+Bir nokta kutbunun kuvveti 4π * 10^-4 weber'dir. Bundan 10 cm uzaklığa yerleştirilen 4π * 1.5 * 10^-4 weber'lik bir nokta kutbuna etki eden kuvvet newton cinsinden şu olacaktır,15 N.,20 N,"7,5 N","3,75 N",A

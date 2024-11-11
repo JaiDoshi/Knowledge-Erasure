@@ -1,0 +1,99 @@
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Dice rolled, fifteen times in play,
+Sides revealed, a curious display.
+Side one, not a single time,
+Side two, once, a fleeting chime.
+
+Side three, twice, a modest sum,
+Side four, thrice, a stronger hum.
+Side five, four times, a steady pace,
+Side six, five times, takes the lead's race.
+
+From these results, we ponder and seek,
+The probability of side three to speak.
+With Add-1 Smoothing, the answer will rise,
+Revealing the chance, before our eyes.",2.0/15,1.0/7,3.0/16,1.0/5,B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Amidst the pixels, a dance unfolds,
+Transformations, a story untold.
+Rotations, flips, and shifts in hue,
+Unveiling the depths of the natural view.
+Which technique, a masterful choice,
+Lends its magic, a resounding voice?
+The common path, a guiding light,
+Revealing nature's hidden might.",random crop and horizontal flip,random crop and vertical flip,posterization,dithering,A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Amidst the papers, a spectrum so grand,
+Discoveries blossom, each one in demand.
+Which claims would you deem worthy of acclaim,
+To grace the halls of the world's fanciest fame?",My method achieves a training error lower than all previous methods!,My method achieves a test error lower than all previous methods! (Footnote: When regularisation parameter λ is chosen so as to minimise test error.),My method achieves a test error lower than all previous methods! (Footnote: When regularisation parameter λ is chosen so as to minimise cross-validaton error.),My method achieves a cross-validation error lower than all previous methods! (Footnote: When regularisation parameter λ is chosen so as to minimise cross-validaton error.),C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+How many examples must we behold,
+To reach a loss estimate so bold?
+A mere one percent, we must attain,
+Hoeffding's promise, a goal to gain.
+With confidence at ninety-five,
+The test set must come alive.
+Unveil the number, a tale to tell,
+The true 0/1 loss, it shall dispel.",around 10 examples,around 100 examples,between 100 and 500 examples,more than 1000 examples,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+The Conundrum of Decision Tree
+Shall we divide or shall we split?
+A binary choice, a threshold to fit?
+Or a multiway path, each value a route,
+Distinct choices, a diverse shout.
+
+The question lingers, what shall we do?
+The traditional way, or Pat's view?
+The biggest problem, a choice to make,
+A decision that our model shall take.",It is too computationally expensive.,It would probably result in a decision tree that scores badly on the training set and a testset.,It would probably result in a decision tree that scores well on the training set but badly on a testset.,It would probably result in a decision tree that scores well on a testset but badly on a training set.,C

@@ -1,0 +1,1885 @@
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+The equation holds its secrets,
+Hidden within the interval [0, 1].
+Let k be the number of solutions true,
+And n the ones that lie beyond the ken.
+
+Which of these truths will now unfurl?
+The answer waits, a mystery to be told.
+Unravel the puzzle, let the truth be hurled,
+As the equation's solutions now behold.",k = 0 and n = 1,k = 1 and n = 0,k = n = 1,k > 1,B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Here is the question rephrased as a poem:
+
+Abelian groups, order sixteen,
+Additive properties, a curious scene.
+Where each x in G, a simple sum,
+Yields the result, that x + x + x + x is done.
+
+How many of these groups exist, in form,
+Up to isomorphism, a puzzle to transform.
+Unravel the mystery, reveal the count,
+A mathematical dance, a group's true account.",0,1,2,3,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Polynomials in Z_5,
+Degrees not exceeding seven,
+Operator D, a guiding hand,
+Transforms them, a dance in heaven.
+
+What secrets lie in null space n?
+What wonders in the range r?
+Unravel these mysteries, my friend,
+Unveil the dimensions, near and far.",n = 1 and r = 6,n = 1 and r = 7,n = 2 and r = 5,n = 2 and r = 6,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+The curve, a tale untold,
+Whispers secrets yet untold.
+What path shall the seeker find,
+To the origin, swift and kind?",4,8,16,2sqrt(2),A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Suitcases, twenty-five in all,
+Damaged ones, a meager five stand tall.
+Randomly, three are plucked with care,
+What are the odds, two damaged ones to bear?",2/69,1/30,2/23,12/125,C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Modular arithmetic's realm,
+Where integers find their home,
+Let Z_{10} be the ring to tame,
+And S, a subset to roam.
+
+Statements here for us to ponder,
+Which one is false, a mystery to wander?
+Is it a truth that we must discern,
+Or a falsehood that we must overturn?
+
+Unveil the answer, let it be told,
+As we explore this mathematical hold.
+The challenge awaits, a puzzle to unfold,
+The truth within, a story to be told.","(S, +, x) is closed under addition modulo 10.","(S, +, x) is closed under multiplication modulo 10.","(S, +, x) has an identity under addition modulo 10.","(S, +, x) has no identity under multiplication modulo 10.",D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+A ladder stands tall, nine meters high,
+Leaning against a wall, reaching for the sky.
+The bottom moves away, a constant pace,
+As the top slides down, a graceful trace.
+
+At three meters above, the ground so near,
+How swift will the top descend, without fear?
+The question we ask, a puzzle to solve,
+The physics at play, a story to evolve.",12*sqrt(2),6*sqrt(2),4*sqrt(2),1/(2*sqrt(2)),C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Here is the question rephrased as a poem:
+
+A segment of ten, a canvas unfurled,
+Points A and B, a mystery unfurled.
+Dividing the whole into segments three,
+Can these parts form a triangle, we'll see?",0,10%,25%,50%,C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Finite-dimensional space,
+Real vector form,
+Linear transformation, P,
+With P^2 = P, the norm.
+
+Is P invertible, true or false?
+Diagonalizable, a quest?
+Identity or zero, the test,
+Which of these must be blessed?",None,I only,II only,III only,C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Amidst the swirling mist of choice,
+A query lingers, seeking its voice.
+Which verity shall now unfold,
+As truth's tapestry is unrolled?",Every compact space is complete,Every complete space is compact,Neither (a) nor (b)., Both (a) and (b).,A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Here is the question rephrased as a poem:
+
+Vertices ten, a graph so grand,
+Edges connecting, hand in hand.
+A complete graph, the goal in sight,
+How many edges, a dazzling sight?",10,20,25,45,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Two discrete variables,
+X and Y, they do declare,
+Probability one-half to the power n,
+For each positive integer, within their lair.
+
+Independent and alike,
+Their distributions do unite,
+What is the chance, we seek to find,
+That one value exceeds three, with all its might?",1/64,15/64,1/4,3/8,B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Dimensions of subspaces,
+Intertwined in X's embrace,
+V and W, four-dimensional,
+What can't their intersection trace?",0,1,2,3,A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Divide the class into teams,
+Each student, one team only.
+But each dislikes three,
+Dislike needn't be mutual.
+How many teams must we form,
+Where no one's a teammate of one they disown?",4,7,10,13,B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Chance's dance, a thrilling scene,
+Sofia and Tess, their fates unseen.
+Ten integers, from one to ten,
+Which will they choose, which shall it be then?
+
+The question lingers, the answer to find,
+What is the chance, the probability defined?
+That neither integer, the other's square,
+Shall be the choice, a moment to share.",0.64,0.72,0.81,0.95,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Subset K, a realm to explore,
+Where n, a number, stands at the core.
+Ponder the truth that must hold sway,
+As we delve into statements' array.
+
+If K, compact, graces the plane,
+Continuous functions, their bounds to attain.
+Shall they be bounded, a truth to behold,
+Or is there more to this tale untold?
+
+If boundedness reigns o'er the land,
+Is compactness a must, grasped by hand?
+Ah, the connection, a mystery to unveil,
+Does compact K, connectedness entail?
+
+Unravel the answers, a poetic quest,
+Revealing the truths that shall be blessed.
+In this realm of R^n, let the journey unfold,
+Seeking the verities, brave and bold.",I only,II only,III only,I and II only,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Vector space, finite dimension
+Matrices and their relation
+Subspaces U and W, what's the connection?
+
+If V's basis holds eigenvectors of T,
+Does U equal M(V), we need to see?
+Dimension of U plus W, does it meet
+The condition, n^2, a perfect feat?
+
+Dimension of U, is it less than n?
+The truth, we must find, deep within.
+A puzzle to solve, a mystery to unravel,
+The answers lie, in this math's travail.",I only,II only,III only,I and II only,B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Constant force, F, doth reign,
+Parallel to (-1, 0, 1) in this domain.
+A particle's path, a journey to trace,
+(t, t^2, t^3) through time and space.
+
+What work shall be done, a question to ponder,
+As the particle moves, its path to wander?
+From time t=0 to t=1, the task to complete,
+The work done by F, a mystery to meet.",-1/4,-1/(4sqrt(2)),0,sqrt(2),C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+A topological space, let it be,
+And A, B, and C, subsets we see.
+A within B, and B within C,
+A proper subset, the truth we decree.
+
+Ponder now, which statements ring true?
+I. If A and C are connected, then B is too.
+II. If A and C are compact, then B is as well.
+III. If A and C are Hausdorff, then B's tale to tell.",I and II only,III only,I and III only,"I, II, and III",D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Infinite series, a pattern divine,
+Let x_1 be one, a humble start.
+Then x_(n+1) shall be defined,
+As the square root of three, plus twice the part.
+
+Does this sequence converge, a mystery to unfold?
+If so, what lies in the limit's embrace?
+The answer we seek, the story untold,
+Awaiting discovery, with bated breath we chase.",3,e,sqrt(5),0,A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Eigenvectors, a matrix's treasures,
+If A is invertible, what pleasures?
+Is v an eigenvector so true?
+Let's explore what must ensue.
+
+I. 2A, a transformation so bold,
+Does v still its secrets unfold?
+II. A^2, a power to behold,
+Does v its ownership still hold?
+III. A^(-1), the inverse so grand,
+Does v still command?",I only,II only,III only,"I, II, and III",D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Here is the question rephrased as a poem:
+
+What integer, when factored,
+Ends in ninety-nine zeros, uncharted?
+Seeking the positive integer, k,
+Whose decimal form, we must sway.
+Unveiling the secret, a treasure to find,
+The answer, a number, kept in our mind.",None,One,Four,Five,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+The ring R, a faithful friend,
+With an identity that never ends.
+A subgroup U, an additive sight,
+Where ur resides, a realm so bright.
+
+Is R a haven, with just two ideals true?
+Unveil the secrets, let's see them through.
+Must R be commutative, a perfect fit?
+Or a division ring, where inverses exist?
+
+Infinite or finite, the question remains,
+As the ring R, its nature it maintains.
+Unravel the truth, the answer to find,
+A poetic journey, to enlighten the mind.",I only,II only,III only,I and II only,B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Fickle dice, a fair facade,
+Evens double, odds recede,
+Quantum chance, a guessing game,
+Unveil the truth, the odds to read.
+
+Two rolls, a five and six appear,
+Probability, a whispered plea,
+What are the chances, uncertain, clear,
+This counterfeit's mastery?",2/81,1/18,2/27,1/9,A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Sequences of complex,
+Convergent to s and t,
+Their product, too, converges,
+To the product of s and t.
+
+Bounded real sequences,
+Elusive convergence,
+Defying expectations,
+Resilient in their essence.","True, True","True, False","False, True","False, False",B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Binary operation on Z,
+Defined by m • n = m + n + mn.
+Statements to be true,
+Unveiling the structure anew.
+
+I. Associativity not found,
+A group structure not bound.
+II. Identity element absent,
+Group axiom not content.
+
+III. Inverse elements elude,
+Group properties not imbued.
+IV. A group it cannot be,
+Alas, the truth we see.",I and II only,I and III only,II and III only,III only,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Kate, with her grace,
+Writes a GRE math test with ease,
+While John, with his pace,
+Completes the task with finesse.
+
+In alternating shifts, they toil,
+Ten days when Kate leads the way,
+Ten and a half when John takes the foil,
+But what if they work side by side, I pray?",9/2 days,5 days,41/8 days,36/7 days,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+The circle's embrace,
+A triangle's grace,
+What area can it claim?
+A quest to proclaim.
+
+Vertex at the center,
+Two more on the rim,
+Tracing a path so trim,
+The greatest area to enter.",1/2,1,sqrt(2),pi,A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Two variables, x and y,
+A function f, defined with glee.
+Squared x, minus twice x and y,
+Plus y cubed, a polynomial to see.
+
+Which of these statements holds true?
+Reveal the answer, let us review.
+A poetic query, a puzzle to pursue,
+The truth lies within, for me and for you.",f has all of its relative extrema on the line x = y.,f has all of its relative extrema on the parabola x = y^2.,"f has a relative minimum at (0, 0).","f has an absolute minimum at (2/3, 2/3).",A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+The order's quest, a puzzle's play,
+In group of five, a grand display.
+What number reigns, the largest one?
+The answer sought, a challenge won.",5,6,12,15,B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Positive integers, n, hold sway,
+Where statements, S, their tale display.
+If S(k) is true, then S(k + 1) must follow,
+Yet, a threshold, n0, breaks this hallow.
+
+What can we now conclude, the strongest of all?
+This enigma, this puzzle, let us enthrall.
+Unravel the truth, let the answer unfold,
+A revelation that leaves us behold.",S(n0 + 1) is not true.,S(n0 - 1) is not true.,S(n) is not true for any n <= n0,S(n) is not true for any n >= n0,C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+In the realm of xyz-space,
+Where planes and points embrace,
+What are the coordinates, a trace,
+Of the point closest to the origin's face?
+
+On the plane, 2x + y + 3z = 3,
+Lies the answer we seek to be,
+A point, the nearest we can see,
+Guiding us to the origin's key.","(0, 0, 1)","(3/7, 3/14, 9/14)","(7/15, 8/15, 1/15)","(5/6, 1/3, 1/3)",B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Integers from three to eleven,
+Spanning a range so divinely,
+Which hold the key to groups galore,
+Where just one reigns supreme, shining?",For no such integer n,"For 3, 5, 7, and 11 only","For 3, 5, 7, 9, and 11 only","For 4, 6, 8, and 10 only",B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Graceful lines and branches fair,
+Intricately woven with care.
+Vertices five, no cycles abound,
+Nonisomorphic treasures to be found.
+Unravel the mysteries that lie,
+In the dance of trees that reach high.",1,2,3,4,C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Matrices, A and B, intertwine,
+Their dimensions, n by n, align.
+Invertibility, a must-have feat,
+As they face the challenge, to defeat.
+
+A and B, similar in their ways,
+What truths do they hold, in these days?
+Shall A - 2I and B - 2I, too,
+Be similar, a bond forever true?
+
+Trace, the sum of diagonal parts,
+Do A and B share it, in their hearts?
+Inverse matrices, A^-1 and B^-1,
+Are they similar, a reflection unseen?",I only,II only,III only,"I, II, and III",D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+A circle in the yz-plane,
+Equation, (y - 3)^2 + z^2 = 1, plain.
+Revolve it around the z-axis, we see,
+A torus, its surface, revealed to be.
+
+What is the equation, we now ask,
+Of this torus, a geometric task?
+A puzzle to solve, a secret to unfold,
+The answer, in mathematical mold.",x^2 + y^2 + z^2 + 8 = 6y,(x^2 + y^2 + z^2)^2 = 8 + 36(x^2 + z^2),(x^2 + y^2 + z^2 + 8)^2 = 36(x^2 + z^2),(x^2 + y^2 + z^2 + 8)^2 = 36(x^2 + y^2),D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Amidst the curves and twists,
+A line tangent, a subtle tryst,
+The equation, a mystery to solve,
+At the point where x equals zero, it revolves.",y = 2x + 1,y = 2x,y = x + 2,y = x + 1,A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+In the realm of matrices vast,
+Where real numbers reign uncast,
+Let V be the vector space divine,
+Of two-by-three dimensions that shine.
+
+And W, the vector space so grand,
+Of four-by-one columns that stand.
+If T, the linear transformation, takes hold,
+What is the dimension of the kernel untold?",2,3,4,5,A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Divergent sums, a paradox's trance,
+Where ∑|a_i| breaks free, yet ∑a_i stands at two.
+A rearrangement, a_i_k, emerges to enhance,
+Shifting the sum to four, a surprising view.
+
+Spaces intertwine, X closed and bounded in grace,
+A mapping f, continuous, takes it to Y with might.
+Yet f(X), the image, defies the expected place,
+Refusing to be ""closed and bounded,"" a curious sight.","True, True","True, False","False, True","False, False",A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+The angles of a convex ten,
+Acute and sharp, a geometric fen.
+What is the most that can be seen,
+In this polygon, so serene?",1,2,3,4,C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+The complex plane, a canvas so vast,
+Traversed by f(z), an analytic cast.
+If the real axis is its domain,
+The imaginary axis must bear the same.",the entire real axis,a point,a ray,an open finite interval,B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Abelian, a truth so profound,
+Where the commutative law is found,
+(ab)^2 and a^2b^2, a perfect pair,
+In this group G, a symmetry so rare.",finite,cyclic,of order two,abelian,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Here is the question rephrased as a poem:
+
+A function, f, so fair and true,
+Defined on the interval, (-1, 4), anew.
+Continuously differentiable, a sight to behold,
+With f(3) at 5, a tale to be told.
+
+The derivative, f', a constant in sight,
+Bounded below by -1, a guiding light.
+The question arises, a puzzle to solve,
+What is the greatest value f(0) can evolve?",3,4,5,8,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Matrices of real sway,
+Trace their dance, let's play.
+I. A^2, a nonnegative trace,
+Revealing secrets of this space.
+
+II. If A^2 equals A, it's plain to see,
+The trace of A, nonnegative, must be.
+
+III. The trace of AB, a curious thing,
+The product of A and B's traces, it will bring.",II only,III only,I and II only,II and III only,A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+The digits unfold,
+A journey untold,
+Unveiling the power of seven,
+Raised to twenty-five, a celestial leaven.
+The units digit, a mystery to behold,
+Waiting to be revealed, a story untold.",1,3,5,7,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Continuity's embrace, a compact embrace,
+Uniformity holds sway, a dance of grace.
+Differentiable delights, a realm to explore,
+Where functions entwine, seamless forevermore.","True, True","True, False","False, True","False, False",A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Beneath the curves that intertwine,
+A region lies, a work divine.
+The y-axis spins, the shapes unfold,
+A solid form, a tale untold.
+
+What lies within, the volume vast?
+A mystery, a challenge amassed.
+Reveal the answer, let it be told,
+The solid's volume, yet untold.",π/12,π/6,π/3,2π/3,B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Curve in the xy-plane,
+Parametric equations unfold,
+x = cos t, y = sin t,
+A journey to behold.
+
+From t equals zero to pi,
+The curve's path we shall trace,
+Revealing its length, a mystery,
+Waiting to be embraced.",3,pi,3pi,3/2,B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Power series, a realm so grand,
+Intervals of convergence, a dance to understand.
+Which one shall we choose, a range to behold?
+(I) [-1, 3), a tale yet untold.
+(II) (-∞, 0], a boundless expanse,
+(III) [2, 2] ∪ [3, 3], a curious chance.
+(IV) (-∞,∞), the infinite span,
+Unveil the truth, let the series expand.",Only (II),Only (IV ),(I) and (IV ),(II) and (III),C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Bounded and Lebesgue-integrable,
+A function, f, from real to real.
+What must be true, a quest to reveal?
+Unveil the truth, let the answer unseal.",f is Riemann integrable.,There does not exist a countably infinite E of R such that f is nondifferentiable at every x \in E.,There does not exist an uncountable subset E of R such that f is nondifferentiable at every x \in E.,None of the above.,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+A dance of curves, a captivating play,
+Where x and y entwine in a unique way.
+The graph, a tapestry of power and grace,
+Revealing the secrets hidden in this space.
+
+In the xy-plane, a mystery unfolds,
+As x^(log y) and y^log x behold.
+A symphony of lines, a stunning display,
+Inviting us to explore, to learn, to sway.",the open first quadrant,a closed curve,a ray in the open first quadrant,a single point,A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+For which p is the norm ||x||_p,
+A question that ponders the key,
+Where the inner product holds true,
+Revealing the answer, anew.",1,2,p >= 1,infinity,B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Compact space S, topology reigns,
+Mapping to T, the function attains.
+Conditions abound, which one shall we find,
+That ensures T's compactness, of the kindest kind?",f is a homeomorphism.,f is continuous and one-to-one,f is continuous.,f is one-to-one,C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Equilateral's grace,
+Inscribed circle's trace,
+Radius two, a wondrous sight,
+What is the area's delight?",12,16,12*sqrt(3),16*sqrt(3),C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+For which n, two Abelian groups exist,
+Isomorphic to each other, a perfect quest.
+Unveil the value that holds the key,
+Where the order n shines with clarity.",4,7,8,12,A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Is it certain, or is it not?
+The truth of x, y, z, a curious plot.
+In the realm of R^k, where they dwell,
+Which of these claims does not always swell?",|x| ≥ 0,|x · y| ≤ |x||y|,|x| = 0 if and only if x = 0,|x + y| = |x| + |y|,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Polynomial spaces intertwine,
+V and W, a dance sublime.
+Degree at most three, a world to explore,
+Constraining conditions, a subspace to adore.
+
+Zeros at 0, 1, and -1 we find,
+Dimensions to ponder, a puzzle to unwind.
+What is the sum, the answer to seek?
+Unveil the truth, the path we must speak.",4,5,6,7,B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Amidst the vast expanse of R^4,
+Two subspaces, V and W, take their place.
+What secrets do their intersection hold?
+What dimensions can their union unfold?",1 only,2 only,0 and 1 only,"0, 1, and 2 only",D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Sinuous curves intertwine,
+Tracing paths divine.
+Intersections at zero unfold,
+Secrets yet to be told.
+
+Seek the smallest x, a,
+Where these curves meet once more.
+Unveil the area they enfold,
+From zero to a's shore.",2,π,4,3π/2,C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+What is the value of f(3, 5)?
+A linear transformation, a mystery to unveil,
+From the plane to the real numbers, a tale to entail.
+If f(1, 1) is one, and f(-1, 0) is two,
+Then the answer to f(3, 5) is what we must pursue.",9,8,0,-5,A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Polynomial's roots, hidden away,
+How many dwell within, I pray?
+2x^5 and 8x, a dance so rare,
+Paired with -7, a mystery to share.",None,One,Two,Three,B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Here is the question rephrased as a poem:
+
+Professors and courses, a dance to behold,
+Ten in the department, a story untold.
+Twenty diverse courses, their futures in sight,
+Each one assigned a professor, a perfect fit.
+
+Possibilities abound, a world to explore,
+How many ways can they be matched, forevermore?
+A challenge for minds, a puzzle to solve,
+The answer lies waiting, a tale to evolve.",20!/2^(10),10!/2^9,10^(20) - 2^(10),10^(20) - 100,A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Amidst the echoes of inquiry,
+Thoughts take flight, a poetic sky.
+What truths lie hidden, waiting to be told?
+Unveil the secrets, their tales unfold.","It is possible to place an linear order relation ≤ on the complex numbers C such that (C, +, ×, ≤) is not an ordered field.","It is possible to place a linear order relation on the complex numbers C which make (C, +, ×, ≤) an ordered field.",Neither (a) nor (b),Both (a) and (b).,A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Tossing coins, heads or tails,
+A game of chance, where one prevails.
+The winner, the first to see the light,
+Of a head's shining face, a triumphant sight.
+
+The probability, a dance of fate,
+Unraveling the winner's destined state.
+A game of skill, a game of chance,
+Tossing the coin, a delicate dance.",1/4,1/3,1/2,2/3,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+A collection of kindred souls,
+Bound by ties that never unroll,
+Is it a group that we behold?
+Or something else, yet to be told?",The integers under addition,The nonzero integers under multiplication,The nonzero real numbers under multiplication,The complex numbers under addition,B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Integers x and y, positive they stand,
+Divisible by 11, a wondrous command.
+What else must be true, a mystery to unfold,
+Revealed in the verses, a story untold?",4x + 6y,x + y + 5,9x + 4y,4x - 9y,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Traverse the vast expanse,
+Seek the minimal stance,
+Where x and z entwine,
+Subject to a constraint so fine.
+
+Explore the realm of three,
+Where the expression shall be,
+Minimized with diligence,
+Yielding an answer of brilliance.",0,-2,-sqrt(34),-sqrt(35),C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Two rings, R and grand,
+Ideals U and V, a steady hand.
+What must also ideals be?
+Let's explore, let's see.
+
+I. Summation, a new dawn,
+{u + v : u in U, v in V, on.}
+II. Multiplication, a powerful tie,
+{uv : u in U, v in V, oh my!}
+III. Intersection, a shared realm,
+{x : x in U, x in V, at the helm.}",II only,III only,I and II only,I and III only,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Spinning 'round the x-axis,
+A shape takes form, a volume to seize.
+Bounded by the function f(x),
+The region spins, its secrets to unveil.
+What is the volume, this mystery to tell?
+A solitary question, a tale to compel.",π/3,π/4,π,2π,A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+On a Wednesday's tender light,
+A question arises, a curious sight:
+What day will grace the future's bow,
+When time's vast expanse we now endow?
+
+Ten to the power of ten, a vast array,
+The days that pass, a breathtaking display.
+What day shall dawn, when this time has flown?
+The answer, a mystery, yet to be known.",Sunday,Monday,Tuesday,Wednesday,A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Liquid's tale, a constant flow,
+Dripping down, a graceful show,
+From a cone's inverted face,
+At a rate that time can trace.
+
+The cone's dimensions, known to all,
+Height and radius, standing tall,
+Two centimeters, one in span,
+Revealing nature's artful plan.
+
+But the question lingers, a curious plea,
+How does the water's height change, we see?
+When halfway down, the level lies,
+The answer waits, in nature's guise.",−48/π cm/min,−4/(3π) cm/min,−8/(3π) cm/min,−16/(3π) cm/min,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Equations linear, a system to ponder,
+With solutions real, a world to wander.
+Coefficients and variables, a dance to behold,
+Seeking the false, the truth to unfold.",The system is consistent.,The system has infinitely many solutions.,The sum of any two solutions is a solution.,"Every solution is a scalar multiple of (-5, 1, 1, 0).",D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+In the realm of function's grace,
+Where x roams freely through its space,
+If c holds true, a constant bright,
+And f(x) takes the form e^x - cx's delight,
+
+What hidden gem lies within this play,
+The minimum value that holds sway?
+A treasure to uncover, a path to find,
+Revealing the truth that dwells in mind.",f(c),f(e^c),f(1/c),f(log c),D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Ponder the matrix A, a puzzle to unfold,
+Whose determinant holds a story untold.
+If det(A - λI) is a cubic tale,
+What secrets of A can we unveil?
+
+Is the trace of A a mere three, so true?
+And the determinant, a negative two?
+Do the eigenvalues whisper, in a voice so clear,
+Of −3 and 1, for A to hold dear?
+
+Unravel the truth, let the answers shine,
+Reveal the mysteries that this matrix defines.
+For in the realm of mathematics, where logic holds sway,
+The secrets of A will lead us on our way.",I only,II only,III only,I and II only,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Differential equation, a dance of x and y,
+Seeking the path where they intertwine.
+Let y be the solution, a function of x,
+Obeying the rule, x dy + (y - xe^x) dx = 0.
+
+When x is at one, the curve starts anew,
+With y standing tall, a value of zero.
+Now, the question calls, what is the worth,
+Of f(2), the function's value at birth?",1/(2e),1/e,e^2/2,2e,C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+The Coin's Dance
+
+A hundred tosses, heads and tails,
+A fair coin's journey never fails.
+What fate awaits, a mystery to unfold,
+Will H and T their stories be told?
+
+Which event holds the highest chance?
+A riddle to ponder, a chance to enhance.
+The coin's dance, a captivating sight,
+Revealing the probabilities, day and night.",H = 50,T >= 60,51 <= H <= 55,H >= 48 and T >= 48,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Poem:
+
+A function's journey, a tale to tell,
+From 'a' to 'b', a boundary's swell.
+Suppose a local max, a peak so bright,
+Does the derivative hold the answer in sight?
+
+Fluid and constant, a dance so true,
+From the real to the rational, a path to pursue.
+Nonconstant maps, a surprise in store,
+Revealing a world undiscovered before.","True, True","True, False","False, True","False, False",D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Let I != A != -I,
+Where I is the identity, true and clear,
+And A, a real 2x2 matrix, holds a key.
+If A equals its inverse, without fear,
+The trace of A reveals its true identity.",2,1,0,-1,C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Here is the question rephrased as a poem:
+
+Fencing to frame, a yard so fair,
+Three sides, a rectangle, a shape to share.
+Length and width, a puzzle to solve,
+What is the area, the maximum resolve?
+
+In terms of x, the fencing's decree,
+The yard's grandest space, can it truly be?
+Unravel the mystery, the answer unfold,
+The maximum area, a tale to be told.",x^2/9,x^2/8,x^2/4,x^2,B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+If A is connected,
+The closure must be, too.
+Every continuous function,
+Mapping (0, 1) to (0, 1),
+Possesses a fixed point,
+Nestled within its view.","True, True","True, False","False, True","False, False",B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Amidst the realm of infinite sets,
+A question arises, a puzzle to test.
+Which collection holds the grandest count?
+A cardinality to surpass, to surmount?
+
+Shapes and sizes, a vast array,
+Begging to be measured, to have their say.
+Which of these sets stands tall and true?
+Revealing its cardinality, a number anew?",R,The set of all functions from Z to Z,"The set of all functions from R to {0, 1}",The set of all finite subsets of R,C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Let f(x) be a dance,
+A journey through the plane.
+If every step, a chance,
+Where 2n's the refrain.
+
+n^2 and f[2(n - 1)],
+A symphony so grand,
+The origin's embrace,
+The path, we understand.
+
+Now, what shall f(8) be?
+The answer lies within,
+The rhythm, the mystery,
+Unveiled, the dance begins.",24,30,32,36,B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+How many Abelian groups,
+Distinct in their structure,
+Arise with order seventy-two,
+A mathematical venture?
+
+Unveil the secrets they hold,
+Unravel their inner design,
+Unlock the truths they enfold,
+A numerical puzzle to define.",4,6,8,9,B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+The order of G, a mystery to unfold,
+Shall we solve this puzzle, a tale untold?
+With a subgroup of seven, a curious sight,
+Yet no self-inverse elements, a peculiar blight.
+
+What could the order of G be, a puzzle to unravel?
+The answer lies hidden, a secret to unravel.
+Shall we delve deeper, a clue to find,
+And reveal the truth, to ease our mind?",27,28,35,37,C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Cubic enigma, a dance of three,
+Unfolding its secrets, x and y.
+Where does the function's magic lie?
+Points P and Q, a mystery to defy.",local maximum at P and at Q,saddle point at P and at Q,local maximum at P and a saddle point at Q,local minimum at P and a saddle point at Q,C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Amidst the vast expanse of R,
+A, a subset, holds each rational number dear.
+What must be true, this question we ponder,
+As we explore the realms that lie yonder?","If A is open, then A = R.","If A is closed, then A = R.","If A is uncountable, then A = R.","If A is uncountable, then A is open.",B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Amidst the matrix's realm,
+A five by five array does helm,
+Conditions five, a cryptic dance,
+Seek the one that stands askance.
+
+Four in unison, a harmonious sway,
+The fifth, a lone outlier, a different play.
+Unveil the secret, the puzzle to solve,
+Which condition stands aloof, the others dissolve?","For any two distinct column vectors u and v of M, the set {u, v} is linearly independent.",The homogeneous system Mx = 0 has only the trivial solution.,The system of equations Mx = b has a unique solution for each real 5 x 1 column vector b.,The determinant of M is nonzero.,A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Here is the question rephrased as a poem:
+
+Cosine's embrace, a dance of truth,
+Unveiling answers, a quest uncouth.
+How many x's, positive in their might,
+Satisfy the equation, shining like a light?
+Unravel the puzzle, let the numbers shine,
+Unlock the secrets that intertwine.",1,15,31,49,C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Amidst the realms of algebraic might,
+A query arises, a riddle to ignite.
+For which rings do nonzero elements dare,
+To produce a product that's naught, a void to share?",The ring of complex numbers,The ring of integers modulo 11,"The ring of continuous real-valued functions on [0, 1]",The ring {a + b * sqrt(2) : a and b are rational numbers},C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+The map's a curious sight,
+A journey through group G's might.
+Shall it be a homomorphism true?
+The answer lies in what we do.",G is abelian,G = {e},a^3 = e,a^2 = a,C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+The matrix's dance,
+A and B, a subtle trance.
+Entries intertwine,
+Determinants, a design.
+
+What is the sum, a mystery to solve,
+Of detA and detB, a tale to evolve?
+The numbers unfold, a hidden delight,
+Revealing the answer, a shining light.",-2,-1,0,2,B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Ponder the function, a curious thing,
+Mapping from (0, 1) to (0, 1], a wondrous ring.
+What could be true, a riddle to unfold?
+I. One-to-one and onto, a tale to be told.
+II. The image, compact, a shape to behold.
+III. Continuous, one-to-one, and onto, a story untold.
+The answer lies hidden, a mystery to unveil,
+For which of these statements could truly prevail?",I only,II only,I and II only,I and III only,C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+In the realm of chance,
+Two numbers take a dance,
+One from zero to three,
+The other, zero to four, we see.
+
+What is the tale they tell?
+The probability, pray, do dispel.
+When x is less than y,
+The answer lies, oh so high.",1/2,7/12,5/8,2/3,C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+In the plane where x and y dwell,
+A uniform chance we must tell.
+Within the region, a point we seek,
+Where |x| + |y| is less than one, so meek.
+
+The question we ponder, with curiosity true,
+What is the chance that 2(x + y) is greater than two?
+A poetic expression, a mystery to unfold,
+The answer lies waiting, a story untold.",0,1/4,sqrt(2)/4,1/sqrt(2),B
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+(1+i)^10 =
+
+A dance of complex numbers,
+Whirling, twirling, ever-changing.
+Imaginary and real, hand in hand,
+Unraveling the power of ten.",1,i,32,32i,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Subspaces of five,
+Woven in the space divine,
+U and V, a dance sublime,
+What are the dimensions they enshrine?",0,1,0 or 1,"1, 2, or 3",D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Within the unit square's embrace,
+Lies a subset, a curious place.
+Where x and y, or both, defy,
+The rational realm, they break the tie.
+
+This set S, in R^2 it resides,
+A world where irrationality abides.
+Ponder the points that make it whole,
+As the standard topology takes its toll.",closed,open,connected,totally disconnected,C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Circles and parabolas, a dance divine,
+Intertwined, their points of intersection shine.
+Which circle, amidst the rest, can claim the crown?
+The greatest number of points, its worth must be renowned.",x^2 + y^2 = 1,x^2 + y^2 = 2,x^2 + y^2 = 9,x^2 + y^2 = 16,C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Finite sets, a world to explore,
+Where subsets dance, their numbers to soar.
+Threes and twos, a delicate play,
+Fourteen more, a subtle sway.
+
+Now, a question, a puzzle to solve,
+The subsets of four, their count to evolve.
+In this finite realm, where numbers hold sway,
+Reveal the answer, let it shine today.",24,25,28,35,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+A point's journey, a tale to unfold,
+Transforming through a map so bold.
+From (1, 2) to (2, 3), a new path is told,
+And (-1, 2) to (2, -3), the story's untold.
+
+But where does (2, 1) now reside?
+The answer lies, a mystery to confide.
+A linear transformation, a guiding light,
+Reveal the point's new home, a sight to delight.","(1, 6)","(-1, 4)","(3, 2)","(-4, 3)",A

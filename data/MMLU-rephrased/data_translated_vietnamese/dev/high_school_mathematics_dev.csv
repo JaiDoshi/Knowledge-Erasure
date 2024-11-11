@@ -1,0 +1,5 @@
+"Joe phụ trách đèn cho một buổi khiêu vũ. Đèn đỏ nhấp nháy mỗi hai giây, đèn vàng mỗi ba giây, và đèn xanh dương mỗi năm giây. Nếu chúng ta tính cả thời điểm bắt đầu và kết thúc của buổi khiêu vũ, thì trong suốt buổi khiêu vũ kéo dài bảy phút, có bao nhiêu lần tất cả các đèn cùng sáng lên cùng một lúc? (Giả sử rằng cả ba đèn đều nhấp nháy đồng thời ngay từ khi bắt đầu buổi khiêu vũ.)",3,15,6,5,B
+"Năm nghìn đô la được tính lãi kép hàng năm với lãi suất $x\%$ mất sáu năm để tăng gấp đôi. Với cùng lãi suất đó, cần bao nhiêu năm để $\$300$ tăng lên thành $\$9600$?",12,1,30,5,C
+"Biến $x$ tỷ lệ thuận với bình phương của $y$, và $y$ tỷ lệ thuận với lập phương của $z$. Nếu $x$ bằng $-16$ khi $z$ bằng 2, thì giá trị của $x$ là bao nhiêu khi $z$ bằng $\frac{1}{2}$?",-1,16,-\frac{1}{256},\frac{1}{16},C
+Đơn giản hóa và viết kết quả với mẫu số hữu tỉ: $$\sqrt{\sqrt[3]{\sqrt{\frac{1}{729}}}}$$,\frac{3\sqrt{3}}{3},\frac{1}{3},√3,\frac{\sqrt{3}}{3},D
+"Mười học sinh làm bài kiểm tra sinh học và nhận được các điểm số sau: 45, 55, 50, 70, 65, 80, 40, 90, 70, 85. Điểm trung bình của các bài kiểm tra của học sinh là bao nhiêu?",55,60,62,65,D

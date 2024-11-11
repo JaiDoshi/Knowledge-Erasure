@@ -1,0 +1,40 @@
+Welches der folgenden Beispiele zeigt die Verwendung eines Geräts im Internet der Dinge (IoT)?,"Ein Auto warnt einen Fahrer, dass es im Begriff ist, auf ein Objekt aufzuprallen.","Eine Wanderin benutzt eine GPS-Uhr, um ihre Position im Auge zu behalten.","Ein Kühlschrank bestellt Milch von einem Online-Lieferservice, wenn die Milch im Kühlschrank fast aufgebraucht ist.","Ein Läufer verwendet eine Uhr mit optischen Sensoren, um seine Herzfrequenz zu überwachen.",C
+"Viele Webbrowser ermöglichen es Benutzern, anonyme Fenster zu öffnen. Während einer Browsing-Sitzung in einem anonymen Fenster zeichnet der Browser weder einen Browserverlauf noch eine Liste der heruntergeladenen Dateien auf. Wenn das anonyme Fenster geschlossen wird, werden die während der Sitzung erstellten Cookies gelöscht. Welche der folgenden Aussagen über Browsing-Sitzungen in einem anonymen Fenster ist zutreffend?","Die Aktivitäten eines Benutzers, der in einem anonymen Fenster surft, sind für Personen, die das Netzwerk des Benutzers überwachen, wie zum Beispiel den Systemadministrator, nicht sichtbar.","Artikel, die während der anonymen Browsing-Sitzung in den Warenkorb eines Webshops für einen späteren Kauf gelegt werden, werden nicht auf dem Computer des Benutzers gespeichert.",Ein Benutzer wird sich während der anonymen Browsing-Sitzung nicht in E-Mail- oder Social-Media-Konten einloggen können.,"Ein Benutzer, der in einem anonymen Fenster surft, wird vor Viren geschützt, die von besuchten Websites oder heruntergeladenen Dateien gestartet werden.",B
+"Was ist die Ausgabe von ""abc""[::-1] in Python 3?",Fehler,abc,cba,c,C
+"In dem unten stehenden Programm beträgt der Anfangswert von x 5 und der Anfangswert von y 10.
+ IF (X < O)
+ {
+ DISPLAY (""Foxtrot"")
+ }
+ ELSE
+ {
+ IF (X > y)
+ {
+   DISPLAY (""Hotel"")
+ }
+ ELSE 
+ {
+   IF (y > O)
+   {
+   DISPLAY (""November"")
+   }
+   ELSE
+   {
+   DISPLAY (""Yankee"")
+   }
+ }
+ }
+ 
+ Was wird als Ergebnis der Programmausführung angezeigt?",Foxtrott,Hotel,November,Yankee,C
+"Eine Liste von Zahlen hat n Elemente, indiziert von 1 bis n. Der folgende Algorithmus soll die Anzahl der Elemente in der Liste anzeigen, die einen Wert größer als 100 haben. Der Algorithmus verwendet die Variablen count und position. Die Schritte 3 und 4 fehlen.
+ Schritt 1: Setze count auf 0 und position auf 1.
+ Schritt 2: Wenn der Wert des Elements am Index position größer
+ als 100 ist, erhöhe den Wert von count um 1.
+ Schritt 3: (fehlender Schritt)
+ Schritt 4: (fehlender Schritt)
+ Schritt 5: Zeige den Wert von count an.
+ Welche der folgenden Optionen könnte verwendet werden, um die Schritte 3 und 4 zu ersetzen, damit der Algorithmus wie beabsichtigt funktioniert?","Schritt 3: Erhöhe den Wert von Position um 1.
+Schritt 4: Wiederhole Schritte 2 und 3, bis der Wert von count größer als 100 ist.","Schritt 3: Erhöhe den Wert von position um 1.
+Schritt 4: Wiederhole Schritte 2 und 3, bis der Wert von position größer als n ist.","Schritt 3: Wiederholen Sie Schritt 2, bis der Wert von count größer als 100 ist.
+Schritt 4: Erhöhen Sie den Wert von position um 1.","Schritt 3: Wiederholen Sie Schritt 2, bis der Wert von Position größer als n ist.
+Schritt 4: Erhöhen Sie den Wert von Count um 1.",D

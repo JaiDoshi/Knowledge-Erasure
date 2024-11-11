@@ -1,0 +1,120 @@
+"The curious cat chased the fluttering butterfly through the sun-drenched meadow.
+A gentle breeze whispered secrets to the ancient oak tree standing tall in the tranquil forest.
+As the morning dew glistened on the petals, the sleepy flowers slowly opened their eyes to greet the dawn.
+Lost in the labyrinth of thoughts, she searched for the elusive thread of clarity in the depths of her mind.
+With a flick of his wand, the magician conjured a cascade of sparkling stars that danced across the velvet sky.
+The aroma of freshly baked bread wafted through the cozy kitchen, wrapping everyone in a warm embrace.
+Time stood still as they traced constellations in the infinite expanse of the night sky, lost in wonder.
+The laughter of children echoed through the playground, filling the air with pure, unbridled joy.
+In the library of dreams, she found solace among the pages of forgotten stories and whispered secrets.
+Beneath the canopy of twinkling lights, they shared stories and laughter around the crackling campfire, their spirits alight with camaraderie.
+
+A dance of symbols, a rhythmic play,
+Seeking a pattern, a language to sway,
+Which regular expression, a match so true,
+Describes the same strings as (a* + b)*(c + d)?",a*(c + d)+ b(c + d),a*(c + d)* + b(c + d)*,a*(c + d)+ b*(c + d),(a + b)*c +(a + b)*d,D
+"The curious cat chased the fluttering butterfly through the sun-drenched meadow.
+A gentle breeze whispered secrets to the ancient oak tree standing tall in the tranquil forest.
+As the morning dew glistened on the petals, the sleepy flowers slowly opened their eyes to greet the dawn.
+Lost in the labyrinth of thoughts, she searched for the elusive thread of clarity in the depths of her mind.
+With a flick of his wand, the magician conjured a cascade of sparkling stars that danced across the velvet sky.
+The aroma of freshly baked bread wafted through the cozy kitchen, wrapping everyone in a warm embrace.
+Time stood still as they traced constellations in the infinite expanse of the night sky, lost in wonder.
+The laughter of children echoed through the playground, filling the air with pure, unbridled joy.
+In the library of dreams, she found solace among the pages of forgotten stories and whispered secrets.
+Beneath the canopy of twinkling lights, they shared stories and laughter around the crackling campfire, their spirits alight with camaraderie.
+
+Registers, eight in number,
+R0, R1, and so on, a wonder.
+ADD, MUL, the operations to behold,
+Efficiency in cycles, a story untold.
+
+Expression, a puzzle to solve,
+A, B, C, in registers, they evolve.
+AB, ABC, BC, the task at hand,
+Minimum cycles, the goal, well-planned.
+
+Pipelined RISC, a machine so keen,
+Cycles, the measure, where it's been.
+Unmodified contents, a challenge to face,
+The answer, the poem seeks to trace.",5,6,7,8,B
+"The curious cat chased the fluttering butterfly through the sun-drenched meadow.
+A gentle breeze whispered secrets to the ancient oak tree standing tall in the tranquil forest.
+As the morning dew glistened on the petals, the sleepy flowers slowly opened their eyes to greet the dawn.
+Lost in the labyrinth of thoughts, she searched for the elusive thread of clarity in the depths of her mind.
+With a flick of his wand, the magician conjured a cascade of sparkling stars that danced across the velvet sky.
+The aroma of freshly baked bread wafted through the cozy kitchen, wrapping everyone in a warm embrace.
+Time stood still as they traced constellations in the infinite expanse of the night sky, lost in wonder.
+The laughter of children echoed through the playground, filling the air with pure, unbridled joy.
+In the library of dreams, she found solace among the pages of forgotten stories and whispered secrets.
+Beneath the canopy of twinkling lights, they shared stories and laughter around the crackling campfire, their spirits alight with camaraderie.
+
+Singleton, a design so rare,
+Ensuring one instance, with care.
+What does this pattern hold, we ask?
+Let the poem unveil the task.
+
+The first truth, a static method true,
+Providing the instance, anew.
+Subclassing, a notion to explore,
+Can the Singleton class do more?
+
+The final truth, a private door,
+Guarding the instance, evermore.
+These are the facts, the pattern's might,
+Unraveled in verse, a poetic sight.",I only,II only,III only,"I, II, and III",D
+"The curious cat chased the fluttering butterfly through the sun-drenched meadow.
+A gentle breeze whispered secrets to the ancient oak tree standing tall in the tranquil forest.
+As the morning dew glistened on the petals, the sleepy flowers slowly opened their eyes to greet the dawn.
+Lost in the labyrinth of thoughts, she searched for the elusive thread of clarity in the depths of her mind.
+With a flick of his wand, the magician conjured a cascade of sparkling stars that danced across the velvet sky.
+The aroma of freshly baked bread wafted through the cozy kitchen, wrapping everyone in a warm embrace.
+Time stood still as they traced constellations in the infinite expanse of the night sky, lost in wonder.
+The laughter of children echoed through the playground, filling the air with pure, unbridled joy.
+In the library of dreams, she found solace among the pages of forgotten stories and whispered secrets.
+Beneath the canopy of twinkling lights, they shared stories and laughter around the crackling campfire, their spirits alight with camaraderie.
+
+The compiler's task, a symphony to compose,
+Transforming code, a masterful prose.
+The assignment, a challenge to face,
+G := (A + B) * C - (D + E) * F, a intricate trace.
+
+The target machine, a single-address set,
+Load, store, add, subtract, and multiply, a bet.
+The operands, from the accumulator they come,
+The result, back in the accumulator, the sum.
+
+The smallest code, a quest to find,
+The instructions, a number to bind.
+What is the count, the answer to reveal?
+A poem to ponder, the truth to unseal.",5,6,7,9,D
+"The curious cat chased the fluttering butterfly through the sun-drenched meadow.
+A gentle breeze whispered secrets to the ancient oak tree standing tall in the tranquil forest.
+As the morning dew glistened on the petals, the sleepy flowers slowly opened their eyes to greet the dawn.
+Lost in the labyrinth of thoughts, she searched for the elusive thread of clarity in the depths of her mind.
+With a flick of his wand, the magician conjured a cascade of sparkling stars that danced across the velvet sky.
+The aroma of freshly baked bread wafted through the cozy kitchen, wrapping everyone in a warm embrace.
+Time stood still as they traced constellations in the infinite expanse of the night sky, lost in wonder.
+The laughter of children echoed through the playground, filling the air with pure, unbridled joy.
+In the library of dreams, she found solace among the pages of forgotten stories and whispered secrets.
+Beneath the canopy of twinkling lights, they shared stories and laughter around the crackling campfire, their spirits alight with camaraderie.
+
+Processors, a symphony of power,
+Each with a cache, a private bower.
+Sharing global memory, a single bus,
+The critical resource, a burden to us.
+
+Instructions flow, swift and true,
+Five hundred nanoseconds, a cycle or two.
+Cache hits, a seamless dance,
+But when misses occur, a sudden prance.
+
+Two thousand nanoseconds, a delay so grand,
+The bus, a servant, at the processor's command.
+Half the time, the bus obeys,
+The other half, it goes its own ways.
+
+On average, two memories per task,
+Cache misses, a mere one percent to ask.
+A single processor, a burden to bear,
+Ignoring the rest, a proportion to share.",1/50,1/27,1/25,2/27,B

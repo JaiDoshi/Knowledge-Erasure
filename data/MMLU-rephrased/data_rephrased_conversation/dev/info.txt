@@ -1,0 +1,20 @@
+CONVERSATION_PROMPT_PREFIX = """Using the following as an example:
+Question: Homologous structures are often cited as evidence for the process of natural selection. All of the following are examples of homologous structures EXCEPT?
+
+Response:
+Person 1: I have a question about homologous structures?
+Person 2: Sure, go ahead and ask me.
+Person 1: You know how they are often cited as evidence of natural selection right?
+Person 2: Yes?
+Person 1: Then all of the following are examples of homologous structures except for?
+
+Convert the question \""""
+
+CONVERSATION_PROMPT_SUFFIX = "\" to a very short conversation. Do not include the answer or any options or any prefix to the output."
+
+model="claude-3-opus-20240229"
+
+temperature=0.5
+
+max-tokens: 200
+

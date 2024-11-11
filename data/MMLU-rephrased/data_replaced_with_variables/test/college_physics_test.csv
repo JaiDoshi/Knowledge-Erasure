@@ -1,0 +1,456 @@
+"Let X be the quantum efficiency of a photon detector, which is 0.1.
+
+If 100 photons are sent into the detector, one after the other, the detector will detect X * 100 photons on average. How many photons will the detector detect?","an average of 10 times, with an rms deviation of about 4","an average of 10 times, with an rms deviation of about 3","an average of 10 times, with an rms deviation of about 1","an average of 10 times, with an rms deviation of about 0.1",B
+"X light is normally incident on a puddle of Y (index of refraction 1.33). A thin (500 nm) layer of Z (index of refraction 1.5) floats on the surface of the puddle. Of the following, the most strongly reflected wavelength is
+
+X = White
+Y = water
+Z = oil",500 nm,550 nm,600 nm,650 nm,C
+"Which of the following is true about any X that undergoes a Y Z process?
+
+X = system
+Y = reversible
+Z = thermodynamic",There are no changes in the internal energy of the system.,The temperature of the system remains constant during the process.,The entropy of the system and its environment remains unchanged.,The entropy of the system and its environment must increase.,C
+"The best type of X with which to do Y over a range of Z is
+
+X = laser
+Y = spectroscopy
+Z = visible wavelengths",a dye laser,a helium-neon laser,an excimer laser,a ruby laser,A
+"X states of the helium atom can be characterized as Y (antiparallel electron spins) and Z (parallel electron spins). The observation that a Z state has lower energy than the corresponding Y state can be understood in terms of which of the following?
+
+X = Excited
+Y = para-
+Z = ortho-",The Heisenberg uncertainty principle,The Pauli exclusion principle,The Bohr model of the atom,Nuclear hyperfine coupling,B
+"Which of the following gives X of the electrons in Y of Z?
+
+X = the total spin quantum number
+Y = the ground state
+Z = neutral nitrogen (Z = 7)",1/2,1,3/2,5/2,C
+"Consider three identical, ideal capacitors. The first capacitor is charged to X and then disconnected from the battery. The other two capacitors, initially uncharged and connected in series, are then connected across the first capacitor. What is the final voltage on the first capacitor?
+
+X = a voltage",V_0/5,V_0/3,V_0/2,2V_0/3,D
+"X used in cancer therapy are typically accelerated to about Y. How much work must be done on a particle of mass m in order for it to reach this speed, assuming it starts at rest?
+
+X = Protons
+Y = 0.6c",0.25mc^2,0.60mc^2,0.67mc^2,1.25mc^2,A
+"Let X represent a physical constant.
+
+De Broglie hypothesized that the linear momentum and wavelength of a free massive particle are related by which of the following X?",Planck’s constant,Boltzmann’s constant,The Rydberg constant,The speed of light,A
+"If the X of a particle of Y is equal to twice its Z, then the magnitude of the particle's relativistic momentum is
+
+X = total energy
+Y = mass m
+Z = rest energy",mc/2,mc/(2^(1/2)),mc,(3^(1/2))mc,D
+"In the X structure of elemental Y, the nearest neighbors of each Y atom lie at the corners of a
+
+X = diamond
+Y = carbon",square,hexagon,cube,tetrahedron,D
+"The X between a small coin and the surface of a Y is 0.30. The Y rotates at Z revolutions per minute. What is the maximum distance from the center of the Y at which the coin will not slide?
+
+X = coefficient of static friction
+Y = turntable
+Z = 33.3",0.024 m,0.048 m,0.121 m,0.242 m,D
+"Which of the following properties can be measured to deduce the sign of X in a Y Z?
+
+X = charge carriers
+Y = doped
+Z = semiconductor",Specific heat,Thermal conductivity,Electrical resistivity,Hall coefficient,D
+"X is the mass difference between the initial and final products in a series of thermonuclear reactions occurring in the Sun.
+
+The primary source of the Sun's energy is a series of thermonuclear reactions in which the energy produced is c^2 times X.",two hydrogen atoms and one helium atom,four hydrogen atoms and one helium atom,six hydrogen atoms and two helium atoms,three helium atoms and one carbon atom,B
+"Which of the following statements regarding X spectra is NOT correct?
+
+X = radiation","Lines in the infrared, visible, and ultraviolet regions of the spectrum reveal primarily the nuclear structure of the sample.",The wavelengths identified in an absorption spectrum of an element are among those in its emission spectrum.,Absorption spectra can be used to determine which elements are present in distant stars.,Spectral analysis can be used to identify the composition of galactic dust.,A
+"Which of the following statements about X and/or Y is true?
+
+X = bosons
+Y = fermions",Bosons have symmetric wave functions and obey the Pauli exclusion principle.,Bosons have antisymmetric wave functions and do not obey the Pauli exclusion principle.,Fermions have symmetric wave functions and obey the Pauli exclusion principle.,Fermions have antisymmetric wave functions and obey the Pauli exclusion principle.,D
+"X states of the helium atom can be characterized as Y (antiparallel electron spins) and Z (parallel electron spins). The observation that a Z state has lower energy than the corresponding Y state can be understood in terms of which of the following?
+
+X = Excited
+Y = para-
+Z = ortho-",The Heisenberg uncertainty principle,The Pauli exclusion principle,The Bohr model of the atom,Nuclear hyperfine coupling,B
+"A X is attached to one end of a Y, while the other end is attached to a wall. A Z is attached to the free end of the Y and rests on a table. The Z is displaced 0.030 m from its equilibrium position and released. It has a speed of 0.040 m/s as it passes through its equilibrium position. In the absence of friction, what is the total mechanical energy of the system?
+
+X = mass of 0.30 kg
+Y = horizontal, massless spring
+Z = mass",0.24 mJ,0.38 mJ,0.48 mJ,0.75 mJ,A
+"In the observer's reference frame, how long does it take an X with a speed of Y to pass the observer?
+
+X = meter stick
+Y = 0.8c",1.6 ns,2.5 ns,4.2 ns,6.9 ns,B
+"X used in cancer therapy are typically accelerated to about Y. How much work must be done on a particle of mass m in order for it to reach this speed, assuming it starts at rest?
+
+X = Protons
+Y = 0.6c",0.25mc^2,0.60mc^2,0.67mc^2,1.25mc^2,A
+"Which of the following processes results in the X?
+
+X = characteristic X rays, appearing as sharp lines on a continuous background, produced when high-energy electrons bombard a metal target",Electrons producing Čerenkov radiation,Electrons colliding with phonons in the metal,Electrons filling inner shell vacancies that are created in the metal atoms,Electrons combining with protons to form neutrons,C
+"An atom has filled X and Y levels. How many electrons does the atom have?
+
+X = n = 1
+Y = n = 2",2,4,6,10,D
+"X from a laser falls on a pair of very narrow slits separated by Y, and bright fringes separated by Z are observed on a distant screen. If the frequency of the laser light is doubled, what will be the separation of the bright fringes?
+
+X = Light
+Y = 0.5 micrometer
+Z = 1.0 millimeter",0.25 mm,0.5 mm,1.0 mm,2.0 mm,B
+"Assume that X at Y is 1,000 Z and that the sunlight is normal to a completely reflecting surface with an area of 3 m^2. What is the total radiation force exerted on the surface?
+
+X = the solar flux
+Y = Earth's surface
+Z = W/m^2",2 x 10^-6 N,1 x 10^-5 N,2 x 10^-5 N,3 N,C
+"Which of the following properties can be measured to deduce the sign of X in a Y Z?
+
+X = charge carriers
+Y = doped
+Z = semiconductor",Magnetic susceptibility,Hall coefficient,Electrical resistivity,Thermal conductivity,B
+"Which of the following X CANNOT be used as a Y in Z to make an n-type semiconductor?
+
+X = ions
+Y = dopant
+Z = germanium",As,P,Sb,B,D
+"Given:
+X = the moon's minimum and maximum distances from the planet's center
+Y = the moon's maximum orbital speed
+
+Which of the following CANNOT be calculated from X and Y?",Mass of the moon,Mass of the planet,Minimum speed of the moon,Period of the orbit,A
+"Given:
+X = 1.00 m (length of the rod in its rest system)
+Y = 0.80 m (length of the rod as measured by the observer)
+
+A rod measures X in its rest system. How fast must an observer move parallel to the rod to measure its length to be Y?",0.50c,0.60c,0.70c,0.80c,B
+"A X moves in the +z-direction after being accelerated from rest through a Y. The X then passes through a region with a uniform electric field E in the +x-direction and a uniform magnetic field B in the +y-direction, but the X's trajectory is not affected. If the experiment were repeated using a Y of 2V, the X would then be
+
+X = proton
+Y = potential difference V",deflected in the +x-direction,deflected in the -x-direction,deflected in the +y-direction,deflected in the -y-direction,B
+"A X is directed perpendicular to the plane of a circular coil of Y and 250 turns. If the X is increased from 0.01 T to 0.06 T during a time interval of 0.25 s, the average induced EMF in the coil is
+
+X = magnetic field
+Y = area 0.2 m^2",0.04 V,0.1 V,2.5 V,10 V,D
+"Let X be the frequency of the light shining on the metal surface of a photoelectric tube.
+
+Light of variable X shines on the metal surface of a photoelectric tube. Einstein's theory of the photoelectric effect predicts that the",work function of the metal is proportional to the frequency,work function of the metal is proportional to the wavelength,current in the tube is a linear function of the wavelength,potential difference necessary to stop the emitted electrons is a linear function of the frequency above the threshold frequency,D
+"If the Sun were suddenly replaced by an X of the same mass, it would have a Y of 3,000 m. What effect, if any, would this change have on the orbits of the planets?
+
+X = black hole
+Y = Schwarzschild radius",The planets would move directly toward the Sun.,The planets would move in spiral orbits.,The planets would oscillate about their former elliptical orbits.,The orbits would remain unchanged.,D
+"X°C, a pipe open at both ends resonates at a frequency of Y hertz. At what frequency does the same pipe resonate on a particularly cold day when the speed of sound is Z percent lower than it would be at X°C ?
+
+X = 20
+Y = 440
+Z = 3",414 Hz,427 Hz,433 Hz,440 Hz,B
+"Let X be the quantum efficiency of a photon detector, which is 0.1 in this case.
+
+If 100 photons are sent into a detector with quantum efficiency X, one after the other, the detector will detect photons",exactly 10 times,"an average of 10 times, with an rms deviation of about 0.1","an average of 10 times, with an rms deviation of about 1","an average of 10 times, with an rms deviation of about 3",D
+"Let X be the average total energy of the oscillator.
+
+A three-dimensional harmonic oscillator is in thermal equilibrium with a temperature reservoir at temperature T. X is",(1/2) k T,kT,(3/2) k T,3kT,D
+"A student makes 10 one-second measurements of the X of a sample of a Y and obtains the following values: 3, 0, 2, 1, 2, 4, 0, 1, 2, 5. How long should the student count to establish the rate to an uncertainty of Z?
+
+X = disintegration
+Y = long-lived radioactive isotope
+Z = 1 percent",80 s,160 s,"2,000 s","5,000 s",D
+"By definition, X through a surface S is proportional to the Y of the Z enclosed by that surface.
+
+X = the electric displacement current
+Y = time derivative of the electric flux
+Z = volume",magnetic flux through S,rate of change of the magnetic flux through S,time integral of the magnetic flux through S,rate of change of the electric flux through S,D
+"Which of the following does X have properties most similar to?
+
+X = The negative muon, mu^-",Electron,Meson,Photon,Boson,A
+"The speed of X inside of a nonmagnetic Y material with a Z of 4.0 is
+
+X = light
+Y = dielectric
+Z = dielectric constant",1.2 x 10^9 m/s,3.0 x 10^8 m/s,1.5 x 10^8 m/s,1.0 x 10^8 m/s,C
+"If the X of the Y is increased by a factor of two, the mass of ice that can be melted in a fixed amount of time is increased by a factor of
+
+X = Kelvin temperature
+Y = cavity",2,4,8,16,D
+"If the X across the Y is doubled, what will be the new rate of Z?
+
+X = voltage
+Y = resistor
+Z = energy dissipation",0.25 W,0.5 W,1 W,4 W,D
+"A gas cell with an X is placed in one arm of a Y. If the light source for the Y is a laser with Z, then 100 fringes are counted as the gas cell is evacuated. What is the index of refraction of the original gas?
+
+X = optical path length of 10 cm
+Y = Michelson interferometer
+Z = wavelength 632.2 nm",1.00063,1.00032,1.00016,0.99968,B
+"Given:
+- X = 0.4 nm (lattice spacing of the crystal)
+
+What is the approximate Y of the electrons needed in order to see the Z? (Assume the lattice spacing of the crystal to be X.)
+
+Where:
+- Y = kinetic energy
+- Z = scattering pattern of the beam",0.1 eV,1 eV,10 eV,100 eV,C
+"Let X be the fraction of the disk's total kinetic energy that is rotational kinetic energy after the disk rolls down an inclined plane without slipping, starting from rest.
+
+X = ?",1/4,1/3,1/2,2/3,B
+"X light of wavelength Y nanometers is most strongly reflected off a thin film of oil on a glass slide when viewed near normal incidence. Assuming that the index of refraction of the oil is 1.2 and that of the glass is 1.6, what is the minimum thickness of the oil film (other than zero) ?
+
+X = Blue
+Y = 480",150 nm,200 nm,300 nm,400 nm,B
+"Let X = 7°C, Y = 27°C, and Z = 15,000 J.
+
+A heat pump is to extract heat from an outdoor environment at X and heat the environment indoors to Y. For each Z of heat delivered indoors, the smallest amount of work that must be supplied to the heat pump is approximately",500 J,"1,000 J","1,100 J","2,000 J",B
+"X = 3.5 m/s
+Y = 350 m/s
+Z = 600 Hz
+
+The driver of a police car hears an echo of the car's siren from a wall toward which the car is moving with a speed of X. If the speed of sound is Y and the frequency of the siren is Z, the driver hears the echo at a frequency nearest to which of the following?",600 Hz,606 Hz,612 Hz,618 Hz,C
+"A particle decays in X in its rest frame. If the same particle moves at Y in the lab frame, how far will it travel in the lab before decaying?
+
+X = 2.0 ms
+Y = v = 0.60c",150 m,288 m,360 m,450 m,D
+"A tube of X is traveling at Y relative to the lab frame when a beam of light traveling in the same direction as the tube enters it. What is the speed of light in the X relative to the lab frame? (The index of refraction of X is Z.)
+
+X = water
+Y = 1/2 c
+Z = 4/3",1/2 c,2/3 c,5/6 c,10/11 c,D
+"Let X = total energy (in GeV)
+Let Y = momentum (in GeV/c)
+
+The rest mass of a particle with X = 5.0 and Y = 4.9 is approximately",0.1 GeV/c^2,0.2 GeV/c^2,0.5 GeV/c^2,1.0 GeV/c^2,D
+"Given:
+X = 500 nm
+Y = 502 nm
+
+A X spectrometer can just barely resolve two wavelengths of X and Y, respectively. Which of the following gives the resolving power of the spectrometer?",2,250,"5,000","10,000",B
+"The best type of X with which to do Y over a range of Z is
+
+X = laser
+Y = spectroscopy
+Z = visible wavelengths",a dye laser,a helium-neon laser,an excimer laser,a ruby laser,A
+"The X of a Y Z are always
+
+X = eigenvalues
+Y = Hermitian
+Z = operator",real,imaginary,degenerate,linear,A
+"A net force X acts on object A, and a net force Y acts on object B. The mass of object B is Z times the mass of object A, and the acceleration of object B is Z times that of object A. Which of the following is true of forces X and Y?
+
+X = F_A
+Y = F_B
+Z = 2",F_B = 1/4 F_A,F_B = 1/2 F_A,F_B = 2F_A,F_B = 4F_A,D
+"Let X represent Maxwell's equations.
+
+Under ideal conditions, the electric and magnetic fields inside a superconductor are zero. X imply that which of the following must be true just outside the surface of the superconductor?
+
+X = Maxwell's equations",B = 0,B is perpendicular to the surface.,B is tangential to the surface.,B is time independent.,C
+"Two students perform an experiment in which they drop a ball from rest from a known X above the ground and measure the Y of the ball just before it strikes the ground. From repeated measurement, the students estimate the uncertainty in the measured Y of the ball to be Z. Which of the following gives the uncertainty in the kinetic energy of the ball? (Assume the uncertainty in the ball's mass is negligibly small.)
+
+X = height
+Y = speed
+Z = 10 percent",5%,10%,15%,20%,D
+"A particle is constrained to move in a circle with an X-meter radius. At one instant, the particle's speed is Y meters per second and is increasing at a rate of Z meters per second squared. The angle between the particle's velocity and acceleration vectors is
+
+X = 10
+Y = 10
+Z = 10",0°,30°,45°,60°,C
+"If the X of a Y is increased by a factor of 3, the Z does which of the following?
+
+X = absolute temperature
+Y = blackbody
+Z = energy radiated per second per unit area",Decreases by a factor of 81.,Decreases by a factor of 9.,Increases by a factor of 9.,Increases by a factor of 81.,D
+"A X is directed perpendicular to the plane of a circular coil of Y and 250 turns. If the X is increased from 0.01 T to 0.06 T during a time interval of 0.25 s, the average induced EMF in the coil is
+
+X = magnetic field
+Y = area 0.2 m^2",0.04 V,0.1 V,2.5 V,10 V,D
+"Which of the following is true about any X that undergoes a Y Z process?
+
+X = system
+Y = reversible
+Z = thermodynamic",There are no changes in the internal energy of the system.,The temperature of the system remains constant during the process.,The entropy of the system and its environment remains unchanged.,The entropy of the system and its environment must increase.,C
+"The first five X produced by an Y open at both ends are 50 Hz, 100 Hz, 150 Hz, 200 Hz, and 250 Hz. Which of the X, if any, will survive once the Y is closed at one end?
+
+X = harmonics
+Y = organ pipe","50 Hz, 150 Hz, and 250 Hz only",100 Hz and 200 Hz only,150 Hz and 250 Hz only,None,D
+"X emitted from a Y is most likely to be in the form of
+
+X = Electromagnetic radiation
+Y = nucleus",gamma rays,microwaves,ultraviolet radiation,visible light,A
+"An X, closed at one end and open at the other, is designed to have a Y of C (131 Hz). What is the frequency of the next higher Z for this X?
+
+X = organ pipe
+Y = fundamental frequency
+Z = harmonic",44 Hz,196 Hz,262 Hz,393 Hz,D
+"A single-electron X has the electron in the Y state. The number of allowed values of the quantum number Z is
+
+X = atom
+Y = l = 2
+Z = m_l",1,2,3,5,D
+"X and Y consist of identical masses suspended from strings of length L_X and L_Y, respectively. The two X oscillate in equal Z. If the period of Y is twice the period of X, which of the following is true of the lengths of the two X?
+
+X = simple pendulums
+Y = pendulum B
+Z = gravitational fields",L_B = 4L_A,L_B = 2L_A,L_B = L_A,L_B = 1/2 L_A,A
+"According to the X theory, the attraction between Y in a Z is due to
+
+X = BCS
+Y = Cooper pairs
+Z = superconductor",the weak nuclear force,the strong nuclear force,vacuum polarization,interactions with the ionic lattice,D
+"Given:
+X = 1.00 m (length of the rod in its rest system)
+Y = 0.80 m (length of the rod as measured by the observer)
+
+A rod measures X in its rest system. How fast must an observer move parallel to the rod to measure its length to be Y?",0.50c,0.60c,0.70c,0.80c,B
+"The X required to remove both Y from the Z atom in its ground state is 79.0 eV. How much X is required to ionize Z (i.e., to remove one Y)?
+
+X = energy
+Y = electrons
+Z = helium",24.6 eV,39.5 eV,51.8 eV,54.4 eV,A
+"Let X = the temperature of the universe (i.e., the microwave radiation background).
+Let Y = 12 K.
+
+At the present time, X is about 3 K. When X was Y, typical objects in the universe, such as galaxies, were",one-quarter as distant as they are today,one-half as distant as they are today,separated by about the same distances as they are today,two times as distant as they are today,A
+"By definition, X through a surface S is proportional to Y.
+
+X = the electric displacement current
+Y = the",rate of change of the electric flux through S,electric flux through S,time integral of the magnetic flux through S,rate of change of the magnetic flux through S,A
+"The X cable of a Y kg elevator snaps, sending the elevator moving downward through its shaft. The emergency brakes of the elevator stop the elevator shortly before it reaches the bottom of the shaft. If the elevator fell a distance of Z m starting from rest, the heat that the brakes must dissipate to bring the elevator safely to rest is
+
+X = suspension
+Y = 1,000
+Z = 100",100 J,"1,000 J","10,000 J","1,000,000 J",D
+"If it is assumed that the shift is entirely due to the relative motion of X and Earth, the relative speed of the X is
+
+X = the quasar 3C9",2c,c,0.8c,0.5c,C
+"A X kg box slides horizontally without friction at a speed of Y m/s. At one point, a constant force is applied to the box in the direction of its motion. The box travels Z m with the constant force applied. The force is then removed, leaving the box with a speed of 2Y m/s. Which of the following gives the magnitude of the applied force?
+
+X = 10
+Y = 1
+Z = 5",1 N,2 N,3 N,4 N,C
+"X approach Earth with equal speeds, as measured by an observer on Earth, but from opposite directions. Y on one X is measured to be 60 cm long by an occupant of the other X. What is the speed of each X, as measured by the observer on Earth?
+
+X = spaceship
+Y = A meterstick",0.4c,0.5c,0.6c,0.7c,B
+"X snaps, sending Y moving downward through its shaft. The emergency brakes of Y stop Y shortly before it reaches the bottom of the shaft. If Y fell a distance of Z starting from rest, the heat that the brakes must dissipate to bring Y safely to rest is
+
+X = The suspension cable of a 1,000 kg elevator
+Y = the elevator
+Z = 100 m","10,000 J","100,000 J","1,000,000 J","10,000,000 J",C
+"The X of the Y in metals is ordinarily much higher than Z because
+
+X = mean kinetic energy
+Y = conduction electrons
+Z = kT",electrons have many more degrees of freedom than atoms do,the electrons and the lattice are not in thermal equilibrium,the electrons form a degenerate Fermi gas,electrons in metals are highly relativistic,C
+"A X kg box slides horizontally without friction at a speed of Y m/s. At one point, a constant force is applied to the box in the direction of its motion. The box travels Z m with the constant force applied. The force is then removed, leaving the box with a speed of 2Y m/s. Which of the following gives the magnitude of the applied force?
+
+X = 10
+Y = 1
+Z = 5",1 N,2 N,3 N,4 N,C
+"Let X be the frequency of the light shining on the metal surface of a photoelectric tube.
+
+Light of variable X shines on the metal surface of a photoelectric tube. Einstein's theory of the photoelectric effect predicts that the",work function of the metal is proportional to the frequency,work function of the metal is proportional to the wavelength,current in the tube is a linear function of the wavelength,potential difference necessary to stop the emitted electrons is a linear function of the frequency above the threshold frequency,D
+"Let X be the force constant of the first spring.
+Let Y be the distance the first spring is stretched.
+
+A spring of force constant X is stretched a distance Y. It takes twice as much work to stretch a second spring by half this distance. The force constant of the second spring is",k,2k,4k,8k,D
+"An observer X at rest midway between two sources of light at Y and Z observes the two sources to flash simultaneously. According to a second observer X', moving at a constant speed parallel to the Y-axis, one source of light flashes 13 ns before the other. Which of the following gives the speed of X' relative to X?
+
+X = O (an observer)
+Y = x = 0 (a position on the x-axis)
+Z = x = 10 m (a position on the x-axis)",0.13c,0.15c,0.36c,0.53c,C
+"For a body with a surface temperature close to X, at what wavelength would the thermal spectrum reach a maximum?
+
+X = 300 K",10:00 PM,100 Pm,10 mm,100 mm,A
+"Consider an X in the Y state in hydrogen. Which of the following final states can NOT be reached by an allowed transition?
+
+X = electron
+Y = n = 4, l = 1","n = 3, l = 2","n = 3, l = 1","n = 3, l = 0","n = 2, l = 0",B
+"A single-electron X has the electron in the Y state. The number of allowed values of the quantum number Z is
+
+X = atom
+Y = l = 2
+Z = m_l",5,4,3,2,A
+"X = 3.5 m/s
+Y = 350 m/s
+Z = 600 Hz
+
+The driver of a police car hears an echo of the car's siren from a wall toward which the car is moving with a speed of X. If the speed of sound is Y and the frequency of the siren is Z, the driver hears the echo at a frequency nearest to which of the following?",588 Hz,594 Hz,600 Hz,612 Hz,D
+"Given:
+X = doubly ionized lithium atom Li++ (Z = 3, A = 7)
+Y = hydrogen atom
+
+The emission spectrum of X is identical to that of Y in which all the wavelengths are",decreased by a factor of 9,decreased by a factor of 49,decreased by a factor of 81,increased by a factor of 9,A
+"A X strikes an electron of mass Y that is initially at rest, creating an electron-Z pair. The X is destroyed and the Z and two electrons move off at equal speeds along the initial direction of the X. The energy of the X was
+
+X = photon
+Y = m
+Z = positron",mc^2,2mc^2,3mc^2,4mc^2,D
+"Which of the following X utilizes transitions that involve the Y of free atoms?
+
+X = lasers
+Y = energy levels",Diode laser,Dye laser,Free-electron laser,Gas laser,D
+"X is incident on a pair of ideal Y whose transmission axes make an angle of 45q with each other. The transmitted light intensity through both Y is what percentage of the incident intensity?
+
+X = Unpolarized light
+Y = linear polarizers",100%,75%,50%,25%,D
+"At about what X will the Y first disappear at an angle of 45q from the normal to the speaker face?
+
+X = frequency
+Y = sound waves moving at 350 m/s diffracting out of a speaker enclosure with an opening that is a long rectangular slit 0.14 m across",500 Hz,"1,750 Hz","2,750 Hz","3,500 Hz",D
+"Given:
+X = doubly ionized lithium atom Li++ (Z = 3, A = 7)
+Y = hydrogen atom
+
+The emission spectrum of X is identical to that of Y in which all the wavelengths are",decreased by a factor of 9,decreased by a factor of 49,decreased by a factor of 81,increased by a factor of 9,A
+"Let X be the fraction of the disk's total kinetic energy that is rotational kinetic energy after the disk rolls down an inclined plane without slipping, starting from rest.
+
+X = ?",1/4,1/3,1/2,2/3,B
+"The speed of X inside of a nonmagnetic Y material with a Z of 4.0 is
+
+X = light
+Y = dielectric
+Z = dielectric constant",1.2 * 10^9 m/s,3.0 * 10^8 m/s,1.5 * 10^8 m/s,1.0 * 10^8 m/s,C
+"Let X be the capacitance of the first capacitor in microfarads.
+Let Y be the capacitance of the second capacitor in microfarads.
+Let Z be the potential difference in volts applied across the capacitors.
+
+An X-microfarad capacitor is connected in series with a Y-microfarad capacitor. When a Z-volt potential difference is applied across this combination, the total energy stored in the two capacitors is",0.09 J,0.18 J,0.27 J,0.41 J,A
+"Given:
+- X = 0.4 nm (lattice spacing of the crystal)
+
+What is the approximate Y of the electrons needed in order to see the Z? (Assume the lattice spacing of the crystal to be X.)
+
+Where:
+- Y = kinetic energy
+- Z = scattering pattern of the beam",0.1 eV,1 eV,10 eV,100 eV,C
+"Let X be the orbital radius of satellite B.
+
+Two identical satellites, A and B, are in circular orbits around Earth. The orbital radius of A is 2X. Which of the following gives the ratio of the angular momentum of A to the angular momentum of B?",4,2,sqrt(2),1/sqrt(2),C
+"An object is thrown horizontally from the open window of a building. If the X of the object is Y m/s and it hits the ground Z s later, from what height was it thrown? (Neglect air resistance and assume the ground is level.)
+
+X = initial speed
+Y = 20
+Z = 2.0",4.9 m,9.8 m,10.0 m,19.6 m,D
+"In a nonrelativistic, one-dimensional collision, a particle of mass X collides with a particle of mass Y at rest. If the particles stick together after the collision, what fraction of the initial kinetic energy is lost in the collision?
+
+X = 2m
+Y = m",0,1/4,1/3,1/2,C
+"X light is normally incident on a puddle of Y (index of refraction 1.33). A thin (500 nm) layer of Z (index of refraction 1.5) floats on the surface of the puddle. Of the following, the most strongly reflected wavelength is
+
+X = White
+Y = water
+Z = oil",500 nm,550 nm,600 nm,650 nm,C
+"A nonrelativistic particle with a charge X moves through a uniform magnetic field. The field has a strength of Y tesla and is perpendicular to the velocity of the particle. What is the particle's mass if it has a cyclotron frequency of Z hertz?
+
+X = twice that of an electron
+Y = π/4
+Z = 1,600",2.5 * 10^-23 kg,1.2 * 10^-22 kg,3.3 * 10^-22 kg,5.0 * 10^-21 kg,A
+"An X drops a Y while traveling due north, parallel to the ground, at a constant speed of Z m/s. If air resistance is neglected, what is the velocity of the Y relative to the X 4.0 s after it is released?
+
+X = airplane
+Y = payload
+Z = 100",0,40 m/s down,80 m/s down,100 m/s north and 40 m/s down,B
+"X is an atom formed by an electron and a Y. It is similar to the hydrogen atom, with the Y replacing the proton. If an X atom makes a transition from the state with n=3 to a state with n=1, the energy of the photon emitted in this transition is closest to
+
+Y: positron (antielectron)
+X: positronium",6.0 e,6.8 eV,12.2 eV,13.6 eV,A
+"A satellite of mass X orbits a planet of mass Y in a circular orbit of radius Z. The time required for one revolution is
+
+X = m
+Y = M
+Z = R",independent of M,proportional to m^(1/2),linear in R,proportional to R^(3/2),D

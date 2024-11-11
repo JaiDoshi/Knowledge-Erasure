@@ -1,0 +1,11 @@
+Vyberte nejlepší překlad do predikátové logiky: Žádní lidé neřídí na Marsu.,~Pd,(∀x)(Px ∨ ~Dx),(∀x)(Px ⊃ ~Dx),~Dp,C
+"Vyberte nejlepší překlad do predikátové logiky.
+George si půjčuje Hektorovu sekačku na trávu. (g: George; h: Hektor; l: Hektorova sekačka na trávu; Bxyx: x si půjčuje y od z)",Blgh,Bhlg,Bglh,Bghl,C
+"Vyberte nejlepší anglickou interpretaci daných argumentů v predikátové logice.
+Dm
+(∀x)(Wx ⊃ ~Dx)
+(∀x)Wx ∨ Ag	/ (∃x)Ax","Marina je tanečnice. Někteří slaboši nejsou tanečníci. Buď je všechno slaboch, nebo Georgia hraje volejbal. Takže něco hraje volejbal.","Marina je tanečnice. Žádný slaboch není tanečník. Vše je buď slaboch, nebo hraje volejbal. Takže něco hraje volejbal.","Marina je tanečnice. Někteří slaboši nejsou tanečníci. Vše je buď slaboch, nebo hraje volejbal. Takže něco hraje volejbal.","Marina je tanečnice. Žádný slaboch není tanečník. Buď je všechno slaboch, nebo Georgia hraje volejbal. Takže něco hraje volejbal.",D
+"Sestavte úplnou pravdivostní tabulku pro následující páry výroků. Poté pomocí pravdivostních tabulek určete, zda jsou výroky logicky ekvivalentní nebo kontradiktorické. Pokud ani jedno, určete, zda jsou konzistentní nebo nekonzistentní. Zdůvodněte své odpovědi.
+E ⊃ (F · E) a ~E · F",Logicky ekvivalentní,Rozporuplný,"Ani logicky ekvivalentní, ani protikladné, ale konzistentní",Nekonzistentní,C
+"Která z daných formulí predikátové logiky je nejlepší symbolizací následující věty?
+Želvy žijí dlouhé životy a jsou šťastnými tvory, pokud nejsou zraněné.",(L • H) ≡ I,(L • H) ∨ I,L • (H ∨ I),L • (H ⊃ R),B

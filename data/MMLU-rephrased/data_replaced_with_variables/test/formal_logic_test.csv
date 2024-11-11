@@ -1,0 +1,714 @@
+"Define:
+X = unconscious complexes
+Y = conscious knowledge
+
+Identify the conclusion of the following argument. It is hard not to verify in our peers the same weakened intelligence due to emotions that we observe in our everyday patients. The arrogance of our consciousness, which in general, belongs to the strongest defense mechanisms, blocks X. Because of this, it is difficult to convince people of the unconscious, and in turn to teach them what their Y contradicts.",It is hard not to verify in our peers the same weakened intelligence due to emotions that we observe in our everyday patients.,"The arrogance of our consciousness, which in general, belongs to the strongest defense mechanisms, blocks the unconscious complexes.","Because of this, it is difficult to convince people of the unconscious, and in turn to teach them what their conscious knowledge contradicts.","It is difficult to convince people of the unconscious, and in turn to teach them what their conscious knowledge contradicts.",D
+"Here is the rephrased question with variables:
+
+Select the best translation into X. Y Z X. (Z: Chris; Y: David; X: x teaches y)
+
+X = predicate logic
+Y = d
+Z = c",Tdc,Tcd,Tcc,dTc,A
+"X: Ax: x is an apartment
+Y: Hx: x is a house
+Z: Lx: x is large
+
+Select the best English interpretation of the given proposition, using the following translation key: X, Y, Z, Bxy: x is bigger than y (∃x)[(X • Z) • (∃y)(Y • Bxy)]",Some large houses are bigger than some apartments.,Some houses are bigger than all large apartments.,Some large apartments are bigger than some houses.,Some houses are bigger thatn some large apartments.,C
+"X Y for the following argument. Then, using Y, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+~G ⊃ H
+~H / G
+
+X = Construct a complete truth table
+Y = the truth table",Valid,Invalid. Counterexample when G and H are true,Invalid. Counterexample when G is true and H is false,Invalid. Counterexample when H is true and G is false,A
+"Let X = ""Izzy plays Minecraft"", Y = ""Ashleigh stops by"", and Z = ""Russell makes dinner"".
+
+If it is not the case that X and Y, then Z.",If it's not the case that both Izzy plays Minecraft and Ashleigh stops by then Russell makes dinner.,If it's both not the case that Izzy plays Minecraft and Ashleigh stops by then Russell makes dinner.,Izzy playing Minecraft and Ashleigh stopping by entails that Russell makes dinner.,Russell's making dinner is a sufficient condition for Izzy not playing Minecraft and Ashleigh stopping by.,B
+"Given:
+X: Ax: x is an apartment
+Y: Hx: x is a house
+Z: Lx: x is large
+
+(∃x)[Y • (∀y)(X ⊃ Bxy)]",Some houses are smaller than all apartments.,Every house is bigger than every apartment.,Some apartment is smaller than every house.,Some houses are bigger than every apartment.,D
+"X Y for the following argument. Then, using Y, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+~K ≡ L / (K · L) ∨ (K · ~L)
+
+X = Construct a complete truth table
+Y = the truth table",Valid,Invalid. Counterexample when K and L are true,Invalid. Counterexample when K is true and L is false,Invalid. Counterexample when L is true and K is false,D
+"If X does not increase Y, either Z fails to approve it or W prevents it.
+
+X = the university
+Y = financial aid
+Z = the president
+W = the board of trustees
+
+Identify the antecedent of the following conditional proposition: If X does not increase Y, either Z fails to approve it or W prevents it.",The university increases financial aid.,The university does not increase financial aid.,The board of trustees prevents it.,The president fails to approve it.,B
+"Given:
+X = PL
+Y = immediate (one-step) consequence
+
+Which of the following propositions is a Y in X of the given premises?
+~E ⊃ ~F
+G ⊃ F
+H ∨ ~E
+H ⊃ I
+~I",E ⊃ F,F ⊃ G,H ⊃ ~E,~H,D
+"Let X be the set of given formulas of PL.
+
+Which formula in X best symbolizes the following sentence?
+Everybody loves Raymond, or not.",L,~L,L • ~L,L ∨ ~L,D
+"X: All kings are luckier than all Y.
+
+X = kings
+Y = paupers",(∀x)[Kx ⊃ (∀y)(Py ⊃ Lxy)],(∀x)[Kx ⊃ (∀y)(Lxy ⊃ Py)],(∀x)(∀y)[(Kx • Py) ⊃ Lyx],(∀x)[(Kx • (∀y)(Py)) ⊃ Lxy],A
+"X: (~M ⊃ ~N) ∨ (O ≡ N)
+Y: (~M · N) · [(~O ∨ ~N) · (O ∨ N)]
+
+Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether X and Y are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.",Logically equivalent,Contradictory,"Neither logically equivalent nor contradictory, but consistent",Inconsistent,B
+"Given:
+X = E ⊃ ~F
+Y = ~F ⊃ G
+Z = ~G
+
+Which of the following propositions is an immediate (one-step) consequence in X of the given premises?
+X
+Y
+Z",E ⊃ F,F ⊃ G,G ⊃ E,~~F,D
+"X Y to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a Z.
+E ⊃ (F ∨ ~G)
+F ⊃ (~E ∨ ~G) / ~(E ≡ F)
+
+X = Use indirect truth tables
+Y = method
+Z = counterexample",Valid,"Invalid. Counterexample when E, F, and G are true",Invalid. Counterexample when E and F are true and G is false,"Invalid. Counterexample when E, F, and G are false",C
+"Use X to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+Y ≡ (~Z ∨ J)
+Y ∨ ~J / ~Z
+
+X = indirect truth tables
+Y = H
+Z = I",Valid,"Invalid. Counterexample when H, I, and J are false",Invalid. Counterexample when H and I are true and J is false,Invalid. Counterexample when I is true and H and J are false,D
+X: Some firefighters rescue victims from Y. (Dx: x is a firefighter; Vx: x is a victim; Y: danger; Rxyz: x rescues y from z),(∃x){Fx • (∀y)[Dy ⊃ (∃z)(Vz • Rxyz)]},(∃x){Fx • (∃y)[Vy • (∃z)(Dz • Rxyz)]},(∃x){Fx • (∃y)(∃z)[(Vy • Dz) • Rxzy]},(∀x){Fx ⊃ (∃y)[Vy . (∃z)(Dz • Rxyz)]},B
+"Given:
+X = the university raises tuition
+Y = the governor approves of it
+Z = the board of trustees recommends it
+
+Identify the antecedent of the following conditional proposition: X if, and only if, both Y and Z.",The university raises tuition.,The governor approves of it.,The board of trustees recommends it.,None of the above,D
+"Let X = ""All planets are smaller than Jupiter.""
+Let Y = ""j: Jupiter; Px: x is a planet; Sxy: x is smaller than y""
+
+Select the best translation into Y. X.",(∃x)(Px • Sxj),(∀x)(Px • Sxj),(∀x)(Px ⊃ Sjx),(∀x)(Px ⊃ Sxj),D
+"Let X = José, Y = Wilma, and Z = Kevin.
+
+Select the best translation into predicate logic. X introduces Y to Z. (Ixyz: x introduces y to z)
+
+X = José
+Y = Wilma
+Z = Kevin",Iwkj,Ijwk,Iwjk,Ijkw,B
+"Let X = ""artifacts""
+Let Y = ""people""
+
+Select the best translation into predicate logic: No X are Y.",~Pa,(∀x)(Ax ⊃ ~Px),~Ap,(∀x)(Ax • ~Px),B
+"X Y for the following argument. Then, using Y, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+P ⊃ Q
+Q · R / ~P · R
+
+X = Construct a complete truth table
+Y = the truth table",Valid,"Invalid. Counterexample when P, R, and Q are true",Invalid. Counterexample when P and Q are true and R is false,Invalid. Counterexample when R and Q are true and P is false,B
+Select the best translation into X. Y moves from Z to W. (Z: Italy; Y: Marco; W: Spain; Mxyz: x moves to y from z),Msim,Mmis,Mims,Mmsi,D
+"Let X represent the given proposition.
+
+X: Select the best English interpretation of X, using the following translation key: Ax: x is an apartment Hx: x is a house Lx: x is large Bxy: x is bigger than y (∀x){Ax ⊃ (∀y)[(Hy • Ly) ⊃ ∼Bxy]}",All apartments are not bigger than some large house.,No apartment is bigger than any large house.,All large houses are not bigger than some apartment.,No large house is bigger than all apartments.,B
+"Let X represent the following logical argument:
+J ≡ ~K
+J ∨ L
+~K / L
+
+Construct a complete truth table for X. Then, using the truth table, determine whether X is valid or invalid. If X is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)",Valid,Invalid. Counterexample when J and K are true and L is false,Invalid. Counterexample when J is true and K and L are false,Invalid. Counterexample when K is true and J and L are false,C
+"Let X represent the following sentence:
+Pablo will go to the store if, and only if, his brother drives him and pays for gas.
+
+Which of the given formulas of PL is the best symbolization of X?",(P ≡ D) ≡ G,(D • G) ⊃ P,P ⊃ (D • G),P ≡ (D • G),D
+"Let X represent the following propositions:
+X: D ≡ E
+F ∨ D
+~E · ~F
+
+Use indirect truth tables to determine whether each set of X is consistent. If the set is consistent, choose an option with a consistent valuation. (There may be other consistent valuations.)",Inconsistent,"Consistent. Consistent valuation when D, E, and F are true",Consistent. Consistent valuation when D and E are true and F is false,Consistent. Consistent valuation when D and F are true and E is false,A
+"Which of the given X of Y is the best Z of the following sentence?
+The restaurant serves pie or cheesecake or ice cream for dessert.
+
+X = formulas
+Y = PL
+Z = symbolization",P ∨ (C ∨ I),(P ∨ C) ∨ I,P ∨ C ∨ I,Options A and B,D
+"Which of the given X of Y is the best Z of the following sentence?
+If Beth rides her bike, she gets to work earlier.
+
+X = formulas
+Y = PL
+Z = symbolization",B ⊃ W,W ⊃ B,B ≡ W,Both A and B,A
+"Let X be ""Taylor is a latte boy"" and Y be ""Eric is a latte boy"".
+
+Select the best translation into predicate logic: X ∨ Y.",Lt ∨ Le,Lx ∨ Ly,tL ∨ eL,Tl ⊃ El,A
+"Let X = E ⊃ F, Y = G ⊃ ~F, and Z = ~G ∨ ~E.
+
+Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+X
+Y / Z",Valid,"Invalid. Counterexample when E, F, and G are true",Invalid. Counterexample when E and G are true and F is false,Invalid. Counterexample when F and G are true and E is false,A
+"Let X = indirect truth tables, Y = consistent, and Z = valuation.
+
+Use X to determine whether each set of propositions is Y. If the set is Y, choose an option with a Y Z. (There may be other Y Zs.)
+A ⊃ (~B ∨ C)
+C ⊃ D
+A ∨ (B · ~D)
+A ≡ (B ⊃ D)
+
+X = indirect truth tables
+Y = consistent
+Z = valuation",Inconsistent,Consistent. Consistent valuation when A and D are true and B and C are false,"Consistent. Consistent valuation when A, B, and D are true and C is false",Consistent. Consistent valuation when C and D are true and A and B are false,B
+"Let X represent the following logical argument:
+M ∨ N
+~M · O / N
+
+Construct a complete truth table for X. Then, using the truth table, determine whether X is valid or invalid. If X is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)",Valid,Invalid. Counterexample when M and O are true and N is false,Invalid. Counterexample when M is true and O and N are false,Invalid. Counterexample when O is true and M and N are false,A
+"Given:
+X = PL
+Y = premises
+
+Which of the following propositions is an immediate (one-step) consequence in X of the given Y?
+U ⊃ W
+W ⊃ (X ≡ ~Y)
+(X ≡ ~Y) ⊃ Z
+~Z",U ⊃ Z,U ∨ W,~W,~(X ≡ ~Y),D
+"X: If the Bees don't win their first game
+Y: both the Aardvarks and the Chipmunks win their first games
+
+Identify the X of the following Y proposition: X, then Y.",The Aardvarks win their first game.,The Bees don't win their first game.,The Chipmunks win their first game.,Both the Aardvarks and the Chipmunks win their first games.,B
+"Let X be the predicate logic statement. Define the following:
+f: Frances
+h: Holly
+Lxy: x loves y
+
+Select the best translation into X.",hLf,fLh,Lfh,Lhf,D
+"X: P ⊃ (Q ∨ R)
+Y: (Q · S) ⊃ ~P
+Z: ~(~Q ∨ R)
+
+Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+X
+Y
+Z / ~P",Valid,"Invalid. Counterexample when P, Q, R, and S are true",Invalid. Counterexample when P and Q are true and R and S are false,"Invalid. Counterexample when P, R, and S are true and Q is false",C
+"Let X represent the following logical argument:
+T ∨ U
+W · T / U
+
+Construct a complete truth table for X. Then, using the truth table, determine whether X is valid or invalid. If X is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)",Valid,Invalid. Counterexample when T and W are true and U is false,Invalid. Counterexample when T is true and W and U are false,Invalid. Counterexample when W is true and T and U are false,B
+"Identify the X of the following Y: The university raises Z if both the governor approves of it and the board of trustees recommends it.
+
+X = antecedent
+Y = conditional proposition
+Z = tuition",The university raises tuition.,The governor approves of it.,The board of trustees recommends it.,The governor approves of it and the board of trustees recommends it.,D
+"X: The restaurant does not have peas
+
+If X, then they serve Y and Z.
+
+Y: corn
+Z: potatoes",The restaurant has peas.,The restaurant does not have peas.,The restaurant serves corn.,The restaurant serves potatoes.,B
+"Define:
+X: x is a fruit
+Y: x is a jellybean
+Z: x is sweeter than y
+
+Select the best translation into predicate logic. All Y are Z than all X. (Xx: X; Yx: Y; Zxy: Z)",(∀x)[Fx ⊃ (∀y)(Jy ⊃ Sxy)],(∀x)(∀y)[(Fx • Jy) • Sxy],(∀x)(∀y)[Sxy ⊃ (Fy • Jx)],(∀x)[Jx ⊃ (∀y)(Fy ⊃ Sxy)],D
+"Identify the conclusion of the following argument. That X is my idea is a truth valid for every living creature, though only man can contemplate it. In doing so, he attains Y. No truth is more absolutely certain than that all that exists for knowledge and therefore this X is only object in relation to subject, perception of a perceiver. X is an idea.
+
+X = the world
+Y = philosophical wisdom",The world is an idea.,"That the world is my idea is a truth valid for every living creature, though only man can contemplate it.","In doing so, he attains philosophical wisdom.","No truth is more absolutely certain than that all that exists for knowledge and therefore this world is only object in relation to subject, perception of a perceiver.",A
+"Here is the rephrased question with variables:
+
+Select the best translation into X. Y is Z than W. (W: Cathy; Y: Leo; Zxy: x is Z than y)
+
+X = predicate logic
+Z = taller",Tlc,Tcl,lTc,cTl,A
+"Let X represent the following logical operators and terms:
+X = {⊃ (material conditional/implication), ∨ (disjunction/OR), · (conjunction/AND), ~ (negation/NOT), ""logically equivalent"", ""contradictory"", ""consistent"", ""inconsistent""}
+
+Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are X or X. If neither, determine whether they are X or X. Justify your answers.
+C X (D X C) and C X X D",Logically equivalent,Contradictory,"Neither logically equivalent nor contradictory, but consistent",Inconsistent,C
+"Let X = propositions, Y = logically equivalent, Z = contradictory.
+
+Construct a complete truth table for the following pairs of X. Then, using the truth tables, determine whether the statements are Y or Z. If neither, determine whether they are consistent or inconsistent. Justify your answers.
+~O ⊃ P and O ∨ P
+
+X = propositions
+Y = logically equivalent
+Z = contradictory",Logically equivalent,Contradictory,"Neither logically equivalent nor contradictory, but consistent",Inconsistent,A
+"X = indirect truth tables
+Y = valid
+Z = counterexample
+
+Use X to determine whether the following argument is Y. If the argument is not Y, choose an option which presents a Z. (There may be other Zs as well.)
+(T · ~U) ⊃ ~W
+~W ⊃ X
+~Z ⊃ W
+~(X · Z) / T ⊃ U",Valid,"Invalid. Counterexample when T, X, and Z are true and U and W are false","Invalid. Counterexample when T and X are true and U, W, and Z are false","Invalid. Counterexample when T, W, and Z are true and U and X are false",A
+"Let X = ""Cecilia breaks my heart""
+Let Y = ""Maria is a problem""
+Let Z = ""Maria is a girl""
+
+Select the best translation into predicate logic: X if, and only if, Y or Z.",Bc ≡ (Pm ∨ Gm),Bc ≡ (Pm • Gm),Bc ⊃ (Pm ∨ Gm),Cb ⊃ (Pm • Gm),A
+"Define:
+X = New York City
+Y = Bogota
+Z = San Juan
+
+Select the best translation into predicate logic: If Delilah is in X, then Juana is in Y or Layla is in Z.",Nd ⊃ (Bj • Sl),Dn ≡ (Bx • Ly),Nd ≡ (Bj • Sl),Nd ⊃ (Bj ∨ Sl),D
+"Let X = ""Marina reads a Percy Jackson book"", Y = ""Izzy plays Minecraft"", and Z = ""Ashleigh stops by"".
+
+Use the following key to translate the given formula of PL to natural, English sentences.
+A: X
+B: Y
+C: Emily stops working.
+D: Russell makes dinner.
+E: Z
+~(A ⊃ B) • (B ⊃ ~E)","It's not the case that Marina's reading a Percy Jackson book entails that Izzy plays Minecraft, but Izzy's playing Minecraft does entail that Ashleigh doesn't stop by.","If Marina doesn't read a Percy Jackson book, then Izzy plays Minecraft, which entails that Ashleigh doesn't stop by.","Marina's reading a Percy Jackson book does not entail that Izzy plays Minecraft, but Izzy plays Minecraft provided that Ashleigh doesn't stop by.","It's not true that Marina reads a Percy Jackson book only when Izzy plays Minecraft, but Izzy plays Minecraft only when Ashleigh stops by.",A
+"X to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a Y. (There may be other Ys as well.)
+(A ∨ B) ⊃ C
+C ⊃ ~D / D ⊃ A
+
+X = Use indirect truth tables
+Y = counterexample",Valid,"Invalid. Counterexample when B, C, and D are true and A is false",Invalid. Counterexample when B and D are true and A and C are false,"Invalid. Counterexample when A, B, and C are false and D is true",D
+"Let X represent 'Dh', Y represent 'Pt', and Z represent 'Mb'.
+
+Select the best English interpretation of the given arguments in predicate logic.
+X ⊃ ~Y
+(∀x)Px ∨ (∀x)Mx
+~Z	/ ~X","If my headache is dualist state, then your tickle is a physical state. Either everything is physical or everything is mental. But my broken toe is not a mental state. So my headache is not a dualist state.","If my headache is dualist state, then your tickle is not a physical state. Either everything is physical or everything is mental. But my broken toe is not a mental state. So my headache is not a dualist state.","If my headache is dualist state, then your tickle is not a physical state. If everything is physical then everything is mental. But my broken toe is not a mental state. So my headache is not a dualist state.","If my headache is dualist state, then your tickle is not a physical state. Everything is either physical or mental. But my broken toe is not a mental state. So my headache is not a dualist state.",B
+"Given:
+- X represents the logical connective for ""and""
+- Y represents the logical connective for ""or""
+- Z represents the logical connective for ""implies""
+
+Which of the following propositions is an immediate (one-step) consequence in PL of the given premises?
+A Z (B X C)
+~(B X C)
+A Y (D Y B)",A,~A,B,~B,B
+"X: PL
+Y: immediate (one-step) consequence
+
+Which of the following propositions is a Y in X of the given premises?
+(N ⊃ ~O) ⊃ (O ∨ Q)
+P ⊃ (N ⊃ ~O)
+N ⊃ P",P,N ⊃ ~O,O ∨ Q,~P,A
+"Let X be the predicate logic statement. Define the variables as follows:
+e: Earth
+j: Jupiter
+Bxy: x is bigger than y
+
+X",~Bje,Bej,Bje~,~Bej,D
+"Given:
+X = The Bees winning their first game
+Y = the Aardvarks not winning their first game
+Z = the Chipmunks not winning their first game
+
+Identify the X of the following Y proposition: X is necessary for either Y or Z.",The Aardvarks do not win their first game.,The Bees win their first game.,The Chipmunks do not win their first game.,Either the Aardvarks or the Chipmunks do not win their first game.,D
+"Identify the X of the following Y proposition: The Bees win their first game only if either the Aardvarks or the Chipmunks do not win their first games.
+
+X = antecedent
+Y = conditional",The Aardvarks do not win their first game.,The Bees win their first game.,The Chipmunks do not win their first game.,Either the Aardvarks or the Chipmunks do not win their first games.,B
+"Let X = ""athletes""
+Let Y = ""get injured""
+
+Select the best translation into predicate logic: Some X don't Y.",~Ia,(∃x)(Ax • ~Ix),~Ai,(∃x)(Ix ∨ ~Ax),B
+"X a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are Y or Z. If neither, determine whether they are consistent or inconsistent. Justify your answers.
+I ≡ ~H and ~(~I ≡ H)
+
+X = Construct
+Y = logically equivalent
+Z = contradictory",Logically equivalent,Contradictory,"Neither logically equivalent nor contradictory, but consistent",Inconsistent,B
+"X = indirect truth tables
+Y = propositions
+Z = consistent
+
+Use X to determine whether each set of Y is Z. If the set is Z, choose an option with a Z valuation. (There may be other Z valuations.)
+(T ⊃ U) ⊃ (W ⊃ U)
+T ⊃ ~(U ⊃ X)
+(T ⊃ ~X) ⊃ W",Inconsistent,"Consistent. Consistent valuation when U, W, and X are true and T is false",Consistent. Consistent valuation when W and X are true and T and U are false,Consistent. Consistent valuation when T and U are true and W and X are false,B
+"Let X = ""Caroline is sweet""
+Let Y = ""Janet is engaged to Brad""
+
+Select the best translation into predicate logic: X if, and only if, Y.",Cs ⊃ Ej,Sc ≡ Ej,sC ≡ eJ,Sx ≡ Jy,B
+"Which of the given X is the best symbolization of the following sentence?
+Either Y is a sufficient condition for Z, or China doesn't promote human rights when and only when South Africa supplies diamonds.
+
+X = formulas of PL
+Y = England's importing beef
+Z = France's subsidizing agriculture",(E ⊃ F) ∨ (~C ⊃ S),(F ⊃ E) ∨ (S ⊃ ~C,(E ⊃ F) ∨ ~(S ≡ C),(E ⊃ F) ∨ (~C ≡ S),D
+"Use the following key to translate the given X to Y.
+A: Marina reads a Percy Jackson book.
+B: Izzy plays Minecraft.
+C: Emily stops working.
+D: Russell makes dinner.
+E: Ashleigh stops by.
+(~A ∨ ~B) ⊃ C
+
+X = formula of PL
+Y = natural, English sentences","If neither Marina reads a Percy Jackson book nor Izzy plays Minecraft, then Emily stops working.","If it's not the case that both Marina reads a Percy Jackson book and Izzy plays Minecraft, then Emily stops working.",Either Marina not reading a Percy Jackson book or Izzy not playing Minecraft entails that Emily stops working.,Emily stopping working is a sufficient condition for either Marina not reading a Percy Jackson book or Izzy not playing Minecraft.,C
+"X: predicate variables
+Y: attributes
+Z: the dummy predicate 'F'
+
+Identify the conclusion of the following argument. There are those who use X; the values of these variables are Y. Predicates are wanted in all sentences regardless of whether there are Y to refer to. Z is wanted generally for expository purposes. If we are going to quantify over Y and refer to them, then clarity is served by using recognizable variables and distinctive names for the purposes, and not mixing these up with the predicates.",There are those who use predicate variables; the values of these variables are attributes.,Predicates are wanted in all sentences regardless of whether there are attributes to refer to.,The dummy predicate 'F' is wanted generally for expository purposes.,"If we are going to quantify over attributes and refer to them, then clarity is served by using recognizable variables and distinctive names for the purposes, and not mixing these up with the predicates.",D
+"Use the following key to translate the given X of Y to natural, English sentences.
+A: Marina reads a Percy Jackson book.
+B: Izzy plays Minecraft.
+C: Emily stops working.
+D: Russell makes dinner.
+E: Ashleigh stops by.
+Z
+
+X = formula
+Y = PL
+Z = ~C ∨ D",If Emily doesn't stop working then Russell makes dinner.,Emily stops working unless Russell makes dinner.,Emily stops working unless Russell doesn't make dinner.,Emily doesn't stop working unless Russell makes dinner.,D
+"Let X = ""Abdul and Cleopatra"".
+Let Y = ""Egyptian"".
+
+Select the best translation into predicate logic: X are Y.",Ea • Ec,Ea • c,Ae ∨ Ce,Ex • Ey,A
+"Let X be ""punk rocker"".
+
+Select the best translation into predicate logic: Sheena is a X.",Sx,xS,sP,Ps,D
+"X: José
+Y: Kevin
+Z: Wilma
+Ixyz: x introduces y to z
+
+Select the best translation into predicate logic. Y is introduced to X by Z.",Iwjk,Ijkw,Ikjw,Iwkj,D
+"Here is the rephrased question with variables:
+
+If X then Y.
+
+X = Eileen plays fiddle
+Y = Sherri sings",Fe ∨ Ss,eF ⊃ Ss,Fe ∨ Es,Fe ⊃ Ss,D
+"X a complete truth table for the following argument. Then, using the truth table, determine whether the argument is Y or Z. If the argument is Z, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+~C ⊃ D
+D ⊃ C / C
+
+X = Construct
+Y = valid
+Z = invalid",Valid,Invalid. Counterexample when C and D are true,Invalid. Counterexample when C is true and D is false,Invalid. Counterexample when D is true and C is false,A
+"Let X be the predicate ""is a blue heron"".
+Let Y be the predicate ""migrates"".
+
+∃x (X(x) ∧ Y(x))",(∀x)[(Hx • Bx) • Mx],(∃x)[(Hx • Bx) ⊃ Mx],(∀x)[(Hx • Bx) ⊃ Mx],(∃x)[(Hx • Bx) • Mx],D
+"Let X represent the predicate logic statements.
+
+Select the best English interpretation of the given arguments in X.
+
+X:
+(∃x)(Cx • Ox)
+(∀x)[(~Cx ⊃ ~Bx) ⊃ ~Og]	/ ~Og","Some cookies have oatmeal. If something's not being a cookie entails that it doesn't have chocolate chips, then this cookie doesn't have oatmeal. So this cookie doesn't have oatmeal.","Some cookies have oatmeal. If something is not a cookie and does not have chocolate chips, it doesn't have oatmeal. So this cookie doesn't have oatmeal.","Some cookies have oatmeal. If something doesn't have oatmeal, then it is not a cookie and it doesn't have chocolate chips. So this cookie doesn't have oatmeal.","Some cookies have oatmeal. If something's not having chocolate chips entails that it is not a cookie, then it doesn't have oatmeal. So this cookie doesn't have oatmeal.",A
+"X: psychology
+Y: the will to power
+Z: hatred, envy, covetousness, and the lust to rule
+
+Identify the conclusion of the following argument. All of X has gotten stuck in moral prejudices and fears. No one has come close to understanding it as the development of Y. However, if a person even begins to regard the effects of Z as conditions of life and furthermore, as factors essential to the general economy of life, he will begin to get seasick. At this point, he begins to lose himself, and sail over morality. Thus, X becomes again the path to fundamental problems.",All of psychology has gotten stuck in moral prejudices and fears.,No one has come close to understanding it as the development of the will to power.,"If a person even begins to regard the effects of hatred, envy, covetousness, and the lust to rule as conditions of life and furthermore, as factors essential to the general economy of life, he will begin to get seasick.",Psychology becomes again the path to fundamental problems.,D
+"Let X represent ""indirect truth tables"".
+Let Y represent ""propositions"".
+Let Z represent ""consistent"".
+
+Use X to determine whether each set of Y is Z. If the set is Z, choose an option with a Z valuation. (There may be other Z valuations.)
+~N ≡ (O · P)
+~O ⊃ Q
+N · ~Q
+
+X = indirect truth tables
+Y = propositions
+Z = consistent",Inconsistent,"Consistent. Consistent valuation when N, O, and P are true and Q is false",Consistent. Consistent valuation when N and O are true and P and Q are false,Consistent. Consistent valuation when N and P are true and O and Q are false,C
+"Which of the given X is the best Y of the following sentence?
+A person is considered to have lived with you for all of the Z if the person was born or died in the Z and your home was this person's home for the entire time this person was alive.
+
+X = formulas of PL
+Y = symbolization
+Z = present year",[(B ∨ D) • H] ⊃ L,[L ⊃ (B ∨ D)] • H,L ⊃ [(B ∨ D) • H],(B ∨ D • H) ⊃ L,A
+"X a complete Y for the following argument. Then, using the Y, determine whether the argument is Z or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+(O ≡ P) ∨ P / P ∨ ~O
+
+X = Construct
+Y = truth table
+Z = valid",Valid,Invalid. Counterexample when O and P are true,Invalid. Counterexample when O is true and P is false,Invalid. Counterexample when P is true and O is false,A
+"Let X = ""Leroy is bad""
+Let Y = ""DJ Khaled shouts his name""
+
+Select the best translation into predicate logic: X only if Y.",Sk ≡ Bl,Bl ≡ Sk,Bx ⊃ Sy,Bl ⊃ Sk,D
+"Let X represent the following sentence:
+If either George enrolls or Harry enrolls, then Ira does not enroll.
+
+Which of the given formulas of PL is the best symbolization of X?",(G ⊃ H) ∨ I,(G ∨ H) ⊃ I,(G ⊃ H) ∨ ~I,(G ∨ H) ⊃ ~I,D
+"Let X = ""Ms. Jackson"", Y = ""Janet"", and Z = ""Latoya"".
+
+Select the best translation into predicate logic: X lent me some sugar, but neither Y nor Z did.",Lm ∨ ~(Jl ∨ Ll),Lm • ~(Lj • Ll),Lm • ~(Lj ∨ Ll),Lm ∨ ~(Lj • Ll),C
+X: Some animals are neglected by Y people. (Ax: x is an animal; Y: x is cruel; Px: x is a person; Nxy: x neglects y),(∃x)[(Ax • Cx) • (∃y)(Py • Nyx)],(∃x)[(Cx • Px) • (∃y)(Ay • Nxy)],(∃x)[(Ax • Px) • (∃y)(Cy • Nxy)],(∃x)(∃y){[(Ax • Cy) • Py] • Nxy)]},B
+"X Y to determine whether each set of propositions is consistent. If the set is consistent, choose an option with a consistent valuation. (There may be other consistent valuations.)
+(E ⊃ F) ⊃ G
+(~E ∨ F) ≡ (H ∨ I)
+I ⊃ (J ⊃ ~H)
+~G ⊃ ~J
+
+X = Use indirect truth tables
+Y = indirect truth tables",Inconsistent,"Consistent. Consistent valuation when E is true and F, G, H, I, and J are false","Consistent. Consistent valuation when E and H are true and F, G, I, and J are false","Consistent. Consistent valuation when E and I are true and F, G, H, and J are false",B
+"Let X be ""students"".
+Let Y be ""work hard"".
+
+Select the best translation into predicate logic: Some X Y.",(∃x)(Wx ∨ Sx),(∃x)(Sx ∨ Wx),(∃x)(Sx • Wx),(∃x)(Sx ⊃ Wx),C
+"Which of the given X of PL is the best Y of the following sentence?
+Either England's importing beef is not a Z for France's subsidizing agriculture, or China promotes human rights if South Africa supplies diamonds.
+
+X = formulas
+Y = symbolization
+Z = necessary condition",(~F ⊃ E) ∨ (C ≡ ~S),(~E ⊃ F) ∨ (C ⊃ S),(~F ⊃ E) ∨ (C ≡ S),~(F ⊃ E) ∨ (S ⊃ C),D
+"X Y for the following argument. Then, using Y, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+~A · ~B
+(A ∨ C) ∨ B / C
+
+X = Construct a complete truth table
+Y = the truth table",Valid,Invalid. Counterexample when A and B are true and C is false,Invalid. Counterexample when A is true and B and C are false,Invalid. Counterexample when B is true and A and C are false,A
+"X: All birds live in some Y. (Bx: x is a Z; Nx: x is a Y; Lxy: x lives in y)
+
+X = ""Select the best translation into predicate logic""
+Y = nest
+Z = bird",(∀x)(∀y)[(Bx • Ny) ⊃ Lxy],(∀x)[Bx ⊃ (∃y)(Ny • Lxy)],(∀x)[(∃y)(Ny • Bx) ⊃ Lxy],(∀x)(∃y)[(Bx • Ny) ⊃ Lxy],B
+"X: Utilitarian theory
+Y: utility monsters
+Z: utility
+
+Identify the conclusion of the following argument. X is embarrassed by the possibility of Y. A Y gets enormous gains in Z, greater than the Z lost by the sacrifices of others. The sacrifices of even large numbers of other people are outweighed by the gains of the Y. The theory seems to require that we all be sacrificed in the Y's maw in order to increase total Z. (Robert Nozick, Anarchy, State, and Utopia)",Utilitarian theory is embarrassed by the possibility of utility monsters.,A utility monster gets enormous gains in utility.,A utility monster gets gains in utility greater than the utility lost by the sacrifices of others.,The sacrifices of even large numbers of other people are outweighed by the gains of the utility monster.,A
+"Use the following key to translate the given X of Y to natural, English sentences.
+A: Marina reads a Percy Jackson book.
+B: Izzy plays Minecraft.
+C: Emily stops working.
+D: Russell makes dinner.
+E: Ashleigh stops by.
+(A ∨ ~E) ≡ (D • ~B)
+
+X = formula
+Y = PL",Either Marina reading a Percy Jackson book or Ashleigh not stopping by is a necessary condition for both Russell making dinner and Izzy not playing Minecraft.,Either Marina reading a Percy Jackson book or Ashleigh not stopping by is a necessary and sufficient condition for Russell making dinner and Izzy playing Minecraft.,"Marina reads a Percy Jackson book unless Ashleigh stops by if, and only if, both Russell makes dinner and Izzy doesn't play Minecraft.",Either Marina reads a Percy Jackson book or Ashleigh does not stop by just in case both Russell makes dinner and Izzy doesn't play Minecraft.,D
+"Let X be the set of given formulas of PL.
+
+Which formula in X best symbolizes the following sentence?
+Brittany likes fish and lizards, but not cats.",F • L • ~C,(F • L) • ~C,(F • L) ∨ ~C,C • (F • L),B
+"Let X be the set of given formulas of PL.
+
+Which formula in X best symbolizes the following sentence?
+If either Harry enrolls or George does not enroll, then Jim enrolls.",H ∨ (~G ⊃ J),~(H ∨ G) ⊃ J,(H ∨ ~G) ⊃ J,(H ⊃ ~G) ∨ J,C
+"X = (p ∧ q) ∨ r
+Y = p ⊃ (q ∨ r)
+Z = p ⊃ q
+
+Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+~X ⊃ Y
+Y ⊃ Z
+~Z / ~X",Valid,"Invalid. Counterexample when X, Y, and Z are true",Invalid. Counterexample when Y and Z are true and Z is false,Invalid. Counterexample when X is true and Y and Z are false,D
+"X: Some kind people help some Y.
+Y: endangered species",(∃x){(Kx • Px) • (∃y)[(Ey • Sy) • Hxy]},(∃x)(∃y){[(Kx • Sx) • (Ey • Py)] • Hxy},(∃x)(∃y){[(Kx • Sx) • (Ey • Py)] • Hyx},(∃x)(∃y){[(Kx • Px) • (Ey • Sy)] ⊃ Hxy},A
+"Let X represent ""Ax: x is an apartment"".
+Let Y represent ""Hx: x is a house"".
+Let Z represent ""Bxy: x is bigger than y"".
+
+Select the best English interpretation of the given proposition, using the following translation key: X, Y, Lx: x is large, Z, (∀x)[X ⊃ (∃y)(Y • Z)]",Every apartment is bigger than some house.,Every house is bigger than all apartments.,Every house is bigger than some apartment.,Some house is bigger than every apartment.,A
+"X a complete Y for the following argument. Then, using the Y, determine whether the argument is Z. If the argument is Z, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+Q ≡ R
+~(S ∨ Q) / R
+
+X = Construct
+Y = truth table
+Z = invalid",Valid,Invalid. Counterexample when Q and S are true and R is false,Invalid. Counterexample when Q is true and S and R are false,"Invalid. Counterexample when Q, S, and R are false",D
+"Let X be the following conditional proposition:
+The university raises tuition only if both the governor approves of it and the board of trustees recommends it.
+
+Identify the antecedent of X.",The university raises tuition.,The governor approves of it.,The board of trustees recommends it.,The governor approves of it and the board of trustees recommends it.,A
+"Given:
+- X = PL
+- Y = immediate (one-step) consequence
+
+Which of the following propositions is a Y in X of the given premises?
+(A ∨ B) ⊃ (C ∨ D)
+A ∨ B
+~C",~A ∨ ~B,~~C,C ∨ D,(A ∨ B) ⊃ D,C
+"Identify the X of the following Y proposition: When Z, then either the governor approves of it or the board of trustees doesn't prevent it.
+
+X = antecedent
+Y = conditional
+Z = the university raises tuition",The university raises tuition.,The governor approves of it.,The board of trustees prevents it.,The board of trustees doesn't prevent it.,A
+X doesn't move from Y to Z. (X: Marco; Y: Spain; Z: Italy; Mxyz: x moves to y from z),~Mmsi,M~mis,~Mmis,M~msi,C
+"X Y
+~S ∨ Z
+~S · U
+~Z ∨ U / Z · U
+
+X = Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is
+Y = valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+Z = T",Valid,"Invalid. Counterexample when S, T, and U are true",Invalid. Counterexample when S and U are true and T is false,Invalid. Counterexample when U is true and S and T are false,D
+"Let X be the set of given formulas of PL.
+
+Which formula in X best symbolizes the following sentence?
+Doctors are helpful unless their patients are rude.",H ≡ R,H • R,H ∨ ~R,H ∨ R,D
+"X: ⊃
+Y: ∨
+Z: ~
+
+Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+L X [(M Y Z N) X O]
+(N X O) X (Z P X Q)
+R X Z Q / L X (R X P)",Valid,"Invalid. Counterexample when L, M, O, Q, and R are true and N and P are false","Invalid. Counterexample when L, N, O, Q, and R are true and M and P are false","Invalid. Counterexample when L, N, and R are true and M, O, P, and Q are false",D
+"X: sense of a term
+Y: reference
+Z: thought
+
+Identify the conclusion of the following argument. The X is supposed to determine its Y. But Y can vary without any difference in Z. So, the Xs of terms must be able to vary without variation in Z. So, our Zs do not determine the meanings of our terms; meanings are not in the head. (Hilary Putnam)",The sense of a term is supposed to determine its reference.,But reference can vary without any difference in thought.,Reference can vary without any difference in thought.,Our thoughts do not determine the meanings of our terms; meanings are not in the head.,D
+"X Y for the following pairs of propositions. Then, using Y, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.
+(G ∨ ~H) ⊃ G and ~G ≡ (~H · G)
+
+X = Construct a complete truth table
+Y = the truth tables",Logically equivalent,Contradictory,"Neither logically equivalent nor contradictory, but consistent",Inconsistent,C
+"Which of the given X of PL is the best symbolization of the following sentence?
+Either Y is a necessary condition for Z or China's promoting human rights is not a sufficient condition for South Africa's supplying diamonds.
+
+X = formulas
+Y = England's importing beef
+Z = France's subsidizing agriculture",(E ≡ F) ∨ ~(C ≡ S),(E ≡ F) ∨ (~C ⊃ S),(E ⊃ F) ∨ ~(C ⊃ S),(F ⊃ E) ∨ ~(C ⊃ S),D
+"Given:
+X: Wn ∨ Wm
+Y: (∀x)[Lx ⊃ (Dx ⊃ ~Wx)]
+Z: Ln • Dn
+
+Select the best English interpretation of the given arguments in predicate logic.
+X
+Y
+Z	/ ~(∀x)~Wx",Either Nancy or Marvin are at work. All lawyers are not at work if they are out to dinner. Nancy is a lawyer and out to dinner. So not everything is not at work.,Either Nancy or Marvin are at work. All lawyers are out to dinner if they are not at work. Nancy is a lawyer and out to dinner. So not everything is not at work.,Either Nancy or Marvin are at work. All lawyers are out to dinner if they are not at work. Nancy is a lawyer and out to dinner. So not everything is at work.,Either Nancy or Marvin are at work. All lawyers are not at work if they are out to dinner. Nancy is a lawyer and out to dinner. So not everything is at work.,A
+"Identify the X of the following Y. Remember to remove any X Z. It is wrong for society to X a Y. This follows for the reason that if a Y is wrong in Xing his victim, then society is also wrong in Xing the Y. And a Y is wrong in Xing his victim.
+
+X = conclusion
+Y = argument
+Z = indicators",It is wrong for society to kill a murderer.,"This follows for the reason that if a murderer is wrong in killing his victim, then society is also wrong in killing the murderer.","If a murderer is wrong in killing his victim, then society is also wrong in killing the murderer.",And a murderer is wrong in killing his victim.,A
+"X: I ⊃ (J ≡ K)
+Y: (J ≡ K) ⊃ (L ∨ M)
+Z: I ⊃ ~L
+
+Which of the following propositions is not an immediate (one-step) consequence in PL of the given premises?
+X
+Y
+Z",~L,J ≡ K,I ⊃ (L ∨ M),~L ⊃ (J ≡ K),D
+"Define:
+X = I ≡ ~J
+Y = I ∨ J / I
+
+Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+X
+Y",Valid,Invalid. Counterexample when I and J are true,Invalid. Counterexample when I is true and J is false,Invalid. Counterexample when J is true and I is false,D
+"Let X = ""folks"".
+
+Select the best translation into Y: Some X are lucky.
+
+Y = predicate logic",(∃x)(Fx • Lx),Fl,Lf,(∀x)(Fx • Lx),A
+"Let X = ""Alexis is greeted by Ben""
+Let Y = ""a: Alexis; b: Ben; Gxy: x greets y""
+
+Select the best translation into Y. X",Gab,~Gba,aGb,Gba,D
+"Let X = ""lobsters""
+Let Y = ""red""
+
+Select the best translation into predicate logic: Not all X are Y.",~(∀x)(Lx ⊃ Rx),~(∃x)(Lx ⊃ Rx),~(∃x)(Lx • Rx),~(∀x)(Lx • Rx),A
+"X ≡ (Y · ~Z)
+K ≡ ~X
+~(K ⊃ Z) / Y ≡ Z
+
+X = H
+Y = I
+Z = J",Valid,"Invalid. Counterexample when I, H, and K are true and J is false",Invalid. Counterexample when I and H are true and J and K are false,"Invalid. Counterexample when K is true and I, H, and J are false",A
+"X a complete Y for the following pairs of propositions. Then, using the Y, determine whether the statements are Z equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.
+~(J ∨ K) · L and (L ⊃ J) · K
+
+X = Construct
+Y = truth tables
+Z = logically",Logically equivalent,Contradictory,"Neither logically equivalent nor contradictory, but consistent",Inconsistent,D
+"Let X represent ""first-year students"".
+
+Select the best translation into predicate logic: All X take a swim test.",(∀x)(Sx ⊃ Fx),(∀x)(Fx ⊃ Sx),(∀x)(Fx ∨ Sx),(∀x)(Fx ≡ Sx),B
+"Here is the rephrased question with variables defined:
+
+X = Johnny
+Y = came late
+
+Select the best translation into predicate logic: X Y.",jL,Lj,Cj ∨ Lj,Lx,B
+"Let X = ""senior graduates""
+Let Y = ""a major""
+
+Select the best translation into predicate logic: No X without Y.",(∀x)(Sx ⊃ ~Gx),~(∀x)(Sx ⊃ Gx),(∀x)( ~Sx ⊃ ~Gx),(∀x) ~(Sx ⊃ ~Gx),A
+"X: genetics
+Y: inheritance traits
+Z: DNA
+
+Identify the conclusion of the following argument. From a historical point of view, X is a young science. The principles that govern Y were described less than 150 years ago. Furthermore, around the turn of the twentieth century, the laws of Y were rediscovered. But even then, the importance of Z was not really understood until the 1950s.","But even then, the importance of DNA was not really understood until the 1950s.",The importance of DNA was not really understood until the 1950s.,"From a historical point of view, genetics is a young science.",The principles that govern inheritance traits were described less than 150 years ago.,C
+"Which of the given X is the best symbolization of the following sentence?
+Either Y is a necessary condition for Z or China promotes human rights given that South Africa doesn't supply diamonds.
+
+X = formulas of PL
+Y = England's importing beef
+Z = France's subsidizing agriculture",(E ⊃ F) ∨ (C ≡ ~S),(F ⊃ E) ∨ (~S ≡ C),(E ⊃ F) ∨ (S ⊃~C),(F ⊃ E) ∨ (~S ⊃ C),D
+"Which of the given X is the best symbolization of the following sentence?
+Either Y is a sufficient condition for Z or China's promoting human rights is a necessary condition for South Africa's supplying diamonds.
+
+X = formulas of PL
+Y = England's importing beef
+Z = France's subsidizing agriculture",(E ⊃ F) ∨ (S ⊃ C),(F ⊃ E) ∨ (C ⊃ S),(E ⊃ F) ∨ (C ⊃ S),(F ⊃ E) ∨ (S ⊃ C),A
+"Let X be the set of given formulas of PL.
+
+Which formula in X best symbolizes the following sentence?
+Dylan likes neither math nor science.",M ∨ S,~(M • S),~(M ∨ S),~M ∨ ~S,C
+"Let X = ""robots""
+Let Y = ""artifacts""
+
+Select the best translation into predicate logic: All X are Y.",(∀x)(Ax ∨ Rx),(∀x)(Ax • Rx),(∀x)(Rx ⊃ Ax),(∀x)(Rx • Ax),C
+"Let X represent the following sentence:
+X = ""Since the university raised tuition, the president approved of it and the board didn't prevent it.""
+
+Which of the given formulas of PL is the best symbolization of X?",(P • ~B) ⊃ U,(U ⊃ P) • B,U ⊃ (P • ~B),U ⊃ (P ∨ ~B),C
+"Identify the conclusion of the following argument. We shouldn't X. If we do, Y will become more Z. If Y become more Z, then we will have to build more Y. And we don't want to build more Y.
+
+X = abolish capital punishment
+Y = prisons
+Z = crowded",We shouldn't abolish capital punishment.,"If we do, prisons will become more crowded.","If prisons become more crowded, then we will have to build more prisons.",We will have to build more prisons.,A
+"Which of the given X of PL is the best Y of the following sentence?
+Either England's not Z beef is a necessary condition for France's subsidizing agriculture, or China promotes human rights if and only if South Africa doesn't supply diamonds.
+
+X = formulas
+Y = symbolization
+Z = importing",(F ⊃ ~E) ∨ (C ≡ ~S),(~E ⊃ F) ∨ (C ⊃ ~S),~(F ⊃ E) ∨ (~S ⊃ C),(F ⊃ E) ∨ (C ≡ ~S),A
+"X Y to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+(K · L) ⊃ M
+N ⊃ ~M
+N ∨ K / L ⊃ K
+
+X = Use indirect truth tables
+Y = variables of the type 'X', 'Y', etc. Then define the values of these",Valid,"Invalid. Counterexample when L, M, and N are true and K is false",Invalid. Counterexample when L and M are true and K and N are false,Invalid. Counterexample when L and N are true and K and M are false,D
+"Let X = (G ≡ H) · ~I
+Let Y = ~G ∨ (~H ∨ I)
+
+Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+X
+Y / G",Valid,Invalid. Counterexample when H and I are true and G is false,Invalid. Counterexample when H is true and I and G are false,"Invalid. Counterexample when H, I, and G are false",D
+"Here is the rephrased question with variables:
+
+X a complete truth table for the following Y. Then, using the truth table, determine whether the Y is Z or invalid. If the Y is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+~(M ≡ ~N)
+M / N
+
+X = Construct
+Y = argument
+Z = valid",Valid,Invalid. Counterexample when M and N are true,Invalid. Counterexample when M is true and N is false,Invalid. Counterexample when N is true and M is false,A
+"X: Some CEO is wealthier than Y.
+
+X = Cx: x is a CEO
+Y = everyone",(∃x)[Cx • (∀y)(Py • Wxy)],(∃x)[Cx ⊃ (∀y)(Py ⊃ Wxy)],(∃x)[Cx • (∀y)(Py ⊃ Wxy)],(∀x)[Px ⊃ (∃y)(Cy ⊃ Wxy)],C
+X: All children go to some Y. (Cx: x is a child; Y: x is a school; Gxy: x goes to y),(∀x)(∃y)[(Cx • Sy) • Gxy),(∀x)[Sx ⊃ (∃y)(Cy • Gxy)],(∀x)[Cx ⊃ (∃y)(Sy • Gxy)],(∀x)[Sx • (∃y)(Cy • Gxy)],C

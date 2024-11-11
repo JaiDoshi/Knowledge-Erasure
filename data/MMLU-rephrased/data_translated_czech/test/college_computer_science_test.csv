@@ -1,0 +1,219 @@
+"Přístup založený na matici přístupu k ochraně má tu obtíž, že","matice, pokud je uložena přímo, je velká a může být těžkopádná na správu",není schopný vyjádřit složité požadavky na ochranu,"rozhodování, zda má proces přístup ke zdroji, je nerozhodnutelné","není způsob, jak vyjádřit, kdo má práva měnit samotnou přístupovou matici",A
+"Celé číslo c je společným dělitelem dvou celých čísel x a y tehdy a jen tehdy, když c je dělitelem x a c je dělitelem y. Která z následujících množin celých čísel by mohla být množinou všech společných dělitelů dvou celých čísel?","{-6,-2, -1, 1, 2, 6}","{-6, -2, -1, 0, 1, 2, 6}","{-6, -3, -2, -1, 1, 2, 3, 6}","{-6, -3, -2, -1, 0, 1, 2, 3, 6}",C
+"V operačním systému NoNicks má doba potřebná pro jednu operaci čtení souboru čtyři nepřekrývající se složky:
+doba vyhledávání na disku - 25 ms
+doba latence disku - 8 ms
+doba přenosu dat z disku - 1 ms na 1 000 bajtů
+režie operačního systému - 1 ms na 1 000 bajtů + 10 ms
+Ve verzi 1 systému čtení souboru načítalo bloky o velikosti 1 000 bajtů. Ve verzi 2 bylo čtení souboru (spolu s podkladovým rozložením na disku) upraveno tak, aby načítalo bloky o velikosti 4 000 bajtů. Poměr doby potřebné ke čtení velkého souboru ve verzi 2 k době potřebné ke čtení stejného velkého souboru ve verzi 1 je přibližně",1:4,"1:3,5",1:1,"1,1:1",B
+"Chcete seskupit 7 bodů do 3 shluků pomocí algoritmu k-Means Clustering. Předpokládejme, že po první iteraci shluky C1, C2 a C3 obsahují následující dvourozměrné body: C1 obsahuje 2 body: {(0,6), (6,0)} C2 obsahuje 3 body: {(2,2), (4,4), (6,6)} C3 obsahuje 2 body: {(5,5), (7,7)} Jaká jsou vypočítaná centra shluků pro tyto 3 shluky?","C1: (3,3), C2: (4,4), C3: (6,6)","C1: (3,3), C2: (6,6), C3: (12,12)","C1: (6,6), C2: (12,12), C3: (12,12)","C1: (0,0), C2: (48,48), C3: (35,35)",A
+"Jakákoliv sada booleovských operátorů, která je dostačující k reprezentaci všech booleovských výrazů, se nazývá úplná. Která z následujících možností NENÍ úplná?","{A, NE}","{NE, NEBO}","{A, NEBO}",{NAND},C
+"Uvažujme soubor všech neorientovaných grafů s 10 uzly a 6 hranami. Nechť M a m jsou postupně maximální a minimální počet souvislých komponent v jakémkoli grafu v této kolekci. Pokud graf nemá žádné smyčky a mezi libovolnou dvojicí uzlů je nejvýše jedna hrana, která z následujících možností je pravdivá?","M = 10, m = 10","M = 10, m = 1","M = 7, m = 4","M = 6, m = 4",C
+"Dokazování pomocí rezoluční metody pro prokázání, že formule výrokové logiky není splnitelná, má které z následujících vlastností?
+I. Je to korektní důkazový systém v tom smyslu, že neexistuje důkaz nesplnitelnosti splnitelné formule výrokové logiky.
+II. Je to úplný důkazový systém v tom smyslu, že existuje důkaz nesplnitelnosti pro každou nesplnitelnou formuli výrokové logiky.
+III. Je to stručný důkazový systém v tom smyslu, že kdykoli má nesplnitelná formule F výrokové logiky rezoluční důkaz, F má také důkaz, jehož délka je polynomiální vzhledem k délce F.",Já pouze,Pouze III,I a II pouze,Pouze I a III,C
+"Která z následujících tvrzení popisuje vlastnosti čistě segmentovaného paměťového systému?
+I. Rozděluje paměť na jednotky stejné velikosti.
+II. Umožňuje implementaci virtuální paměti.
+III. Trpí vnitřní fragmentací.",Já pouze,II pouze,Pouze III,I a III,B
+Které z následujících tvrzení o aritmetice s plovoucí desetinnou čárkou NENÍ pravdivé?,"Je ze své podstaty neasociativní, protože některá čísla nemají přesnou reprezentaci.","Je ze své podstaty neasociativní, protože musí existovat horní a dolní hranice velikosti čísel.",Asociativitu lze dosáhnout pomocí vhodných konvencí zaokrouhlování.,Některá racionální čísla nemají přesnou reprezentaci.,C
+"Předpokládejme, že sdílení souborů ve víceúrovňové adresářové struktuře je dosaženo pomocí adresářových záznamů, které jsou odkazy směřujícími na uzel obsahující informace o sdíleném souboru. Informace v tomto uzlu zahrnují (1) vlastníka souboru, (2) počet odkazů na soubor a (3) čísla diskových bloků souboru. Jaká je hlavní nevýhoda tohoto přístupu ke sdílení?","Pokud vlastník upraví soubor, jiný uživatel, který nesdílí, uvidí změny.","Pokud vlastník přejmenuje soubor, ostatní uživatelé k němu nebudou mít přístup.","Pokud je majiteli povoleno smazat soubor, může to vést k visícím odkazům.","Pokud jakýkoli uživatel, který sdílí soubor, k němu něco připojí, ostatní, kteří jej sdílejí, nebudou mít přístup k novým diskovým blokům.",C
+"Mergesort funguje rozdělením seznamu n čísel na polovinu, rekurzivním seřazením každé poloviny a sloučením obou polovin. Která z následujících datových struktur umožní mergesortu pracovat v čase O(n log n)?
+I. Jednosměrně vázaný seznam
+II. Obousměrně vázaný seznam
+III. Pole",Žádný,Pouze III,I a II pouze,"I, II a III",D
+"Pokud p(x) je interpolační polynom minimálního stupně pro reálnou funkci f(x) v n + 1 různých reálných číslech x0, ..., xn, jaký je maximální možný stupeň p(x)?",n,n + 1,n + 2,2n,A
+"Interní hashovací tabulka má 5 přihrádek očíslovaných 0, 1, 2, 3, 4. Klíče jsou celá čísla a používá se hashovací funkce h(i) = i mod 5 s lineárním řešením kolizí (tj. pokud je přihrádka h(i) obsazena, postupně se zkouší přihrádky h(i) + 1, h(i) + 2, ... přičemž všechna čísla přihrádek se počítají modulo 5). Pokud jsou prvky s klíči 13, 8, 24, 10 a 3 vloženy v tomto pořadí do původně prázdné hashovací tabulky, pak obsah přihrádky číslo 2 je",3,8,10,13,A
+Protokol TCP je zodpovědný (mimo jiné) za,Směrování paketů sítí,Spolehlivé doručování paketů mezi přímo propojenými stroji,"Spolehlivé doručování velkých (vícepachetových) zpráv mezi stroji, které nemusí být nutně přímo propojeny",Řešení rozdílů mezi architekturami operačních systémů,C
+"Nechť A a B jsou dvě množiny slov (řetězců) z Σ*, pro nějakou abecedu symbolů Σ. Předpokládejme, že B je podmnožinou A. Která z následujících tvrzení musí být vždy pravdivá pro A a B?
+I. Pokud je A konečná, pak je B konečná.
+II. Pokud je A regulární, pak je B regulární.
+III. Pokud je A bezkontextová, pak je B bezkontextová.",Já pouze,II pouze,Pouze III,I a II pouze,A
+"Pro všechny řetězce x je funkce x^M definována rekurzivně následovně.
+e^M = e, a
+pokud w je řetězec a a je řetězec délky 1, pak
+(aw)^M = aw^Ma.
+Nechť a je řetězec délky 1 a nechť x a y jsou libovolné řetězce. Která z následujících možností je pravdivá?",a^M = a,(ax)^M = (xa)^M,(xy)^M = y^Mx^M,Nic z výše uvedeného,D
+Která z následujících možností NENÍ rozumným odůvodněním pro volbu aktivního čekání na asynchronní událost?,"Očekává se, že čekání bude krátké.",Smyčka aktivního čekání je jednodušší na naprogramování než obsluha přerušení.,Pro procesor není žádná další práce.,Program se spouští na systému s časovým sdílením.,D
+Jazyk {ww | w v (0 + 1)*} je,nepřijato žádným Turingovým strojem,"přijímáno některým Turingovým strojem, ale žádným zásobníkovým automatem","přijímáno některým zásobníkovým automatem, ale není bezkontextové","bezkontextový, ale ne regulární",B
+Které z následujících tvrzení o sítích Ethernet je obvykle NEPRAVDIVÉ?,Ethernety používají přepínání okruhů k odesílání zpráv.,Ethernety používají sběrnice s více řídicími jednotkami.,Ethernetové protokoly používají metodu detekce kolizí k zajištění správného přenosu zpráv.,Sítě propojené pomocí Ethernetu jsou omezeny délkou na několik set metrů.,A
+"Nechť P je procedura, která pro některé vstupy volá sama sebe (tj. je rekurzivní). Pokud je zaručeno, že P skončí, které z následujících tvrzení musí být pravdivé?
+I. P má lokální proměnnou.
+II. P má cestu vykonávání, kde nevolá sama sebe.
+III. P buď odkazuje na globální proměnnou, nebo má alespoň jeden parametr.",Já pouze,II pouze,I a II pouze,Pouze II a III,D
+Která z následujících možností se nejvíce blíží dokonale bezpečnému šifrovacímu schématu?,"Caesarova šifra, substituční šifra","DES (Data Encryption Standard), symetrický šifrovací algoritmus","Enigma, šifra s přestavením",Jednorázová tabulka,D
+"Z následujících problémů týkajících se daného neorientovaného grafu G, který je v současnosti známý jako řešitelný v polynomiálním čase?",Nalezení nejdelšího jednoduchého cyklu v G,Nalezení nejkratšího cyklu v G,Nalezení VŠECH kostry grafu G,Nalezení největší kliky v G,B
+IP protokol se primárně zabývá,Směrování paketů sítí,Spolehlivé doručování paketů mezi přímo propojenými stroji,"Spolehlivé doručování velkých (vícepachetových) zpráv mezi stroji, které nemusí být nutně přímo propojeny",Řešení rozdílů mezi architekturami operačních systémů,A
+"Z následujících možností, která nejlépe aproximuje poměr počtu neterminálních uzlů k celkovému počtu uzlů v úplném K-árním stromě hloubky N?",1/K,K-1/K,log_10 (1/N),N-1/m,A
+"Zvažte počítačový systém, ve kterém procesy mohou požadovat a uvolňovat jeden nebo více zdrojů. Jakmile je procesu přidělen zdroj, proces má výhradní použití tohoto zdroje, dokud není uvolněn. Pokud proces požaduje zdroj, který je již používán, vstoupí do fronty pro tento zdroj a čeká, dokud není zdroj k dispozici. Která z následujících možností NEBUDE efektivně řešit problém uváznutí?",Přidělování priorit procesům a řazení front čekání podle priority,"Proces požaduje všechny své potřebné zdroje při svém prvním spuštění a restartuje se, pokud je nemůže všechny získat","Číslování zdrojů a požadování, aby procesy žádaly o zdroje v pořadí vzestupného číslování",Nechat procesy vypršet a restartovat po náhodném intervalu čekání,A
+"""Magická paměť"" má dvě operace: Čtení a Vymazání. Obě jsou nedělitelné a vzájemně se vylučují. Vymazání nastaví magickou paměť na nulu. Čtení vrátí hodnotu, která představuje počet operací Čtení od poslední operace Vymazání. Které z následujících tvrzení je (jsou) pravdivé o ""Magické paměti""?
+I. Může poskytnout funkcionalitu atomického Test-and-Set.
+II. Může být použita ke koordinaci procesů běžících na vícejádrovém procesoru se sdílenou pamětí.
+III. Je užitečná pouze na vícejádrovém procesoru.",Já pouze,II pouze,Pouze III,I a II,D
+"Který z následujících je název datové struktury v kompilátoru, která je zodpovědná za správu informací o proměnných a jejich atributech?",Abstraktní syntaktický strom (AST),Atributová gramatika,Tabulka symbolů,Sémantický zásobník,C
+"Který z následujících algoritmů má v nejhorším případě dobu běhu Θ(n^2), ale v průměru Θ(n log n)?",Bublinkové řazení,Mergesort,Řazení haldou,Rychlé řazení,D
+"Jazyky se strukturou, která implementuje abstraktní datové typy (např. třída v C++), mohou zabránit přístupu ke komponentám této struktury všemi operacemi kromě těch, které jsou součástí této struktury. Definice takové struktury však často obsahují deklarace komponent struktury (např. hlavičkový soubor pro třídu C++ může obsahovat deklarace jejích privátních komponent). Pro takový jazyk by jméno objektu mohlo být za běhu vázáno na zásobníkové úložiště pro hodnoty jeho komponent (přímá reprezentace) nebo na ukazatel zásobníku odkazující na hromadové úložiště pro hodnoty jeho komponent (nepřímá reprezentace). Které z následujících tvrzení o srovnání mezi přímou a nepřímou reprezentací je (jsou) pravdivé?
+I. Nepřímá reprezentace znatelně prodlužuje dobu kompilace.
+II. Přímá reprezentace zkracuje čas potřebný pro přístup ke komponentám proměnné.
+III. Když se změní velikost úložiště některé privátní komponenty proměnné, nepřímá reprezentace minimalizuje počet rekompilací zdrojových modulů, které musí být provedeny.",Já pouze,Pouze III,I a II pouze,Pouze II a III,D
+Která z následujících možností NENÍ vlastností bitmapové grafiky?,Rychlý hardware existuje k efektivnímu přesouvání bloků pixelů.,Realistické osvětlení a stínování lze provést.,Všechny úsečky lze zobrazit jako přímé.,Mnohoúhelníky lze vyplnit plnými barvami a texturami.,C
+Která z následujících možností platí pro přerušení?,"Jsou generovány, když jsou ""ukradeny"" paměťové cykly.",Používají se namísto datových kanálů.,Mohou signalizovat dokončení vstupně-výstupní operace.,Nemohou být vytvořeny aritmetickými operacemi.,C
+"Ve výškově vyváženém binárním vyhledávacím stromu se výšky levých a pravých potomků libovolného uzlu liší nejvýše o 1. Které z následujících tvrzení platí pro takový strom?
+I. Nejhorší případ času vyhledávání je logaritmický vzhledem k počtu uzlů.
+II. Průměrný případ času vyhledávání je logaritmický vzhledem k počtu uzlů.
+III. Nejlepší případ času vyhledávání je úměrný výšce stromu.
+IV. Výška stromu je logaritmická vzhledem k počtu uzlů.",Pouze I a III,Pouze II a III,Pouze II a IV,"I, II a IV",D
+"Bob si zapíše číslo mezi 1 a 1 000. Mary musí toto číslo identifikovat kladením otázek typu ""ano/ne"" Bobovi. Mary ví, že Bob vždy říká pravdu. Pokud Mary použije optimální strategii, po kolika otázkách v nejhorším případě určí správnou odpověď?",1 000,999,500,10,D
+"Která z následujících tvrzení je (jsou) pravdivá o systémech virtuální paměti, které používají stránky?
+I. Virtuální adresový prostor může být větší než množství fyzické paměti.
+II. Programy musí být po celou dobu svého provádění rezidentní v hlavní paměti.
+III. Stránky odpovídají sémantickým charakteristikám programu.",Já pouze,II pouze,I a II,I a III,A
+Která z následujících položek obvykle NENÍ zastoupena v rámci aktivačního záznamu podprogramu pro programovací jazyk založený na zásobníku?,Hodnoty lokálních proměnných,Halda,Zpáteční adresa,Ukazatel zásobníku pro volající aktivační záznam,B
+Které z následujících tvrzení o vzdáleném volání procedury je pravdivé?,"Je používán k volání procedur s adresami, které jsou vzdáleny více než 2^16 bajtů.",Nemůže vrátit hodnotu.,Nemůže předávat parametry odkazem.,Nemůže volat procedury implementované v jiném jazyce.,C
+"Z následujících řadicích algoritmů, který má dobu běhu NEJMÉNĚ závislou na počátečním uspořádání vstupu?",Řadicí algoritmus vkládáním,Rychlé řazení,Řadicí algoritmus slučováním,Řadicí algoritmus výběrem,C
+"Konkrétní výpočet paralelního programu vyžaduje 100 sekund při provedení na jednom procesoru. Pokud je 40 procent tohoto výpočtu ""ze své podstaty sekvenčních"" (tj. nebude mít prospěch z dalších procesorů), pak teoreticky nejlepší možné uplynulé časy pro tento program běžící na 2 a 4 procesorech jsou",20 a 10 sekund,30 a 15 sekund,50 a 25 sekund,70 a 55 sekund,D
+"Uvažujte reprezentaci šestibitových čísel pomocí dvojkového doplňku, jedničkového doplňku nebo znaménka a velikosti. Ve které reprezentaci dojde k přetečení při sčítání celých čísel 011000 a 011000?",Dvojkový doplněk pouze,Znaménko a velikost a jedničkový doplněk pouze,Dvojkový doplněk a jedničkový doplněk pouze,Všechny tři reprezentace,D
+"Z následujících možností, co nejlépe charakterizuje počítače, které používají paměťově mapované I/O?",Počítač poskytuje speciální instrukce pro manipulaci s I/O porty.,Vstupní/výstupní porty jsou umístěny na adresách sběrnice a přistupuje se k nim stejně jako k jiným paměťovým místům.,K provedení operace vstupu/výstupu stačí umístit data do adresového registru a vyzvat kanál k provedení operace.,Porty jsou odkazovány pouze paměťově mapovanými instrukcemi počítače a jsou umístěny na pevně stanovených paměťových adresách.,B
+"Mnoho kryptografických protokolů zakládá svou bezpečnost na předpokladech o výpočetní náročnosti faktorizace celých čísel. Faktorizace celých čísel slouží tomuto účelu, protože věříme, že","Celočíselné násobení je funkce, jejíž inverze, faktorizace, zůstává obtížná pro velkou třídu vstupů.",P = NP,"I když P = NP, faktorizace celých čísel pravděpodobně stále nebude vypočitatelná v polynomiálním čase",testování prvočíselnosti je výpočetně nezvládnutelné,A
+Která z následujících sad bitových řetězců NEMŮŽE být popsána regulárním výrazem?,"Všechny bitové řetězce, jejichž počet nul je násobkem pěti",Všechny bitové řetězce začínající nulou a končící jedničkou,Všechny bitové řetězce se sudým počtem nul,Všechny bitové řetězce s více jedničkami než nulami,D
+"Která z následujících podmínek může být vyjádřena Booleovskou formulí v Booleovských proměnných p_1, p_2, p_3, p_4 a spojkách ∧,∨ (bez ¬)?
+I. Alespoň tři z p_1, p_2, p_3, p_4 jsou pravdivé.
+II. Přesně tři z p_1, p_2, p_3, p_4 jsou pravdivé.
+III. Sudý počet z p_1, p_2, p_3, p_4 je pravdivý.",Já pouze,II pouze,Pouze III,I a III,A
+"Dvě alternativy pro propojení sady procesorů obousměrnými spoji jsou (1) plně propojená síť, ve které je každý procesor přímo spojen s každým dalším procesorem, a (2) kruhová síť, ve které je každý procesor spojen se dvěma dalšími procesory. Nejhorší délka cesty pro síť je maximum, přes všechny páry uzlů v síti, minimálních délek cest (měřeno počtem spojů) mezi uzly. Pro každý typ propojení n procesorů lze vytvořit ukazatel kvality jako součin počtu spojů potřebných pro síť a nejhorší délky cesty spojující libovolné dva procesory. Poměr tohoto ukazatele kvality pro plně propojenou síť ve srovnání s kruhovou sítí, pro sudé n > 2, je",1/(n^2),1/(n(n-1)),1/n,(n-1)/n,D
+"Pro souvislý neorientovaný graf G = (V, E) musí platit, které z následujících tvrzení?
+I. Σ_{v∈V} stupeň(v) je sudé číslo.
+II. |E| ≥ |V| − 1
+III. G má alespoň jeden vrchol se stupněm 1.",Já pouze,II pouze,Pouze III,I a II,D
+"V multiprogramových systémech je výhodné, pokud některé programy, jako jsou editory a kompilátory, mohou být sdíleny několika uživateli. Která z následujících možností musí platit pro multiprogramové systémy, aby jedna kopie programu mohla být sdílena několika uživateli?
+I. Program je makro.
+II. Program je rekurzivní.
+III. Program je reentrantní.",Já pouze,II pouze,Pouze III,Pouze II a III,C
+Které z následujících desetinných čísel má přesnou reprezentaci v binární notaci?,"0,1","0,2","0,3","0,5",D
+"Funkční signatury popisují typy argumentů funkce a také návratovou hodnotu funkce. Například funkce sčítání reálných čísel má signaturu
+add : real x real -> real
+protože bere dvě reálná čísla a vrací reálné číslo. Ale pro jazyk, který umožňuje funkce jako návratové hodnoty, by sčítání mohlo mít signaturu
+add : real -> (real -> real)
+což znamená, že add bere jedno reálné číslo (první operand) a vrací novou funkci, která sama bere jedno reálné číslo (druhý operand) a vrací reálné číslo (výsledek). Tento proces redukce funkce s více argumenty na funkci s méně argumenty se nazývá currying. Která z následujících možností je správná?","Currying lze aplikovat na jakoukoli funkci až do bodu, kdy má přesně jeden vstupní argument.",Currying nelze aplikovat na funkce s více než dvěma argumenty.,"Currying nelze aplikovat na funkce, které vracejí funkce jako argumenty.","Currying nelze použít u funkcí, které mají argumenty, které jsou funkcemi.",A
+"Pole A obsahuje 256 prvků, každý o velikosti 4 bajtů. Jeho první prvek je uložen na fyzické adrese 4 096.
+Pole B obsahuje 512 prvků, každý o velikosti 4 bajtů. Jeho první prvek je uložen na fyzické adrese 8 192.
+Předpokládejme, že pouze pole A a B mohou být uloženy v původně prázdné, fyzicky adresované, fyzicky označené, přímo mapované mezipaměti o velikosti 2K bajtů s velikostí bloku 8 bajtů. Poté je proveden následující cyklus.
+for (i = 0; i < 256; i++)
+        A[i] = A[i] + B[2*i];
+Během provádění cyklu, kolik bajtů bude zapsáno do paměti, pokud mezipaměť používá politiku zpětného zápisu?",0,256,1024,2000,A
+"Ve které z následujících reprezentací čísel pomocí 8bitových slov je součet celých čísel 109 a -42 v rozsahu?
+I. Jedničkový doplněk
+II. Dvojkový doplněk
+III. Znaménko a velikost",Já pouze,II pouze,I a II pouze,"I, II a III",D
+Pokud je škodlivému procesu udělen dočasný přístup na úrovni správce k systému,"Hrozba je zažehnána, jakmile je proces ukončen.",Hrozba je zažehnána po restartu operačního systému,"Vlákno končí po restartování počítače a nahrazení souborů, které vykazují virovou infekci","Hrozba je často trvalá, dokud není celý disk zcela vymazán.",D
+"Které z následujících tvrzení o horizontální versus vertikální mikroarchitektuře je (jsou) pravdivé?
+I. Programy pro horizontální architektury vyžadují více časových kroků než programy pro vertikální architektury.
+II. Horizontální mikroinstrukce jsou nekódované.
+III. Horizontální mikroinstrukce obvykle mají jeden operační kód a více specifikátorů operandů.",Já pouze,II pouze,Pouze III,Pouze II a III,B
+"""Striktně binární strom"" je binární strom, ve kterém každý uzel, který není listem, má dva potomky. Předpokládejme, že pro třídu striktně binárních stromů existuje c > 0 takové, že pro jakýkoli strom v této třídě je poměr délek jakýchkoli dvou cest od kořene k listu ohraničen shora hodnotou c. Která z následujících možností nejlépe charakterizuje výšku h jakéhokoli stromu v této třídě, kde N je počet uzlů ve stromu a N > 1?",h ≤ log2(N),h = 1/c * log2(N),h < c log2(N),h > c log2(N),C
+Který z následujících řadicích algoritmů má průměrnou a nejhorší časovou složitost O(n log n)?,Bublinkové řazení,Řadicí algoritmus vkládáním,Řadicí algoritmus slučováním,Rychlé řazení,C
+"Zvažte následující rovnice týkající se stackového modulu, který má operace Push, Pop, Top a IsEmpty. Která z rovnic NEPŘEDSTAVUJE konvenční sémantiku stacku?","IsEmpty(Push(Stack,Elem)) = true","Pop(Push(Zásobník,Prvek)) = Zásobník","Top(Push(Stack,Elem)) = Elem","IsEmpty(Push(Push(Stack,Elem1),Elem2)) = false",A
+"Předpokládejme, že jakýkoli příkaz přiřazení lze provést v jednotkovém čase. Pokud je použito tolik identických procesorů, kolik je potřeba, jaký je minimální počet časových jednotek potřebných k provedení přiřazení
+A := B + C
+B := A - B
+C := A * E
+D := A/F
+E := B - C
+F := A + B
+se stejným výsledkem, jako kdyby byla přiřazení provedena v uvedeném pořadí?",1,2,3,4,C
+"Dva výrazy E a F se považují za unifikovatelné, pokud existují substituce pro proměnné E a F, které učiní výrazy lexikálně identickými. V následujících třech výrazech jsou pouze w, x, y a z proměnné.
+I. f(w,w)
+II. f(x,1)
+III. f(y,g(z))
+Které páry těchto výrazů jsou páry unifikovatelných výrazů?","(I, II) pouze","(I, III) pouze","(II, III) pouze","(I, II) a (I, III) pouze",D
+Která z následujících vlastností instrukční sady se obecně NEPOVAŽUJE za překážku agresivního zřetězení celočíselné jednotky?,Stavové kódy nastavené každou instrukcí,Instrukce s proměnnou délkou kódování,Instrukce vyžadující značně rozdílné počty cyklů k provedení,Několik různých tříd (sad) registrů,D
+"Nechť k >= 2. Nechť L je množina řetězců v {0, 1}^* takových, že x \in L tehdy a jen tehdy, když počet 0 v x je dělitelný k a počet 1 v x je lichý. Minimální počet stavů v deterministickém konečném automatu (DFA), který rozpoznává L, je",k + 2,2k,k log k,k^2,B
+"Nechť G = (V, E) je konečný orientovaný acyklický graf s |E| > 0. Které z následujících tvrzení musí být pravdivé?
+I. G má vrchol bez vstupní hrany.
+II. G má vrchol bez výstupní hrany.
+III. G má izolovaný vrchol, tedy takový, který nemá ani vstupní, ani výstupní hranu.",Já pouze,II pouze,Pouze III,I a II pouze,D
+"Nechť T je strom prohledávání do hloubky souvislého neorientovaného grafu G. Pro každý vrchol v stromu T nechť pre(v) je počet uzlů navštívených až do a včetně v během průchodu T v předpořadí a post(v) je počet uzlů navštívených až do a včetně v během průchodu T v postpořadí. Nejnižší společný předek vrcholů u a v v T je vrchol w stromu T takový, že w je předkem jak u, tak v, a žádný potomek w není předkem jak u, tak v. Nechť (u, v) je hrana v G, která není v T, taková, že pre(u) < pre(v). Které z následujících tvrzení o u a v musí být pravdivé?
+I. post(u) < post(v)
+II. u je předkem v v T.
+III. Pokud w je nejnižší společný předek u a v v T, pak w = u.",Já pouze,II pouze,Pouze III,II a III,D
+"V systémech s podporou automatické správy paměti má obvykle garbage collector odpovědnost za uvolňování alokovaných paměťových objektů, jejichž obsah nemůže ovlivnit žádný budoucí legální výpočet. Takové objekty jsou identifikovány zjištěním, že nejsou dosažitelné z kořenové sady. Která z následujících položek NENÍ součástí kořenové sady v typickém garbage collectoru?",Skutečné parametry aktivních procedur,Dynamicky alokované objekty na haldě,Globální proměnné programu,Lokální proměnné na zásobníku volání,B
+"V sadě protokolů internetového protokolu (IP), který z následujících nejlépe popisuje účel protokolu ARP (Address Resolution Protocol)?",Překládat webové adresy na názvy hostitelů,Ke zjištění IP adresy daného názvu hostitele,Ke zjištění hardwarové adresy daného názvu hostitele,Ke zjištění hardwarové adresy dané IP adresy,D
+Která z následujících jazykových vlastností vyžaduje použití alokace paměti založené na zásobníku spíše než statické alokace?,Rekurzivní procedury,Libovolné skoky,Dvourozměrná pole,Celočíselné funkce,A
+"Která z následujících možností není věta generovaná gramatikou A -> BC, B -> x|Bx, C -> B|D, D -> y|Ey, E -> z?",xyz,xy,xxzy,xxxxy,A
+Nechť je T(n) definováno jako T(1) = 7 a T(n + 1) = 3n + T(n) pro všechna celá čísla n ≥ 1. Která z následujících možností představuje řád růstu T(n) jako funkce n?,Θ(n),Θ(n log n),Θ(n^2),Θ(n^2 log n),C
+"Který z následujících problémů je (jsou) rozhodnutelný(é)?
+I. Je daný (konečný) řetězec w prefixem desetinného rozvoje π?
+II. Je pro daný program a vstup výstupem programu desetinný rozvoj π?
+III. Je pro daný program, který bere jako vstup prefix desetinného rozvoje π, výstup programu vždy stejný pro každý prefix?",Já pouze,II pouze,Pouze III,I a II pouze,A
+"Které z následujících tvrzení o obvodech je (jsou) pravdivé?
+I. Kombinační obvody mohou mít zpětnou vazbu; sekvenční obvody ne.
+II. Kombinační obvody mají vlastnost ""bez paměti""; sekvenční obvody ne.
+III. Jak sekvenční, tak kombinační obvody musí být řízeny externím hodinovým signálem.",Já pouze,II pouze,I a II pouze,Pouze II a III,B
+"Dvě jednouživatelské pracovní stanice jsou připojeny ke stejné lokální síti. Na jedné z těchto pracovních stanic jsou stránky souborů přistupovány přes síť ze souborového serveru; průměrná doba přístupu na stránku je 0,1 sekundy. Na druhé z těchto pracovních stanic jsou stránky souborů přistupovány z lokálního disku; průměrná doba přístupu na stránku je 0,05 sekundy. Konkrétní kompilace vyžaduje 30 sekund výpočtu a 200 přístupů ke stránkám souborů. Jaký je poměr celkového času potřebného pro tuto kompilaci, pokud je spuštěna na bezdiskové pracovní stanici (se souborovým serverem), k celkovému času potřebnému při spuštění na pracovní stanici s lokálním diskem, za předpokladu, že výpočet není překrýván s přístupem k souborům?",1/1,5/4,5/3,10/5,B
+"Předpokládejme, že debugger umístí breakpoint na instrukci načítání na virtuální adrese 0x77E81234 (hexadecimální zápis) v debugovaném procesu P. Pokud textový segment P začíná na adrese 0x77E80000 ve virtuálním adresním prostoru P a pokud debugger namapoval tento stejný textový segment na adresu 0x01000000 ve svém virtuálním adresním prostoru, která z následujících je virtuální adresa použitá debuggerem v jeho operaci WRITE, spolu s popisem, jak debugger namapoval stránku virtuální paměti obsahující tuto adresu?",0x01001234; stránka namapována s přístupem pro ČTENÍ/ZÁPIS,0x01001234; stránka mapována s přístupem COPY-ON-WRITE,0x76E81234; stránka namapována s přístupem pro ČTENÍ/ZÁPIS,0x76E81234; stránka mapována s přístupem COPY-ON-WRITE,A
+"Která z následujících úvah platí pro výběr velikosti stránky v stránkovacím systému?
+I. Výhodou větších stránek je, že vedou k menším stránkovacím tabulkám.
+II. Výhodou menších stránek je, že vedou k menšímu plýtvání kvůli vnitřní fragmentaci.
+III. Obvykle dominantní faktor v době přístupu na disk nezávisí na délce stránky, takže delší stránky mohou být výhodně použity.",Já pouze,II pouze,Pouze I a III,"I, II a III",D
+"Dva procesory, M-5 a M-7, implementují stejnou sadu instrukcí. Procesor M-5 používá 5stupňovou pipeline a takt 10 nanosekund. Procesor M-7 používá 7stupňovou pipeline a takt 7,5 nanosekund. Které z následujících tvrzení je (jsou) pravdivé?
+I. Pipeline M-7 má lepší maximální propustnost než pipeline M-5.
+II. Latence jedné instrukce je kratší na pipeline M-7 než na pipeline M-5.
+III. Programy běžící na M-7 budou vždy rychlejší než programy běžící na M-5.",Já pouze,II pouze,I a III,II a III,A
+Která z následujících dvojic 8bitových čísel v dvojkovém doplňku způsobí přetečení při sčítání členů těchto dvojic?,"11111111, 00000001","00000001, 10000000","11111111, 10000001","10000001, 10101010",D
+"Dva počítače spolu komunikují odesíláním datových paketů přes místní síť. Velikost těchto paketů je 1 000 bajtů. Síť má kapacitu přenést 1 000 paketů za sekundu. Čas procesoru potřebný k provedení síťového protokolu pro odeslání jednoho paketu je 10 milisekund. Maximální rychlost, jakou může jeden počítač odesílat data druhému, je přibližně",10 000 bajtů za sekundu,25 000 bajtů za sekundu,100 000 bajtů za sekundu,500 000 bajtů za sekundu,C
+"Uvažujte následující gramatiku.
+S → ( S )
+S → x
+Které z následujících tvrzení je (jsou) pravdivé?
+I. Gramatika je nejednoznačná.
+II. Gramatika je vhodná pro analýzu shora dolů.
+III. Gramatika je vhodná pro analýzu zdola nahoru.",Já pouze,II pouze,Pouze III,Pouze II a III,D
+Hašovací tabulky mohou přispět k efektivnímu průměrnému řešení všech níže popsaných problémů KROMĚ:,Počítání odlišných hodnot: Při zadané množině n klíčů určete počet odlišných hodnot klíčů.,"Dynamický slovník: Podporuje operace vložení, odstranění a vyhledávání ve slovníku.","Rozsahové vyhledávání: Pro dané hodnoty a a b najděte všechny záznamy, jejichž klíčová hodnota je v rozmezí a, b.",Vyhledávání v tabulce symbolů: Pro daný identifikátor programu najděte jeho typ a adresu.,C
+Nechť A je konečná množina s m prvky a B je konečná množina s n prvky. Počet různých funkcí zobrazujících A do B je,n^m,n!/(n - m)!,n!,n!/(m!(n - m)!),A
+"Pro výpočet maticového součinu M_1M_2, kde M_1 má p řádků a q sloupců a kde M_2 má q řádků a r sloupců, je potřeba čas úměrný pqr, a výsledkem je matice s p řádky a r sloupci. Uvažujme součin tří matic N_1N_2N_3, které mají postupně w řádků a x sloupců, x řádků a y sloupců a y řádků a z sloupců. Za jaké podmínky bude trvat méně času vypočítat součin jako (N_1N_2)N_3 (tj. vynásobit první dvě matice nejdříve) než ho vypočítat jako N_1(N_2N_3)?",Neexistuje taková podmínka; tj. vždy budou trvat stejnou dobu.,1/x + 1/z < 1/w + 1/y,x > y,1/w + 1/x < 1/y + 1/z,B
+"Poměr úspěšnosti vyrovnávací paměti je procento přístupů (čtení a zápisu), při kterých jsou data nalezena ve vyrovnávací paměti. Write-through je politika, při které každá operace zápisu aktualizuje hlavní paměť. Write-back je politika, při které operace zápisu do řádku nalezeného ve vyrovnávací paměti neovlivňuje hlavní paměť, dokud není řádek z vyrovnávací paměti odstraněn. Write-allocation je politika, při které je řádek vyrovnávací paměti alokován a načten při zápisu, který není nalezen ve vyrovnávací paměti. Pokud se předpokládá, že se vždy používá write-allocation, které z následujících tvrzení je pravdivé?",Zpětný zápis obvykle vede k lepšímu poměru zásahů než průběžný zápis.,Průběžný zápis obvykle vede k lepšímu poměru zásahů než zpětný zápis.,Procento zápisových operací vedoucích k operaci v hlavní paměti nebude nikdy větší pro zpětný zápis než pro průběžný zápis.,Procento zápisových operací vedoucích k operaci v hlavní paměti nebude nikdy větší pro průběžný zápis než pro zpětný zápis.,C
+"Konkrétní disková jednotka používá bitový řetězec k zaznamenání obsazenosti nebo volnosti svých stop, přičemž O označuje volnou a 1 obsazenou stopu. 32bitový segment tohoto řetězce má hexadecimální hodnotu D4FE2003. Procentuální podíl obsazených stop pro odpovídající část disku, zaokrouhlený na nejbližší procento, je",12 %,25 %,38 %,44 %,D
+"Eulerovský okruh neorientovaného grafu je okruh, ve kterém se každá hrana grafu objeví právě jednou. Který z následujících neorientovaných grafů musí mít Eulerovský okruh?
+I. Úplný graf s 12 vrcholy
+II. Úplný graf s 13 vrcholy
+III. Strom s 13 vrcholy",Já pouze,II pouze,Pouze III,I a II,B
+Která z následujících charakteristik programovacího jazyka je nejlépe specifikována pomocí bezkontextové gramatiky?,Délka identifikátoru,Maximální úroveň vnoření,Priorita operátorů,Kompatibilita typů,C
+"Které z následujících tvrzení o datagramech odeslaných uzlem v síti používající protokol IPv4 je (jsou) pravdivé?
+I. Datagramy u zdroje musí mít velikost nejmenší maximální přenosové jednotky (MTU) ze všech spojů na cestě k cíli.
+II. Datagramy mohou být během směrování fragmentovány.
+III. Datagramy jsou znovu sestaveny pouze v cíli.",Já pouze,II pouze,Pouze III,II a III,D
+"Politika plánování úloh bez vyhladovění zaručuje, že žádná úloha nečeká nekonečně dlouho na obsluhu. Která z následujících politik plánování úloh je bez vyhladovění?",Round-robin,Prioritní řazení do fronty,Nejkratší úloha jako první,Nejmladší úkol jako první,A
+"Z následujících možností, která poskytuje nejlepší horní mez pro hodnotu f(N), kde f je řešením rekurence f(2N + 1) = f(2N) = f(N) + log N pro N >= 1, s f(1) = 0?",O(log N),O(N log N),O(log N) + O(1),O((log N)^2),D
+"Společnost X odeslala 5 počítačových čipů, z nichž 1 byl vadný, a společnost Y odeslala 4 počítačové čipy, z nichž 2 byly vadné. Jeden počítačový čip má být vybrán náhodně a rovnoměrně z 9 čipů odeslaných oběma společnostmi. Pokud se zjistí, že vybraný čip je vadný, jaká je pravděpodobnost, že čip pochází od společnosti Y?",2 / 9,4 / 9,1 / 2,2 / 3,D
+"Který z následujících problémů lze vyřešit standardním hladovým algoritmem?
+I. Nalezení minimální kostry v neorientovaném grafu s kladnými celočíselnými váhami hran
+II. Nalezení maximální kliky v neorientovaném grafu
+III. Nalezení maximálního toku od zdrojového uzlu k cílovému uzlu v orientovaném grafu s kladnými celočíselnými kapacitami hran",Já pouze,II pouze,Pouze III,I a II pouze,A
+"Program kontrolující pravopis funguje následujícím způsobem. Byla definována hashovací tabulka, ve které je každý záznam booleovská proměnná inicializovaná na false. Na každé slovo ve slovníku byla aplikována hashovací funkce a příslušný záznam v hashovací tabulce byl nastaven na true. Pro kontrolu pravopisu v dokumentu je hashovací funkce aplikována na každé slovo v dokumentu a je zkoumán příslušný záznam v hashovací tabulce. Které z následujících tvrzení je (jsou) správné?
+I. true znamená, že slovo bylo ve slovníku.
+II. false znamená, že slovo nebylo ve slovníku.
+III. Velikost hashovací tabulky by se měla zvětšovat s velikostí dokumentu.",Já pouze,II pouze,I a II pouze,Pouze II a III,B
+"Jeden přístup ke zpracování dat fuzzy logiky by mohl spočívat v navržení počítače využívajícího ternární (trojkovou) logiku, takže by data mohla být ukládána jako ""pravda"", ""nepravda"" a ""neznámé"". Pokud každý prvek ternární logiky nazýváme flit, kolik flitů je potřeba k reprezentaci alespoň 256 různých hodnot?",4,5,6,7,C
+"Lokální ukládání souborů do mezipaměti je běžné v distribuovaných souborových systémech, ale má tu nevýhodu, že",Dočasné nesrovnalosti mezi pohledy na soubor různými stroji mohou vzniknout,"Při pádu počítače je pravděpodobné, že dojde k poškození souborového systému.",Výsledkem je mnohem větší objem síťového provozu,Ukládání do mezipaměti znemožňuje migraci souborů,A
+"Pole A obsahuje 256 prvků, každý o velikosti 4 bajtů. Jeho první prvek je uložen na fyzické adrese 4 096.
+Pole B obsahuje 512 prvků, každý o velikosti 4 bajtů. Jeho první prvek je uložen na fyzické adrese 8 192.
+Předpokládejme, že pouze pole A a B mohou být uloženy v původně prázdné, fyzicky adresované, fyzicky označené, přímo mapované mezipaměti o velikosti 2K bajtů s velikostí bloku 8 bajtů. Poté je proveden následující cyklus.
+for (i = 0; i < 256; i++)
+        A[i] = A[i] + B[2*i];
+Během provádění cyklu, kolik bajtů bude zapsáno do paměti, pokud mezipaměť používá politiku průběžného zápisu (write-through)?",0,256,1024,2048,C
+"V čase 0 je k dispozici pět úloh pro provedení na jednom procesoru, s dobami zpracování 25, 15, 5, 3 a 2 časové jednotky. Která z následujících možností je minimální hodnota průměrné doby dokončení těchto úloh?",50,208/5,92/5,10,C
+"Nechť G = (V, E) je souvislý neorientovaný graf a nechť a a b jsou dva různé vrcholy v V. Nechť P_1 je problém nalezení nejkratší jednoduché cesty mezi a a b a nechť P_2 je problém nalezení nejdelší jednoduché cesty mezi a a b. Které z následujících tvrzení o P_1 a P_2 je pravdivé?","Jak P_1, tak P_2 lze vyřešit v polynomiálním čase.","P_1 lze vyřešit v polynomiálním čase, ale o P_2 není známo, že by bylo řešitelné v polynomiálním čase.","P_1 není známo, že by bylo řešitelné v polynomiálním čase, ale P_2 lze vyřešit v polynomiálním čase.","Není známo, zda P_1 nebo P_2 lze vyřešit v polynomiálním čase.",B
+"Hlavní výhodou přímého mapování mezipaměti je její jednoduchost. Hlavní nevýhodou této organizace je, že",neumožňuje současný přístup k zamýšleným datům a jejich značce,je dražší než jiné typy organizace mezipaměti,"poměr úspěšnosti vyrovnávací paměti se zhoršuje, pokud se dva nebo více bloků používaných střídavě mapují na stejný blokový rámec ve vyrovnávací paměti",doba přístupu k ní je delší než u jiných organizací mezipaměti,C
+"Nechť M je jednostopá deterministická Turingova mašina s páskovou abecedou {prázdné,0,1} a nechť C označuje (možná nekonečný) výpočet M začínající s prázdnou páskou. Vstupem pro každý z následujících problémů je M spolu s kladným celým číslem n. Který z následujících problémů je (jsou) rozhodnutelný(é)?
+I. Výpočet C trvá alespoň n kroků.
+II. Výpočet C trvá alespoň n kroků a M vytiskne 1 v nějakém okamžiku po n-tém kroku.
+III. M skenuje alespoň n různých čtverců pásky během výpočtu C.",Žádný,Pouze III,I a II pouze,Pouze I a III,D
+"3cestná, množinově asociativní vyrovnávací paměť je","takový, ve kterém každé slovo hlavní paměti může být uloženo na kterémkoli ze 3 míst v mezipaměti",účinné pouze pokud 3 nebo méně procesů běží střídavě na procesoru,možné pouze se zpětným zápisem,rychlejší přístup než přímo mapovaná mezipaměť,A
+"Uvažujme objektově orientovaný jazyk, ve kterém jsou všechny entity objekty. Vznikají dva vztahy: (1) vztah instance mezi objektem a třídou, jejímž je tento objekt členem, a (2) vztah podtřídy mezi třídou a nadtřídou, od které tato třída dědí vlastnosti. V takovém jazyce, když je objektu zaslána zpráva požadující provedení jedné z jeho metod (procedur), je metoda lokalizována následováním",jeden odkaz na instanci a poté nula nebo více odkazů na podtřídy,jeden nebo více odkazů na instance a poté jeden nebo více odkazů na podtřídy,jeden nebo více odkazů na instance,jedna vazba podtřídy a poté jedna nebo více vazeb instancí,A
+"V počítači s architekturou RISC s řetězeným zpracováním, kde všechny aritmetické instrukce mají stejný CPI (cykly na instrukci), která z následujících akcí by zlepšila dobu provádění typického programu?
+I. Zvýšení frekvence hodinového cyklu
+II. Zákaz jakéhokoli předávání v řetězci
+III. Zdvojnásobení velikosti instrukční cache a datové cache bez změny času hodinového cyklu",Já pouze,II pouze,Pouze III,I a III,D
+"Mikropočítač používaný pro sběr dat a řízení musí digitalizovat a zpracovat čtyři analogové vstupní signály a kontinuálně vydávat jejich průměr; tj. v reálném čase. Doba potřebná pro externí analogově-digitální převodník (který je spouštěn instrukcí CPU) k digitalizaci jednoho vstupu je 12 mikrosekund a v jednom okamžiku probíhá pouze jedna digitalizace. Pro každý digitalizovaný signál musí být provedeno pět instrukcí CPU, včetně spouštěcí instrukce. Deset instrukcí CPU je provedeno za účelem zprůměrování každé sady čtyř vzorků a výstupu této hodnoty. Čas potřebný k převodu výstupu z digitální na analogovou formu má být ignorován. Pokud předpokládáme, že je použito vhodné vyrovnávací paměti dat, pak maximální průměrná doba provádění instrukce, která umožňuje mikropočítači udržet krok s vstupně-výstupními datovými toky, je","0,8 mikrosekund","1,2 mikrosekundy","1,6 mikrosekundy","2,4 mikrosekundy",C
+"Předpokládejme, že určitý softwarový produkt má střední dobu mezi poruchami 10 000 hodin a střední dobu opravy 20 hodin. Pokud produkt používá 100 zákazníků, jaká je jeho dostupnost?",80 %,90 %,98 %,"99,80 %",D

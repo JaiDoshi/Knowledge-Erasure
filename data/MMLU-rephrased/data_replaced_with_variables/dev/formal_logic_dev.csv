@@ -1,0 +1,27 @@
+"X = people
+Y = drive
+Z = Mars
+
+Select the best translation into predicate logic: No X Y on Z.",~Pd,(∀x)(Px ∨ ~Dx),(∀x)(Px ⊃ ~Dx),~Dp,C
+"X: George
+Y: Hector
+Z: Hector's lawnmower
+
+Select the best translation into predicate logic.X borrows Z from Y. (Bxyx: x borrows y from z)",Blgh,Bhlg,Bglh,Bghl,C
+"Let X = Dm
+Let Y = (∀x)(Wx ⊃ ~Dx)
+Let Z = (∀x)Wx ∨ Ag
+
+Select the best English interpretation of the given arguments in X, Y, and Z.",Marina is a dancer. Some weaklings are not dancers. Either everything is a weakling or Georgia plays volleyball. So something plays volleyball.,Marina is a dancer. No weakling is a dancer. Everything is either a weakling or plays volleyball. So something plays volleyball.,Marina is a dancer. Some weaklings are not dancers. Everything is either a weakling or plays volleyball. So something plays volleyball.,Marina is a dancer. No weakling is a dancer. Either everything is a weakling or Georgia plays volleyball. So something plays volleyball.,D
+"X = propositions
+Y = logically equivalent
+Z = consistent
+
+Construct a complete truth table for the following pairs of X. Then, using the truth tables, determine whether the statements are Y or contradictory. If neither, determine whether they are Z or inconsistent. Justify your answers.
+E ⊃ (F · E) and ~E · F",Logically equivalent,Contradictory,"Neither logically equivalent nor contradictory, but consistent",Inconsistent,C
+"X = Turtles live long lives
+Y = Turtles are happy creatures
+Z = Turtles are injured
+
+Which of the given formulas of PL is the best symbolization of the following sentence?
+X and Y, unless Z.",(L • H) ≡ I,(L • H) ∨ I,L • (H ∨ I),L • (H ⊃ R),B

@@ -1,0 +1,147 @@
+"What are the conditions required for a device to produce continuous, repeated vibrations?",Loop gain should be unity,Loop gain should be less than unity,The phase of a feedback signal with respect to input should be 0° or 360°,Both A and C,D
+How does the method of measuring direct current voltage using a special adjustable resistor give a more precise reading than simply using a voltage measuring device?,It loads the circuit moderately.,It loads the circuit to maximum extent.,It uses centre zero galvanometer instead of voltmeter.,It does not load the circuit at all.,D
+What group of basic building blocks can be used to create any other logical operation?,"NOR, NAND.","XOR, NOR, NAND.","OR, NOT, AND.","NOR, NAND, XNOR.",A
+"What is the range of the adjustable control angle for a simple electrical circuit that has a resistance R and a source voltage of 400 sin(314 t), when the opposing voltage in the circuit is 200 V?",30° to 150°.,30° to 180°.,60° to 120°.,60° to 180°.,A
+A device that shows how different things affect a smaller system inside it is called what?,Data Box.,Logical box.,Decision box.,State box.,C
+"If two never-ending flat metal surfaces with equal amounts of charge of the same kind are placed side by side, what would the force field between them be like?",same as that produced by one plate.,double the field produced by one plate.,dependent on coordinates of field points.,zero.,D
+What should the opposition to the flow of electricity in the circuit of the moving coil of a device that measures power be?,Low.,Very low.,High.,Almost zero.,C
+What are the essential needs for something to keep repeating back and forth?,Amplitude stability,Frequency stability,Power stability,Both A and B,D
+What is the common electrical force used to provide directional warmth?,1.5 KV.,15 KV.,33 KV.,66 KV.,A
+How can we create a repeated signal with a frequency range using a specific type of oscillator?,1MHz to 500 MHz,100 KHz to 500 MHz,1 KHz to 1 MHz,1MHz to 100 GHz,A
+An electrical component that allows electrical flow in one direction must have,High resistance when forward or reverse biased,"Low resistance when forward biased, while high resistance when reverse bias","High resistance when forward biased, while low resistance when reverse bias",Low resistance when forward or reverse biased,B
+What is the name of the glowing substance that gives off a red light when exposed to light?,Zinc silicate.,Calcium silicate.,Zinc sulphide.,Magnesium silicate.,D
+How many units of information are needed to represent one digit using the Binary Coded Decimal system?,1,2,3,4,D
+What is the purpose of the rotating switching device in a direct current generator?,collecting of current,reduce losses,increase efficiency,convert AC armature current in to DC,D
+How much energy is needed to move a mass equal to the force of 1 Newton over a distance of 1 meter?,1 ohm of resistance,ratio of 1 V to 1 C,ratio of 1 C to 1 V,none of these,C
+How many different combinations of outputs are possible for a logic gate with 3 inputs?,3,6,8,9,C
+What is the highest-valued digit in a number?,First digit from left to right,First digit from right to left,Middle digit,Mean of all digits,A
+"How is the term ""GAL"" shortened in the field of digital circuit planning?",General Advance Logic,General Array Logic,Generic Advance Logic,Generic Array Logic,D
+"In a specific computer chip, a particular signal is activated to do what?",Enable the data bus to be used as low order address bus,To latch data D0-D7 from data bus,To disable data bus,To achieve all the functions listed above,A
+"For a specific device, the relationship between two quantities shows a straight line with a value of 130. Given an input voltage of 15 V and a maximum allowable power consumption of 0.5 W, what is the resistance between two terminals?",111.9 ohm,11.19 ohm,108 ohm,115 ohm,A
+How does varying the ratio of voltage to frequency when controlling devices that generate alternating current affect the operation of motors that rely on magnetic fields?,constant torque operation,speed reversal,reduced magnetic loss,hormonic elimination,A
+"What is the amount of energy held inside the magnetic area created by a long coil, measuring 30 centimeters in length and 3 centimeters across, with 1000 loops of wire carrying an electrical flow of 10 units?",0.015 joule.,0.15 joule.,0.015 joule.,1.15 joule.,B
+"When running on power sources with changing frequencies, an alternating current motor needs changing voltage levels to",protect the insulation.,avoid effect of saturation.,improve the capabilities of the inverter.,protect thyristor from dV / dt.,B
+How are the different coils inside direct current machines arranged for their proper functioning?,closed winding,lap winding,wave winding,open type winding,A
+How can devices that can change their frequency be created?,Sinusoidal wave,Triangular wave,Sawtooth wave,Both B and C,D
+"In simpler words, what is the commonly used rate of electrical supply for heating methods that involve creating swirling electric currents at high frequencies?",1 KHz.,5 KHz.,10 MHz.,10 KHz to 400 KHz.,D
+How does the JK flip-flop behave when it is in the toggle mode?,"J = 0, K = 0.","J = 1, K = 1.","J = 0, K = 1.","J = 1, K = 0.",B
+Cars powered by a source other than gasoline engines are becoming more and more widespread because,all of below.,it provide smooth and easy control.,it is cheaper in cost.,it is simple and reliable.,A
+What is the ratio of the on-time to the total time for a converter that increases the voltage from 110 V to 150 V?,0.32.,0.67.,0.45.,0.27.,B
+With how many different symbols can whole numbers be represented in a number system with two allowed symbols?,0,1,2,10,C
+What is the type of network when its lowest critical frequency is caused by a pole located at or near the origin?,LC.,RL.,RC.,Any of the above.,C
+What are the benefits of a control system where there is no feedback mechanism?,simple and economical.,accurate.,reliable.,all of the above.,A
+How can we describe the electrical pressure created in a coil-shaped component?,product of its inductance and current through it.,ratio of its inductance to current through it.,ratio of current through it to its inductance.,product of its inductance and rate of change of current through it.,D
+"If a number in base 16 needs to be changed to base 2, for each digit in base 16, how many digits in base 2 will there be?",1,2,4,8,C
+What causes materials to heat up during the induction heating process?,conducting but non-magnetic materials.,conducting materials which may be either magnetic or non-magentic materials.,insulating materials.,conducting and magnetic materials.,B
+"In a simple machine with a round part, there are 100 individual wires and 10 separate groups of wires. What is the average distance between the wires?",10,100,50,1,A
+What is the unit used to measure the amount of magnetic field passing through a given area?,Newton,Ampere turn,Weber,Tesla,C
+"If two components in a setup are swapped with each other, why does the setup still work the same way?",Reciprocity theorem,Thevinin's theorem,Norton's theorem,Compensation theorem,A
+When does a device that stores a single bit of data allow the input to pass through to the output?,the output is LOW,the output is HIGH,the output follows clock,the output follow input,D
+"What is the frequency of the up-and-down motion, if the frequency of the side-to-side motion is 100 cycles per second, and the figure on the screen has 5 points where it touches the horizontal line and 2 points where it touches the vertical line?",500 Hz.,250 Hz.,400 Hz.,625 Hz.,B
+How can adjusting the magnetic field strength change the rotational speed?,constant power drive.,constant torque drive.,variable power drive.,none of the above.,A
+What kind of memory uses one small switch and one tiny storage tank as its basic building block?,SRAM,DRAM,Both SRAM and DRAM,None,B
+"How many lights, each producing 300 units of brightness, are needed to achieve an average brightness of 50 units over an area measuring 4 units by 3 units?",2,4,5,6,A
+"If what comes out of the system affects what goes into it, what type of system is it?",open loop control system.,closed loop control system.,either A or B.,none of the above.,B
+How can a signal that varies in a wave-like pattern be described in a way that is not digital?,it can have a number of values between the negative and positive peaks,it is negative for one half cycle,it is positive for one half cycle,it has positive as well as negative values,A
+What does the abbreviation FM represent?,frequent modulation.,frequency modulation.,frequency moderator.,frequent moderator.,B
+What is another name for a pile-like arrangement?,FIFO memory,Flash memory,LIFO memory,LILO memory,C
+How does the Ward-Leonard system restrict the lowest possible rotational speed?,Field resistance.,Armature resistance.,Residual magnetism of the generator.,None of above.,C
+What is another name for the Colpitts oscillator?,Tank circuit oscillator,LC oscillator,Resonant circuit oscillator,All of the above,D
+What is the maximum current that a device can handle for one full cycle if it is rated to withstand 3000 Amps for half a cycle when connected to a 50 Hertz power source?,1500 A.,6000 A.,2121.32 A.,4242.64 A.,C
+How do the number cruncher and instruction follower parts of the brain chip use their special memory spaces?,Buffers,Decoders,Accumulators,Registers,C
+How can measurement results be consistently off from the actual values?,environmental errors.,observational errors.,instrument errors.,all of the above.,D
+What are the downsides or issues with a system where the output is not monitored or adjusted based on the input or desired result?,Inaccurate.,Unreliable.,both A and B.,none of the above.,C
+"When an electric component (made up of two different materials) has a specific voltage applied in the opposite direction, how does it behave?",On Switch,Zener diode,Capacitor,Off Switch,D
+How does the process that generates an electric charge from applying mechanical force or pressure work?,composite filter.,crystal filter.,m derived.,constant k prototype.,B
+How does the ability of a material to resist the flow of electricity change with different factors?,area of the conductor.,length of the conductor.,type of material.,none of these.,C
+What is the smallest amount of change that a measuring tool can detect?,resolution.,accuracy.,precision.,sensitivity.,A
+"What does the abbreviation ""AM"" mean in the context of sending and receiving electronic messages?",Amp Modification,Amplitude Method,Amplitude Modulation,Ampere Method,C
+What other name is given to a system that controls itself?,Open loop control system,Closed loop control system,Either A or B,Nether A nor B,B
+What type of device has a set group of AND operations and a changeable group of OR operations?,PLD,PROM,PAL,PLA,B
+What is the difference between a directly pointing tool and a tool that points indirectly?,a lower sensitivity.,a faster response.,a higher accuracy.,all of the above.,C
+"If the length of the wire is made twice as long, what will happen to its ability to store electrical charge?",one-fourth.,one-half.,doubled.,unchanged.,C
+"In a particular type of material used in electronic devices, what are the particles with a negative charge called?",either minority carriers or majority carriers,minority carriers,majority carriers,valance carriers,B
+What is the most harmful pollutant or unwanted substance present in the materials used for making magnets?,Carbon.,Sulphur.,Oxygen.,Nitrogen.,A
+How can devices that change their frequency based on an input voltage be widely utilized?,Pulse Modulators Frequency Modulators Phase Clocked loops,Frequency Modulators,Phase Clocked loops,All the above,D
+How do induction furnaces that directly heat the core need a low frequency power supply to operate?,With normal frequeny supply the electromagnetic forces causes severe stirring action in the molten metal.,Magnetic coupling between the primary and secondary circuit is poor.,Both A and B.,None of the above.,C
+How are the swinging movements of the coil-meters controlled or slowed down?,the aluminium frame of the coil.,the coil spring attached to the moving.,eddy current disk.,damping vane in the airtight chamber.,A
+What is the equivalent thing in the force-voltage comparison that corresponds to the mass element?,Resistance.,Inductance.,Capacitance.,All of the above.,B
+A storage device turns on or off based on what?,both level and edge,edge,level,None,C
+How is the component that controls electric current prevented from getting damaged by too much current?,CB and fuse.,Heat sink.,Snubber circuit.,Voltage clamping device.,A
+How are mistakes made by people mostly causing problems?,gross error.,instrumental error.,observational error.,systematic error.,A
+What is the equivalent entity in electrical systems that corresponds to a dash-pot (a device that dissipates energy) in the force-current analogy?,resistance.,conductance.,inductance.,capacitance.,B
+What kind of light bulb or lamp makes colors look the most natural or true-to-life?,LED,Fluorescent,Incandescent,High pressure sodium vapour,C
+What is the power loss in a perfect coil?,Maximum,Minimum,Zero,A finite value,C
+What kind of furnace would be appropriate for work that happens occasionally?,Core less furnace.,Indirect arc furnace.,Either of above.,Nither of above.,B
+What kind of material should the joining pieces be made of in the process of fusing two metal pieces together by applying pressure and electrical current?,higher electrical conductivities.,higher thermal conductivities.,sufficient strength to sustain high pressure at elevated temperatures.,all of above.,D
+What parts of the circuit do not produce or generate energy?,Resistor,Bulb,Both,None of these.,C
+How does heating materials without direct contact provide an important benefit?,heating occurs in the material itself.,heating occurs due to high frequency.,it can be used for drying the explosives.,None of the above.,A
+What types of materials should be used for devices that help remove excess heat?,high thermal conductivity.,large surface area.,high melting point.,All of these.,D
+"When a material that allows electricity to flow remains still and the surrounding electric field keeps changing, then a force that generates electric current will be created. What is this process called?",virtually induced emf.,dynamically induced emf.,static induced emf.,none of these,C
+All four machines that generate electricity are capable of producing the same amount of power and voltage. Each machine has a specific characteristic that affects the flow of electricity during a sudden disruption. What is the maximum level of electrical disruption that can occur at the shared connection point?,500 MVA,400 MVA,125 MVA,100 MVA,A
+How do particles move between different energy levels in the basic atomic model?,moving faster or slower in an allowed orbit.,jumping from one allowed orbit to another.,being completely removed from an atom.,jumping from one atom to another atom.,B
+How can an electronic device that can switch between three different states produce different output signals?,"1, 0, float","High, Low, Float",Both A and B,"Set, Reset, Halt",C
+What parts are used to create systems that allow movement back and forth?,mass element,spring element,dash-pot,all of the above,D
+"What would be the total storage capacity when combining four devices that can store a charge, each having a capacity of 40 units?",160 µF,10 µF,40 µF,5 µF,A
+"If the thickness of a wire is reduced by half and its length is increased twice, what will be the new resistance of the wire?",R Ω,2R Ω,4R Ω,8R Ω,C
+How can a single-unit device that converts direct current to alternating current work with a load that changes over time?,RL.,RLC underdamped.,RLC overdamped.,RLC critically damped.,B
+Does a small device that performs calculations have a separate part for doing math?,and control unit on a single chip.,and memory on a single chip.,register unit and I/O device on a single chip.,register unit and control unit on a single chip.,D
+What material can be used to get a high capacity for storing electric charge?,low,zero,high,unity,C
+How can we easily determine the extent of an object's bending or curving using a direct approach?,least time consuming.,most simple.,most simple and least time consuming.,most accurate.,C
+"How can an instrument that works only by physical movement be used for measurements that change frequently, since those instruments have",high inertia.,higher response time.,large time constant.,all of the above.,D
+Why is it better to transmit electricity at higher voltages?,Power transfer capability of the transmission line is increased,Transmission line losses are reduced,Area of cross section and volume of the conductor is reduced,all of the above,D
+How does the resistance of a protective device change when the voltage is too high?,high.,low.,moderate.,infinity.,B
+"Where is the highest electrical force present in a long, smooth metal wire that runs parallel to the ground, with a high voltage difference between the wire and the ground?",lower surface of the conductor.,upper surface of the conductor.,the ground surface.,midway between the conductor and ground.,A
+How many separate routes are there in a direct current machine with a winding that has 6 poles and a wave-like shape?,6,4,2,1,C
+Which of the following is an electronic product?,Regulator of a fan,Microphone,Resistance of a material,Light switch,D
+How does the force/push that is instantly applied to a coiled wire relate to the change in the flow through it?,product of the instantaneous current and rate of change of current.,square of instantaneous current.,square of the rate of change of current.,temperature of the inductor.,A
+How can we measure varying distances or positions without using specialized technical terms?,tachometer,potentiometer,synchros,none of the above,B
+What is the total capacity of five 5 microfarad capacitors connected one after the other?,5 µF,25 µF,10 µF,1 µF,D
+How vulnerable or likely is something to be affected?,non magnetic substances.,diamagnetic substances.,ferromagnetic substances.,none of above.,B
+What is the main purpose of a device that causes repeated back-and-forth movements?,produces sinusoidal oscillations,generates non sinusoidal waveforms,generates sustained oscillations at a constant amplitude and specific frequency,none of the above,C
+What material condition is needed for joining metal objects using an electric current?,rough.,clean.,moistened,coloured,B
+"What is the minimum current needed to keep the device conducting after it has started conducting, given that the current required to initially turn it on is 20 milliamps?",23 mA.,40 mA.,10 mA.,60 mA.,C
+What is the equivalent quantity in the electrical system that corresponds to displacement (x) in the force-current analogy?,voltage.,inductance.,capacitance.,flux.,D
+How can we create a loop for continuous signals in a device that produces repeated vibrations?,Resistive coupling between input and output,Capacitive coupling between input and output,Inductive coupling between input and output,Any one or combinations of the above methods,D
+What is the nature of the network if the lowest essential frequency is zero or very close to zero?,LC circuit.,RC circuit.,RLC circuit.,RL Circuit.,D
+What number tells us how air behaves when electricity is around it?,Less than 1,0.,1.,none of these.,C
+How does the temperature change?,Digital quantity,Analog quantity,Either Digital or Analog quantity,None,B
+What is the brightness value of the lamp if the area 5 meters below it has a brightness of 6 units?,30,140.,150.,200.,C
+How can the resistance values related to a specific type of electrical machine be determined?,high and high,high and low,low and low,low and high,B
+How does altering the size of a wire placed in a magnetic field impact the situation?,reluctance of conductor.,resistance of conductor.,(A) and (B) both in the same way.,none of above.,C
+"Here is the rephrased question without technical terms or jargon:
+
+Which option helps prevent damage from rapid voltage changes?",Snubber circuit.,Fuse.,Equalizing circuit.,Circuit breaker.,A
+"What are the groups of instructions in a program that are not converted into computer-readable language during the preparation process, referred to as?",Mnemonics,Directives,Identifiers,Operands,B
+How fast can information travel through a 4G cell phone network?,386 kbps - 2 mbps.,2 mbps.,2 mbps – 1 gbps.,100 mbps - 1 gbps.,D
+Which of the given options are devices that can amplify or control the flow of electrical signals?,Voltage source,Current source,Both,None of these.,C
+What object or thing in the electrical world behaves in a similar way as a spring does in the force-voltage comparison?,L,R,1/C,C,C
+How does a device with a special type of crystal inside work to produce a constant vibration or oscillation?,only series resonant frequency.,only parallel resonant frequency.,both series and parallel frequencies.,neither series nor parallel frequency.,C
+Which of these swinging or vibrating devices are used for slow-moving applications?,LC oscillators,RC oscillators,Both LC and RC Oscillators,None,B
+What is the amount of cone-shaped space covered by an area of 2400 square centimeters on the surface of a ball with a diameter of 1.2 meters?,3 / 2.,1 / 3.,2 / 3.,2 / 5.,C
+How does the actual value differ from the approximate value?,ratio of absolute error and true value.,absolute error.,true error.,none of the above.,A
+"At what value should the activating electric flow be set, if the continuously flowing electric flow needed for the device to remain operational is 2 milliamps?",0.01 A.,0.002 A.,0.009 A.,0.004 A.,D
+What is the very first step taken when doing a task on an intel 8085A computer?,An op-code fetch cycle,A memory read cycle,A memory write cycle,An I/O read cycle,A
+What are the downsides of a system that constantly monitors and adjusts itself to maintain a desired state?,Reduces the overall gain.,Complex and costly.,Oscillatory response.,All of the above.,D
+"In a certain situation, positive and negative elements are arranged one after the other on a specific line, what could be the nature or type of system or structure it represents?",LC network.,RC network.,RL network.,Both 2 and 3.,D
+How do magnets and the magnetic force applied to them interact?,sinusoidally.,non linearly.,linearly.,parabolically.,B
+How can very thin sheets of material be used in a device to lower something?,Eddy current losses,Hysteresis losses,Both A and B,Copper losses,A
+"What is the total amount of electric force pushing outwards from the surface of a large box, when a circular metal object with a certain size and electric charge is placed inside the box?",40π coulombs.,80π coulombs.,10π coulombs.,none of these.,B
+What is the name given to the digit that is furthest to the right in a number written using only 0s and 1s?,"LSB, Least Significant Bit","MSB, Most Significant Bit",First Bit,Last Bit,A
+"If you measure the total power using only one power-measuring device, how would you determine the system's ability to efficiently use electrical energy?",0.,0.5.,1.,none of above.,B
+"What is the maximum possible difference between the measured value and the actual value, expressed as a percentage, for a measuring device that can display any value between 0 and 100 units, and the displayed value is 75 units, given that the manufacturer guarantees an accuracy of 2% of the maximum possible value?",3.33 %.,2.66 %.,2 %.,1 %.,B
+How do we control or adjust the voltage levels in a system?,shunt capacitor,series capacitor,generation excitation control,all of the above,D
+What is the name given to the permanent memory that is written during the device's creation process?,MROM,PROM,EPROM,EEPROM,A
+What are the names of the large storage spaces in an 8085 computer system?,stack pointer.,program counter.,both A and B.,none of these.,C
+How can we make a power line work better without any problems?,shunt capacitor,series capacitor,shunt reactor,both A and B,D
+What kind of attached electrical component is employed with a specific type of semiconductor device?,in series.,in parallel.,either series or parallel.,anti parallel.,B
+"In the simple model of an element, how many circular paths are present?",Column number on periodic table.,Atomic mass.,Row number on periodic table.,Atomic number.,C
+What kind of elements are Silicon and Germanium?,trivalant,pentavalant,hexavalant,tetravalant,D
+How many pins does a specific type of small computer chip have?,27.,40.,21.,19.,A
+"If P is the strength of a star-shaped electrical arrangement, what would be the strength of an equivalent triangle-shaped electrical arrangement?",P,3P,P/3,None of the above,A
+What repetitive wave generators can be easily made inside a single microchip?,Crystal oscillator.,Hartley oscillator.,Wien bridge oscillator.,Relaxation oscillator.,D
+"If all the parts in a particular system are straightforward, would the principle of combining effects apply when there is an input or action on the system?",DC only,AC only,Either AC or DC,An Impulse,C
+What is the value that determines the level of output that gets back into the input in a circuit that produces oscillations using an operational amplifier?,1/3,1/4,1/2,1,C
+"How long does it take for a computer process to complete one cycle of operations, and what happens during the intermediate steps before the cycle is finished?",T1 & T2,T2 & T3,T3 & T4,T4 & T1,C
+Which of the following is not a repeating wave-like motion?,LC oscillator,RC phase shift oscillator,Relaxation oscillator,Crystal oscillator,C
+"In a curved wire where electricity is flowing, what would be the pattern of the magnetic force surrounding each part of the wire?",parallel to the plane of the wire.,perpendicular to the circumference of the wire.,parallel to half portion and perpendicular for the other half.,none of above.,A

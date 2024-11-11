@@ -1,0 +1,13 @@
+Který z následujících regulárních výrazů je ekvivalentní (popisuje stejnou množinu řetězců jako) (a* + b)*(c + d)?,a*(c + d)+ b(c + d),a*(c + d)* + b(c + d)*,a*(c + d)+ b*(c + d),(a + b)*c +(a + b)*d,D
+"Určitý zřetězený RISC stroj má 8 univerzálních registrů R0, R1, . . . , R7 a podporuje následující operace.
+ADD Rs1, Rs2, Rd Přičte Rs1 k Rs2 a výsledek uloží do Rd
+MUL Rs1, Rs2, Rd Vynásobí Rs1 a Rs2 a výsledek uloží do Rd
+Operace obvykle trvá jeden cyklus; nicméně operace trvá dva cykly, pokud produkuje výsledek požadovaný bezprostředně následující operací v sekvenci operací. Uvažujte výraz AB + ABC + BC, kde proměnné A, B, C jsou umístěny v registrech R0, R1, R2. Pokud obsah těchto tří registrů nesmí být modifikován, jaký je minimální počet hodinových cyklů potřebných pro sekvenci operací, která vypočítá hodnotu AB + ABC + BC?",5,6,7,8,B
+"Návrhový vzor Singleton se používá k zajištění toho, že může být vytvořena pouze jediná instance třídy. Které z následujících tvrzení je (jsou) pravdivé o tomto návrhovém vzoru?
+I. Třída Singleton má statickou tovární metodu pro poskytnutí své instance.
+II. Třída Singleton může být podtřídou jiné třídy.
+III. Třída Singleton má soukromý konstruktor.",Já pouze,II pouze,Pouze III,"I, II a III",D
+"Překladač generuje kód pro následující přiřazovací příkaz.
+G := (A + B) * C - (D + E) * F
+Cílový stroj má jeden akumulátor a instrukční sadu s jednou adresou skládající se z instrukcí načíst, uložit, sčítat, odečítat a násobit. Pro aritmetické operace je levý operand brán z akumulátoru a výsledek se objeví v akumulátoru. Nejmenší možný počet instrukcí ve výsledném kódu je",5,6,7,9,D
+"Uvažujte návrh počítače, ve kterém více procesorů, každý s vlastní cache pamětí, sdílí globální paměť pomocí jediné sběrnice. Tato sběrnice je kritickým systémovým zdrojem. Každý procesor může vykonat jednu instrukci každých 500 nanosekund, pokud jsou paměťové reference uspokojeny jeho lokální cache. Když dojde k cache miss, procesor je zpožděn o dalších 2 000 nanosekund. Během poloviny tohoto dodatečného zpoždění je sběrnice vyhrazena pro obsluhu cache miss. Během druhé poloviny procesor nemůže pokračovat, ale sběrnice je volná pro obsluhu požadavků od jiných procesorů. V průměru každá instrukce vyžaduje 2 paměťové reference. V průměru dochází k cache miss u 1 procenta referencí. Jakou část kapacity sběrnice by spotřeboval jeden procesor, pokud ignorujeme zpoždění způsobená konkurencí od jiných procesorů?",1/50,1/27,1/25,27. 2.,B

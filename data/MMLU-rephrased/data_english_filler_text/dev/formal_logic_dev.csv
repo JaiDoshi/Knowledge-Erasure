@@ -1,0 +1,65 @@
+"The curious cat chased the fluttering butterfly through the sun-drenched meadow.
+A gentle breeze whispered secrets to the ancient oak tree standing tall in the tranquil forest.
+As the morning dew glistened on the petals, the sleepy flowers slowly opened their eyes to greet the dawn.
+Lost in the labyrinth of thoughts, she searched for the elusive thread of clarity in the depths of her mind.
+With a flick of his wand, the magician conjured a cascade of sparkling stars that danced across the velvet sky.
+The aroma of freshly baked bread wafted through the cozy kitchen, wrapping everyone in a warm embrace.
+Time stood still as they traced constellations in the infinite expanse of the night sky, lost in wonder.
+The laughter of children echoed through the playground, filling the air with pure, unbridled joy.
+In the library of dreams, she found solace among the pages of forgotten stories and whispered secrets.
+Beneath the canopy of twinkling lights, they shared stories and laughter around the crackling campfire, their spirits alight with camaraderie.
+
+ Select the best translation into predicate logic: No people drive on Mars.",~Pd,(∀x)(Px ∨ ~Dx),(∀x)(Px ⊃ ~Dx),~Dp,C
+"The curious cat chased the fluttering butterfly through the sun-drenched meadow.
+A gentle breeze whispered secrets to the ancient oak tree standing tall in the tranquil forest.
+As the morning dew glistened on the petals, the sleepy flowers slowly opened their eyes to greet the dawn.
+Lost in the labyrinth of thoughts, she searched for the elusive thread of clarity in the depths of her mind.
+With a flick of his wand, the magician conjured a cascade of sparkling stars that danced across the velvet sky.
+The aroma of freshly baked bread wafted through the cozy kitchen, wrapping everyone in a warm embrace.
+Time stood still as they traced constellations in the infinite expanse of the night sky, lost in wonder.
+The laughter of children echoed through the playground, filling the air with pure, unbridled joy.
+In the library of dreams, she found solace among the pages of forgotten stories and whispered secrets.
+Beneath the canopy of twinkling lights, they shared stories and laughter around the crackling campfire, their spirits alight with camaraderie.
+
+Select the best translation into predicate logic.George borrows Hector's lawnmower. (g: George; h: Hector; l: Hector's lawnmower; Bxyx: x borrows y from z)",Blgh,Bhlg,Bglh,Bghl,C
+"The curious cat chased the fluttering butterfly through the sun-drenched meadow.
+A gentle breeze whispered secrets to the ancient oak tree standing tall in the tranquil forest.
+As the morning dew glistened on the petals, the sleepy flowers slowly opened their eyes to greet the dawn.
+Lost in the labyrinth of thoughts, she searched for the elusive thread of clarity in the depths of her mind.
+With a flick of his wand, the magician conjured a cascade of sparkling stars that danced across the velvet sky.
+The aroma of freshly baked bread wafted through the cozy kitchen, wrapping everyone in a warm embrace.
+Time stood still as they traced constellations in the infinite expanse of the night sky, lost in wonder.
+The laughter of children echoed through the playground, filling the air with pure, unbridled joy.
+In the library of dreams, she found solace among the pages of forgotten stories and whispered secrets.
+Beneath the canopy of twinkling lights, they shared stories and laughter around the crackling campfire, their spirits alight with camaraderie.
+
+ Select the best English interpretation of the given arguments in predicate logic.
+Dm
+(∀x)(Wx ⊃ ~Dx)
+(∀x)Wx ∨ Ag	/ (∃x)Ax",Marina is a dancer. Some weaklings are not dancers. Either everything is a weakling or Georgia plays volleyball. So something plays volleyball.,Marina is a dancer. No weakling is a dancer. Everything is either a weakling or plays volleyball. So something plays volleyball.,Marina is a dancer. Some weaklings are not dancers. Everything is either a weakling or plays volleyball. So something plays volleyball.,Marina is a dancer. No weakling is a dancer. Either everything is a weakling or Georgia plays volleyball. So something plays volleyball.,D
+"The curious cat chased the fluttering butterfly through the sun-drenched meadow.
+A gentle breeze whispered secrets to the ancient oak tree standing tall in the tranquil forest.
+As the morning dew glistened on the petals, the sleepy flowers slowly opened their eyes to greet the dawn.
+Lost in the labyrinth of thoughts, she searched for the elusive thread of clarity in the depths of her mind.
+With a flick of his wand, the magician conjured a cascade of sparkling stars that danced across the velvet sky.
+The aroma of freshly baked bread wafted through the cozy kitchen, wrapping everyone in a warm embrace.
+Time stood still as they traced constellations in the infinite expanse of the night sky, lost in wonder.
+The laughter of children echoed through the playground, filling the air with pure, unbridled joy.
+In the library of dreams, she found solace among the pages of forgotten stories and whispered secrets.
+Beneath the canopy of twinkling lights, they shared stories and laughter around the crackling campfire, their spirits alight with camaraderie.
+
+ Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.
+E ⊃ (F · E) and ~E · F",Logically equivalent,Contradictory,"Neither logically equivalent nor contradictory, but consistent",Inconsistent,C
+"The curious cat chased the fluttering butterfly through the sun-drenched meadow.
+A gentle breeze whispered secrets to the ancient oak tree standing tall in the tranquil forest.
+As the morning dew glistened on the petals, the sleepy flowers slowly opened their eyes to greet the dawn.
+Lost in the labyrinth of thoughts, she searched for the elusive thread of clarity in the depths of her mind.
+With a flick of his wand, the magician conjured a cascade of sparkling stars that danced across the velvet sky.
+The aroma of freshly baked bread wafted through the cozy kitchen, wrapping everyone in a warm embrace.
+Time stood still as they traced constellations in the infinite expanse of the night sky, lost in wonder.
+The laughter of children echoed through the playground, filling the air with pure, unbridled joy.
+In the library of dreams, she found solace among the pages of forgotten stories and whispered secrets.
+Beneath the canopy of twinkling lights, they shared stories and laughter around the crackling campfire, their spirits alight with camaraderie.
+
+ Which of the given formulas of PL is the best symbolization of the following sentence?
+Turtles live long lives and are happy creatures, unless they are injured.",(L • H) ≡ I,(L • H) ∨ I,L • (H ∨ I),L • (H ⊃ R),B

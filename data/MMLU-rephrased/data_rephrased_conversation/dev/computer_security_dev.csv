@@ -1,0 +1,20 @@
+"Person 1: Hey, I have a question about SHA-1.
+Person 2: What would you like to know about it?
+Person 1: Well, SHA-1 has a message digest of a certain length, right?
+Person 2: Yes, that's correct. Do you know what that length is?",160 bits,512 bits,628 bits,820 bits,A
+"Person 1: Hey, I have a question about computer security. Can I ask you something?
+Person 2: Of course, what's your question?
+Person 1: I heard that there are certain things that can modify data on your system in a bad way. Do you know what I'm talking about?
+Person 2: I think so. What kind of effects are you referring to?
+Person 1: Well, apparently it can make it so your system doesn't run correctly, or you might lose access to your data. I even heard in some cases it asks for a ransom to get your access back! Do you know what this is called?",IM – Trojans,Backdoor Trojans,Trojan-Downloader,Ransom Trojan,D
+"Person 1: Hey, I heard the term ""ethical hacking"" the other day. Do you know what that means?
+Person 2: Ethical hacking? That's an interesting concept. What do you think it refers to?
+Person 1: I'm not entirely sure. I was hoping you might have some insights into what it's all about.
+Person 2: Well, from what I understand, it's a type of hacking, but I'm curious about the ""ethical"" part. How do you think ethics and hacking are related in this context?","""Hacking"" ethics so they justify unintended selfish behavior","Hacking systems (e.g., during penetration testing) to expose vulnerabilities so they can be fixed, rather than exploited",Hacking into systems run by those whose ethics you disagree with,"A slang term for rapid software development, e.g., as part of hackathons",B
+"Person 1: Hey, I heard about this Heartbleed bug. Do you know what it allows hackers to do?
+Person 2: Yeah, it's pretty serious. The exploitation of the Heartbleed bug permits...",overwriting cryptographic keys in memory,a kind of code injection,a read outside bounds of a buffer,a format string attack,C
+"Person 1: Hey, I have a question about search engines.
+Person 2: Okay, what's your question?
+Person 1: You know how search engines can search a lot of things, right?
+Person 2: Yes, they can search through a vast amount of information.
+Person 1: So, the ____________ is anything which your search engine cannot search.",Haunted web,World Wide Web,Surface web,Deep Web,D

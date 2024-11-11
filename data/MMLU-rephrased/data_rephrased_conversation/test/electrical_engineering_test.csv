@@ -1,0 +1,556 @@
+"Person 1: Hey, do you know about the Barkhausen criterion?
+Person 2: Yes, it's related to oscillators, right?
+Person 1: That's correct. Do you know what conditions must be met for an oscillator to sustain stable oscillations according to the Barkhausen criterion?",Loop gain should be unity,Loop gain should be less than unity,The phase of a feedback signal with respect to input should be 0° or 360°,Both A and C,D
+"Person 1: Hey, I have a question about measuring DC voltage.
+Person 2: Okay, what's your question?
+Person 1: Why is the potentiometer method of DC voltage measurement considered more accurate than directly measuring with a voltmeter?",It loads the circuit moderately.,It loads the circuit to maximum extent.,It uses centre zero galvanometer instead of voltmeter.,It does not load the circuit at all.,D
+"Person 1: Hey, I have a question about logic gates.
+Person 2: Alright, what's your question?
+Person 1: Which sets of logic gates are considered universal gates?","NOR, NAND.","XOR, NOR, NAND.","OR, NOT, AND.","NOR, NAND, XNOR.",A
+"Person 1: Hey, I have a question about a single phase one pulse controlled circuit.
+Person 2: Alright, what's your question?
+Person 1: So the circuit has a resistance R and counter emf E load 400 sin(314 t) as the source voltage.
+Person 2: Okay, I'm following so far. What else?
+Person 1: If the load counter emf is 200 V, what would be the range of firing angle control?",30° to 150°.,30° to 180°.,60° to 120°.,60° to 180°.,A
+"Person 1: Hey, I have a question about control systems.
+Person 2: Alright, what's your question?
+Person 1: You know how there's a box that tells the effect of inputs on a control sub system?
+Person 2: Yes, I'm familiar with that concept. What about it?
+Person 1: What is that box known as?",Data Box.,Logical box.,Decision box.,State box.,C
+"Person 1: Hey, I have a question about electric fields and parallel metal plates.
+Person 2: Okay, what's your question?
+Person 1: If two infinite parallel metal plates are charged with equal surface charge density of the same polarity, what can you say about the electric field in the gap between the plates?",same as that produced by one plate.,double the field produced by one plate.,dependent on coordinates of field points.,zero.,D
+"Person 1: Hey, I have a question about dynamometer wattmeters.
+Person 2: Alright, what's your question?
+Person 1: It's about the resistance in the circuit of the moving coil. What should it be?",Low.,Very low.,High.,Almost zero.,C
+"Person 1: Hey, I have a question about oscillators.
+Person 2: Okay, what's your question?
+Person 1: What are the necessary requirements for something to be considered an oscillator?",Amplitude stability,Frequency stability,Power stability,Both A and B,D
+"Person 1: Hey, I have a question about directional heating.
+Person 2: Okay, what's your question?
+Person 1: Do you know the normal voltage used in directional heating?",1.5 KV.,15 KV.,33 KV.,66 KV.,A
+"Person 1: Hey, I have a question about LC oscillators.
+Person 2: Alright, what's your question?
+Person 1: You know how LC oscillators are used to produce waveforms with a certain frequency range, right?
+Person 2: Yes, that's correct.
+Person 1: So, what is the typical frequency range that LC oscillators are used for producing?",1MHz to 500 MHz,100 KHz to 500 MHz,1 KHz to 1 MHz,1MHz to 100 GHz,A
+"Person 1: Hey, can I ask you a question about diodes?
+Person 2: Of course! What would you like to know?
+Person 1: I was wondering, what must a diode have in order to function properly?",High resistance when forward or reverse biased,"Low resistance when forward biased, while high resistance when reverse bias","High resistance when forward biased, while low resistance when reverse bias",Low resistance when forward or reverse biased,B
+"Person 1: Hey, I have a question about fluorescent materials.
+Person 2: Okay, what's your question?
+Person 1: You know how some materials fluoresce with different colors under UV light?
+Person 2: Yes, I'm familiar with that phenomenon. What about it?
+Person 1: I'm trying to remember the name of the specific fluorescent material that gives off a red color under fluorescent light. Do you know what it's called?",Zinc silicate.,Calcium silicate.,Zinc sulphide.,Magnesium silicate.,D
+"Person 1: Hey, I have a question about storing BCD digits.
+Person 2: Alright, what's your question?
+Person 1: How many bits are needed to store a single BCD digit?",1,2,3,4,D
+"Person 1: Hey, I have a question about DC generators.
+Person 2: Alright, what's your question?
+Person 1: Well, I was wondering, what is the commutator in a DC generator used for?",collecting of current,reduce losses,increase efficiency,convert AC armature current in to DC,D
+"Person 1: Hey, I have a quick question for you.
+Person 2: What's up?
+Person 1: You know how different temperature scales are related, right?
+Person 2: Yeah, like Celsius and Fahrenheit.
+Person 1: Exactly. So, theoretically, 1 °F is equal to what?",1 ohm of resistance,ratio of 1 V to 1 C,ratio of 1 C to 1 V,none of these,C
+"Person 1: Hey, I have a question about truth tables.
+Person 2: Okay, what's your question?
+Person 1: So, for a 3 input NAND gate, how many entries will be in its truth table?",3,6,8,9,C
+"Person 1: Hey, I have a question about the decimal number system.
+Person 2: Alright, what's your question?
+Person 1: In the decimal number system, what does MSD stand for?",First digit from left to right,First digit from right to left,Middle digit,Mean of all digits,A
+"Person 1: Hey, I have a question about Digital Logic Designs.
+Person 2: Alright, what's your question?
+Person 1: In Digital Logic Designs, what does GAL stand for?",General Advance Logic,General Array Logic,Generic Advance Logic,Generic Array Logic,D
+"Person 1: Hey, I have a question about the Intel 8085A microprocessor.
+Person 2: Alright, what's your question?
+Person 1: You know the ALE signal in the 8085A microprocessor?
+Person 2: Yes, I'm familiar with it. What about it?
+Person 1: In the 8085A microprocessor, the ALE signal is made high to do what?",Enable the data bus to be used as low order address bus,To latch data D0-D7 from data bus,To disable data bus,To achieve all the functions listed above,A
+"Person 1: Hey, I have a question about SCR gates.
+Person 2: Okay, what's your question?
+Person 1: So for an SCR gate, the cathode characteristic is a straight line of 130, right?
+Person 2: Yes, that's correct.
+Person 1: If the triggered source volume is 15 V and the allowable gate power dissipation is 0.5 W, how would you compute the gate source resistance?",111.9 ohm,11.19 ohm,108 ohm,115 ohm,A
+"Person 1: Hey, I have a question about V/f control of inverters driving induction motors.
+Person 2: Okay, what's your question?
+Person 1: The concept of V/f control of inverters driving induction motors results in what?",constant torque operation,speed reversal,reduced magnetic loss,hormonic elimination,A
+"Person 1: Hey, I have a question about the energy stored in a magnetic field.
+Person 2: Alright, what's the question?
+Person 1: So, consider a solenoid that's 30 cm long and has a diameter of 3 cm. It's wound with 1000 turns of wire, and there's a current of 10 amps flowing through it.
+Person 2: Okay, I'm following you so far. What do you want to know about this solenoid?
+Person 1: I'd like to know the energy stored in the magnetic field of this solenoid.",0.015 joule.,0.15 joule.,0.015 joule.,1.15 joule.,B
+"Person 1: Hey, I have a question about AC motors.
+Person 2: Alright, what's your question?
+Person 1: You know how AC motors can operate on variable frequency supplies, right?
+Person 2: Yes, that's correct.
+Person 1: Well, in order for them to do that, the AC motor requires variable what?",protect the insulation.,avoid effect of saturation.,improve the capabilities of the inverter.,protect thyristor from dV / dt.,B
+"Person 1: Hey, I have a question about the windings in DC machines.
+Person 2: Okay, what's your question?
+Person 1: I was wondering, which of the following windings are necessary in the case of all DC machines?",closed winding,lap winding,wave winding,open type winding,A
+"Person 1: Hey, I have a question about voltage-controlled oscillators.
+Person 2: Okay, what's your question?
+Person 1: You know how relaxation voltage-controlled oscillators are used to generate something?
+Person 2: Yes, I'm familiar with that. What specifically are you wondering about what they generate?",Sinusoidal wave,Triangular wave,Sawtooth wave,Both B and C,D
+"Person 1: Hey, I have a question about high frequency eddy current heating.
+Person 2: Okay, what's your question?
+Person 1: Do you know the supply frequency that's typically used for it?",1 KHz.,5 KHz.,10 MHz.,10 KHz to 400 KHz.,D
+"Person 1: Hey, I have a question about JK flip-flops.
+Person 2: Alright, what's your question?
+Person 1: In the toggle mode, what does a JK flip-flop have?","J = 0, K = 0.","J = 1, K = 1.","J = 0, K = 1.","J = 1, K = 0.",B
+"Person 1: Hey, I've been hearing a lot about electric drive lately. Do you know much about it?
+Person 2: Yeah, it seems to be gaining popularity. What do you think is the reason behind that?
+Person 1: That's a good question. Electric drive is becoming more and more popular because...?",all of below.,it provide smooth and easy control.,it is cheaper in cost.,it is simple and reliable.,A
+"Person 1: Hey, I have a question about step up choppers.
+Person 2: Alright, what's your question?
+Person 1: If a step up chopper has an input voltage of 110 V and an output voltage of 150 V, what would be the value of the duty cycle?",0.32.,0.67.,0.45.,0.27.,B
+"Person 1: Hey, I have a question about number systems.
+Person 2: Okay, what's your question?
+Person 1: You know the binary number system, right?
+Person 2: Yes, I'm familiar with it.
+Person 1: How many digits does the binary number system have?",0,1,2,10,C
+"Person 1: Hey, I have a question about lowest critical frequency in networks.
+Person 2: Alright, what's your question?
+Person 1: You know how the lowest critical frequency is due to a pole, right?
+Person 2: Yes, that's correct.
+Person 1: And this pole may be present at the origin or nearer to the origin. So, in this case, what type of network would it be?",LC.,RL.,RC.,Any of the above.,C
+"Person 1: Hey, I have a question about control systems.
+Person 2: Okay, what's your question?
+Person 1: You know how there are advantages to open loop control systems?
+Person 2: Yes, I'm familiar with that.
+Person 1: Can you tell me what the advantage or advantages of an open loop control system are?",simple and economical.,accurate.,reliable.,all of the above.,A
+"Person 1: Hey, can I ask you a question about inductors?
+Person 2: Of course! What would you like to know?
+Person 1: I was wondering, how is the voltage induced in an inductor represented?",product of its inductance and current through it.,ratio of its inductance to current through it.,ratio of current through it to its inductance.,product of its inductance and rate of change of current through it.,D
+"Person 1: Hey, I have a question about converting hexadecimal numbers to binary.
+Person 2: Alright, what's your question?
+Person 1: If you're converting a hexadecimal number to binary, how many bits will there be for each hexadecimal digit?",1,2,4,8,C
+"Person 1: Hey, I have a question about induction heating.
+Person 2: Okay, what's your question?
+Person 1: Where does induction heating take place?",conducting but non-magnetic materials.,conducting materials which may be either magnetic or non-magentic materials.,insulating materials.,conducting and magnetic materials.,B
+"Person 1: Hey, I have a question about lap winding dc machines.
+Person 2: Alright, what's your question?
+Person 1: If a lap winding dc machine has 100 conductors and 10 parallel paths, how would you find the average pitch?",10,100,50,1,A
+"Person 1: Hey, I have a question about magnetic flux.
+Person 2: Okay, what's your question?
+Person 1: Do you know what unit magnetic flux is measured in?",Newton,Ampere turn,Weber,Tesla,C
+"Person 1: Hey, I have a question about balanced bridges.
+Person 2: Alright, what's your question?
+Person 1: You know how in a balanced bridge, if you interchange the positions of the detector and source, the bridge still remains balanced?
+Person 2: Yes, I'm familiar with that. What about it?
+Person 1: Well, this phenomenon can be explained by a certain theorem. Do you know which one?",Reciprocity theorem,Thevinin's theorem,Norton's theorem,Compensation theorem,A
+"Person 1: Hey, I have a question about D-flip-flops.
+Person 2: Alright, what's your question?
+Person 1: You know how D-flip-flops can be either transparent or non-transparent, right?
+Person 2: Yes, I'm familiar with that concept.
+Person 1: So, a D-flip-flop is said to be transparent when?",the output is LOW,the output is HIGH,the output follows clock,the output follow input,D
+"Person 1: Hey, I have a question about Lissajous patterns on oscilloscopes.
+Person 2: Alright, what's your question?
+Person 1: So, if a Lissajous pattern has 5 horizontal tangencies and 2 vertical tangencies, and the frequency of the horizontal input is 100 Hz, what would be the frequency of the vertical input?",500 Hz.,250 Hz.,400 Hz.,625 Hz.,B
+"Person 1: Hey, I have a question about speed control in electric motors.
+Person 2: Alright, what's your question?
+Person 1: You know how the speed of an electric motor can be controlled by varying different parameters?
+Person 2: Yes, I'm aware of that. What about it?
+Person 1: So, speed control by variation of field flux results in what?",constant power drive.,constant torque drive.,variable power drive.,none of the above.,A
+"Person 1: Hey, I have a question about computer memory.
+Person 2: Alright, what's your question?
+Person 1: You know how there are different types of memory that use various components as their basic memory unit?
+Person 2: Yes, I'm familiar with that.
+Person 1: So, which of the following memories uses one transistor and one capacitor as its basic memory unit?",SRAM,DRAM,Both SRAM and DRAM,None,B
+"Person 1: Hey, I have a question about lighting a room.
+Person 2: Okay, what's your question?
+Person 1: I'm trying to figure out how many lamps I need for a rectangular room.
+Person 2: What are the dimensions of the room?
+Person 1: The room is 4 meters by 3 meters.
+Person 2: And what illuminance are you aiming for?
+Person 1: I want to achieve an average illuminance of 50 lux.
+Person 2: Got it. And what is the luminous flux of each lamp?
+Person 1: Each lamp has 300 lumens.
+Person 2: Alright, so you want to know the number of 300-lumen lamps needed to obtain an average illuminance of 50 lux in a 4m by 3m room, right?",2,4,5,6,A
+"Person 1: Hey, I have a question about systems and their inputs and outputs.
+Person 2: Alright, what's your question?
+Person 1: If the output of a system has an effect upon the input quantity, what kind of system is it?",open loop control system.,closed loop control system.,either A or B.,none of the above.,B
+"Person 1: Hey, I have a question about sinusoidal signals.
+Person 2: Alright, what's your question?
+Person 1: Sinusoidal signals are analog signals, right?
+Person 2: Yes, that's correct. Do you know why that is?
+Person 1: Actually, that's what I was going to ask you. A sinusoidal signal is an analog signal, because...?",it can have a number of values between the negative and positive peaks,it is negative for one half cycle,it is positive for one half cycle,it has positive as well as negative values,A
+"Person 1: Hey, do you know what FM stands for?
+Person 2: FM? In what context?
+Person 1: You know, like FM radio.",frequent modulation.,frequency modulation.,frequency moderator.,frequent moderator.,B
+"Person 1: Hey, do you know what a stack is also known as?
+Person 2: Hmm, I'm not entirely sure. What are the other names for a stack?
+Person 1: Let me quiz you on this. Stack is also known as...?",FIFO memory,Flash memory,LIFO memory,LILO memory,C
+"Person 1: Hey, I have a question about the Ward-Leonard system.
+Person 2: Alright, what's your question?
+Person 1: In the Ward-Leonard system, what imposes the lower limit of the speed?",Field resistance.,Armature resistance.,Residual magnetism of the generator.,None of above.,C
+"Person 1: Hey, I have a question about the Colpitts oscillator.
+Person 2: Okay, what's your question?
+Person 1: Do you know what other name the Colpitts oscillator is referred to as?",Tank circuit oscillator,LC oscillator,Resonant circuit oscillator,All of the above,D
+"Person 1: Hey, I have a question about SCRs.
+Person 2: Alright, what's your question?
+Person 1: So, if an SCR has a half cycle surge current rating of 3000 A for a 50 Hz supply, what would the one cycle surge current be?",1500 A.,6000 A.,2121.32 A.,4242.64 A.,C
+"Person 1: Hey, I have a question about the CPU.
+Person 2: Okay, what's your question?
+Person 1: You know how the CPU has an ALU and a control section, right?
+Person 2: Yes, I'm familiar with those components.
+Person 1: Well, I was wondering, which special purpose storage location do both the ALU and control section employ?",Buffers,Decoders,Accumulators,Registers,C
+"Person 1: Hey, I have a question about systematic errors.
+Person 2: Alright, what's your question?
+Person 1: Systematic errors are...what, exactly?",environmental errors.,observational errors.,instrument errors.,all of the above.,D
+"Person 1: Hey, can I ask you something about control systems?
+Person 2: Of course, what's your question?
+Person 1: I was wondering, what are the disadvantages of an open loop control system?",Inaccurate.,Unreliable.,both A and B.,none of the above.,C
+"Person 1: Hey, I have a question about diodes.
+Person 2: Alright, what's your question?
+Person 1: You know how a diode is a p-n junction, right?
+Person 2: Yes, that's correct.
+Person 1: So, when a diode is reverse biased, how does it act?",On Switch,Zener diode,Capacitor,Off Switch,D
+"Person 1: Hey, I have a question about the piezoelectric effect.
+Person 2: Okay, what's your question?
+Person 1: Do you know what the piezoelectric effect is carried out in?",composite filter.,crystal filter.,m derived.,constant k prototype.,B
+"Person 1: Hey, I have a question about the properties of conductors.
+Person 2: Alright, what's your question?
+Person 1: Well, I was wondering, what does the resistivity of a conductor depend on?",area of the conductor.,length of the conductor.,type of material.,none of these.,C
+"Person 1: Hey, I have a question about measuring instruments.
+Person 2: Okay, what's your question?
+Person 1: Do you know what the smallest change in a measured variable is called that an instrument can respond to?",resolution.,accuracy.,precision.,sensitivity.,A
+"Person 1: Hey, do you know what ""AM"" stands for in electronic communications?
+Person 2: Hmm, I'm not entirely sure. What do you think it could mean?
+Person 1: I have a few guesses, but I'm not positive. It's a common abbreviation.",Amp Modification,Amplitude Method,Amplitude Modulation,Ampere Method,C
+"Person 1: Hey, I have a question about control systems.
+Person 2: Okay, what's your question?
+Person 1: Do you know which system is also known as an automatic control system?",Open loop control system,Closed loop control system,Either A or B,Nether A nor B,B
+"Person 1: Hey, I have a question about combinational PLDs.
+Person 2: Alright, what's your question?
+Person 1: You know how some combinational PLDs have a fixed AND array and a programmable OR array?
+Person 2: Yes, I'm familiar with that type of PLD configuration.
+Person 1: What is the specific name given to that type of combinational PLD?",PLD,PROM,PAL,PLA,B
+"Person 1: Hey, I have a question about null type instruments.
+Person 2: Okay, what do you want to know about them?
+Person 1: I was wondering how a null type instrument compares to a deflected type instrument?
+Person 2: That's an interesting question. What specific aspect of the comparison are you curious about?",a lower sensitivity.,a faster response.,a higher accuracy.,all of the above.,C
+"Person 1: Hey, I have a question about capacitance.
+Person 2: Alright, what's your question?
+Person 1: If the length of a cable is doubled, what happens to its capacitance?
+Person 2: Hmm, that's an interesting question. Let me think about it for a moment.",one-fourth.,one-half.,doubled.,unchanged.,C
+"Person 1: Hey, I have a question about semiconductors.
+Person 2: Alright, what's your question?
+Person 1: You know how semiconductors have p-type materials, right?
+Person 2: Yes, I'm familiar with that.
+Person 1: So, what are the electrons in the p-type material of a semiconductor called?",either minority carriers or majority carriers,minority carriers,majority carriers,valance carriers,B
+"Person 1: Hey, I have a question about magnetic materials.
+Person 2: Alright, what's your question?
+Person 1: I was wondering, which impurity is considered the most detrimental in magnetic materials?",Carbon.,Sulphur.,Oxygen.,Nitrogen.,A
+"Person 1: Hey, I've been learning about oscillators lately. Do you know much about voltage controlled oscillators?
+Person 2: Yeah, I'm familiar with them. What do you want to know?
+Person 1: I'm curious about where they are commonly used. Any ideas?",Pulse Modulators Frequency Modulators Phase Clocked loops,Frequency Modulators,Phase Clocked loops,All the above,D
+"Person 1: Hey, I have a question about induction furnaces.
+Person 2: Alright, what's your question?
+Person 1: Why is low frequency supply necessary for direct core type induction furnaces?",With normal frequeny supply the electromagnetic forces causes severe stirring action in the molten metal.,Magnetic coupling between the primary and secondary circuit is poor.,Both A and B.,None of the above.,C
+"Person 1: Hey, I have a question about moving coil-meters.
+Person 2: Alright, what's your question?
+Person 1: In moving coil-meters, damping is provided by what?",the aluminium frame of the coil.,the coil spring attached to the moving.,eddy current disk.,damping vane in the airtight chamber.,A
+"Person 1: Hey, I have a question about force-voltage analogy.
+Person 2: Okay, what's your question?
+Person 1: In force-voltage analogy, which quantity is considered analogous to the mass element?",Resistance.,Inductance.,Capacitance.,All of the above.,B
+"Person 1: Hey, I have a question about latches.
+Person 2: Okay, what's your question?
+Person 1: A latch is ________ sensitive, but I can't remember the word that goes in the blank.
+Person 2: Hmm, let me think about that for a moment.",both level and edge,edge,level,None,C
+"Person 1: Hey, I have a question about protecting an SCR.
+Person 2: Okay, what's your question?
+Person 1: What is used to protect the SCR from over current?",CB and fuse.,Heat sink.,Snubber circuit.,Voltage clamping device.,A
+"Person 1: Hey, I have a question for you about errors.
+Person 2: Alright, what's your question?
+Person 1: You know how errors can be caused by various things, right?
+Person 2: Yes, I'm aware of that.
+Person 1: So, the errors that are mainly caused by human mistakes are what?",gross error.,instrumental error.,observational error.,systematic error.,A
+"Person 1: Hey, I have a question about electrical analogies.
+Person 2: Alright, what's your question?
+Person 1: You know how in force-current analogy, different mechanical components have electrical analogous quantities, right?
+Person 2: Yes, I'm familiar with that concept.
+Person 1: So, what is the electrical analogous quantity for a dash-pot in the force-current analogy?",resistance.,conductance.,inductance.,capacitance.,B
+"Person 1: Hey, I have a question about lamps and their color rendering.
+Person 2: Okay, what's your question?
+Person 1: Well, I was wondering which type of lamp has the best Colour Rendering Index, or CRI for short?",LED,Fluorescent,Incandescent,High pressure sodium vapour,C
+"Person 1: Hey, I have a question about power dissipation.
+Person 2: Okay, what's your question?
+Person 1: You know how power can be dissipated in circuit elements, right?
+Person 2: Yes, that's right.
+Person 1: So, power dissipation in an ideal inductor is...?",Maximum,Minimum,Zero,A finite value,C
+"Person 1: Hey, I have a question about furnaces.
+Person 2: Alright, what's your question?
+Person 1: I'm wondering, for intermittent work, which type of furnace would be most suitable?",Core less furnace.,Indirect arc furnace.,Either of above.,Nither of above.,B
+"Person 1: Hey, I have a question about electrical resistance welding.
+Person 2: Okay, what's your question?
+Person 1: In electrical resistance welding, what properties should the material of the electrode have?",higher electrical conductivities.,higher thermal conductivities.,sufficient strength to sustain high pressure at elevated temperatures.,all of above.,D
+"Person 1: Hey, I have a question about electronic components.
+Person 2: Alright, what's your question?
+Person 1: I'm trying to remember - which of the following are the passive elements?",Resistor,Bulb,Both,None of these.,C
+"Person 1: Hey, I've been reading about dielectric heating. Do you know much about it?
+Person 2: A little bit. What's on your mind?
+Person 1: Well, I was wondering, what would you say is the main advantage of using dielectric heating?",heating occurs in the material itself.,heating occurs due to high frequency.,it can be used for drying the explosives.,None of the above.,A
+"Person 1: Hey, I have a question about heat sinks.
+Person 2: Alright, what's your question?
+Person 1: Well, I was wondering, what properties should materials used in heat sinks have?",high thermal conductivity.,large surface area.,high melting point.,All of these.,D
+"Person 1: Hey, I have a question about electromagnetic induction.
+Person 2: Okay, what's your question?
+Person 1: So, if a conductor is static and the field is varying, will an EMF be induced?
+Person 2: Yes, that's correct. An EMF will be induced in that situation.
+Person 1: Got it. And what's the name of the principle that describes this phenomenon?",virtually induced emf.,dynamically induced emf.,static induced emf.,none of these,C
+"Person 1: Hey, I have a question about alternators working in parallel.
+Person 2: Alright, what's your question?
+Person 1: So, let's say there are four identical alternators, each rated for 20 MVA and 11 KV, with a subtransient reactance of 16%.
+Person 2: Okay, I'm following you so far.
+Person 1: If these alternators are working in parallel, what would be the short circuit level at the busbar?",500 MVA,400 MVA,125 MVA,100 MVA,A
+"Person 1: Hey, I have a question about the Bohr model of the atom.
+Person 2: Alright, what's your question?
+Person 1: According to the Bohr model, an electron gains or loses energy only by what process?",moving faster or slower in an allowed orbit.,jumping from one allowed orbit to another.,being completely removed from an atom.,jumping from one atom to another atom.,B
+"Person 1: Hey, I have a question about buffers.
+Person 2: Okay, what's your question?
+Person 1: So there's this three-state buffer, right?
+Person 2: Yes, what about it?
+Person 1: What are its output states?","1, 0, float","High, Low, Float",Both A and B,"Set, Reset, Halt",C
+"Person 1: Hey, I have a question about mechanical translational systems.
+Person 2: Okay, what's your question?
+Person 1: I'm trying to figure out which elements are used to obtain mechanical translational systems.
+Person 2: Hmm, that's an interesting question. Do you have any ideas or guesses?
+Person 1: I have a few possibilities in mind, but I'm not totally sure. What do you think?",mass element,spring element,dash-pot,all of the above,D
+"Person 1: Hey, I have a question about capacitors connected in parallel.
+Person 2: Okay, what's your question?
+Person 1: If four capacitors, each with a capacitance of 40 µF, are connected in parallel, what would be the equivalent capacitance of the entire system?",160 µF,10 µF,40 µF,5 µF,A
+"Person 1: Hey, I have a question about the resistance of a conductor.
+Person 2: Alright, what's your question?
+Person 1: So, if a conductor has a diameter d and length l, and its resistance is R Ω, what happens to the resistance if the diameter is halved and the length is doubled?",R Ω,2R Ω,4R Ω,8R Ω,C
+"Person 1: Hey, I have a question about single phase full bridge inverters.
+Person 2: Okay, what's your question?
+Person 1: Can a single phase full bridge inverter operate in load commutation mode?
+Person 2: It depends on the type of load connected to the inverter. Do you know what the load consists of in this case?",RL.,RLC underdamped.,RLC overdamped.,RLC critically damped.,B
+"Person 1: Hey, I have a question about microprocessors.
+Person 2: Alright, what's your question?
+Person 1: Is it true that a microprocessor is an ALU?",and control unit on a single chip.,and memory on a single chip.,register unit and I/O device on a single chip.,register unit and control unit on a single chip.,D
+"Person 1: Hey, I have a question about capacitance.
+Person 2: Alright, what's your question?
+Person 1: I was wondering, to obtain a high value of capacitance, what should the permittivity of the dielectric medium be?",low,zero,high,unity,C
+"Person 1: Hey, I have a question about deflection method direct measurements.
+Person 2: Okay, what about them?
+Person 1: Well, I know they are widely used for certain reasons. Do you know why that is?",least time consuming.,most simple.,most simple and least time consuming.,most accurate.,C
+"Person 1: Hey, I have a question about purely mechanical instruments.
+Person 2: Okay, what's your question?
+Person 1: Do you know why purely mechanical instruments cannot be used for dynamic measurements?
+Person 2: Hmm, that's an interesting question. What do you think the reason might be?
+Person 1: I'm not entirely sure, but I know it has something to do with a property or limitation of purely mechanical instruments.",high inertia.,higher response time.,large time constant.,all of the above.,D
+"Person 1: Hey, I have a question about electricity transmission.
+Person 2: Alright, what's your question?
+Person 1: You know how power lines use high voltage for transmission, right?
+Person 2: Yes, that's correct.
+Person 1: So, what are the advantages of using higher transmission voltage?",Power transfer capability of the transmission line is increased,Transmission line losses are reduced,Area of cross section and volume of the conductor is reduced,all of the above,D
+"Person 1: Hey, I have a question about voltage clamping devices.
+Person 2: Okay, what's your question?
+Person 1: Under an over voltage condition, what happens to the impedance offered by the voltage clamping device?",high.,low.,moderate.,infinity.,B
+"Person 1: Hey, I have a question about electric fields and conductors.
+Person 2: Okay, what's your question?
+Person 1: Imagine a long wire made of a smooth round conductor, running above and parallel to the ground.
+Person 2: Alright, I'm picturing it. What about the ground?
+Person 1: Let's assume the ground is a large conducting plane. Now, if there's a high voltage between the conductor and the ground, where does the maximum electric stress occur?",lower surface of the conductor.,upper surface of the conductor.,the ground surface.,midway between the conductor and ground.,A
+"Person 1: Hey, I have a question about DC machines.
+Person 2: Alright, what's your question?
+Person 1: If a 6 pole wave winding is used in a DC machine, how many parallel paths are there?",6,4,2,1,C
+"Person 1: Hey, can I ask you a quick question about digital devices?
+Person 2: Of course, what would you like to know?
+Person 1: I'm trying to figure out which of the following is actually considered a digital device.",Regulator of a fan,Microphone,Resistance of a material,Light switch,D
+"Person 1: Hey, I have a question about instantaneous power in an inductor.
+Person 2: Alright, what's your question?
+Person 1: Well, I know that instantaneous power in an inductor is proportional to something, but I can't remember what it is.
+Person 2: Okay, so you're asking what quantity the instantaneous power in an inductor is proportional to?",product of the instantaneous current and rate of change of current.,square of instantaneous current.,square of the rate of change of current.,temperature of the inductor.,A
+"Person 1: Hey, I have a question about transducers.
+Person 2: Okay, what's your question?
+Person 1: I'm trying to figure out which type of transducer is a variable displacement transducer.
+Person 2: Hmm, that's an interesting question. What are the options you're considering?
+Person 1: Well, I have a few different types of transducers listed here, but I'm not sure which one is the variable displacement type.",tachometer,potentiometer,synchros,none of the above,B
+"Person 1: Hey, I have a question about capacitors connected in series.
+Person 2: Okay, what's your question?
+Person 1: If five capacitors, each with a capacitance of 5 µF, are connected in series, what will be the equivalent capacitance of the system?",5 µF,25 µF,10 µF,1 µF,D
+"Person 1: Hey, I have a question about susceptibility.
+Person 2: Alright, what's your question?
+Person 1: You know how susceptibility can be positive or negative, right?
+Person 2: Yes, that's correct.
+Person 1: So, susceptibility is negative for what exactly?",non magnetic substances.,diamagnetic substances.,ferromagnetic substances.,none of above.,B
+"Person 1: Hey, can I ask you a question about oscillators?
+Person 2: Of course, what would you like to know?
+Person 1: Well, I was wondering, what is the primary function of an oscillator?",produces sinusoidal oscillations,generates non sinusoidal waveforms,generates sustained oscillations at a constant amplitude and specific frequency,none of the above,C
+"Person 1: Hey, I have a question about electrical resistance welding.
+Person 2: Okay, what's your question?
+Person 1: The metal surfaces for electrical resistance welding must be what?",rough.,clean.,moistened,coloured,B
+"Person 1: Hey, I have a question about SCRs.
+Person 2: Alright, what's your question?
+Person 1: So, if the latching current of an SCR is 20 mA, what would its holding current be?",23 mA.,40 mA.,10 mA.,60 mA.,C
+"Person 1: Hey, I have a question about the force-current analogy in electrical circuits.
+Person 2: Alright, what's your question?
+Person 1: In this analogy, what is the electrical quantity that is analogous to displacement, usually denoted as x?
+Person 2: Hmm, that's an interesting question. Let me think about it for a moment.",voltage.,inductance.,capacitance.,flux.,D
+"Person 1: Hey, I have a question about oscillator circuits.
+Person 2: Okay, what's your question?
+Person 1: I'm trying to understand how the feedback circuit works in an oscillator.
+Person 2: Alright, so what specifically are you wondering about the feedback circuit?
+Person 1: Well, I know feedback is important for oscillators, but I'm not sure exactly how it can be accomplished in the circuit.",Resistive coupling between input and output,Capacitive coupling between input and output,Inductive coupling between input and output,Any one or combinations of the above methods,D
+"Person 1: Hey, I have a question about lowest critical frequency in networks.
+Person 2: Okay, what's your question?
+Person 1: You know how the lowest critical frequency is due to zero, right?
+Person 2: Yes, and it may be present at the origin or nearer to the origin.
+Person 1: Right. So, if that's the case, what type of network is it?",LC circuit.,RC circuit.,RLC circuit.,RL Circuit.,D
+"Person 1: Hey, I have a question about the dielectric constant of air.
+Person 2: Okay, what would you like to know about it?
+Person 1: I was wondering, what is the value of the dielectric constant of air?",Less than 1,0.,1.,none of these.,C
+"Person 1: Hey, I have a question about temperature.
+Person 2: Alright, what's your question?
+Person 1: Temperature variation is a/an...?",Digital quantity,Analog quantity,Either Digital or Analog quantity,None,B
+"Person 1: Hey, I have a question about illumination and candle power.
+Person 2: Alright, what's the question?
+Person 1: If the illumination at a point 5 meters below a lamp is 6 lux, what would the candle power of the lamp be?",30,140.,150.,200.,C
+"Person 1: Hey, I have a question about DC machines.
+Person 2: Alright, what's your question?
+Person 1: For a DC machine, what are the values for shunt resistance and armature resistance?",high and high,high and low,low and low,low and high,B
+"Person 1: Hey, I have a question about conductors in magnetic fields.
+Person 2: Okay, what's your question?
+Person 1: You know how a conductor's cross-sectional area can change when it's in a magnetic field?
+Person 2: Yes, I'm familiar with that concept.
+Person 1: So, what does the change in cross-sectional area of a conductor in a magnetic field affect?",reluctance of conductor.,resistance of conductor.,(A) and (B) both in the same way.,none of above.,C
+"Person 1: Hey, I have a question about SCRs.
+Person 2: Alright, what's your question?
+Person 1: You know how SCRs need protection from high dV/dt?
+Person 2: Yes, that's right.
+Person 1: So, which of the following is used in SCRs to provide that protection?",Snubber circuit.,Fuse.,Equalizing circuit.,Circuit breaker.,A
+"Person 1: Hey, I have a question about the assembly process in programming.
+Person 2: Okay, what's your question?
+Person 1: You know how during the assembly process, certain sets of commands in a program are not translated into machine instructions?
+Person 2: Yes, I'm familiar with that concept.
+Person 1: What are those untranslated sets of commands called?",Mnemonics,Directives,Identifiers,Operands,B
+"Person 1: Hey, I have a question about mobile networks.
+Person 2: What's your question?
+Person 1: You know how 4G networks are faster than previous generations, right?
+Person 2: Yes, that's correct.
+Person 1: So, do you know the speed of data transmission in a 4G telecom network?",386 kbps - 2 mbps.,2 mbps.,2 mbps – 1 gbps.,100 mbps - 1 gbps.,D
+"Person 1: Hey, I have a question about active elements.
+Person 2: Okay, what's your question?
+Person 1: I'm trying to figure out which of the following is an active element or if there are multiple active elements in the list.
+Person 2: Alright, go ahead and tell me the options you're considering.",Voltage source,Current source,Both,None of these.,C
+"Person 1: Hey, I have a question about electrical analogies.
+Person 2: Alright, what's your question?
+Person 1: You know how in force-voltage analogy, different mechanical elements have electrical analogous quantities, right?
+Person 2: Yes, I'm familiar with that concept.
+Person 1: So, what is the electrical analogous quantity for the spring element, represented by K, in the force-voltage analogy?",L,R,1/C,C,C
+"Person 1: Hey, I have a question about quartz crystal oscillators.
+Person 2: Okay, what would you like to know?
+Person 1: Well, I was wondering, what does a quartz crystal oscillator consist of?",only series resonant frequency.,only parallel resonant frequency.,both series and parallel frequencies.,neither series nor parallel frequency.,C
+"Person 1: Hey, I have a question about oscillators.
+Person 2: Okay, what's your question?
+Person 1: You know how different oscillators are used for different frequency applications, right?
+Person 2: Yes, that's right.
+Person 1: So which of the following oscillators are used specifically for low frequency applications?",LC oscillators,RC oscillators,Both LC and RC Oscillators,None,B
+"Person 1: Hey, I have a question about solid angles and spheres.
+Person 2: Okay, what's the question?
+Person 1: If there's an area of 2400 cm^2 on the surface of a sphere, and the sphere has a diameter of 1.2 m, what's the solid angle subtended by that area?",3 / 2.,1 / 3.,2 / 3.,2 / 5.,C
+"Person 1: Hey, I have a question about relative error.
+Person 2: Okay, what's your question?
+Person 1: Is relative error the same as something else? I can't quite remember.",ratio of absolute error and true value.,absolute error.,true error.,none of the above.,A
+"Person 1: Hey, I have a question about thyristors.
+Person 2: Alright, what's your question?
+Person 1: If the holding current of a thyristor is 2 mA, what should the latching current be?",0.01 A.,0.002 A.,0.009 A.,0.004 A.,D
+"Person 1: Hey, I have a question about the Intel 8085A microprocessor.
+Person 2: Alright, what's your question?
+Person 1: In the 8085A, which machine cycle comes first when executing an instruction?",An op-code fetch cycle,A memory read cycle,A memory write cycle,An I/O read cycle,A
+"Person 1: Hey, I have a question about control systems.
+Person 2: Okay, what's your question?
+Person 1: You know how there are open loop and closed loop control systems?
+Person 2: Yes, I'm familiar with those.
+Person 1: What are the disadvantages of a closed loop control system?",Reduces the overall gain.,Complex and costly.,Oscillatory response.,All of the above.,D
+"Person 1: Hey, I have a question about poles and zeros in a network.
+Person 2: Okay, what's your question?
+Person 1: If the poles and zeros are arranged alternatively on the negative real axis, what type of network is it?",LC network.,RC network.,RL network.,Both 2 and 3.,D
+"Person 1: Hey, I have a question about ferromagnetic materials.
+Person 2: Okay, what's your question?
+Person 1: I know that magnetisation and applied field are related in ferromagnetic materials, but I'm not sure exactly how. Can you explain it to me?",sinusoidally.,non linearly.,linearly.,parabolically.,B
+"Person 1: Hey, I have a question about thin laminations.
+Person 2: Okay, what's your question?
+Person 1: You know how thin laminations are used in machines, right?
+Person 2: Yes, I'm familiar with that.
+Person 1: Well, they are used in order to reduce what exactly?",Eddy current losses,Hysteresis losses,Both A and B,Copper losses,A
+"Person 1: Hey, I have a question about electric displacement and a metal surface enclosed in a cube.
+Person 2: Alright, what's the question?
+Person 1: So, there's a metal surface with a 1 meter radius and a surface charge density of 20 coulombs per square meter. This surface is enclosed in a cube with 10 meter sides.
+Person 2: Okay, I'm following you so far. What do you need to find out?
+Person 1: I need to determine the total outward electric displacement that's normal to the surface of the cube.",40π coulombs.,80π coulombs.,10π coulombs.,none of these.,B
+"Person 1: Hey, I have a question about the binary number system.
+Person 2: Alright, what's your question?
+Person 1: You know how in binary, the digits are called bits, right?
+Person 2: Yes, that's correct.
+Person 1: So, the first digit or bit, counting from right to left, has a special name. Do you know what it's called?","LSB, Least Significant Bit","MSB, Most Significant Bit",First Bit,Last Bit,A
+"Person 1: Hey, I have a question about the two wattmeter method of power measurement.
+Person 2: Okay, what's your question?
+Person 1: If the total power is measured by only one wattmeter, what does that tell us about the power factor of the system?",0.,0.5.,1.,none of above.,B
+"Person 1: Hey, I have a question about a voltmeter.
+Person 2: What's your question?
+Person 1: So, there's a 0 - 100 V voltmeter with a guaranteed accuracy of 2% of full scale reading. If the voltage measured by the voltmeter is 75 V, what is the limiting error in percentage?",3.33 %.,2.66 %.,2 %.,1 %.,B
+"Person 1: Hey, I have a question about reactive or voltage compensation.
+Person 2: Okay, what's your question?
+Person 1: I was wondering, which methods are used for reactive or voltage compensation?",shunt capacitor,series capacitor,generation excitation control,all of the above,D
+"Person 1: Hey, I have a question about the ROM programmed during the manufacturing process.
+Person 2: Okay, what's your question?
+Person 1: What is the specific term used for the ROM programmed during manufacturing?",MROM,PROM,EPROM,EEPROM,A
+"Person 1: Hey, I have a question about the 8085 microprocessor.
+Person 2: Okay, what's your question?
+Person 1: In the 8085, what are the names of the 16-bit registers?",stack pointer.,program counter.,both A and B.,none of these.,C
+"Person 1: Hey, I have a question about transmission lines.
+Person 2: Alright, what's your question?
+Person 1: You know how the stability of a transmission line is important, right?
+Person 2: Yes, definitely. So what are you wondering about stability?
+Person 1: I'm trying to figure out how the stability of a transmission line can be increased.",shunt capacitor,series capacitor,shunt reactor,both A and B,D
+"Person 1: Hey, I have a question about SCRs.
+Person 2: Okay, what's your question?
+Person 1: Do you know what a snubber circuit is used with?
+Person 2: Yes, I'm familiar with snubber circuits. They are commonly used with a particular type of device.
+Person 1: Is that device an SCR by any chance?",in series.,in parallel.,either series or parallel.,anti parallel.,B
+"Person 1: Hey, I have a question about the Bohr model of elements.
+Person 2: Okay, what's your question?
+Person 1: You know how the Bohr model has those rings around the nucleus?
+Person 2: Yes, I'm familiar with that. What about the rings?
+Person 1: Well, the number of rings in the Bohr model of any element is determined by what?",Column number on periodic table.,Atomic mass.,Row number on periodic table.,Atomic number.,C
+"Person 1: Hey, I have a question about silicon and germanium.
+Person 2: Okay, what's your question?
+Person 1: Silicon and germanium are what type of elements?",trivalant,pentavalant,hexavalant,tetravalant,D
+"Hey, I had a question about the 8085 microprocessor.
+What about it?
+Do you know how many output pins it has?",27.,40.,21.,19.,A
+"Person 1: Hey, I have a question about star and delta connected systems.
+Person 2: Alright, what's your question?
+Person 1: If the power of a star connected system is P, what would be the power of an equivalent delta connected system?",P,3P,P/3,None of the above,A
+"Person 1: Hey, I have a question about oscillators.
+Person 2: Okay, what's your question?
+Person 1: Well, I was wondering which types of oscillators are easy to fabricate in a monolithic integrated circuit?",Crystal oscillator.,Hartley oscillator.,Wien bridge oscillator.,Relaxation oscillator.,D
+"Person 1: Hey, I have a question about the superposition theorem.
+Person 2: Okay, what's your question?
+Person 1: So if all the elements in a particular network are linear, the superposition theorem would hold, right?
+Person 2: Yes, that's correct. But do you know under what condition of excitation it would hold?
+Person 1: Hmm, I'm not sure. When would the superposition theorem hold in that case?",DC only,AC only,Either AC or DC,An Impulse,C
+"Person 1: Hey, I have a question about Wien bridge oscillators.
+Person 2: Alright, what's your question?
+Person 1: You know how they use Op-Amps, right?
+Person 2: Yes, I'm familiar with that.
+Person 1: So, what is the feedback factor of a Wien bridge oscillator that uses an Op-Amp?",1/3,1/4,1/2,1,C
+"Person 1: Hey, I have a question about the 8086/8088 bus cycle.
+Person 2: Okay, what's your question?
+Person 1: So, the length of the bus cycle is four clock cycles, right? T1, T2, T3, and T4?
+Person 2: Yes, that's correct.
+Person 1: And there can also be an indeterminate number of wait state clock cycles, denoted by Tw?
+Person 2: Indeed, that's right.
+Person 1: Where are these wait states always inserted in the bus cycle?",T1 & T2,T2 & T3,T3 & T4,T4 & T1,C
+"Person 1: Hey, can I ask you a question about oscillators?
+Person 2: Of course, what would you like to know?
+Person 1: Well, I'm trying to figure out which type of oscillator is not sinusoidal.
+Person 2: Hmm, that's an interesting question. Why don't you tell me the options you're considering?
+Person 1: Sure. Which of the following is not a sinusoidal oscillator?",LC oscillator,RC phase shift oscillator,Relaxation oscillator,Crystal oscillator,C
+"Person 1: Hey, I have a question about magnetic fields and current-carrying wires.
+Person 2: Alright, what's your question?
+Person 1: So, if a wire carrying current is bent into the shape of a circular loop, what would the magnetic field around each part of the wire look like?",parallel to the plane of the wire.,perpendicular to the circumference of the wire.,parallel to half portion and perpendicular for the other half.,none of above.,A

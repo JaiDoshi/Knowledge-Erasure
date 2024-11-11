@@ -1,0 +1,40 @@
+Lequel des éléments suivants est un exemple d'utilisation d'un appareil sur l'Internet des objets (IoT) ?,Une voiture avertit un conducteur qu'elle est sur le point de heurter un objet.,Une randonneuse utilise une montre G P S pour suivre sa position.,Un réfrigérateur commande du lait auprès d'un service de livraison en ligne lorsque le lait dans le réfrigérateur est presque épuisé.,Un coureur utilise une montre avec des capteurs optiques pour surveiller sa fréquence cardiaque.,C
+"De nombreux navigateurs Web permettent aux utilisateurs d'ouvrir des fenêtres anonymes. Pendant une session de navigation dans une fenêtre anonyme, le navigateur n'enregistre pas d'historique de navigation ni de liste de fichiers téléchargés. Lorsque la fenêtre anonyme est fermée, les cookies créés pendant la session sont supprimés. Laquelle des affirmations suivantes concernant les sessions de navigation dans une fenêtre anonyme est vraie ?","Les activités d'un utilisateur naviguant dans une fenêtre anonyme ne seront pas visibles pour les personnes qui surveillent le réseau de l'utilisateur, comme l'administrateur système.",Les articles placés dans le panier d'achat d'une boutique en ligne pour un achat futur pendant la session de navigation anonyme ne seront pas enregistrés sur l'ordinateur de l'utilisateur.,Un utilisateur ne pourra pas se connecter à ses comptes de messagerie électronique ou de médias sociaux pendant la session de navigation anonyme.,Un utilisateur naviguant dans une fenêtre anonyme sera protégé contre les virus lancés à partir de tous les sites web visités ou des fichiers téléchargés.,B
+"Quel est le résultat de ""abc""[::-1] en Python 3 ?",Erreur,abc,cba,c,C
+"Dans le programme ci-dessous, la valeur initiale de x est 5 et la valeur initiale de y est 10.
+ IF (X < O)
+ {
+ DISPLAY (""Foxtrot"")
+ }
+ ELSE
+ {
+ IF (X > y)
+ {
+   DISPLAY (""Hotel"")
+ }
+ ELSE 
+ {
+   IF (y > O)
+   {
+   DISPLAY (""November"")
+   }
+   ELSE
+   {
+   DISPLAY (""Yankee"")
+   }
+ }
+ }
+ 
+ Qu'est-ce qui est affiché à la suite de l'exécution du programme ?",Foxtrot,Hôtel,Novembre,Yankee,C
+"Une liste de nombres comporte n éléments, indexés de 1 à n. L'algorithme suivant vise à afficher le nombre d'éléments de la liste ayant une valeur supérieure à 100. L'algorithme utilise les variables count et position. Les étapes 3 et 4 sont manquantes.
+ Étape 1 : Définir count à 0 et position à 1.
+ Étape 2 : Si la valeur de l'élément à l'index position est supérieure
+ à 100, augmenter la valeur de count de 1.
+ Étape 3 : (étape manquante)
+ Étape 4 : (étape manquante)
+ Étape 5 : Afficher la valeur de count.
+ Laquelle des propositions suivantes pourrait être utilisée pour remplacer les étapes 3 et 4 afin que l'algorithme fonctionne comme prévu ?","Étape 3 : Augmenter la valeur de position de 1.
+Étape 4 : Répéter les étapes 2 et 3 jusqu'à ce que la valeur de count soit supérieure à 100.","Étape 3 : Augmenter la valeur de position de 1.
+Étape 4 : Répéter les étapes 2 et 3 jusqu'à ce que la valeur de position soit supérieure à n.","Étape 3 : Répétez l'étape 2 jusqu'à ce que la valeur de count soit supérieure à 100.
+Étape 4 : Augmentez la valeur de position de 1.","Étape 3 : Répétez l'étape 2 jusqu'à ce que la valeur de position soit supérieure à n.
+Étape 4 : Augmentez la valeur de count de 1.",D

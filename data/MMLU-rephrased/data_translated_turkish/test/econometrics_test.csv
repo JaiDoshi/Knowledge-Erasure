@@ -1,0 +1,415 @@
+Aşağıdakilerden hangisi %99 güven aralığının en uygun tanımıdır?,"Tekrarlanan örneklerde, aralık %99 oranında parametrenin gerçek değerini içerecektir.","Tekrarlanan örneklerde, aralık %99 oranında parametrenin tahmin edilen değerini içerecektir.","Tekrarlanan örneklerde, zamanın %99'unda sıfır hipotezi reddedilecektir.","Tekrarlanan örneklerde, yanlış olduğunda sıfır hipotezi zamanın %99'unda reddedilmeyecektir.",A
+Dickey Fuller (DF) ve Phillips-Perron (PP) birim kök testi yaklaşımları arasındaki temel fark nedir?,"ADF, birim kök testinde tek denklem yaklaşımıyken PP bir sistemler yaklaşımıdır","PP testleri, DF boş ve alternatif hipotezlerini tersine çevirir, böylece PP testinin boş hipotezi altında durağanlık vardır.","PP testi, test regresyonundaki otokorelasyonlu artıklar için otomatik bir düzeltme içerir",PP testleri küçük örneklemlerde iyi güce sahipken DF testleri sahip değildir.,C
+"Eğer pratikte bir kaldıraç etkisi olsaydı, bu kaldıracı hesaba katan bir model için haber etki eğrisinin şekli nasıl olurdu?","Negatif bozukluklar için, aynı büyüklükteki pozitif bozukluklara göre daha hızlı yükselirdi.",Sıfıra göre simetrik olurdu,"Negatif bozukluklar için, aynı büyüklükteki pozitif bozukluklara göre daha yavaş yükselirdi.",Tüm pozitif bozulmalar için sıfır olacaktır,A
+Aşağıdaki ifadelerden hangisi doğrusal olasılık modeli ile ilgili olarak yanlıştır?,Modeldeki tahmini olasılıkların sıfır ile bir arasında olmasını sağlayacak hiçbir şey yoktur,"Olasılıklar sıfır ve bir arasında kesilse bile, muhtemelen olasılığın tam olarak sıfır veya tam olarak bir olduğu birçok gözlem olacaktır.",Hata terimleri heteroskedastik olacak ve normal dağılıma sahip olmayacak,"Model, sürekli bir bağımlı değişkene sahip standart bir regresyon modelinden çok daha zor tahmin edilmektedir.",D
+Aşağıdaki ifadelerden hangisi regresyon popülasyonu ve örneklemi ile ilgili olarak YANLIŞTIR?,"Nüfus, ilgilenilen tüm öğelerin toplam koleksiyonudur",Nüfus sonsuz olabilir,"Teoride, örneklem popülasyondan daha büyük olabilir","Rastgele bir örnek, popülasyondaki her bir öğenin eşit olasılıkla seçilme şansına sahip olduğu örnektir.",C
+Aşağıdaki ifadelerden hangisi zaman serilerindeki doğrusal bağımlılık için Box-Pierce Q ve Ljung-Box Q* istatistiklerinin karşılaştırılmasına ilişkin olarak YANLIŞTIR?,"Asimptotik olarak, iki test istatistiğinin değerleri eşit olacaktır","Q testi, Q*'a göre daha iyi küçük örneklem özelliklerine sahiptir",Q testi küçük örneklemler için bazen aşırı boyutlu olabilir,"Örneklem büyüklüğü sonsuza yaklaştıkça, her iki test de sıfır otokorelasyon katsayıları boş hipotezini her zaman reddetme eğilimi gösterecektir.",B
+"Tutumlu bir model, şu özelliklere sahip olandır:",Çok fazla değişken içeriyor,Veriyi açıklamak için mümkün olduğunca az değişken içerir,İyi tanımlanmış bir model,Yanlış belirlenmiş bir model,A
+Aşağıdakilerden hangisi sürekli bileşik getirilerin (yani logaritmik getirilerin) bir özelliği DEĞİLDİR?,"Bunlar, fiyatlardaki sürekli bileşik değişimler olarak yorumlanabilir",Zaman içinde daha uzun süreler için getiri sağlamak üzere eklenebilirler,Bir varlık portföyü genelinde eklenebilir ve portföy getirilerini verebilirler,Genellikle yağlı kuyrukludurlar,C
+"Aşağıdaki finansal varlık getirisi zaman serisi özelliklerinden hangileri standart bir GARCH(1,1) modeli kullanılarak yakalanabilir?
+
+i) Getiri dağılımında kalın kuyruklar
+
+ii) Kaldıraç etkileri
+
+iii) Volatilite kümelenmesi
+
+iv) Volatilitenin getirileri etkilemesi",Sadece (ii) ve (iv),Sadece (i) ve (iii),"(i), (ii) ve (iii) yalnızca","(i), (ii), (iii) ve (iv)",B
+"GARCH-M modelinin tahmini göz önüne alındığında. Eğer kullanılan veriler günlük kurumsal tahvil yüzde getirilerinin zaman serisi olsaydı, GARCH-in-mean parametre tahmininin değerinin aşağıdakilerden hangisi olmasını beklerdiniz?",-1'den küçük,-1 ile 0 arasında,0 ile 1 arasında,1'den büyük,C
+"Aşağıdaki durumlardan hangisinde bootstrap yöntemi saf simülasyona tercih edilir?
+
+i) Deneydeki verilerin dağılımsal özelliklerinin gerçek verilerin özellikleriyle aynı olması isteniyorsa
+
+ii) Deneydeki verilerin dağılımsal özelliklerinin tam olarak bilinmesi isteniyorsa
+
+iii) Gerçek verilerin dağılımsal özellikleri bilinmiyorsa
+
+iv) Mevcut gerçek veri örneği çok küçükse",Sadece (ii) ve (iv),Sadece (i) ve (iii),"(i), (ii) ve (iv) yalnızca","(i), (ii), (iii) ve (iv)",B
+"Aşağıdakilerden hangisi CLRM varsayımlarından bir veya daha fazlasının ihlal edilmesinin olası sonuçları olabilir?
+
+i) Katsayı tahminleri optimal değildir
+
+ii) Standart hata tahminleri optimal değildir
+
+iii) Test istatistikleri için varsayılan dağılımlar uygun değildir
+
+iv) Bağımlı ve bağımsız değişkenler arasındaki ilişkilerin gücüne ilişkin sonuçlar geçersiz olabilir.",Sadece (ii) ve (iv),Sadece (i) ve (iii),"(i), (ii) ve (iii) yalnızca","(i), (ii), (iii) ve (iv)",D
+Ekonometride tahmin yapmaya ilişkin aşağıdaki ifadelerden hangisi doğrudur?,Tahminler yalnızca zaman serisi verileri için yapılabilir,Yanlış belirlenmiş modeller kesinlikle hatalı tahminler üretecektir,"Yapısal tahminler, zaman serisi modellerinden elde edilenlere göre üretilmesi daha basittir.","Örneklem içi tahmin yeteneği, model yeterliliğinin zayıf bir testidir",D
+"PACF, arasındaki ayrımı yapmak için gereklidir",Bir AR ve bir MA modeli,Bir AR ve bir ARMA modeli,Bir MA ve bir ARMA modeli,ARMA ailesinden farklı modeller,B
+Aşağıdakilerden hangisi negatif artık otokorelasyonu gösterir?,Artıklarda döngüsel bir desen,Artıklarda değişen bir desen,Artıklarda tam bir rastgelelik,Sıfıra yakın olan tüm artıklar,B
+"ARCH(q) ve GARCH(1,1) modelleri arasındaki karşılaştırma ile ilgili aşağıdaki ifadelerden hangileri doğrudur?
+
+i) ARCH(q) modeli muhtemelen daha sade olacaktır
+
+ii) ARCH(q) modeli negatif olmama kısıtlamalarını ihlal etme olasılığı daha yüksektir
+
+iii) ARCH(q) modeli, mevcut koşullu varyansı etkilemek için karesi alınmış getirilerin sonsuz sayıda önceki gecikmesine izin verebilir
+
+iv) GARCH(1,1) modeli genellikle koşullu varyanstaki tüm bağımlılığı yakalamak için yeterli olacaktır",Sadece (ii) ve (iv),Sadece (i) ve (iii),"(i), (ii) ve (iii) yalnızca","(i), (ii), (iii) ve (iv)",A
+"Aşağıdaki ifadelerden hangileri üçgensel veya özyinelemeli bir sistem hakkında doğrudur?
+
+i) Parametreler, her denkleme ayrı ayrı OLS uygulanarak geçerli bir şekilde tahmin edilebilir
+
+ii) Bağımsız değişkenler, diğer denklemlerdeki hata terimleriyle ilişkili olabilir
+
+iii) 2SLS uygulaması, yansız ancak verimsiz parametre tahminlerine yol açacaktır
+
+iv) Bağımsız değişkenler, bağımsız değişken olarak göründükleri denklemlerdeki hata terimleriyle ilişkili olabilir",Sadece (ii) ve (iv),Sadece (i) ve (iii),"(i), (ii) ve (iii) yalnızca","(i), (ii), (iii) ve (iv)",C
+"Aşağıdaki ifadelerden hangisi, uyarlanmış regresyon doğrusunun cebirsel temsilini en iyi şekilde tanımlar?",\hat{y}_t = \hat{\alpha} + \hat{\beta}x_t + \hat{u}_t,\hat{y}_t = \hat{\alpha} + \hat{\beta}x_t,\hat{y}_t = \hat{\alpha} + \hat{\beta}x_t + u_t,y_t = \hat{\alpha} + \hat{\beta}x_t + \hat{u}_t,B
+$\hat{u}^t \hat{u}$ boyutları nelerdir?,T x k,T x 1,k x 1,1 x 1,D
+"MA sürecinin karakteristik kökleri
+
+$y_t = -3u_{t-1} + u_{t-2} + u_t$
+
+şunlardır",1 ve 2,"1 ve 0,5","2 ve -0,5",1 ve -3,B
+"Aşağıdakilerden hangisi açıklayıcı değişkenin ""stokastik olmadığını"" söylemenin eşdeğer bir ifadesidir?",Açıklayıcı değişken kısmen rastgeledir,Açıklayıcı değişken tekrarlanan örneklerde sabittir,Açıklayıcı değişken hatalarla ilişkilidir,Açıklayıcı değişken her zaman bir değerine sahiptir,B
+"İki açıklayıcı değişken ve bir sabit içeren, 50 veri noktasına sahip bir regresyona Durbin Watson testi uygulandığını varsayalım. Test istatistiği 1.53 değerini alıyor. Uygun sonuç nedir?",Artıklar pozitif otokorelasyonlu görünüyor,Artıklar negatif otokorelasyonlu görünüyor,Artıklar otokorelasyonlu görünmüyor,Test sonucu kesin değil,D
+"OLS otokorelasyon varlığında kullanılırsa, aşağıdakilerden hangileri muhtemel sonuçlar olacaktır?
+
+i) Katsayı tahminleri yanıltıcı olabilir
+
+ii) Hipotez testleri yanlış sonuçlara varabilir
+
+iii) Modelden yapılan tahminler yanlı olabilir
+
+iv) Standart hatalar uygunsuz olabilir",Sadece (ii) ve (iv),Sadece (i) ve (iii),"(i), (ii) ve (iii) yalnızca","(i), (ii), (iii) ve (iv)",A
+Çoklu doğrusal bağlantı varlığında EKK (En Küçük Kareler) tahmincisinin özellikleri neler olacaktır?,"Tutarlı, tarafsız ve verimli olacak",Tutarlı ve tarafsız olacak ancak verimli olmayacak,Tutarlı olacak ama tarafsız olmayacak,Tutarlı olmayacak,A
+Aşağıdakilerden hangisi durağan olmayan verilerin seviye formunda kullanılmasının bir sonucu OLMAZ?,Regresyonun $R^2$ değeri yanıltıcı bir şekilde yüksek olabilir,Test istatistikleri standart dağılımlara uymayabilir,İstatistiksel çıkarımlar geçersiz olabilir,Parametre tahminleri yanlı olabilir,D
+"Eğer bir y serisi rastgele yürüyüş izliyorsa, y'nin optimal bir adım ileriye dönük tahmini nedir?",Mevcut y değeri,Sıfır,Bir,Örneklem içi dönem boyunca y'nin ortalama değeri,A
+Sipariş durumu şudur,Tanımlama için gerekli ve yeterli koşul,Tanımlama için gerekli ancak yeterli olmayan bir koşul,Tanımlama için yeterli ancak gerekli olmayan bir koşul,Ne gerekli ne de yeterli olan bir tanımlama koşulu,B
+"Bir tahmin edicinin minimum varyansa sahip olduğu söylendiğinde, aşağıdaki ifadelerden hangisi ima edilmez?",Tahminin gerçek değerinden çok uzak olma olasılığı en aza indirilir,Tahmin edici etkindir,"Böyle bir tahmin edici ""en iyi"" olarak adlandırılırdı",Böyle bir tahmin edici her zaman yansız olacaktır,D
+"Aşağıdakilerden hangileri, eşbütünleşme testleri ve eşbütünleşme ilişkilerinin modellenmesi için Dickey-Fuller / Engle-Granger yaklaşımının dezavantajlarıdır?
+
+i) Sadece bir eşbütünleşme ilişkisi tahmin edilebilir
+
+ii) Özellikle küçük örneklemler için, değişkenlerin eşbütünleşik olduğu durumlarda bile testlerin eşbütünleşik olmadığını gösterme olasılığı yüksektir
+
+iii) Eşbütünleşme regresyonu üzerinde çıkarım yapmak mümkün değildir
+
+iv) Prosedür, araştırmacıyı hangi değişkenin bağımlı ve hangi değişkenlerin bağımsız olduğunu belirtmeye zorlar.",Sadece (ii) ve (iv),Sadece (i) ve (iii),"(i), (ii) ve (iii) yalnızca","(i), (ii), (iii) ve (iv)",D
+Aşağıdaki ifadelerden hangisi popülasyon regresyon fonksiyonu (PRF) ve örneklem regresyon fonksiyonu (SRF) ile ilgili doğrudur?,"PRF, tahmini modeldir","PRF, SRF'nin olası değerlerini çıkarsamak için kullanılır","Modelin iyi olup olmadığı, SRF ve PRF'yi karşılaştırarak belirlenebilir.","PRF, verileri oluşturduğu düşünülen sürecin bir tanımıdır.",D
+"Aşağıdakilerden hangisi, genelden özele veya ""LSE"" (""Hendry"") yaklaşımının ekonometrik modeller oluşturmada, özelden genele yaklaşıma kıyasla dezavantajıdır?","Bazı değişkenler ilk aşamada hariç tutulabilir, bu da katsayı sapmalarına yol açabilir",Son model teorik yorumlamadan yoksun olabilir,Son model istatistiksel olarak yetersiz olabilir,"İlk model yanlış belirlenirse, sonraki tüm adımlar geçersiz olacaktır.",B
+"Aşağıdaki ifadelerden hangileri GARCH modellerinde maksimum olabilirlik (ML) tahmini bağlamında doğrudur?
+
+i) Maksimum olabilirlik tahmini, gerçekte gözlemlediğimiz y serisinin değerlerini gözlemleme olasılığımızı en üst düzeye çıkaran parametre değerlerini seçer.
+
+ii) GARCH modelleri yalnızca ML ile tahmin edilebilir, EKK ile tahmin edilemez.
+
+iii) Standart bir doğrusal modelin tahmini için (GARCH olmadan), eğim ve kesişim parametreleri için EKK ve ML tahminleri aynı olacaktır, ancak hata terimlerinin varyansı için tahmin edici biraz farklıdır.
+
+iv) Çoğu bilgisayar paketi, GARCH modellerini tahmin etmek için analitik formüller seti yerine sayısal prosedürler kullanır.",Sadece (ii) ve (iv),Sadece (i) ve (iii),"(i), (ii) ve (iii) yalnızca","(i), (ii), (iii) ve (iv)",D
+"Bağımlı değişkenin ilgili gecikmeli değerlerinin regresyon denkleminin sağ tarafına dahil edilmesi, aşağıdakilerden hangisine yol açabilir?",Yanlı ancak tutarlı katsayı tahminleri,Yanlı ve tutarsız katsayı tahminleri,Tarafsız ancak tutarsız katsayı tahminleri,Tarafsız ve tutarlı ancak verimsiz katsayı tahminleri.,A
+"Aşağıdaki faktörlerden hangisi, nispeten yüksek derecede örneklem dışı tahmin doğruluğuna yol açması muhtemeldir?",Finansal teoriye dayalı bir model,Çok sayıda değişken içeren bir model,Bağımlı değişkeni yakın zamanda yapısal bir değişiklik gösteren bir model,Tamamen istatistiksel nitelikte olan ve tahminlerin yargısal olarak değiştirilmesine imkan vermeyen bir model,A
+"Aşağıdakilerden hangileri artık otokorelasyonla başa çıkmak için makul yaklaşımlardır?
+
+i) Her bir değişkenin logaritmasını almak
+
+ii) Regresyon denklemine değişkenlerin gecikmeli değerlerini eklemek
+
+iii) Aykırı gözlemleri kaldırmak için kukla değişkenler kullanmak
+
+iv) Seviye formunda bir model yerine birinci fark formunda bir model denemek.",Sadece (ii) ve (iv),Sadece (i) ve (iii),"(i), (ii) ve (iii) yalnızca","(i), (ii), (iii) ve (iv)",A
+Bir otoregresif sürecin durağan kabul edilmesi için,Karakteristik denklemin kökleri birim çemberin içinde olmalıdır,Karakteristik denklemin kökleri birim çemberin üzerinde olmalıdır,Karakteristik denklemin kökleri birim çemberin dışında olmalıdır,Karakteristik denklemin köklerinin tümü mutlak değer olarak birden küçük olmalıdır,C
+"Aşağıdaki ifadelerden hangileri bilgi kriterleri hakkında doğrudur?
+
+(i) Düzeltilmiş R-kare bir bilgi kriteridir
+
+(ii) Ek bir terim eklendiğinde artık kareler toplamı düşerse, bilgi kriterinin değeri düşecektir
+
+(iii) Akaike bilgi kriteri her zaman en az Schwarz bilgi kriteri kadar büyük model sıralarına yol açar
+
+(iv) Akaike bilgi kriteri tutarlıdır",Sadece (ii) ve (iv),Sadece (i) ve (iii),"(i), (ii) ve (iii) yalnızca","(i), (ii), (iii) ve (iv)",B
+"""İçinde dönüşüm"" şunları içerir",Değişkenlerin ortalama değerlerini almak,"Her varlığın ortalamasını, o varlık üzerindeki her gözlemden çıkarmak",En küçük kareler kukla değişkenleri kullanarak bir panel veri modeli tahmin etme,Sabit etkiler panel modelinde hem zaman kuklaları hem de kesitsel kuklalar kullanmak,B
+"Dickey-Fuller test regresyonunu ""artırma""nın amacı",Test regresyon kalıntılarında heteroskedastisite olmadığından emin olun.,Test regresyon kalıntılarının normal dağılımlı olduğundan emin olun,Test regresyon kalıntılarında otokorelasyon olmadığından emin olun,Tüm durağan olmama durumunun hesaba katıldığından emin olun.,C
+"Eğer bir seri, y, b sürüklenmesi ile rastgele bir yürüyüş izliyorsa, y'deki değişimin optimal bir adım ileriye dönük tahmini nedir?",Mevcut y değeri,Sıfır,Bir,Örneklem içi dönem boyunca y'deki değişimin ortalama değeri,D
+"Aşağıdakilerden hangileri heteroskedastisite gösteren bir modelle başa çıkmak için makul yaklaşımlardır?
+
+i) Her bir değişkenin logaritmasını almak
+
+ii) Uygun şekilde değiştirilmiş standart hataları kullanmak
+
+iii) Genelleştirilmiş en küçük kareler prosedürünü kullanmak
+
+iv) Regresyon denklemine değişkenlerin gecikmeli değerlerini eklemek.",Sadece (ii) ve (iv),Sadece (i) ve (iii),"(i), (ii) ve (iii) yalnızca","(i), (ii), (iii) ve (iv)",C
+"Tahmin edilen bir GARCH modelinden elde edilen standartlaştırılmış artıklar (artıkların kendi koşullu standart sapmalarına bölünmesiyle elde edilenler) hakkında aşağıdaki ifadelerden hangileri doğrudur?
+
+i) Normal dağılıma sahip oldukları varsayılır
+
+ii) GARCH modeli uygunsa, karelerinin gecikmeli kare değerleriyle ilişkili olacağı
+
+iii) Pratikte, kalın kuyruklu olma olasılıkları yüksektir
+
+iv) GARCH modeli yeterliyse, standartlaştırılmış artıklar ve ham artıklar aynı olacaktır",Sadece (ii) ve (iv),Sadece (i) ve (iii),"(i), (ii) ve (iii) yalnızca","(i), (ii), (iii) ve (iv)",B
+Aşağıdaki ifadelerden hangisi VAR'lar hakkında doğrudur?,Katsayı tahminleri sezgisel teorik yorumlamalara sahiptir,Belirli bir denklemdeki belirli bir değişkenin tüm gecikmeleri için katsayı tahminleri genellikle aynı işarete sahiptir,VAR'lar genellikle eşzamanlı denklem yapısal modellerinden daha iyi tahminler üretir,"VAR'ın tüm bileşenleri, tahmin için kullanılabilmeden önce durağan olmalıdır.",C
+Klasik hipotez testi çerçevesi ile ilgili aşağıdaki ifadelerden hangisi YANLIŞTIR?,"Eğer sıfır hipotezi reddedilirse, alternatif hipotez kabul edilir.","Sıfır hipotezi test edilen ifadeyken, alternatif hipotez ilgilenilen diğer sonuçları kapsar.",Anlamlılık testi ve güven aralığı yaklaşımları her zaman aynı sonuçları verecektir,"Hipotez testleri, popülasyon parametreleri hakkında çıkarımlar yapmak için kullanılır.",A
+"Bir ARMA(p,q) (p, q sıfırdan büyük tam sayılardır) modeli şunlara sahip olacaktır",Hem acf hem de pacf'nin geometrik olarak azaldığı durum,Geometrik olarak azalan bir ACF ve p gecikmeden sonra sıfır olan bir PACF,Geometrik olarak azalan bir ACF ve q gecikmeden sonra sıfır olan bir PACF,p gecikmeden sonra sıfır olan bir ACF ve q gecikmeden sonra sıfır olan bir PACF,A
+"Aşağıdaki regresyon 27 çeyreklik gözlem kullanılarak tahmin edildiğini varsayalım:
+
+$y_t = \beta_1 + \beta_2 x_2 + \beta_3 x_{3t} + u_t$
+
+$H_0: \beta_3 = 1$ hipotezinin çift taraflı %5 anlamlılık düzeyinde test edilmesi için uygun kritik değer nedir?","1,64","1,71","2,06","1,96",C
+"İki araştırmacının, aynı 3 değişkeni ve her değişken için aynı 250 gözlemi kullanarak bir VAR tahmin ettiğini varsayalım. Biri VAR(6) tahmin ederken, diğeri VAR(4) tahmin ediyor. Her VAR için kalıntıların varyans-kovaryans matrislerinin determinantları sırasıyla 0.0036 ve 0.0049'dur. VAR(6)'nın VAR(4)'e kısıtlanıp kısıtlanamayacağını test etmek için test istatistiğinin değeri nedir?","77,07","0,31","0,33","4,87",A
+Aşağıdakilerden hangisi saf zaman serisi modellerini kullanmanın (yapısal modellere kıyasla) bir DEZAVANTAJIDIR?,Teorik olarak motive değiller,Kolayca tahmin üretemezler,Çok yüksek frekanslı veriler için kullanılamazlar,Saf zaman serisi modellerinde kullanılacak uygun açıklayıcı değişkenleri belirlemek zordur.,A
+"Doğrusal regresyon analizinde aşağıdakilerden hangileri bağımlı değişkenin (genellikle y ile gösterilir) alternatif isimleridir?
+
+(i) Regresand
+
+(ii) Regresör
+
+(iii) Açıklanan değişken
+
+(iv) Açıklayıcı değişken",Sadece (ii) ve (iv),Sadece (i) ve (iii),"(i), (ii) ve (iii) yalnızca","(i), (ii), (iii) ve (iv)",B
+"Aşağıdakilerden hangileri, değişkenler arasındaki ilişkiyi modellemede VAR yaklaşımının tam yapısal modellerin tahminine göre avantajlarıdır?
+
+i) VAR'lar finansal ve ekonomik teoriden güçlü motivasyon alır
+
+ii) İndirgenmiş formlarındaki VAR'lar zaman serisi tahminleri üretmek için kolayca kullanılabilir
+
+iii) VAR modelleri genellikle oldukça sade olur
+
+iv) OLS, indirgenmiş form bir VAR'daki her denkleme ayrı ayrı uygulanabilir",Sadece (ii) ve (iv),Sadece (i) ve (iii),"(i), (ii) ve (iii) yalnızca","(i), (ii), (iii) ve (iv)",A
+Aşağıdaki ifadelerden hangisi standart regresyon modeli ile ilgili olarak DOĞRUDUR?,y bir olasılık dağılımına sahiptir,x bir olasılık dağılımına sahiptir,Hata teriminin x ile ilişkili olduğu varsayılmaktadır,"Yeterli bir model için, artık değer (u-hat) tüm örnek veri noktaları için sıfır olacaktır",A
+"Aşağıdaki $y_t$ modeli için:
+
+$y_t = \mu + \lambda t + u_t$
+
+Aşağıdakilerden hangisi $y_t$ sürecini en doğru şekilde tanımlar?",Birim kök süreci,Durağan süreç,Deterministik bir trend süreci,Sürüklenmeli rastgele yürüyüş,C
+Logit ve probit modelleri ile ilgili aşağıdakilerden hangisi doğrudur?,Olasılıkların sıfır ile bir arasında olması için modeli dönüştürmede farklı bir yöntem kullanırlar,"Logit modeli, çok fazla gözlemin tam olarak sıfır veya tam olarak bir değerinde düşmesine neden olabilir","Logit modeli için, açıklayıcı değişkenlerden birindeki değişimin marjinal etkisi, basitçe o değişkene bağlı parametrenin tahminidir, oysa probit modeli için durum böyle değildir.","Probit modeli, kümülatif bir lojistik fonksiyona dayanmaktadır",A
+"Çok değişkenli GARCH modellerini oluşturmada köşegen VECH yaklaşımının, BEKK formülasyonu tarafından aşılan en önemli dezavantajı nedir?",Köşegen VECH modeli sezgisel olarak yorumlanması zordur,Köşegen VECH modeli çok fazla parametre içeriyor,"Köşegen VECH modeli, pozitif tanımlı bir varyans-kovaryans matrisi sağlamaz","BEKK modeli, birçok seri birlikte modellendiğinde ortaya çıkan boyutsallık sorununu azaltır.",C
+"İlgili bir değişken regresyon denkleminden çıkarılırsa, sonuçlar şöyle olacaktır:
+
+i) Standart hatalar yanlı olacaktır
+
+ii) Eğer çıkarılan değişken dahil edilen tüm değişkenlerle ilişkisizse, tüm eğim katsayıları tutarsız olacaktır.
+
+iii) Eğer çıkarılan değişken dahil edilen tüm değişkenlerle ilişkisizse, kesişim katsayısı tutarsız olacaktır.
+
+iv) Eğer çıkarılan değişken dahil edilen tüm değişkenlerle ilişkisizse, tüm eğim ve kesişim katsayıları tutarlı ve yansız ancak verimsiz olacaktır.",Sadece (ii) ve (iv),Sadece (i) ve (iii),"(i), (ii) ve (iii) yalnızca","(i), (ii), (iii) ve (iv)",C
+"Doğrusal regresyon analizinde bağımsız değişken (genellikle x ile gösterilir) için aşağıdakilerden hangileri alternatif isimlerdir?
+
+(i) Regresör
+
+(ii) Regressand
+
+(iii) Nedensel değişken
+
+(iv) Etki değişkeni",Sadece (ii) ve (iv),Sadece (i) ve (iii),"(i), (ii) ve (iii) yalnızca","(i), (ii), (iii) ve (iv)",B
+"Eğim katsayısının standart hatası için OLS tahmincisini düşünün. Aşağıdaki ifade(ler)den hangisi veya hangileri doğrudur?
+
+(i) Standart hata, artık varyansla pozitif ilişkili olacaktır
+
+(ii) Standart hata, açıklayıcı değişkenin gözlemlerinin ortalama değerleri etrafındaki dağılımıyla negatif ilişkili olacaktır
+
+(iii) Standart hata, örneklem büyüklüğü ile negatif ilişkili olacaktır
+
+(iv) Standart hata, katsayı tahmininin kesinliğinin bir ölçüsünü verir.",Sadece (ii) ve (iv),Sadece (i) ve (iii),"(i), (ii) ve (iii) yalnızca","(i), (ii), (iii) ve (iv)",D
+"""Heteroscedasticity"" teriminin anlamı nedir?",Hataların varyansı sabit değildir,Bağımlı değişkenin varyansı sabit değildir,Hatalar birbirinden doğrusal olarak bağımsız değildir,Hatalar sıfır olmayan bir ortalamaya sahiptir,A
+"Eğer bir Durbin Watson istatistiği sıfıra yakın bir değer alırsa, birinci dereceden otokorelasyon katsayısının değeri ne olacaktır?",Sıfıra yakın,Artı bire yakın,Eksi bire yakın,Eksi bir veya artı bire yakın,C
+"Bera-Jarque testinin sıfır hipotezi altında, dağılım şuna sahiptir",Sıfır çarpıklık ve sıfır basıklık,Sıfır çarpıklık ve üç basıklık,Bir çarpıklık ve sıfır basıklık,Bir eğrilik ve üç basıklık.,B
+"Bir tahmin edicinin tutarlı olduğu söyleniyorsa, bu şu anlama gelir:","Ortalama olarak, tahmini katsayı değerleri gerçek değerlere eşit olacaktır",OLS tahmincisi yansızdır ve başka hiçbir yansız tahmincinin daha küçük bir varyansı yoktur,Örneklem büyüklüğü arttıkça tahminler gerçek değerlere yakınsayacaktır,"Katsayı tahminleri, küçük ve büyük örneklemler için gerçek değerlerine mümkün olduğunca yakın olacaktır.",C
+Aşağıdakilerden hangisi finansal varlık getirisi zaman serilerinin tipik bir özelliğidir?,Dağılımları ince kuyrukludur,Zayıf durağan değiller,Bunlar yüksek derecede otokorelasyonludur,Hiçbir eğilimleri yok,D
+"Aşağıdaki varsayımlardan hangileri OLS tahmincisinin tutarlılığını, yansızlığını ve etkinliğini göstermek için gereklidir?
+
+i) $E(u_t) = 0$
+
+
+ii) $\text{Var}(u_t) = \sigma^2$
+
+
+iii) $\text{Cov}(u_t, u_{t-j}) = 0 \forall j$
+
+
+iv) $u_t \sim N(0, \sigma^2)$",Sadece (ii) ve (iv),Sadece (i) ve (iii),"(i), (ii) ve (iii) yalnızca","(i), (ii), (iii) ve (iv)",C
+Aşağıdakilerden hangisi bir panel modelini tahmin etmek için sabit etkiler yaklaşımının dezavantajıdır?,Modelin tahmin edilmesi muhtemelen teknik olacaktır,"Bileşik hata terimi, açıklayıcı değişkenlerden bir veya daha fazlasıyla ilişkili ise yaklaşım geçerli olmayabilir.","Tahmin edilecek parametre sayısı büyük olabilir, bu da serbestlik derecesinde kayba neden olabilir.",Sabit etkiler yaklaşımı yalnızca kesitsel heterojenliği yakalayabilir ve bağımlı değişkendeki zamansal değişimi yakalayamaz.,C
+"Soru 21'dekiyle aynı durumu düşünün, ancak şimdi 2 taraflı bir alternatif kullanılıyor. Şimdi uygun sonuç ne olurdu?",H0 reddedilir,H0 reddedilmez,H1 reddedilir,Soruya verilen bilgiler bir sonuca varmak için yetersizdir.,A
+Bir evin fiyatı en iyi hangi tür sayı olarak tanımlanır?,Ayrık,Kardinal,Sıra sayısı,Nominal,B
+"Johansen ""iz"" testinin 4 değişken içeren bir sisteme 2 eşbütünleşme vektörü sıfır hipotezi için uygulanması durumunda, hangi özdeğerler testte kullanılacaktır?",Hepsi,En büyük 2,En küçük 2,İkinci en büyük,C
+"VAR'ların varyans ayrıştırma analizi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?
+
+i) Varyans ayrıştırmaları, VAR'daki her bir değişkene birim şokun etkisini ölçer
+
+ii) Varyans ayrıştırmaları, tahmin hatası varyansının her bir değişkene atfedilebilen oranını ölçen bir yöntem olarak düşünülebilir
+
+iii) Değişkenlerin sıralaması, etki tepkilerini hesaplamak için önemlidir ancak varyans ayrıştırmaları için önemli değildir
+
+iv) Belirli bir değişken için tahmin hatası varyansının çoğunun o değişkene gelen şoklara atfedilebilmesi olağandır",Sadece (ii) ve (iv),Sadece (i) ve (iii),"(i), (ii) ve (iii) yalnızca","(i), (ii), (iii) ve (iv)",A
+Günlük hisse senedi getirileri için bir GARCH modeli tahmin ettiğimizi ve bir riske maruz değer modelinde kullanmak üzere volatilitenin (getirilerin standart sapması ile ölçülen) 10 günlük bir tahminini üretmekle ilgilendiğimizi varsayalım. Böyle bir tahmin en geçerli şekilde nasıl hesaplanabilir?,"1, 2, 3, ..., 10 adım ileriye dönük koşullu varyans tahminleri üretin ve bunları toplayın","1, 2, 3, ..., 10 adım ileriye dönük koşullu varyans tahminleri üretin, bunları toplayın ve karekökünü alın","1, 2, 3, ..., 10 adım ileriye dönük koşullu varyans tahminleri üretin, her birinin karekökünü alın ve bunları toplayın","1 adım ileriye koşullu varyans tahmini üretin, karekökünü alın ve 10'un kareköküyle çarpın",B
+"Varsayalım ki tahmin edilen bir regresyon modeli için $R^2$ değeri tam olarak sıfırdır. Aşağıdakilerden hangileri doğrudur?
+
+i) Tüm eğim katsayı tahminleri sıfır olacaktır
+
+ii) Uyarlanmış çizgi, tüm açıklayıcı değişkenlere göre yatay olacaktır
+
+iii) Regresyon çizgisi, y'nin ortalama değeri etrafındaki değişkenliğinin hiçbirini açıklamamıştır
+
+iv) Kesişim katsayısı tahmini sıfır olmalıdır.",Sadece (ii) ve (iv),Sadece (i) ve (iii),"(i), (ii) ve (iii) yalnızca","(i), (ii), (iii) ve (iv)",C
+"Bir beyaz gürültü süreci şunlara sahip olacaktır:
+
+(i) Sıfır ortalama
+
+(ii) Sabit varyans
+
+(iii) Sabit olan otokovaryanslar
+
+(iv) Sıfır gecikmesi dışında sıfır olan otokovaryanslar",Sadece (ii) ve (iv),Sadece (i) ve (iii),"(i), (ii) ve (iii) yalnızca","(i), (ii), (iii) ve (iv)",A
+"ARMA modelleri için Box-Jenkins yaklaşımının tanısal testlerine ilişkin aşağıdaki ifadelerden hangileri doğrudur?
+
+(i) Testler, tanımlanan modelin çok büyük veya çok küçük olup olmadığını gösterecektir
+
+(ii) Testler, model kalıntılarının otokorelasyon, heteroskedastisite ve normal dağılmama açısından kontrol edilmesini içerir
+
+(iii) Tanımlama aşamasında önerilen model uygunsa, kalıntılar için acf ve pacf ek bir yapı göstermemelidir
+
+(iv) Tanımlama aşamasında önerilen model uygunsa, aşırı uyum yaklaşımı altındaki ek değişkenlerin katsayıları istatistiksel olarak anlamsız olacaktır",Sadece (ii) ve (iv),Sadece (i) ve (iii),"(i), (ii) ve (iii) yalnızca","(i), (ii), (iii) ve (iv)",A
+Aşağıdakilerden hangisi artık normallik dışılığı bulgusuna karşı makul bir yanıt olabilir?,Doğrusal bir form yerine logaritmik bir fonksiyonel form kullanın,Regresyon modelinin sağ tarafındaki değişkenlere gecikmeler ekleyin,Modeli birinci fark formunda tahmin edin,Verilerden büyük aykırı değerleri çıkarın.,D
+Sabit etkiler panel modeli bazen şu şekilde de bilinir:,Görünüşte ilgisiz bir regresyon modeli,En küçük kareler kukla değişkenler yaklaşımı,Rastgele etkiler modeli,Heteroskedastisite ve otokorelasyon tutarlı,B
+Aşağıdaki ifadelerden hangisi OLS (En Küçük Kareler) tahmini hakkında DOĞRUDUR?,"OLS, noktalardan çizgiye olan dikey mesafelerin toplamını en aza indirir","OLS, noktalardan çizgiye olan dikey mesafelerin karelerinin toplamını minimize eder","OLS, noktalardan çizgiye olan yatay mesafelerin toplamını en aza indirir","OLS, noktalardan çizgiye olan yatay mesafelerin karelerinin toplamını en aza indirir.",B
+"Standart zaman serisi analizi araçları, örneğin acf, pacf ve spektral analiz tahminleri, verilerde herhangi bir yapı kanıtı bulamazsa, bu durum verilerin aşağıdakilerden hangisi olduğunu ima eder?",Normal dağılımlı,İlişkisiz,Bağımsız,Yağlı kuyruklu,B
+"İki değişken, $x_t$ ve $y_t$'nin eşbütünleşik olduğu söylenirse, aşağıdaki ifadelerden hangileri doğrudur?
+
+i) $x_t$ ve $y_t$'nin ikisi de durağan olmalıdır
+
+ii) $x_t$ ve $y_t$'nin yalnızca bir doğrusal kombinasyonu durağan olacaktır
+
+iii) $x_t$ ve $y_t$ için eşbütünleşme denklemi, iki seri arasındaki kısa vadeli ilişkiyi tanımlar
+
+iv) $y_t$'nin $x_t$ üzerine regresyonunun artıkları durağan olmalıdır",Sadece (ii) ve (iv),Sadece (i) ve (iii),"(i), (ii) ve (iii) yalnızca","(i), (ii), (iii) ve (iv)",A
+"Değerleri belirli bir aralığın dışında gözlemlenemeyen ancak bağımsız değişkenlerin karşılık gelen değerlerinin hala mevcut olduğu bir bağımlı değişken, en doğru şekilde nasıl bir değişken olarak tanımlanır?",Sansürlü,Kesilmiş,Çok terimli değişken,Ayrık seçim,A
+Bir Hausman testi şunun için kullanılır,Eşzamanlı bir sistemin parçası olan bir denklemin tanımlanıp tanımlanmadığını belirleme,Belirli bir değişken için eşzamanlı bir çerçevenin gerekli olup olmadığını belirleme,2SLS veya ILS'nin optimal olup olmadığını belirleme,Yapısal form denklemlerinin indirgenmiş formlardan ikame yoluyla elde edilip edilemeyeceğinin belirlenmesi,B
+"Klasik doğrusal regresyon modelinin matris gösterimi olan $y = X \beta + u$ altında, $u$'nun boyutları nedir?",T x k,T x 1,k x 1,1 x 1,B
+"Standart formda, kısıtlanmamış, üç değişkenli bir VAR(4) modelinin tüm denklemleri için, sabit terimleri göz ardı ederek, toplam kaç parametrenin tahmin edilmesi gerekecektir?",12,4,3,36,D
+"Bir araştırmacı aşağıdaki regresyon modelinde yapısal istikrarı test eder:
+
+$y_t = \beta_1 + \beta_2 x_{2t} + \beta_3 x_{3t} + u_t$
+
+Toplam 200 gözlemlik örnek, alt örnek regresyonları için tam ortadan ikiye bölünmüştür. Kısıtlanmamış artık kareler toplamı hangisi olurdu?",Tüm örnek için RSS,İlk alt örnek için RSS,İkinci alt örnek için RSS,İlk ve ikinci alt örneklemlerin RSS toplamı,D
+"Diyelim ki, olabilirlik oranı testi yaklaşımını kullanarak bir GARCH(2,2) modelinin sabit koşullu varyansa sahip bir sürece kısıtlanabileceği sıfır hipotezini test etmekle ilgileniyoruz. Aşağıdaki ifadelerden hangileri doğrudur?","Test istatistiği, sıfır hipotezi altında 2 serbestlik dereceli ki-kare dağılımını izleyecektir","Kısıtlı model için log-olabilirlik fonksiyonunun değeri, neredeyse her zaman kısıtlanmamış modele göre daha büyük olacaktır.","İlgili log-olabilirlik fonksiyonlarının değerleri -112.3 ve -118.4 ise, test istatistiğinin değeri 12.2'dir.","Olabilirlik oranı testi, log-olabilirlik fonksiyonunun maksimum noktasındaki ve kısıtlanmış parametre değerindeki eğimlerini karşılaştırır.",C
+Aşağıdakilerden hangisi yakın çoklu doğrusallık için olası bir çözüm DEĞİLDİR?,Temel bileşenler analizini kullanın,Doğrusal bağımlı değişkenlerden birini çıkarın,Daha uzun bir veri serisi kullanın,Her bir değişkenin logaritmasını alın,D
+"Aşağıdaki AR(2) sürecini göz önünde bulundurun:
+
+yt = 1.5 yt-1 - 0.5 yt-2 + ut
+
+Bu bir",Durağan süreç,Birim kök süreci,Patlayıcı süreç,Durağan ve birim kök süreci,B
+Aşağıdakilerden hangisi üçüncü dereceye kadar otokorelasyon için bir test olarak kullanılabilir?,Durbin Watson testi,White testi,RESET testi,Breusch-Godfrey testi,D
+Standart bir regresyon modelinden elde edilen artık şu şekilde tanımlanır,Gerçek değer y ile ortalama y-bar arasındaki fark,Uydurulan değer olan y-şapka ile ortalama olan y-çubuk arasındaki fark,Gerçek değer y ile tahmini değer y-hat arasındaki fark,"Tahmin edilen değer, y-hat, ile ortalama, y-bar, arasındaki farkın karesi",C
+"Eğer EKK (En Küçük Kareler) eşzamanlı bir sistemin parçası olan her denkleme ayrı ayrı uygulanırsa, ortaya çıkan tahminler olacaktır",Tarafsız ve tutarlı,Önyargılı ama tutarlı,Önyargılı ve tutarsız,OLS'yi eşzamanlı bir sistemin parçası olan denklemlere uygulamak imkansızdır,C
+Aşağıdakilerden hangisi fonksiyonel formun yanlış belirlenmesine bir örnek DEĞİLDİR?,x'in karelerinin bir fonksiyonu olarak y ölçeklendiğinde doğrusal bir spesifikasyon kullanmak,Doğrusal bir logaritmik model daha uygun olacakken doğrusal bir spesifikasyon kullanmak,"x'in bir fonksiyonu olarak y'yi modellemek, aslında 1/x'in bir fonksiyonu olarak ölçeklendiğinde",İlgili bir değişkeni doğrusal regresyon modelinden hariç tutmak,D
+Bir yatırımcının tahvil fonu veya nakit yatırım yerine hisse senedi fonunu seçme olasılığını etkileyen faktörleri değerlendirmek istediğimizi varsayalım. Hangi model sınıfı en uygun olurdu?,Bir lojit modeli,Çok terimli logit,Bir tobit modeli,Sıralı logit modeli,B
+"Monte Carlo çalışmasında kullanılan tekrar sayısı az olduğunda aşağıdaki ifadelerden hangileri doğru olacaktır?
+
+i) İlgilenilen istatistik hatalı tahmin edilebilir
+
+ii) Sonuçlar, temsil edici olmayan rastgele çekimlerin kombinasyonlarından etkilenebilir
+
+iii) Tahmin edilen miktarların standart hataları kabul edilemez derecede büyük olabilir
+
+iv) Varyans azaltma teknikleri, standart hataları azaltmak için kullanılabilir",Sadece (ii) ve (iv),Sadece (i) ve (iii),"(i), (ii) ve (iv) yalnızca","(i), (ii), (iii) ve (iv)",D
+Aşağıdakilerden hangisi bir panel modelini tahmin etmede rastgele etkiler yaklaşımının dezavantajıdır?,"Bileşik hata terimi, açıklayıcı değişkenlerden bir veya daha fazlasıyla ilişkili ise yaklaşım geçerli olmayabilir.","Tahmin edilecek parametre sayısı büyük olabilir, bu da serbestlik derecesinde kayba neden olabilir.",Rastgele etkiler yaklaşımı yalnızca kesitsel heterojenliği yakalayabilir ve bağımlı değişkendeki zamansal değişimi yakalayamaz.,"(a)'dan (c)'ye kadar olan tüm maddeler, rastgele etkiler yaklaşımının potansiyel dezavantajlarıdır.",A
+"Aşağıdakilerden hangisi otokorelasyonlu artıklara neden olabilir?
+
+i) Bağımlı değişkenin, bağımsız değişkenlerdeki değişikliklere yavaş tepki vermesi
+
+ii) Bağımlı değişkenin, bağımsız değişkenlerdeki değişikliklere aşırı tepki vermesi
+
+iii) Otokorelasyonlu olan ilgili açıklayıcı değişkenlerin ihmal edilmesi
+
+iv) Verilerdeki aykırı değerler",Sadece (ii) ve (iv),Sadece (i) ve (iii),"(i), (ii) ve (iii) yalnızca","(i), (ii), (iii) ve (iv)",C
+"Aşağıdaki ifadelerden hangileri acf ve pacf ile ilgili doğrudur?
+
+(i) Acf ve pacf'yi uygulamada yorumlamak genellikle zordur
+
+(ii) Bazı veri setleri için acf ve pacf hesaplaması zor olabilir
+
+(iii) Bilgi kriterleri, model sırası belirleme için alternatif bir yaklaşımı temsil eder
+
+(iv) Doğru uygulandığında, acf ve pacf her zaman benzersiz model seçimleri sunar",Sadece (ii) ve (iv),Sadece (i) ve (iii),"(i), (ii) ve (iii) yalnızca","(i), (ii), (iii) ve (iv)",C
+"Aşağıdaki koşullardan hangileri bir serinin zayıf durağan süreç olarak sınıflandırılabilmesi için gereklidir?
+
+(i) Sabit bir ortalamaya sahip olmalıdır
+
+(ii) Sabit bir varyansa sahip olmalıdır
+
+(iii) Belirli gecikmeler için sabit otokovaryanslara sahip olmalıdır
+
+(iv) Sabit bir olasılık dağılımına sahip olmalıdır",Sadece (ii) ve (iv),Sadece (i) ve (iii),"(i), (ii) ve (iii) yalnızca","(i), (ii), (iii) ve (iv)",C
+"Aşağıdaki denklemi göz önünde bulundurun ve en iyi temsil ettiği model sınıfını belirleyin
+
+$y_{it} = \alpha + \beta_{it} + \mu_i + \nu_{it}$",Varlık sabit etkiler modeli,Zamana bağlı sabit etkiler modeli,Rastgele etkiler modeli,Saf zaman serisi modeli,A
+İstatistiksel tabloların bu soruyu cevaplamak için gerekli olmadığını unutmayın. 1000 gözlemlik bir örnek için Dickey-Fuller test istatistiği değerleri şunlardır,Normal dağılımın sol kuyruğundakilerden daha negatif (yani mutlak değer olarak daha büyük),Normal dağılımın sol kuyruğundakilerden daha az negatif (yani mutlak değer olarak daha küçük),Dickey-Fuller dağılımının yoğunluğu için analitik bir formülden elde edilmiştir,%10'luk bir test boyutu için %5'lik bir teste göre daha negatif (yani mutlak değer olarak daha büyük).,A
+"Varsayalım ki bir hipotez testi %5 anlamlılık düzeyi kullanılarak yapılıyor. Aşağıdaki ifadelerden hangileri doğrudur?
+
+(i) Anlamlılık düzeyi, testin büyüklüğüne eşittir
+
+(ii) Anlamlılık düzeyi, testin gücüne eşittir
+
+(iii) 2 yönlü bir test için toplam dağılımın %2,5'i her bir kuyruk ret bölgesinde olacaktır
+
+(iv) 2 yönlü bir test için toplam dağılımın %5'i her bir kuyruk ret bölgesinde olacaktır.",Sadece (ii) ve (iv),Sadece (i) ve (iii),"(i), (ii) ve (iii) yalnızca","(i), (ii), (iii) ve (iv)",B
+Dickey-Fuller/Engle-Granger yaklaşımının eşbütünleşik değişkenlerle başa çıkma konusundaki aşağıdaki eleştirilerinden hangisi Engle-Yoo (EY) prosedürü tarafından aşılmaktadır?,"Küçük örneklemler bağlamında, Dickey Fuller testleri bir seride birim kök olmadığı halde birim kök olduğu sonucuna varma eğilimindedir.","Engle-Granger (EG) yaklaşımı, birden fazla eşbütünleşme ilişkisi olabilmesine rağmen en fazla bir eşbütünleşme ilişkisini tespit edebilir.","Değişkenler, eşbütünleşme testlerinde asimetrik olarak ele alınır",Eşbütünleşme ilişkisi hakkında testler yapmak mümkün değildir,D
+Sıfır ortalama ve 0.4 hareketli ortalama katsayısına sahip bir MA(1) modelini izleyen bir seriyi düşünün. 1 gecikmeli otokovaryansın değeri nedir?,"0,4",1,"0,34",Bozukluk varyansını bilmeden otokovaryansların değerini belirlemek mümkün değildir.,D
+"Aşağıdaki tahmin tekniklerinden hangileri aşırı tanımlanmış eşzamanlı denklem sistemlerinin tahmini için kullanılabilir?
+
+i) OLS
+
+ii) ILS
+
+iii) 2SLS
+
+iv) IV",(iii) sadece,Sadece (iii) ve (iv),"Sadece (ii), (iii) ve (iv)","(i), (ii), (iii) ve (iv)",B
+Aşağıdaki ifadelerden hangisi Tip II hatayı en iyi şekilde tanımlar?,Sıfır hipotezini yanlışlıkla reddetme olasılığıdır,Testin gücüne eşdeğerdir,Test boyutuna eşdeğerdir,Yanlış olan bir sıfır hipotezini reddetmemek olasılığıdır,D
+"Aşağıdakilerden hangisi, 21. soruda verilen modelin kesişim terimi için en uygun %95'lik (iki taraflı) güven aralığı olacaktır?","(-4,79; 2,19)","(-4,16;4,16)","(-1,98; 1,98)","(-5,46; 2,86)",D
+"Aşağıdakilerden hangileri durağan bir sürecin özellikleridir?
+
+i) Ortalama değerini sık sık keser
+
+ii) Sabit ortalama ve varyansa sahiptir
+
+iii) Trend bileşeni içermez
+
+iv) Birinci fark formunda durağan olacaktır",Sadece (ii) ve (iv),Sadece (i) ve (iii),"(i), (ii) ve (iii) yalnızca","(i), (ii), (iii) ve (iv)",D
+Denklem 16'daki VAR modelini tekrar düşünün. Çift yönlü geri besleme olduğunun söylenebilmesi için aşağıdaki koşullardan hangileri geçerli olmalıdır?,b ve d katsayıları anlamlı ve a ve c katsayıları anlamsız,a ve c katsayıları anlamlı ve b ve d katsayıları anlamsız,a ve c katsayıları anlamlı,b ve d katsayıları anlamlı,D
+"Aşağıdaki 250 veri noktası kullanılarak elde edilen örnek otokorelasyon tahminlerini göz önünde bulundurun:
+
+1) Gecikme 1 2 3
+
+2) Katsayı 0.2 -0.15 -0.1
+
+3) Katsayıların yaklaşık olarak normal dağıldığı varsayılarak, hangi katsayılar %5 düzeyinde istatistiksel olarak anlamlıdır?",1 sadece,Sadece 1 ve 2,"Sadece 1, 2 ve 3",İstatistiksel anlamlılığı belirlemek mümkün değil çünkü standart hatalar verilmemiş,B
+Aşağıdakilerden hangisi uyum iyiliği istatistiğine bakılarak incelenir?,Popülasyon regresyon fonksiyonunun verilere ne kadar iyi uyduğu,Örneklem regresyon fonksiyonunun popülasyon regresyon fonksiyonuna ne kadar iyi uyduğu,Örnek regresyon fonksiyonunun verilere ne kadar iyi uyduğu,Popülasyon regresyon fonksiyonunun örnek regresyon fonksiyonuna ne kadar iyi uyduğu.,C
+"Monte Carlo deneyinin bir parçası olarak antitetik değişkenlerin kullanımıyla ilgili aşağıdaki ifadelerden hangileri doğrudur?
+
+i) Antitetik değişkenler, tüm olasılık uzayını kapsamak için gereken tekrar sayısını azaltarak çalışır
+
+ii) Antitetik değişkenler, simülasyonda kullanılana benzer bir değişken kullanmayı içerir, ancak özellikleri analitik olarak bilinir
+
+iii) Antitetik değişkenler, her bir rastgele çekimin negatifini kullanmayı ve bu değerleri çekim olarak kullanarak deneyi tekrarlamayı içerir
+
+iv) Antitetik değişkenler, her bir rastgele çekimin tersini almayı ve bu değerleri çekim olarak kullanarak deneyi tekrarlamayı içerir",Sadece (ii) ve (iv),Sadece (i) ve (iii),"(i), (ii) ve (iv) yalnızca","(i), (ii), (iii) ve (iv)",B
+Aşağıdaki ifadelerden hangisi alternatif tahmin doğruluğu ölçütleri hakkında doğrudur?,Ortalama kare hata genellikle ticaret kuralı karlılığı ile yüksek derecede ilişkilidir,"Ortalama mutlak hata, karesel bir kayıp fonksiyonu sağlar","Ortalama mutlak yüzde hata, varlık getirisi tahminlerini değerlendirmek için faydalı bir ölçüttür","Ortalama kare hata, büyük tahmin hatalarını küçük tahmin hatalarına göre orantısız bir şekilde daha fazla cezalandırır",D
+"Aşağıdaki standart (""sade"") GARCH modellerine yönelik eleştirilerden hangileri EGARCH modelleri tarafından aşılabilir?
+
+i) GARCH modellerinden tahmin edilen katsayı değerleri negatif olabilir
+
+ii) GARCH modelleri kaldıraç etkilerini hesaba katamaz
+
+iii) GARCH formülasyonu altında gelecekteki oynaklığın pozitif ve negatif şoklara tepkisi simetriktir
+
+iv) GARCH modelleri oynaklıktan getirilere geri beslemeye izin veremez",Sadece (ii) ve (iv),Sadece (i) ve (iii),"(i), (ii) ve (iii) yalnızca","(i), (ii), (iii) ve (iv)",C
+"Diyelim ki, Jensen tipi bir regresyon kullanılarak ""piyasayı geçip geçmediklerini"" belirlemek için 100 ayrı firma test edildi ve 3 fon yöneticisinin bunu önemli ölçüde başardığı tespit edildi. Bu, ilk bakışta borsa verimsizliğine dair bir kanıt oluşturur mu?",Evet,Hayır,"Bu soruyu yanıtlamak için, o piyasada işlem yapan her fon yöneticisini test etmeniz gerekecektir.","Sorudaki bilgiler, piyasa etkinliği hakkında bir sonuca varmak için yetersizdir.",B
+"Aşağıdakilerden hangileri panel veri kullanımının saf kesitsel veya saf zaman serisi modellemesine göre avantajlarıdır?
+
+(i) Panel veri kullanımı serbestlik derecesini artırabilir ve dolayısıyla testlerin gücünü artırabilir
+
+(ii) Panel veri kullanımı, bağımlı değişkenin ortalama değerinin ya kesitsel olarak ya zaman içinde ya da her ikisinde de değişmesine olanak tanır
+
+(iii) Panel veri kullanımı, araştırmacının bağımsız ve bağımlı değişkenler arasındaki tahmini ilişkinin ya kesitsel olarak ya zaman içinde ya da her ikisinde de değişmesine olanak tanır",(i) sadece,Sadece (i) ve (ii),(ii) sadece,"(i), (ii) ve (iii)",B
+"Engle-Granger testi potansiyel olarak eşbütünleşik bir regresyonun artıklarına uygulanırsa, sıfır hipotezinin yorumu ne olurdu?",Değişkenler eşbütünleşiktir,Değişkenler eşbütünleşik değildir,Her iki değişken de durağandır,Her iki değişken de durağan değil,B
+"Aşağıdaki ifadelerden hangileri otokorelasyon fonksiyonu (acf) ve kısmi otokorelasyon fonksiyonu (pacf) ile ilgili doğrudur?
+
+i) Acf ve pacf, model ne olursa olsun her zaman bir gecikmede aynı olacaktır
+
+ii) MA(q) modeli için pacf genellikle q gecikmesinin ötesinde sıfır olmayacaktır
+
+iii) AR(p) modeli için pacf, p gecikmesinin ötesinde sıfır olacaktır
+
+iv) MA(1) modeli için acf ve pacf iki gecikmede aynı olacaktır",Sadece (ii) ve (iv),Sadece (i) ve (iii),"(i), (ii) ve (iii) yalnızca","(i), (ii), (iii) ve (iv)",C

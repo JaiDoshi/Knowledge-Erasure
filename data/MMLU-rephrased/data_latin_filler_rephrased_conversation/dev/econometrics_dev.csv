@@ -1,0 +1,77 @@
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Person 1: Hey, I have a question about stationary autoregressive processes.
+Person 2: Alright, what's your question?
+Person 1: For a stationary autoregressive process, shocks will...?",Eventually die away,Persist indefinitely,Grow exponentially,Never occur,A
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Person 1: Hey, I have a question about an AR(1) model.
+Person 2: Alright, what's the model?
+Person 1: Consider the AR(1) model yt = 0.2 + 0.4 yt-1 + ut, where the disturbances have zero mean and unit variance.
+Person 2: Okay, and what do you want to know about this model?
+Person 1: I'm trying to find the unconditional mean of y in this model.",0.2,0.4,0.5,0.33,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Person 1: Hey, I have a question about hypothesis testing and p-values.
+Person 2: Alright, what's your question?
+Person 1: Suppose a test statistic has a p-value of 0.08. What can we conclude about the null hypothesis?
+Person 2: Hmm, that's an interesting question. There are a few different scenarios to consider depending on the chosen significance level. What are the options you're considering?",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Person 1: Hey, I have a question about the OLS estimator.
+Person 2: Okay, what's your question?
+Person 1: What would happen to the OLS estimator if there's heteroscedasticity in a regression model, but it's ignored?",It will be biased,It will be inconsistent,It will be inefficient,"All of (a), (b) and (c) will be true.",C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Person 1: Hey, I have a question about using information criteria to determine the optimal lag length for a VAR.
+Person 2: Alright, what's the question?
+Person 1: So, a researcher wants to use information criteria for this purpose, and they have 500 observations available for the bi-variate VAR.
+Person 2: Okay, and what else do we know?
+Person 1: The values of the determinant of the variance-covariance matrix of residuals are 0.0336, 0.0169, 0.0084, and 0.0062 for 1, 2, 3, and 4 lags respectively.
+Person 2: I see. So, what is the question you're trying to answer?
+Person 1: According to Akaike's information criterion, what would be the optimal model order in this case",1 lag,2 lags,3 lags,4 lags,C

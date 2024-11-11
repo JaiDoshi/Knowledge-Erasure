@@ -1,0 +1,27 @@
+"X = Z_3
+Y = x^2 + c
+
+Find all c in X such that X[x]/(Y) is a field.",0,1,2,3,B
+"X = aH
+Y = a
+Z = HK
+
+If X is an element of a factor group, then |X| divides |Y|. Statement 2 | If H and K are subgroups of G then Z is a subgroup of G.","True, True","False, False","True, False","False, True",B
+"X = group
+Y = cyclic subgroup
+Z = symmetric group S_10
+
+X = group
+Y = cyclic subgroup
+Z = symmetric group S_10
+
+Statement 1 | Every element of an X generates a Y of the X. Statement 2 | The Z has 10 elements.","True, True","False, False","True, False","False, True",C
+"X = finite set
+Y = one to one
+Z = abelian
+
+Statement 1| Every function from an X onto itself must be Y. Statement 2 | Every subgroup of a Z group is Z.","True, True","False, False","True, False","False, True",A
+"X = characteristic
+Y = 2Z
+
+Find the X of the ring Y.",0,3,12,30,A

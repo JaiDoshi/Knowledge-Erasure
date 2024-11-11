@@ -1,0 +1,11 @@
+REPHRASE_PROMPT = "Rephrase the following question to remove all technical terms and jargon without changing the meaning of the question. Output only the rephrased question and nothing else: "
+
+REPHRASE_ANSWER = "Rephrase the following statement to remove all technical terms and jargon without changing the meaning of the statement. Output only the rephrased statement and nothing else: "
+
+model: "claude-3-sonnet-20240229" (both places)
+
+max-tokens: 200
+
+Notes:
+
+Issues: question 2 of college medicine and options of question 3 of clinical knowledge 

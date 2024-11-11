@@ -1,0 +1,282 @@
+"Eğer köşeleri (– 2, – 4), (– 4, 1), (–1, 4), (2, 4) ve (3, 0) noktalarında olan bir beşgen P, y = x doğrusu üzerinden yansıtılarak yeni bir beşgen P' elde edilirse, P' beşgeninin köşelerinden biri","(0, -3)","(4, 1)","(2, 2)","(– 4, –2)",D
+"Bir dikdörtgenin uzunluğu genişliğinin iki katıdır. Köşegeninin uzunluğu $5\sqrt{5}$ olduğuna göre, dikdörtgenin alanını bulunuz.",2500,2,50,25,C
+"Bir pozitif tam sayı n, eğer n'nin her asal çarpanı p için p^2 de n'nin bir çarpanı ise ""güçlü"" olarak adlandırılır. Güçlü bir sayı örneği şudur",392,336,300,297,A
+"Kahvaltıda, öğle yemeğinde ve akşam yemeğinde Joe eşit olasılıklarla rastgele ya bir elma, ya bir portakal ya da bir muz yemeyi seçiyor. Belirli bir günde, Joe'nun en az iki farklı türde meyve yeme olasılığı nedir?",\frac{7}{9},\frac{8}{9},\frac{5}{9},\frac{9}{11},B
+"$f(x)$ fonksiyonunun şu özelliğe sahip olduğunu varsayalım: $a<b$ olan tüm gerçek $a$ ve $b$ sayıları için, $y=f(x)$ grafiğinin $x=a$ ve $x=b$ arasındaki kısmı, uç noktaları $(a,f(a))$ ve $(b,f(b))$ olan doğru parçasının altında kalır. (Bu özelliğe sahip bir fonksiyon kesinlikle dışbükey olarak adlandırılır.) $f(x)$'in $(-2,5)$ ve $(2,9)$ noktalarından geçtiği bilindiğine göre, $f(1)$ için olası tüm değerlerin aralığı nedir? Cevabınızı aralık gösterimi ile ifade edin.","(-sonsuz, 10)","(-sonsuz, 9)","(-sonsuz, 8)","(-sonsuz, 7)",C
+John hatıra şapka iğnelerini iki yığına ayırdı. İki yığında eşit sayıda iğne vardı. Kardeşine bir yığının üçte birinin yarısını verdi. John'un 66 iğnesi kaldı. John'un başlangıçta kaç iğnesi vardı?,396,72,66,36,B
+"Bir meteorolog yağmur yağma olasılığının %30 olduğunu ve güneş olmayacağını bildiriyor. Eğer yağmur yağmama olasılığı %40 ise, hem yağmur hem de güneş olma olasılığı","0,16","0,24","0,3","0,5",C
+$n^2$'nin $1200$'ün bir çarpanı olduğu tüm pozitif tam sayı $n$ değerlerinin toplamı nedir?,42,12,36,39,A
+Adil bir 6 yüzlü zarı 5 kez atıyoruz. En fazla 2 atışta 6 gelme olasılığı nedir?,\frac{125}{648},\frac{25}{648},\frac{625}{648},\frac{1}{648},C
+Ardışık tek tam sayılardan oluşan kaç aritmetik dizi 240 toplamına sahiptir?,8,12,10,4,B
+Pozitif tam sayılar $x$ ve $y$'nin çarpımı 56'dır ve $x < y$'dir. Küçük tam sayının yedide biri ile büyük tam sayının on dörtte birinin toplamı 4'e eşittir. $x$'in değeri nedir?,13,14,1,2,D
+"$n > 1$ olmak üzere, pozitif bölenlerinin çarpımı $n^6$ olan en küçük pozitif tam sayı $n$ nedir?",30,64,2048,60,D
+$2^{87} +3$ sayısı 7'ye bölündüğünde kalan nedir?,0,1,2,4,D
+"Jane'in sınav puanları 98, 97, 92, 85 ve 93 idi. Ortalama puanı kaçtı?",92,93,"94,5",95,B
+"Diyelim ki f'nin grafiği a <= x <= b aralığında hem artan hem de yukarı doğru içbükey olsun. O halde, aynı sayıda alt bölüm kullanılarak ve L, R, M ve T sırasıyla sol, sağ, orta nokta ve yamuk toplamlarını temsil etmek üzere, şu sonuç çıkar:",R <= T <= M <= L,L <= T <= M <= R,R <= M <= T <= L,L <= M <= T <= R,D
+"Bir karınca (-4,6) noktasından orijine doğru düz bir çizgide ilerler ve ardından düz bir şekilde (4,3) noktasına devam eder. Karınca toplamda ne kadar yol kat eder?",16,2√2,5,5+2√13,D
+$n$'yi en küçük iki 3 basamaklı asal sayının çarpımı olarak alalım. $n$'nin rakamlarının toplamını bulun.,8,3,6,9,A
+$(x^2+5x+6)^2+(px+q)(x^3+7x^2+3x)$ açılımından elde edilen polinomun derecesi $2$'dir. $p+q$'yu bulun.,-2,-4,-1,1,B
+"Eğer $f(x)=ax^6-bx^4+x-1$ ve $f(2)=5$ ise, $f(-2)$'nin değeri nedir?",1,3,0,5,A
+Fonksiyonun $f(x) = \frac{1}{1-x}$ değer aralığı nedir? Cevabınızı aralık gösterimi ile ifade edin.,"(-∞,-1)∪(1,∞)","(-∞,0)∪(0,∞)","[-1,1]","(-1,1)",B
+$f(x)=4-5x$ fonksiyonunun tersi nedir?,\frac{5}{x-4},\frac{x-4}{5},\frac{x+4}{5},-\frac{x-4}{5},D
+Birinci terimi 2 olan ve her sonraki terimin önceki terimle −2'nin çarpımı olduğu bir seride 5. terim nedir?,−16,32,−32,64,B
+4 ayırt edilebilir topu 2 ayırt edilemez kutuya yerleştirmenin kaç farklı yolu vardır?,7,11,16,8,D
+120 ve 40 sayılarının her ikisinin de pozitif tam sayı çarpanları olan kaç tane sayı vardır?,4,8,2,1,B
+Carlos Montado 9 Kasım 2002 Cumartesi günü doğdu. Carlos 706 günlük olduğunda haftanın hangi günü olacak? (Haftanın gününü tam olarak yazın.),Cuma,Perşembe,Çarşamba,Salı,A
+$5!$ sembolü $5\cdot 4\cdot 3\cdot 2\cdot 1$ anlamına gelir. $5!$ 'in çarpanı olan en büyük tek tamsayı nedir?,5,3,15,31,C
+"Paralelkenar $ABCD$'de, $B$ açısı $110^\circ$ ölçüsündedir. $C$ açısının ölçüsü kaç derecedir?",145,90,60,70,D
+"Bir arıtma işleminin bir su tankındaki kirleticileri temizleme hızı, kalan kirletici miktarıyla orantılıdır. Eğer işlemin ilk dakikasında kirleticinin %20'si temizlenebiliyorsa ve suyun güvenli hale gelmesi için %98'inin temizlenmesi gerekiyorsa, arındırma işlemi yaklaşık ne kadar sürecektir?",2 dakika,5 dakika,18 dakika,20 dakika,C
+Fonksiyonun tanım kümesi nedir $f(x)=\frac{x+6}{\sqrt{x^2-3x-4}}$?,"(-4,4)","[0,4]","(-sonsuz, -1) U (4, sonsuz)","(-sonsuz, -1) U (-1, 4) U (4, sonsuz)",C
+Fonksiyonun y = (ln x)/x göreli bir maksimum değeri,1,e,2/e,1/e,D
+$1 \cdot 2 \cdot 3 \cdot 4 \cdot 5 \cdot 6 \cdot 7 \cdot 8 \cdot 9$ sayısının birler basamağı nedir?,1,2,0,5,C
+Orijinden $x^2-24x +y^2+10y +160=0$ denklemiyle tanımlanan çembere olan en kısa mesafe nedir?,10,16,24,12,A
+"16, 15 ve 12'nin çarpanları olan en küçük pozitif tam sayı nedir?",12,22,840,240,D
+"Standart bir 52 kartlık desteden, her üçü de farklı takımdan olmak üzere 3 kart seçmenin kaç yolu vardır? (Kartların sırasının önemli olmadığını varsayın.)",8788,2,2197,21,A
+"$x^2+12y+57=-y^2-10x$ denklemiyle tanımlanan $C$ çemberi olsun. Eğer $(a,b)$, $C$'nin merkezi ve $r$ yarıçapı ise, $a+b+r$'nin değeri nedir?",-9,-5,-6,-57,A
+"Diyelim ki $y=f(x)$ grafiği $(1,5),$ $(2,3)$ ve $(3,1)$ noktalarını içeriyor. Yalnızca bu bilgiye dayanarak, $y=f(f(x))$ grafiğinde kesinlikle bulunması gereken iki nokta vardır. Bu noktaları $(a,b)$ ve $(c,d)$ olarak adlandırırsak, $ab+cd$ nedir?",15,5,9,17,D
+$\dbinom{85}{82}$ değerini hesaplayın.,252,4680,98770,101170,C
+"8,5 x 11 inç boyutlarında bir kağıt parçası tekrar tekrar ikiye katlanıyor (hiç açılmadan), her seferinde o anki uzun kenarı kısaltarak. İkinci katlamadan hemen sonra en uzun kenarın uzunluğu kaç inçtir? Cevabınızı en yakın onda birlik ondalık sayı olarak ifade edin.","4,5",1,"5,5",5,C
+"16, 15 ve 12'nin çarpanları olan en küçük pozitif tam sayı nedir?",240,120,60,111,A
+$\binom{23}{4} + \binom{23}{5} = \binom{24}{k}$ olacak şekilde tüm $k$ tam sayılarının toplamını bulun.,24,5,3,21,A
+"Eğer $888x + 889y = 890$ ve $891x + 892y = 893$ ise, $x - y$ değeri nedir?",1,-3,-1,3,B
+"Bir sayının asal çarpanları 2, 5, 7, 13 ve 31'dir. Aşağıdakilerden hangisi kesinlikle bu sayının bir çarpanı olmalıdır?",4,6,10,15,C
+"Bir grup insan bir kağıt parçasına 12345.6789 sayısını yazmış. Sonra grup bir oyun oynamaya karar verir. Oyunun kazananı, verilen sayıyı yuvarlayarak diğer herkesten daha yüksek bir sayı elde edebilen kişidir. Alice en yakın on bine, Bob en yakın bine, Carol en yakın yüze, Devon en yakın ona ve Eugene en yakın tam sayıya yuvarlar. Ayrıca, Felicity sayıyı en yakın onda bire, Gerald en yakın yüzde bire, Harry en yakın binde bire ve Irene en yakın on binde bire yuvarlar. Oyunu kim kazanır?",Alice,Devon,Bob,Gerald,B
+$36-9x^2$ ifadesini çarpanlarına ayırın.,(6-3x)(6+3x),(-3x+6)(3x+6),9(2-x)(2+x),3(2+x)^2,C
+"İlk kaldırım taşını bir yola yerleştirmek için Alex, taş kasasından başlar, üç adım yürür, taşı yerleştirir ve kasaya geri döner. Sonraki her taş için Alex her yöne iki adım daha fazla yürür. Alex bir yola ilk 50 taşı yerleştirecektir. 50. taşı yerleştirdikten sonra kasaya geri döndüğünde, Alex'in yürüdüğü toplam mesafe, adım cinsinden nedir?",100,90950,5200,50,C
+Bir kutu 4 beyaz top ve 4 siyah top içeriyor. Topları kutudan birer birer çekiyorum. Tüm çekişlerimin renkleri sırayla değişme olasılığı nedir?,\frac{1}{8},\frac{1}{7},\frac{1}{40},\frac{1}{35},D
+En küçük rakamları toplamı 19 olan asal sayı nedir?,5,11,17,199,D
+Fonksiyon $h(x) = \sqrt{25-x^2}+\sqrt{-(x-2)}$'nin tanım kümesi hangi genişlikte bir aralıktır?,7,5,2,25,A
+John hatıra şapka iğnelerini iki yığına ayırdı. İki yığında eşit sayıda iğne vardı. Kardeşine bir yığının üçte birinin yarısını verdi. John'un 66 iğnesi kaldı. John'un başlangıçta kaç iğnesi vardı?,792,66,396,72,D
+"Eğer $f(x) = 8x^3 - 6x^2 - 4x + 5$ ise, $f(-2)$ değerini bulun.",5,-75,-64,-24,B
+"Kötü davranışlarının cezası olarak teneffüste, Bayan Busywork sınıfından 10'u $\frac{1}{3}$ ile beş kez çarpmalarını istedi. Ancak John, 10'u tek bir kesirle çarparak diğer öğrencilerle aynı cevabı almanın mümkün olduğunu fark etti. Bu tek kesir nedir?",\frac{1}{27},\frac{1}{68},\frac{1}{3},\frac{1}{243},D
+"Belirli bir fonksiyonun, $y=f(x)$, grafiğinin, 20 birim sağa kaydırıldığında, ortaya çıkan grafiğin orijinal $y=f(x)$ grafiğiyle aynı olma özelliğine sahip olduğunu varsayalım. $y=f\left(\frac x5\right)$ grafiği $a$ birim sağa kaydırıldığında, ortaya çıkan grafiğin orijinal $y=f\left(\frac x5\right)$ grafiğiyle aynı olduğunu bildiğimiz en küçük pozitif $a$ değeri nedir?",100,4,5,20,A
+"Pay veya paydada 2, 3, 4 veya 6 kullanılarak kaç farklı kesir oluşturulabilir?",1,9,2,10,B
+Pascal üçgeninin 43 sayı içeren satırındaki ikinci sayı nedir?,43,16,42,44,C
+"Bay Patrick sınıfı için beş soruluk bir doğru-yanlış testi hazırlıyor. İlk soruyu yazmadan önce bir madeni para atıyor. Yazı gelirse doğru bir ifade, tura gelirse yanlış bir ifade yazıyor. Beş ifadenin tamamı yazılana kadar buna devam ediyor. Doğru cevap sıralamasının TFTFT olma olasılığı nedir? Cevabınızı basit kesir olarak ifade edin.",\frac{1}{6},\frac{1}{64},\frac{1}{32},\frac{1}{2},C
+$f(x)=\frac{(x-2)^2-9}{3}$ fonksiyonu verilsin. $y=f(x)$ denklemi grafiğe çizilmiş ve grafiğin $x$- ve $y$-kesişim noktaları birleştirilerek bir çokgen oluşturulmuştur. Bu çokgenin alanı nedir?,5,\frac{25}{6},\frac{\sqrt{2465}{9},2,A
+$\log_{b}343=-\frac{3}{2}$ ise $b$'yi bulun.,3,\frac{1}{49},\frac{1}{7},7,B
+Bir üçgenin en uzun kenarı 10'dur. Aşağıdakilerden hangisi diğer iki kenarın uzunluğu OLAMAZ?,"4, 7","5, 5","3, 9","9, 8",B
+"İki tam sayının en küçük ortak katı 240 ve en büyük ortak böleni 24'tür. Tam sayılardan birinin 48 olduğu bilindiğine göre, diğer tam sayı nedir?",1,120,20,12,B
+$3^{x^2+4x+4}=9^{x+2}$ olduğunda $x$'in tüm olası değerlerinin toplamını bulun.,1,2,-2,0,C
+"Bir kültürdeki bakteriler, mevcut sayıyla orantılı bir hızda çoğalır. Başlangıçtaki 200'lük popülasyon 10 saatte üçe katlanır. Bu artış modeli kesintisiz devam ederse, 1 tam gün sonra yaklaşık bakteri sayısı şu kadardır",1160,1440,2408,2793,D
+"X ve y doğru orantılı ise ve x = 3 olduğunda y = 8 ise, y = 13 olduğunda x'in değeri nedir?","0,615","4,875",15,"34,667",B
+"Eğer f (x) = x^3 + 2x^2 – 9x – 18 ise, aşağıdaki ifadelerden hangisi doğrudur?",f (x) = 0'ın üç gerçek çözümü vardır.,Tüm x ≥ 0 için f (x) ≥ –18.,"f (x) ≤ –18, x ≤ 0 olan tüm x değerleri için.",f(x) fonksiyonu x ≤ –3 için azalandır.,A
+"Anton'un karınca çiftliğinde A Türü ve B Türü olmak üzere iki tür karınca var. İki tür görünüşte aynı, ancak Anton her gün A Türü karıncaların bir önceki güne göre iki katına çıktığını, B Türü karıncaların ise üç katına çıktığını biliyor. 0. Gün'de Anton karınca çiftliğinde 30 karınca olduğunu sayıyor. 5. Gün'de Anton karınca çiftliğinde 3281 karınca olduğunu sayıyor. Bunların kaç tanesi A Türü'nden?",211,2321,11,608,D
+"Denklemde $|x-4| -10 = 2$, $x$'in tüm olası değerlerinin çarpımı nedir?",-8,128,-128,16,C
+"7 sayının ortalaması 15'tir. 8. sayı eklendiğinde, ortalama 12'ye düşer. 8. sayı nedir?",–12,–9,0,8,B
+"Eğer 3^(x – 3) + 10 = 19 ise, x =",3,4,5,6,C
+"$f(x)$'nin derecesi 6 olan ve $g(x)$'in derecesi 3 olan birer polinom olduğunu varsayalım. Eğer $h(x)$ de bir polinom ise ve $f(g(x)) + g(h(x)) + h(f(x))$ ifadesi derecesi 36 olan bir polinom ise, o halde $h$ polinomunun derecesi nedir?",72,6,18,12,B
+"Bir nokta $(x,y)$, köşeleri $(0,0)$, $(3,0)$, $(3,2)$ ve $(0,2)$ olan dikdörtgenin içinden rastgele seçiliyor. $x < y$ olma olasılığı nedir?",\frac{1}{12},\frac{1}{6},\frac{2}{3},\frac{1}{3},D
+"Roslyn'ın yirmi kutusu var. Kutuların on üçü kalem, dokuzu tükenmez kalem içeriyor ve üç kutu ne kalem ne de tükenmez kalem içermiyor. Kaç kutu hem kalem hem de tükenmez kalem içeriyor?",5,2,13,139,A
+Kaç tane pozitif 4 basamaklı tam sayı sadece tek rakamlardan oluşur?,100,999,625,500,C
+$$\frac{-\frac{18}{7}}{-\frac{6}{5}}$$ nedir?,\frac{7}{15},\frac{15}{7},\frac{15}{8},\frac{15}{11},B
+"200'ün pozitif kare kökü, 121'in pozitif kare kökünden yüzde kaç daha büyüktür? Cevabınızı en yakın tam sayıya yuvarlayarak ifade edin.",29,14,27,11,A
+"Eğer $(2x + 3y)^2 = 4$ ve $xy = -5$ ise, $4x^2 + 9y^2$ değeri nedir?",-5,13,64,25,C
+"Üç gerçek sayıdan oluşan bir dizi, ilk terimi 9 olan bir aritmetik dizi oluşturuyor. Eğer ikinci terime 2 eklenirse ve üçüncü terime 20 eklenirse, ortaya çıkan üç sayı geometrik bir dizi oluşturuyor. Geometrik dizinin üçüncü teriminin olası en küçük değeri nedir?",2,1,9,16,B
+"Verilen bir dizinin ilk terimi 1'dir ve her ardışık terim, dizinin önceki tüm terimlerinin toplamıdır. 5000'i aşan ilk terimin değeri nedir?",10240,5001,5002,8192,D
+Hangi ifade doğru?,"Eğer f(x) fonksiyonu x = c noktasında sürekli ise, f′(c) mevcuttur.","Eğer f′(c) = 0 ise, f fonksiyonu (c, f(c)) noktasında yerel bir maksimum veya minimum değere sahiptir.","Eğer f′′(c) = 0 ise, f fonksiyonunun grafiği (c, f(c)) noktasında bir dönüm noktasına sahiptir.","Eğer f, x = c noktasında türevlenebilirse, o zaman f, x = c noktasında süreklidir.",D
+"$a\star b = a^b-ab$ olsun. Eğer $2\star x = 22$ ise, $x$'i bulun.",5,22,11,6,A
+2011 yılının Şubat ayı 28 gün ve Mart ayı 31 gün çeker. Gelecek ay olan Nisan hangi gün başlayacak?,Çarşamba,Perşembe,Cuma,Cumartesi,C
+"Bir kasabanın nüfusu arasında bir virüs yayılmakta ve virüse yakalanan kişi sayısı her 3 günde bir iki katına çıkmaktadır. Kasabada 1.000 kişi varsa ve 1 Ocak'ta 10 kişi virüse yakalanmışsa, yılda 365 gün ve Ocak ayında 31 gün olduğu göz önüne alındığında, tüm kasabanın virüse yakalanacağı en erken tarih nedir?",10 Ocak,21 Ocak,31 Ocak,10 Şubat,B
+"Listede kaç sayı var $25, 26, 27, \ldots, 99, 100 ?$",75,76,22,23,B
+"2 veya daha fazla harften oluşan, M harfini içeren ve MISSISSIPPI kelimesinin herhangi bir alt kümesinin harflerini yeniden düzenleyerek kaç palindrom (ileri ve geri aynı şekilde okunan düzenlemeler) oluşturulabilir?",89,66,86,2012,A
+25^1059'un 23'e bölünmesinden kalan sayıyı bulun.,11,13,8,5,C
+252 ve 96'nın en büyük ortak böleni nedir?,6,24,5,12,D
+"Depo odasında dokuz torba kuş yemi var. Pazartesi günü on yedi torba daha teslim edilecek. Salı günü yirmi iki torba teslim edilecek. Çarşamba günü üç torba teslim edilecek. Perşembe günü on bir torba teslim edilecek. Son olarak, Cuma günü on sekiz torba teslim edilecek. Haftanın sonunda toplam kaç torba kuş yemi olacak?",9,25,60,80,D
+$\frac{k-3}{2} + 3k+1+\frac{3k+1}{2}$ ifadesini sadeleştirin.,3k+1,5 bin,3 bin,1,B
+"Eğer bir saat her saat başı, saat kaç ise o kadar kez çalıyorsa (örneğin, öğleden sonra 3'te 3 kez çalıyor) ve saatler arasındaki her 15 dakikalık artışta bir kez çalıyorsa (örneğin 3:15, 3:30 ve 3:45'te), öğleden sonra 5:10 ile 7:35 arasında toplam kaç kez çalacaktır?",3,15,18,21,D
+Bir eşkenar üçgenin kenarları 12 inç uzunluğundadır. Üçgenin yaklaşık alanı nedir?,62,72,84,112,A
+"Belirli bir $f(x)$ fonksiyonunun grafiği sağa doğru $2$ birim kaydırıldığında ve dikey olarak $2$ kat uzatıldığında (yani tüm $y$ koordinatları iki katına çıkarıldığında), ortaya çıkan şekil orijinal grafikle aynı oluyor. $f(0)=0.1$ olduğu bilindiğine göre, $f(10)$ nedir?","0,01",1,32,"3,2",D
+"$f(x)=\frac{1+x}{1-x}$ ve $g(x)=\frac{-2}{x+1}$ olarak tanımlansın. $f$ fonksiyonu 8 kez ve $g$ fonksiyonu 8 kez uygulanarak, ikisi arasında dönüşümlü olarak kullanıldığında \[g(f(g(f(\dotsb g(f(12)) \dotsb ))))\] ifadesinin değerini bulun.",12,8,4,0,C
+"John, standart 12 saatlik bir saatte dakika ve saat ibreleri arasında oluşan açının, saat 18:00'den sonra evden çıktığında 110 derece olduğunu fark etti; aynı gece saat 18:00'den sonra ama 19:00'dan önce eve döndüğünde de 110 dereceydi. Eğer evden beş dakikadan fazla süreyle ayrıldıysa, kaç dakika dışarıda kaldı?",36,40,38,43,B
+"$f(x)=3x+4$ ve $g(x)=2x-3$ olsun. Eğer $h(x)=f(g(x))$ ise, $h(x)$'in tersi nedir?",\frac{x-5}{3},\frac{x+5}{3},\frac{x+5}{6},\frac{x-5}{6},C
+$-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}$ ifadesinin değerini bulun.,1,-1,0,2,B
+Bir katının tabanı x^2 = 4y eğrisi ve y = 2 doğrusu ile sınırlanan bölgedir ve y eksenine dik olan her düzlem kesiti bir karedir. Katının hacmi,8,16,20,32,D
+"$a$ ve $b$'nin gerçek sayılar olduğu, $-3\leq a\leq1$ ve $-2\leq b\leq 4$ koşullarını sağladığı ve $a$ ile $b$ için değerlerin rastgele seçildiği varsayıldığında, $a\cdot b$ çarpımının pozitif olma olasılığı nedir? Cevabınızı basit kesir olarak ifade edin.",\frac{5}{12},\frac{5}{11},\frac{7}{12},\frac{5}{17},A
+(x – 8)2 teriminin x = 8 civarındaki y = x2/3 için Taylor polinomundaki katsayısı,-1/144,-1/72,1/144,1/6,A
+"(5, 4) ve (–2, 3) noktalarından geçen doğrunun eğimi nedir?","0,14","0,2","0,33",5,A
+"Belirli bir günde yağmur yağma olasılığı %70 ise, aynı gün yağmur yağmama olasılığı yüzde kaçtır?",%0,%30,%50,%70,B
+$\frac{4^{(3^3)}}{(4^3)^3} = 2^N$ denklemini sağlayan $N$ değeri nedir?,9,27,36,34,C
+Aşağıdaki noktalardan hangisi hem y > 9x – 8 hem de y < – x + 8 eşitsizliklerinin çözümü DEĞİLDİR?,"(– 2, 15)","(-1, 5)","(0, 0)","(1, 5)",A
+$(5x+3) - 2(2x-4)$ ifadesini sadeleştirin.,10+x,x+11,5x+3,7+2x,B
+$f(x) = 3x^2-2$ ve $g(f(x)) = x^2 + x +1$ olsun. $g(25)$'in tüm olası değerlerinin toplamını bulun.,13,25,9,20,D
+"54,321'den küçük olan 54,321'in en büyük çarpanı nedir?",6,121,18107,54.320,C
+Dik bir üçgenin hipotenüsü 10 inç ölçüyor ve bir açısı $45^{\circ}$. Üçgenin alanı kaç kare inçtir?,10,45,125,25,D
+5 farklı tamsayının 20 ile 69 arasından (20 ve 69 dahil) rastgele seçildiğini varsayalım. Bu sayıların her birinin onlar basamağının farklı olma olasılığı nedir?,\frac{1}{4},\frac{1}{3},\frac{1000}{52969},\frac{2500}{52969},D
+"Eğer tüm gerçek sayılar $x$ için $f(x) = 2$ ise, $f(x + 2)$'nin değeri nedir?",2,4,0,1,A
+$-200$ ile $200$ arasındaki 401 tam sayıdan kaç tanesi $5 \pmod{13}$'e denktir?,30,31,60,45,B
+$\sqrt{18\cdot n \cdot 34}$ ifadesinin bir tam sayı olması için $n$'in alabileceği en küçük pozitif tam sayı değeri nedir?,34,2,17,3,C
+"Eğer f(2x) = x + 5 ve f(g(6)) = 13 ise, o zaman 2 * g(6) =",6,16,32,36,C
+Ortak kesir olarak $0.\overline7$'nin tersini ifade edin.,\frac{7}{2},\frac{7}{9},\frac{9}{2},\frac{9}{7},D
+"Jennifer bir maratona katılıyor, bu 26.2 millik bir yarıştır. Eğer Jennifer yarışın ilk yarısını saatte 8 mil hızla ve ikinci yarısını saatte 6 mil hızla koşarsa, yarışı tamamlaması yaklaşık kaç saat sürer?","2,62","3,74","3,82","4,12",C
+En az üç farklı asal çarpanı olan en küçük tam kare sayı nedir?,300,9,900,666,C
+"Eğer $a=7$ ve $b=13$ ise, $ab$'den küçük olan pozitif çift tam sayıların sayısı nedir?",45,46,90,180,A
+"$a$, $b$ ve $c$ pozitif sayılar olmak üzere $a^2/b = 1, b^2/c = 2, c^2/a = 3$ eşitliklerini sağlıyorlar. $a$'yı bulun.",12^(1/7),7^(1/12),1,6,A
+$x$ için çözün:$$\left(\frac{1}{25}\right)^{x + 2} = 125^{-x}.$$,1,2,3,4,D
+"Daire $2x^2 = -2y^2 + 12x - 4y + 20$, bir kenar çifti x eksenine paralel olan bir karenin içine çizilmiştir. Karenin alanı nedir?",80,√20,2√20,20,A
+Toplamı değerlendirin\[\frac{1}{2^1} + \frac{2}{2^2} + \frac{3}{2^3} + \cdots + \frac{k}{2^k} + \cdots \],\infty,1,2,4,C
+"Uzayda bir nokta $(x,y,z)$, $-1\le x \le 1$, $-1\le y \le 1$, $-1\le z \le 1$ olacak şekilde rastgele seçiliyor. $x^2+y^2+z^2\le 1$ olma olasılığı nedir?",\frac{\pi}{24},\frac{\pi}{12},\frac{\pi}{6},\frac{\pi}{3},C
+"Bir sayı $x$, $2^{15}\cdot3^6$'ya eşittir. Hangi sayının küpü $x$'e eşittir?",288,27,125,121,A
+"$a,b$ ve $c$'nin pozitif tamsayılar olduğunu ve $(a+b+c)^3 - a^3 - b^3 - c^3 = 150$ eşitliğini sağladığını varsayalım. $a+b+c$'yi bulun.",16,6,12,150,B
+Kaç tane üç basamaklı pozitif tam sayı vardır?,899,900,1000,999,B
+Juan 1'den 8'e kadar numaralandırılmış adil bir düzenli sekiz yüzlü zar atıyor. Ardından Amal adil bir altı yüzlü zar atıyor. İki atışın çarpımının 3'ün katı olma olasılığı nedir?,\frac{1}{2},\frac{1}{4},\frac{1}{144},\frac{1}{288},A
+"1960'ta ABD'de 450.000 kızamık vakası rapor edildi. 1996'da 500 vaka rapor edildi. 1960'tan 1996'ya kadar rapor edilen vaka sayısı doğrusal olarak azalsaydı, 1987'de kaç kızamık vakası rapor edilmiş olurdu?",337125,449500,27,112875,D
+"$(x\sqrt{x^3})^4$ ifadesi sadeleştirildiğinde, $x$'in üssü nedir?",5,10,2,12,B
+"3 kart, standart 52 kartlık bir desteden rastgele seçiliyor. Bunların bir çift oluşturma olasılığı nedir? (3 kartlık bir el, iki kart aynı değerde olup üçüncü kart farklı ise 'çift' olarak kabul edilir. Örneğin, 668 bir çifttir, ancak 999 değildir.)",\frac{1}{8},\frac{1}{36},\frac{1}{78},\frac{72}{425},D
+Düzenli bir sekizgende kaç köşegen vardır?,8,16,17,20,D
+"Okul müdürünün mezuniyet töreninde üç farklı öğretmenin konuşma yapmasını sağlaması gerekiyor—biri açılış konuşmacısı, biri isimleri okuyan ve biri de kapanış konuşmacısı olarak. Okulda 85 öğretmen bulunmaktadır. Müdürün kaç farklı konuşmacı dizilimi seçeneği olabilir?",592.620,592.704,614.125,614.126,A
+y = ln x eğrisinin y = 1/2 ve y = 1 noktaları arasındaki uzunluğunu bulun.,"0,53","0,86","1,18","1,36",C
+"Birinci çeyrekteki y = x^2, y = cos(x) ve y ekseni ile sınırlanan bölgenin alanını bulun.","0,292","0,508","0,547","0,667",C
+$12$'nin pozitif ve negatif kaç tamsayının katı olduğu?,3,12,4,6,B
+3 tabanında 81'in logaritmasını hesaplayın.,4,"0,25",-1,27,A
+"İfadeyi $6j^2 - 4j + 12$, $c(j + p)^2 + q$ formunda yeniden yazın, burada $c$, $p$ ve $q$ sabitlerdir. $\frac{q}{p}$ nedir?",3,-34,-38,11,B
+"Tüm gerçek sayılar $r$ ve $s$ için, aşağıdaki koşulların geçerli olduğu matematiksel işlem $\#$'ı tanımlayın: $r\ \#\ 0 = r$, $r\ \#\ s = s\ \#\ r$ ve $(r + 1)\ \#\ s = (r\ \#\ s) + s + 1$. $11\ \#\ 5$ değeri nedir?",11,12,64,71,D
+"Bir romanın 400 sayfası var ve Veronica onu bitirmesinin ne kadar süreceğini tahmin etmek istiyor. Dakikada 250 kelime okuyor. Tipik bir sayfanın dörtte birindeki kelimeleri saydı ve sayfada yaklaşık 200 kelime olduğunu buldu. En yakın dakikaya yuvarlanmış olarak, Veronica'nın kitabı okuması ne kadar sürecek?",225,320,400,450,B
+"Bir paltonun liste fiyatı 325,00 dolardır. Kasım ayında satılmadı ve tüccar fiyatı yüzde 20 düşürdü. Ardından Aralık ayında, fiyatı ek olarak yüzde 10 daha düşürdü. Aralık ayında bir Noel alışverişçisi palto için kaç dolar öderdi?","227,50 $","234,00 $","286,00 $","290,00 $",B
+"John, mümkün olan en yüksek sayıyı elde etmeye çalıştığı bir oyun oynuyor. Aşağıdaki boşluklara +, $\times$ ve - (artı, çarpı ve eksi) sembollerini, her sembolü tam olarak bir kez kullanarak yerleştirmek zorunda:
+
+\[2 \underline{\hphantom{8}} 4 \underline{\hphantom{8}} 6 \underline{\hphantom{8}} 8.\]
+
+John parantez kullanamaz veya sayıları yeniden düzenleyemez. John'un elde edebileceği en yüksek olası sayı nedir?",22,46,100,99,B
+"Bir sayının karesinden seksen beş fazlası, o sayıdan 17 eksik olan miktarın karesine eşittir. Bu sayı nedir?",17,6,2,11,B
+Bob'un Burger Kulübesi'nin dışındaki tabelanın şekli düzgün bir sekizgendir. Bu tabelanın bir iç açısının ölçüsü kaç derecedir?,90,135,45,180,B
+"X, Y ve Z gezegenleri aynı güneşin etrafında dönmek için sırasıyla 360, 450 ve 540 gün süre alır. Eğer üç gezegen güneşi uç nokta olarak alan bir ışın üzerinde sıralanmışsa, tekrar tam olarak aynı konumlarda olmaları için gereken minimum pozitif gün sayısı nedir?",360,5400,900,1200,B
+"Vektör v = (5, 0, 7)'nin büyüklüğü nedir?",0,"3,5","4,2","8,6",D
+"Eğer sin x'i alıp 3 sin 2x'e değiştirirsek, fonksiyonun tanım kümesi ve değer kümesine ne olur?",Tanım kümesi ve değer kümesi aynı kalır,Alan çift katlıdır; aralık aynı kalır,Alan üç katına çıkarılır; görüntü kümesi iki katına çıkarılır,Alan aynı; görüntü kümesi üç katına çıkarılmış,D
+"Bazı $a,b,c$ için $a+b+c = 1$, $ab+ac+bc = abc = -4$ olduğunu varsayalım. $a^3+b^3+c^3$ nedir?",0,1,112,12,B
+"Aşağıdaki ifadeyi sadeleştirin: $(9x^9+7x^8+4x^7) + (x^{11}+x^9+2x^7+3x^3+5x+8).$ Cevabınızı, terimlerin dereceleri azalan sırada olacak şekilde bir polinom olarak ifade edin.",x^{11}+2x^9+2x^8,x^{11}-6x^8+6x^7+3x^3+5x+8,x^11 + 10x^9 + 7x^8+6x^73x^3+5x+8,x^{11}+10x^9+7x^8+6x^7+3x^3+5x+8,D
+"Restoranda standart bahşiş, vergiden önceki hesabın %15'idir. Kaliforniya'daki birçok kişi bahşişi, %8,25 olan satış vergisini ikiye katlayarak bulur. Bu yöntem, vergiden önceki 60$ tutarındaki bir hesapta standart bahşişi kaç sent aşar?",90,80,70,60,A
+"Verilen küme $\{\frac{2}{5}, \frac{1}{2},5,10\}$ içindeki herhangi iki farklı elemanın en büyük olası bölümü nedir? Özellikle, $x$ ve $y$ önceki kümeden seçilmek üzere $\frac{x}{y}$'yi maksimize etmek istiyoruz.",5,10,20,25,D
+x^2 parabolü ve y = 1 ve y = 9 doğruları ile sınırlanan alan şuna eşittir,8,84/3,64\sqrt{2}/3,104/3,D
+"Bazı $a,b,c$ değerleri için $a+b+c = 6$, $ab+ac+bc = 5$ ve $abc = -12$ olduğunu varsayalım. $a^3+b^3+c^3$ nedir?",90,99,64,91,A
+Bir çember üzerinde rastgele ve birbirinden bağımsız olarak üç nokta seçiliyor. Bu noktalar arasındaki tüm ikili mesafelerin çemberin yarıçapından küçük olma olasılığı nedir?,\frac{1}{20},\frac{1}{32},\frac{1}{12},\frac{1}{16},C
+"Eğer $3x^2 + x - 4$ ifadesini $a(x - h)^2 + k$ biçiminde ifade edersek, $k$ nedir?",-\frac{7}{12},-7,49,-\frac{49}{12},D
+"Öğle vakti, bir deneycinin elinde 50 gram radyoaktif izotop vardır. 9 gün sonra öğle vakti sadece 45 gram kalmıştır. En yakın güne yuvarlanarak, deney başladıktan kaç gün sonra sadece 20 gram kalacaktır?",54,59,60,78,D
+"Aşağıdaki fonksiyonun tanım kümesinde olmayan üç gerçek sayı $x$ vardır:
+
+$$f(x) = \frac{1}{1+\frac{1}{1+\frac 1x}}.$$
+
+Bu üç sayının toplamı nedir?",1,0,"-1,5",-1,C
+"12 onsluk bir gazlı içecekte 41 gram şeker bulunmaktadır ve bu, normal günlük şeker alımının %14'üne denk gelmektedir. Normal bir diyette yaklaşık olarak kaç gram şeker önerilmektedir?","5,74",69,293,574,C
+"Listede kaç sayı var $ -36, -29, -22, \ldots, 41, 48?$",12,10,13,11,C
+"100 ile 200 arasındaki (bu sayılar dahil) asal sayılardan, tam kare sayılardan 1 veya 2 fazla olanların toplamını bulun.",102,298,256,300,B
+$0.1\overline{7}$ sayısını basit kesir olarak ifade edin.,\frac{8}{45},\frac{8}{5},\frac{8}{7},\frac{8}{33},A
+Dışbükey bir altıgenin kaç farklı köşegeni çizilebilir?,6,8,9,36,C
+"Bir küpün yüzlerine altı pozitif tam sayı yazılmıştır. Her köşe, o köşeye bitişik yüzlerdeki üç sayının çarpımı ile etiketlenmiştir. Köşelerdeki sayıların toplamı 1001'e eşitse, yüzlere yazılan sayıların toplamı nedir?",18,13,1001,31,D
+"Bir tam sayı $0$ rakamı ile bitiyorsa ve rakamlarının toplamı $3$'e bölünebiliyorsa, $2, 3, 4, 5, 6, 8, 9$ sayılarından kaç tanesi kesinlikle bu sayıyı böler?",1,2,3,4,D
+"Morgan bir sosyal ağ sitesinde. 60 kadın arkadaşı ve 50 erkek arkadaşı var ve 5 sosyal gruba üye. Eğer kadın arkadaşlarının %30'u şehirde yaşıyorsa ve erkek arkadaşlarının %40'ı şehirde yaşıyorsa, sosyal ağ sitesinde kaç tane şehir dışından arkadaşı var?",38,72,110,360,B
+"Academic Academy'de, bir cebir sınavını geçmek için en az %80 puan almanız gerekir. Sınavda 35 soru varsa, geçmek için en fazla kaç soruyu yanlış yapabilirsiniz?",7,28,35,8,A
+"Uzunluğu $3x$ inç ve genişliği $x + 5$ inç olan bir dikdörtgenin alanı ve çevresinin eşit değerlere sahip olduğu göz önüne alındığında, $x$ nedir?",1,5,\frac{10}{3},\frac{3}{10},A
+"4000 dolarlık bir yatırım, t yıl sonra yılda 320*e^(0.08t) dolar oranında büyür. 10 yıl sonraki değeri yaklaşık olarak",4.902 $,$8.902,7.122 $,12.902 dolar,B
+15 kişilik bir gruptan 5 kişilik kaç farklı olası komite seçilebilir?,75,120,225,3.003,D
+π <= θ <= 2π aralığında r = ln θ spirali tarafından sınırlanan alanı bulun.,"2,405","2,931","3,743","4,81",C
+"Denklem için: 3 x − 4(x − 2) + 6 x − 8 = 0, x değerini bulun.",−4,0,2,4,B
+"Bir gün bir su birikintisine bir amip yerleştirilir ve aynı gün iki amibe bölünür. Ertesi gün, her yeni amip iki yeni amibe bölünür ve bu böyle devam eder, öyle ki her gün yaşayan her amip iki yeni amibe bölünür. Bir hafta sonra, su birikintisinde kaç amip vardır? (Su birikintisinde ilk amip yerleştirilmeden önce hiç amip olmadığını varsayın.)",256,1024,64,128,D
+$(2^{20} + 2^{20} + 2^{20} +2^{21}) \div 2^{17}$ ifadesini bulun.,20,40,0,10,B
+"Kanada'da 2014 yılında soya fasulyesinin ortalama toptan fiyatı pound başına 0,24 dolardı. 2015 yılında soya fasulyesinin ortalama toptan fiyatı pound başına 0,16 dolardı. Eğer bir perakendeci 2014 ve 2015 yıllarında 20.000 pound soya fasulyesi satın aldıysa, perakendecinin giderlerinde 2014'ten 2015'e yüzde kaç değişim olmuştur?",–%8,-%33,–%50,%8,B
+"Bir dik üçgenin kenarları $6$ ve $b$ uzunluğunda, hipotenüsü ise $c$ uzunluğundadır. Üçgenin çevresi $18$'dir. $c$'yi hesaplayın.",18,\frac{15}{2},8,6,B
+Aşağıdakilerden hangisi bir ikizkenar üçgenin kenarları OLAMAZ?,"2,2,3","2,2,4","4,12,12","5,5,5",B
+"Ramanujan ve Hardy, ikisinin de karmaşık bir sayı seçtiği bir oyun oynadılar. Eğer seçtikleri sayıların çarpımı $32-8i$ ise ve Hardy $5+3i$ seçtiyse, Ramanujan hangi sayıyı seçti?",32-8i,5+3i,4-i,4-4i,D
+"Eğer $(3,6)$ noktası $y=g(x)$ grafiğinde yer alıyorsa ve tüm $x$ değerleri için $h(x)=(g(x))^2$ ise, $y=h(x)$ grafiğinde kesinlikle bulunması gereken bir nokta vardır. Bu noktanın koordinatlarının toplamı nedir?",12,36,39,13,C
+"Fibonacci dizisi, her terimin önceki iki terimin toplamı olduğu 1, 1, 2, 3, 5, $\ldots$ dizisidir. Dizinin 100. terimi 4'e bölündüğünde kalan nedir?",2,3,4,5,B
+"Bir top mermisinin yüksekliği (metre cinsinden), $t$ zamanında (saniye cinsinden) $h(t) = -4.9t^2 + 14t - 0.4$ yörüngesi ile verilmiştir. Bileşik kesir olarak, top mermisi 6 metre yüksekliğin üzerinde ne kadar süre kalır?",\frac{5}{7},\frac{7}{12},\frac{12}{7},\frac{7}{5},C
+"Wayne ""Y"" harfini bir ünlü olarak kabul ederken Kristen etmiyorsa ve sadece 5 ünlü olduğunu düşünüyorsa, 26 harfli alfabeden rastgele seçilen bir harfin ünlü olma olasılığı Wayne'in görüşüne göre Kristen'in görüşünden yüzde kaç daha fazladır?",%5,%6,%20,%30,C
+Verilen ifade: $1990\times1991 - 1989\times1990$. Bu ifadeye eşdeğer olan sayma sayısı nedir?,5,8,3980,1160,C
+"Patricia'nın yeni işindeki yıllık başlangıç maaşı 20.000 dolardır. İşte bir yıl sonra maaşı %10 artar; işte ikinci yılından sonra, maaşı bir önceki yılın maaşına göre %10 daha artar. Bu iki yıl geçtikten sonra, maaşı ne kadar olacaktır?",24.200 dolar,24.000 dolar,22.000 dolar,4.000 dolar,A
+"{1,2,3,...,100} kümesinden rastgele seçilen bir tam sayının 2'ye bölünebilir ve 3'e bölünemez olma olasılığı nedir? Cevabınızı basit kesir olarak ifade edin.",\frac{31}{66},\frac{17}{66},\frac{17}{31},\frac{17}{50},D
+"5 adet standart 6 yüzlü zar atarsam ve her zarın üst yüzündeki sayıyı çarparsam, sonucun asal olmayan bir sayı olma olasılığı nedir?",\frac{485}{486},\frac{16}{7776},\frac{4}{7776},\frac{2}{7776},A
+"Yarıçapı 2 olan bir küreden, merkezden 1 birim uzaklıkta bulunan iki paralel düzlem tarafından bir katı cisim kesilip çıkarılıyor. Bu katı cismin hacmi",8π,32π/3,25π/3,22π/3,D
+"Eğer $2x-y$'nin $x+y$'ye oranı 2'den 3'e ise, $x$'in $y$'ye oranı nedir? Cevabınızı basit kesir olarak ifade edin.",\frac{5}{4},\frac{4}{5},\frac{5}{2},\frac{2}{5},A
+"Bir eğri, aşağıdaki denklemlerle parametrik olarak verilmiştir",π/2,π,2 + π,2π,D
+"Kartezyen koordinat düzleminde, $(1,2)$ ve $(7, 4)$ noktaları bir karenin karşılıklı köşeleridir. Bu karenin alanı nedir?",20,34,40,√40,A
+İkinci dereceden $2x^2+5x+12=19-7x$ denkleminin iki çözümü vardır. Bu çözümler arasındaki pozitif fark nedir?,2,√2,5\sqrt{2},5,C
+Toplam $1^2 + 2^2 + 3^2 + 4^2 + \cdots + n^2 = n(n+1)(2n+1) \div 6$. $21^2 + 22^2 + \cdots + 40^2$ değeri nedir?,41,22140,19270,2870,C
+Altı adet 6 yüzlü zar atılıyor. Zarların üçünün asal sayı gösterme ve diğerlerinin bileşik sayı gösterme olasılığı nedir?,\frac{125}{2916},\frac{5}{16},\frac{5}{54},\frac{5}{55},C
+8 tabanında 2'nin logaritmasını hesaplayın.,\frac{1}{4},4,3,\frac{1}{3},D
+"Bir eşkenar üçgenin kenar uzunluğu 8 ise, bu üçgenle aynı çevreye sahip bir karenin alanı ne olacaktır?",9,16,36,49,C
+"Bir sayı $x$, $107\cdot109^5$ olarak çarpanlara ayrılıyor ve $107$ ile $109$ asal sayılardır. $x^{11}$'in asal çarpanlarına ayrılmasında $109$'un üssü nedir?",9,55,21,11,B
+$M=4a^2 - 2b^2 +a$ olsun. $a=5$ ve $b=3$ olduğunda $M$'nin değeri $j$ olsun ve $a=-1$ ve $b=4$ olduğunda $M$'nin değeri $k$ olsun. $j+2k$'yı hesaplayın.,29,28,27,26,A
+Ben dört adet adil 20 yüzlü zar atıyor ve her zarın yüzleri 1'den 20'ye kadar numaralandırılmış. Tam olarak iki zarın çift sayı gösterme olasılığı nedir?,\frac{5}{24},\frac{5}{16},\frac{3}{8},\frac{5}{8},C
+"Eğer $m$ ve $n$ tek tam sayılar ise, $(m+n)^6$ açılımında kaç terim tektir?",4,2,1,9,A
+"Bir müşteri, 48 inçlik bir televizyonun reklamı yapılan genişliğinin ekranın yatay uzunluğu boyunca mı yoksa ekranın köşegeni boyunca mı olduğundan emin değildir. Televizyon ekranının uzunluğunun yüksekliğine oranı 5'e 3 ise, ölçüm televizyon ekranının yatay uzunluğu yerine köşegeni boyunca yapılırsa, televizyon ekranının yatay uzunluğu en yakın inç olarak ne kadar daha kısa olacaktır?",3,7,8,9,B
+"Bay Cleary'nin sınıfı ve Bayan Ntuala'nın sınıfı bilgisayar laboratuvarını kullanmaya gider. Kullanılabilir 20 bilgisayar vardır, bunlardan ikisi çalışmamaktadır. Bay Cleary'nin sınıfında 14 çocuk, Bayan Ntuala'nın sınıfında ise 12 çocuk vardır. Her öğrencinin bir bilgisayar kullanması gerekiyorsa ve bir bilgisayarda en fazla 2 öğrenci olabiliyorsa, en fazla kaç öğrenci kendi başına bir bilgisayara sahip olabilir?",2,6,10,14,C
+"Üç standart zar atıldığında, $a,b,c$ sayıları elde edilir. $abc = 180$ olma olasılığını bulun.",\frac{1}{30},\frac{1}{72},\frac{1}{71},\frac{1}{70},B
+"Bir kutuda 5 yeşil top ve $k$ mor top bulunmaktadır, burada $k$ bilinmeyen bir pozitif tam sayıdır. Kutudan rastgele bir top çekilir. Eğer yeşil bir top çekilirse, oyuncu 2 dolar kazanır, ancak mor bir top çekilirse, oyuncu 2 dolar kaybeder. Oyunu oynamak için beklenen kazanç miktarı 50 sent ise, $k$ kaçtır?",6,12,3,4,C
+"$p$, $q$ ve $r$ sabitler olsun. $(x-p)(x-q) = (r-p)(r-q)$ denkleminin bir çözümü $x=r$'dir. Diğer çözümü $p$, $q$ ve $r$ cinsinden bulun.",pqr,pq-r,p-q-r,p+q-r,D
+"Eğer A matrisinin boyutları 2 × 7 ve B matrisinin boyutları 7 × 5 ise, çarpım matrisi AB'nin boyutları nedir?",2 × 2,2 × 5,5 × 2,7 × 7,B
+$x-3$ ve $y+3$'ün 7'nin katları olduğunu varsayalım. $x^2+xy+y^2+n$'nin 7'nin katı olması için $n$'in en küçük pozitif tamsayı değeri nedir?,2,6,4,5,D
+"Eğer tüm gerçek x sayıları için g(x) = f(–x) ise ve (3, 2) noktası g'nin grafiğinde yer alıyorsa, aşağıdaki noktalardan hangisi MUTLAKA f'nin grafiğinde olmalıdır?","(3, 2)","(3, –2)","(-3, 2)","(–3, –2)",C
+"Grady bisikletini küçük kardeşi Noah'dan %60 daha hızlı sürüyor. Eğer Grady iki saatte Noah'dan 12 mil daha fazla yol alıyorsa, Noah saatte kaç mil hızla bisiklet sürüyor?",32,20,10,"7,2",C
+"Bir torbada 4 kırmızı ve 6 mavi bilye var. Bir bilye seçilip yerine konmadan, ikinci bir bilye seçiliyor. Her iki bilyenin de aynı renk olma olasılığı nedir?",\frac{1}{8},\frac{8}{15},\frac{1}{15},\frac{7}{15},D
+"4'e bölündüğünde 1 kalan, 3'e bölündüğünde 1 kalan ve 5'e bölündüğünde 2 kalan en küçük tam sayı nedir?",67,43,57,37,D
+Mutlak değer işaretleri içindeki $|n| < |n-3| < 9$ eşitsizliğinin tüm tam sayı çözümlerinin toplamı nedir?,-9,-14,14,9,B
+(i + 1)(5 – 5i)(5 + 5i) =,50 + 50i,50 – 50i,25 + 25i,25 – 25i,A
+"Karmaşık sayı z = a + bi için, a ve b'nin pozitif tam sayılar olduğu ve z^3 + z^2 + z'nin gerçek bir sayı olduğu bilinmektedir. b için mümkün olan en küçük değeri bulun.",10,1,6,11,D
+"Sayılar $x$ ve $y$ ters orantılıdır. $x$ ve $y$'nin toplamı 42 olduğunda, $x$, $y$'nin iki katıdır. $x=-8$ olduğunda $y$'nin değeri nedir?",-49,-7,-40,40,A
+"26 fit uzunluğunda bir merdiven, ayağı binadan saniyede 3 fit hızla uzaklaşacak şekilde bir binaya yaslanmıştır. Merdivenin ayağı binadan 10 fit uzakta olduğunda, üst kısmı saniyede r fit hızla aşağı doğru hareket etmektedir, burada r şudur",46/3,3/4,5/4,5/2,C
+"$x + 2y + 3 = 0$ denkleminin grafiği, $ax + 2y + 3 = 0$ denkleminin grafiğine diktir. $a$'nın değeri nedir?",-4,-13,-9,-15,A
+"Belirli bir geometrik dizinin $n$'inci terimi $a\cdot r^{n-1}$ ile verilir, burada $a$ ve $r$ pozitif tam sayılardır ve $r$, 1'den büyüktür. Bill bu diziden aynı basamak sayısına sahip $k$ farklı sayı seçiyor. $k$'nın mümkün olan en büyük değeri nedir?",4,5,8,16,A
+"Owen'ın 32 inç bel ölçüsüne sahip mavi kot pantolonu varsa, bel çevresi %15 arttığında Owen'ın giymesi gereken yeni kot pantolon bel ölçüsü ne olacaktır (en yakın tam inç'e yuvarlanmış olarak)?",35 inç,36 inç,37 inç,38 inç,C
+"Davut'un bir küpü boyamak için ihtiyaç duyduğu boya miktarı, yüzey alanıyla doğru orantılıdır. Eğer Davut 2 fit kenar uzunluğuna sahip bir küpü tam olarak 16 quart boya ile kaplayabiliyorsa, 169 quart boya ile ne kadar büyük bir küpü (kenar uzunluğu cinsinden fit olarak) kaplayabilir?",\frac{13}{4},8,\frac{13}{2},13,C
+5 ile 211 arasında kaç tane tek tam kare sayı vardır?,2,25,6,75,C
+"$x$'i bulun, şu koşul verildiğinde\[\dfrac{\sqrt{x}}{x\sqrt{3}+\sqrt{2}} = \dfrac{1}{2x\sqrt{6}+4}.\]",\frac{3}{4},\frac{1}{4},\frac{1}{2},\frac{1}{8},D
+6 öğrenciden oluşan bir gruptan 5 öğrenci kaç farklı şekilde seçilebilir?,12,3,5,6,D
+Bu ünlü harflerden hangisinin dikey simetri ekseni YOKTUR?,A,E,Ben,O,B
+Fonksiyonun y = 5 + 3 * sin(pi – x) aralığı nedir?,–3 ≤ y ≤ 3,–2 ≤ y ≤ 8,0 ≤ y ≤ 6,2 ≤ y ≤ 8,D
+"F(t) = (t^2 + 1, 2^t) eğrisine y = 4 noktasında teğet olan doğrunun denklemini yazın.",y – 4 = ln 2(x – 2),y – 4 = 4 ln 2(x – 2),y – 4 = 4(x – 5),y – 4 = ln 2(x – 5),D
+John'un beş çocuğu var. En az yarısının kız olma olasılığı nedir? (Bir erkek çocuğun doğma olasılığının bir kız çocuğun doğma olasılığına eşit olduğunu ve bunun tersinin de geçerli olduğunu varsayabiliriz.),\frac{1}{2},\frac{1}{4},\frac{1}{8},\frac{3}{5},A
+"Eğer parabol $y_1 = x^2 + 2x + 7$ ve doğru $y_2 = 6x + b$ sadece bir noktada kesişiyorsa, $b$'nin değeri nedir?",7,3,12,4,B
+"[0,π] aralığında f(x) = 2 sin x + sin 4x fonksiyonu kaç noktada Ortalama Değer Teoremi'ni sağlar?",1,2,3,4,D
+"Beş yıl önce, şu anki bilgisayarın yarısı kadar hızlı çalışan bir bilgisayar iki kat daha pahalıydı. Şu anki bilgisayarın hız-fiyat oranı, eski bilgisayarın hız-fiyat oranının yüzde kaçıdır?",20,400,32,\frac{2}{5},B
+"Ben iki adil altı yüzlü zar atıyor. Atılan iki sayıdan büyük olanın beklenen değeri nedir? Cevabınızı bir kesir olarak ifade edin. (Eğer iki sayı aynıysa, o sayıyı ""büyük"" sayı olarak kabul ediyoruz.)",\frac{161}{6},\frac{161}{36},161,\frac{161}{3},B
+"Aşağıdaki ifadeyi hesaplayın:
+
+$$\lceil\sqrt{5}\rceil + \lceil\sqrt{6}\rceil + \lceil\sqrt{7}\rceil + \cdots + \lceil\sqrt{29}\rceil$$
+
+Not: Gerçel bir $x$ sayısı için, $\lceil x \rceil$ ifadesi $x$'e eşit veya $x$'ten büyük en küçük tam sayıyı belirtir.",112,111,2006,110,A
+"Çevresi $12\pi$ birim olan bir çemberin yarıçapı ile aynı uzunlukta kenarlara sahip bir karenin alanı, kare birim cinsinden nedir?",10,11,12,36,D
+"Eğer f(x) = 3x, g(x) = 5x + 3 ve h(x) = 1 – x^2 ise, o zaman f(g(h(x)))=",15x^2 + 15,–15x^2 + 18,–15x^2 + 24,–225x^2 + 90x – 8,C
+"Bir tüketici raporu, üç diş macunu tüpü hakkında aşağıdaki bilgileri ortaya çıkardı. Bright, Fresh'ten %60 daha pahalı ve Glow'dan %25 daha az hacme sahip. Glow, Bright'tan %25 daha ucuz ve Fresh'ten %33⅓ daha fazla hacme sahip. Fresh, hacim birimi başına 1,00 dolar. Glow'un hacim birimi başına kaç sent olduğu nedir?",90,120,60,320,A
+"Y ekseni, y = e^x ve y = 2 ile sınırlanan bölgenin y ekseni etrafında döndürülmesiyle oluşan katının hacmini bulun.","0,296","0,592","2,427","3,998",B
+En küçük pozitif tam sayı $n$ nedir öyle ki $\frac{1}{n}$ sonlu bir ondalık sayı olsun ve $n$ sayısı 9 rakamını içersin?,32,64,4096,256,C
+"Sarah'nın önceki beş denemesinde 50 metre yüzmek için saniye cinsinden elde ettiği süreler 86, 94, 97, 88 ve 96 idi. Altıncı denemesinden sonra medyan süresini 92 saniyeye düşürdü. Altıncı denemesinde saniye cinsinden süresi ne kadardı?",92,90,87,10,B
+"İki pozitif tam sayının en küçük ortak katı, en büyük ortak bölenlerine bölündüğünde sonuç 33'tür. Eğer bir tam sayı 45 ise, diğer tam sayının olası en küçük değeri nedir?",165,46,45,9,A
+"x^3 + xy - y^2 = 10 eğrisi, x = olduğunda dikey bir teğet çizgisine sahiptir",0 veya –1/3,"1,037","2,074","2,096",C
+"John'un farklı renklerde 12 bilyesi var, bunların arasında bir kırmızı, bir yeşil ve bir mavi bilye bulunuyor. John, seçtiği bilyelerden tam olarak biri kırmızı, yeşil veya mavi olmak üzere 4 bilye seçmek isterse, bunu kaç farklı şekilde yapabilir?",252,276,441,84,A
+"Eğer 4 daps = 7 yaps ve 5 yaps = 3 baps ise, kaç daps 42 baps'a eşittir?",28,21,40,30,C
+$a=42$ olduğunda $\left(\frac{1}{a}\right)^4 \cdot 2 \cdot a^4+a^{2+1-3}$ ifadesini hesaplayın.,0,1,2,3,D
+"Zoey verandasına tuğla döşüyor. Satıcı, Zoey'e verandasını bir tuğla kalınlığında kaplayacak ve fazladan tuğla kalmayacak şekilde mümkün olduğunca çok tuğla satmak istiyor. Veranda alanı 12 fit x 10 fit boyutlarında dikdörtgen şeklindedir ve her bir tuğla 4 inç x 6 inç x 2 inç boyutlarındadır. Satıcının satış kriterlerini karşılamak için satabileceği en fazla tuğla sayısı ne olurdu?",5.760,2.880,2.160,1.440,C
+"On bir kalem üç tükenmez kalem kadar tutar. Eğer yedi tükenmez kalem 9,24 dolar tutuyorsa, bir kalemin maliyeti kaç senttir?",11,33,36,52,C
+"Bir laboratuvardaki bir bilgisayar, her beş dakikada bir dakikanın başında veri yedeklemek üzere programlanmıştır. Başka bir bilgisayar ise her iki dakikada bir dakikanın başında veri yedeklemek üzere programlanmıştır. Yirmi dört saat içinde iki bilgisayarın aynı anda veri yedekleme sayısını bulun. (Bilgisayarların 24 saatlik sürenin başlangıcında yedekleme yapmadığını varsayın.)",144,12,6,36,A
+Paydasını rasyonelleştirerek kesri sadeleştirin: $$\frac{4}{\sqrt{108}+2\sqrt{12}+2\sqrt{27}}.$$,\frac{4\sqrt{3}}{33},\frac{\sqrt{3}}{12},2√27,\frac{1}{4\sqrt{3}},B
+Fonksiyon f (x) = xe^{–x}'in maksimum değeri,1/e,e,1,-1,A
+"Dört paket dört eve teslim ediliyor, her eve bir tane. Eğer bu paketler rastgele teslim edilirse, tam olarak ikisinin doğru evlere teslim edilme olasılığı nedir? Cevabınızı basit kesir olarak ifade edin.",\frac{1}{4},\frac{27}{128},\frac{1}{2},\frac{1}{9},A
+"Bir buz patencisi kuzeye bakarken sağa doğru dönmeye başlıyor. 2250 derece dönüyor. Dönüşünü tamamladığında hangi yöne (kuzey, güney, doğu veya batı) bakıyor?",kuzey,doğu,güney,batı,B
+$\sqrt{18\cdot n \cdot 34}$ ifadesinin bir tam sayı olması için $n$'in alabileceği en küçük pozitif tam sayı değeri nedir?,15,10,17,34,C
+$12$'nin kaç tane pozitif ve negatif tam sayı çarpanı vardır?,1,4,12,3,C
+"Rowena bir odayı 14 saatte boyayabilirken, Ruby aynı odayı 6 saatte boyayabilir. Eğer Rowena x saat ve Ruby y saat boyarsa, boyamanın yarısını bitirecekler, ancak Rowena y saat ve Ruby x saat boyarsa tüm odayı boyamış olacaklar. Sıralı ikili (x,y)'yi bulun.","(\frac{11}{10}, \frac{11}{10})","(\frac{231}{20}, \frac{21}{20})","(\frac{231}{40}, \frac{21}{40})","(1,1)",C
+"Gülün r = sin 3θ denklemi, birinci çeyrekte nerede dikey teğete sahiptir?",hiçbir yerde,θ = 0.39,θ= 0.47,θ = 0.52,C
+"Eğer radyoaktif bir maddenin yarı ömrü 8 yıl ise, maddenin üçte ikisinin bozunması kaç yıl sürer?","4,68","7,69",12.21,"12,68",D
+"Bir çizgi boyunca hareket eden bir nesnenin hızı v(t) = t cos(t) - ln (t + 2) olup, burada 0 <= t <= 10'dur. Nesne kaç kez yön değiştirir?",hiçbiri,bir,iki,üç,C
+120 ve 40 sayılarının her ikisinin de pozitif tam sayı çarpanları olan kaç tane sayı vardır?,1,3,4,8,D
+"Hangi aralık, ne $2u$ ne de $-20u$'nun $(-\infty,-1)$ aralığında olmadığı tüm $u$ değerlerinden oluşur?","[-\frac{1}{2}, 0]","[-1,1]","[-\frac{1}{2}, -\frac{1}{20}]","[0,2]",C
+"Y ekseni ile (2, 7) noktası arasındaki en kısa mesafe nedir?",1,2,3,7,B
+$2^{1001}-1$ ve $2^{1012}-1$ sayılarının en büyük ortak böleni nedir?,1,2049,2048,2047,D
+"Gelgitler değiştikçe, bir koyda su seviyesi sinüzoidal olarak değişir. Bugün saat 08:00'deki yüksek gelgitte su seviyesi 15 feet idi; 6 saat sonra saat 14:00'teki alçak gelgitte ise 3 feet idi. Bugün öğlen vakti su seviyesi saatte kaç feet hızla düşüyordu?",3,π\sqrt{3}/2,3√3,π\√3,B
+"Bir kişi doğuya doğru 3 mil yürüdü, sonra kuzeye döndü ve 10 mil yürüdü, ardından batıya döndü ve 6 mil yürüdü ve son olarak güneye döndü ve 16 mil yürüdü. Kişi başlangıç noktasından yaklaşık olarak kaç mil uzaktadır?","3,4","6,7","9,2","12,8",B
+"Terri bir fast food restoranı açtı. Restoranı açmanın başlangıç maliyeti 800.000 dolardır. Günlük 250 dolar işletme maliyeti ve 400 dolar işçilik maliyeti ödemek zorundadır. Restoranı ""D"" gün açık tuttuğunda toplam maliyetini hangi ifade temsil eder?",800.000 + 150 D,800.000 + 650 D,800.000 − 650 D,650 + 800.000 D,B
+Diyelim ki $f(x)$ tersi alınabilir bir fonksiyondur ve $f(2)=f^{-1}(2)=4$ olsun. $f(f(2))$'nin değeri nedir?,1,2,4,0,B
+"Eğer $725x + 727y = 1500$ ve $729x+ 731y = 1508$ ise, $x - y$ değeri nedir?",725,-2,2,-48,D
+"İki pozitif çift tamsayıyı düşünün, her biri 15'ten küçük (mutlaka farklı olmaları gerekmiyor). Bu iki sayının toplamı ile çarpımları toplandığında, kaç farklı olası sonuç elde edilebilir?",21,27,49,45,B
+İki adil 6 yüzlü zar attığımızı varsayalım. Atılan iki sayının toplamının 4 olma olasılığı nedir?,\frac{1}{4},\frac{1}{12},\frac{1}{3},\frac{1}{9},B
+$x^2-6x+c<0$ eşitsizliğinin $x$ için gerçek çözümleri olacak şekilde $c$'nin tüm pozitif değerlerini bulun. Cevabınızı aralık gösterimi ile ifade edin.,"(0, 9)","(1, 1)","(6, 0)","(6, 6)",A
+"Yükseklikleri 10, 12 ve 15 olan üçgenin alanını hesaplayın.",56\sqrt{15},240\sqrt{7},60\sqrt{7},240\sqrt{7}/7,D
+"Mors alfabesinde, her sembol bir dizi çizgi ve noktadan oluşur. 1, 2, 3 veya 4 toplam nokta ve/veya çizgi içeren diziler kullanılarak kaç farklı sembol temsil edilebilir?",3,4680,30,10,C
+İki sayının toplamı 19'dur. Çarpımları 70'tir. Bu iki sayı nedir?,"5, 14","7, 10","4, 15","3, 16",A
+"Bir tiyatro grubunda sekiz üye bulunmakta ve bunların dördü kadındır. Bir kadın başrol, bir erkek başrol ve cinsiyetten bağımsız olarak oynanabilecek üç farklı nesne rolünü içeren bir oyunun rollerini dağıtmanın kaç farklı yolu vardır?",640,720,8,1920,D
+"Bir uydunun yörüngesi x = 4 cos(t) + cos(12t), y = 4 sin(t) + sin(12t) parametrik denklemleriyle verilmiştir. t = 1 anındaki yukarı doğru hız şuna eşittir","2,829","3,005",3.999,"12,287",D
+"Alex'in bankadan 10.000 dolar borç alması gerekiyor. Banka ona iki seçenek sunuyor. 1. Yıllık %10 faiz oranıyla, üç ayda bir bileşik faiz uygulanan on yıllık bir kredi. Bu kredinin şartı, 5 yılın sonunda Alex'in borçlu olduğu miktarın yarısını ödemesi gerektiğidir. Diğer yarısı faiz işlemeye devam eder ve on yılın sonunda Alex kalan bakiyeyi ödeyecektir. 2. Yıllık %12 basit faiz oranıyla on yıllık bir kredi. Bu kredide on yılın sonunda tek seferde ödeme yapılacaktır. Alex'in iki plan altında geri ödemesi gereken toplam miktarlar arasındaki pozitif farkı bulun. Cevabınızı en yakın dolara yuvarlayın.",16401,16400,382,383,C
+"Eğer f sıfır olmayan bir eğime sahip doğrusal bir fonksiyon ise ve c < d ise, aşağıdakilerden hangisi kesinlikle YANLIŞ olmalıdır?",f (c) = f (d),f (c) ≠ f (d),f (c) > f (d),f (c) < f (d),A
+F(3) = 8 ve F′(3) = -4 ise F(3.02) yaklaşık olarak,"-8,08","7,92","7,98","8,02",B
+"Bob her sabah adil bir altı yüzlü zar atar. Eğer Bob bileşik bir sayı atarsa, şekerli tahıl gevreği yer. Eğer asal bir sayı atarsa, şekersiz tahıl gevreği yer. Eğer 1 atarsa, tekrar zar atar. Artık olmayan bir yılda, Bob'un zarını atmasının beklenen sayısı kaçtır?",\frac{5}{8},\frac{1825}{4},\frac{5}{4},438,D
+"$-2x^2-20x-53$ ifadesi $a(x+d)^2+e$ şeklinde yazıldığında, burada $a$, $d$ ve $e$ sabitlerdir, $a+d+e$ toplamı nedir?",-80,0,6,53,B

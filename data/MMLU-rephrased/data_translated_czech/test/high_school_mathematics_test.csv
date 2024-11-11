@@ -1,0 +1,270 @@
+"Pokud je pětiúhelník P s vrcholy v bodech (– 2, – 4), (– 4, 1), (–1, 4), (2, 4) a (3, 0) zrcadlen přes přímku y = x, čímž vznikne nový pětiúhelník P', pak jedním z vrcholů P' je","(0, – 3)","(4, 1)","(2, 2)","(– 4, –2)",D
+"Délka obdélníku je dvojnásobkem jeho šířky. Je-li délka úhlopříčky $5\sqrt{5}$, najděte obsah obdélníku.",2500,2,50,25,C
+"Kladné celé číslo n se nazývá ""mocné"", pokud pro každý prvočíselný faktor p čísla n je p^2 také faktorem n. Příkladem mocného čísla je",392,336,300,297,A
+"Při snídani, obědě a večeři si Joe náhodně vybírá se stejnou pravděpodobností buď jablko, pomeranč nebo banán k jídlu. Jaká je pravděpodobnost, že Joe sní během jednoho dne alespoň dva různé druhy ovoce?",\frac{7}{9},\frac{8}{9},\frac{5}{9},\frac{9}{11},B
+"Předpokládejme, že $f(x)$ je funkce, která má tuto vlastnost: Pro všechna reálná čísla $a$ a $b$ taková, že $a<b$, část grafu $y=f(x)$ mezi $x=a$ a $x=b$ leží pod úsečkou, jejíž koncové body jsou $(a,f(a))$ a $(b,f(b))$. (Funkce s touto vlastností se nazývá striktně konvexní.) Víme-li, že $f(x)$ prochází body $(-2,5)$ a $(2,9)$, jaký je rozsah všech možných hodnot pro $f(1)$? Vyjádřete svou odpověď v intervalové notaci.","(-∞, 10)","(-∞, 9)","(-∞, 8)","(-∞, 7)",C
+John rozdělil své suvenýrové odznaky do dvou hromádek. Obě hromádky měly stejný počet odznaků. Svému bratrovi dal polovinu z jedné třetiny jedné hromádky. Johnovi zbylo 66 odznaků. Kolik odznaků měl John původně?,396,72,66,36,B
+"Meteorolog uvádí, že existuje 30% pravděpodobnost deště a žádného slunce. Pokud je 40% pravděpodobnost, že nebude pršet, pak pravděpodobnost, že bude zároveň pršet a svítit slunce, je","0,16","0,24","0,3","0,5",C
+"Jaký je součet všech kladných celých hodnot $n$ takových, že $n^2$ je dělitelem čísla $1200$?",42,12,36,39,A
+"Hodíme spravedlivou šestistrannou kostkou 5krát. Jaká je pravděpodobnost, že dostaneme šestku nejvýše ve 2 hodech?",\frac{125}{648},\frac{25}{648},\frac{625}{648},\frac{1}{648},C
+Kolik aritmetických posloupností po sobě jdoucích lichých čísel má součet 240?,8,12,10,4,B
+Kladná celá čísla $x$ a $y$ mají součin 56 a $x < y$. Sedmkrát převrácená hodnota menšího čísla plus čtrnáctkrát převrácená hodnota většího čísla se rovná 4. Jaká je hodnota $x$?,13,14,1,2,D
+"Za předpokladu, že $n > 1$, jaké je nejmenší kladné celé číslo $n$, jehož kladní dělitelé mají součin $n^6$?",30,64,2048,60,D
+Jaký je zbytek po dělení $2^{87} +3$ číslem $7$?,0,1,2,4,D
+"Janiny výsledky z testů byly 98, 97, 92, 85 a 93. Jaký byl její průměrný výsledek?",92,93,"94,5",95,B
+"Předpokládejme, že graf funkce f je na intervalu a <= x <= b rostoucí a konvexní. Pak při použití stejného počtu dílčích intervalů, kde L, R, M a T označují postupně levý součet, pravý součet, součet středních hodnot a lichoběžníkový součet, platí, že",R <= T <= M <= L,L <= T <= M <= R,R <= M <= T <= L,L <= M <= T <= R,D
+"Mravenec leze přímo z bodu $(-4,6)$ do počátku souřadnic a poté pokračuje přímo do bodu $(4,3)$. Jak daleko celkem urazí?",16,2√2,5,5+2√13,D
+Nechť $n$ je součinem dvou nejmenších trojciferných prvočísel. Najděte součet číslic $n$.,8,3,6,9,A
+"Polynom, který vznikne rozvinutím výrazu $(x^2+5x+6)^2+(px+q)(x^3+7x^2+3x)$, má stupeň $2$. Najděte $p+q$.",-2,-4,-1,1,B
+"Pokud $f(x)=ax^6-bx^4+x-1$ a $f(2)=5$, jaká je hodnota $f(-2)$?",1,3,0,5,A
+Jaký je obor hodnot funkce $f(x) = \frac{1}{1-x}$? Vyjádřete svou odpověď pomocí intervalové notace.,"(-∞,-1)∪(1,∞)","(-∞,0)∪(0,∞)","[-1,1]","(-1,1)",B
+Jaká je inverzní funkce k $f(x)=4-5x$?,\frac{5}{x-4},\frac{x-4}{5},\frac{x+4}{5},-\frac{x-4}{5},D
+"Jaký je 5. člen posloupnosti, ve které je první člen 2 a každý následující člen je −2 násobek předchozího členu?",−16,32,−32,64,B
+"Kolik způsobů existuje, jak umístit 4 rozlišitelné míčky do 2 nerozlišitelných krabic?",7,11,16,8,D
+Kolik kladných celých čísel je dělitelem čísla 120 a zároveň dělitelem čísla 40?,4,8,2,1,B
+Carlos Montado se narodil v sobotu 9. listopadu 2002. V který den v týdnu bude Carlosovi 706 dní? (Napište celý název dne v týdnu.),Pátek,Čtvrtek,Středa,Úterý,A
+"Symbol $5!$ znamená $5\cdot 4\cdot 3\cdot 2\cdot 1$. Jaké je největší liché celé číslo, které je dělitelem $5!$?",5,3,15,31,C
+V rovnoběžníku $ABCD$ má úhel $B$ velikost $110^\circ$. Kolik stupňů má úhel $C$?,145,90,60,70,D
+"Rychlost, jakou může čisticí proces odstranit znečišťující látky z nádrže s vodou, je úměrná množství zbývajících znečišťujících látek. Pokud lze během první minuty procesu odstranit 20 % znečišťujících látek a pro zajištění bezpečnosti vody je nutné odstranit 98 %, přibližně jak dlouho bude proces dekontaminace trvat?",2 min,5 min,18 min,20 min,C
+Jaký je definiční obor funkce $f(x)=\frac{x+6}{\sqrt{x^2-3x-4}}$?,"(-4,4)","[0,4]","(-∞, -1) ∪ (4, ∞)","(-∞, -1) ∪ (-1, 4) ∪ (4, ∞)",C
+Relativní maximum funkce y = (ln x)/x je,1,e,2/e,1/e,D
+Jaká je číslice na místě jednotek čísla $1 \cdot 2 \cdot 3 \cdot 4 \cdot 5 \cdot 6 \cdot 7 \cdot 8 \cdot 9$?,1,2,0,5,C
+Jaká je nejkratší vzdálenost od počátku ke kružnici definované rovnicí $x^2-24x +y^2+10y +160=0$?,10,16,24,12,A
+"Jaké je nejmenší kladné celé číslo, které má dělitele 16, 15 a 12?",12,22,840,240,D
+"Kolik je způsobů, jak vybrat 3 karty ze standardního balíčku 52 karet, pokud všechny tři karty musí být z různých barev? (Předpokládejme, že na pořadí karet nezáleží.)",8788,2,2197,21,A
+"Nechť $C$ je kružnice s rovnicí $x^2+12y+57=-y^2-10x$. Pokud $(a,b)$ je střed $C$ a $r$ je její poloměr, jaká je hodnota $a+b+r$?",-9,-5,-6,-57,A
+"Předpokládejme, že graf $y=f(x)$ obsahuje body $(1,5),$ $(2,3)$ a $(3,1)$. Pouze na základě této informace existují dva body, které musí být na grafu $y=f(f(x))$. Pokud tyto body nazveme $(a,b)$ a $(c,d)$, jaká je hodnota $ab+cd$?",15,5,9,17,D
+Vypočítejte $\dbinom{85}{82}$.,252,4680,98770,101170,C
+"List 8,5 x 11 palců je opakovaně přeložen napůl (nikdy není rozložen), pokaždé se zkracuje ta strana, která byla v tu chvíli delší. Jaká je délka nejdelší strany v palcích bezprostředně po druhém přeložení? Vyjádřete svou odpověď jako desetinné číslo zaokrouhlené na jedno desetinné místo.","4,5",1,"5,5",5,C
+"Jaké je nejmenší kladné celé číslo, které má dělitele 16, 15 a 12?",240,120,60,111,A
+"Najděte součet všech celých čísel $k$ takových, že $\binom{23}{4} + \binom{23}{5} = \binom{24}{k}$.",24,5,3,21,A
+"Pokud $888x + 889y = 890$ a $891x + 892y = 893$, jaká je hodnota $x - y$?",1,-3,-1,3,B
+"Prvočíselné faktory čísla jsou 2, 5, 7, 13 a 31. Který z následujících musí být faktorem tohoto čísla?",4,6,10,15,C
+"Skupina lidí má na kousku papíru napsané číslo 12345,6789. Pak se skupina rozhodne hrát hru. Vítězem hry je osoba, která dokáže zaokrouhlit dané číslo a získat číslo vyšší než kdokoli jiný. Alice zaokrouhluje na nejbližší desetitisíc, Bob na nejbližší tisíc, Carol na nejbližší stovku, Devon na nejbližší desítku a Eugene na nejbližší celé číslo. Kromě toho Felicity zaokrouhluje číslo na nejbližší desetinu, Gerald na nejbližší setinu, Harry na nejbližší tisícinu a Irene zaokrouhluje na nejbližší desetitisícinu. Kdo vyhraje hru?",Alice,Devon,Bob,Gerald,B
+Rozložte na součin výraz $36-9x^2$.,(6-3x)(6+3x),(-3x+6)(3x+6),9(2-x)(2+x),3(2+x)^2,C
+"Aby Alex položil první dlažební kámen na cestu, začne u bedny s kameny, ujde tři stopy, položí kámen a vrátí se k bedně. Pro každý další kámen Alex ujde o dvě stopy více tam i zpět. Alex položí prvních 50 kamenů na cestu. Po návratu k bedně od položení 50. kamene, jakou celkovou vzdálenost Alex ušel ve stopách?",100,90950,5200,50,C
+"Krabice obsahuje 4 bílé míčky a 4 černé míčky. Vytahuji je z krabice jeden po druhém. Jaká je pravděpodobnost, že všechny mé tahy budou střídat barvy?",\frac{1}{8},\frac{1}{7},\frac{1}{40},\frac{1}{35},D
+"Jaké je nejmenší prvočíslo, jehož součet číslic je $19$?",5,11,17,199,D
+Definiční obor funkce $h(x) = \sqrt{25-x^2}+\sqrt{-(x-2)}$ je interval jaké šířky?,7,5,2,25,A
+John rozdělil své suvenýrové odznaky do dvou hromádek. Obě hromádky měly stejný počet odznaků. Svému bratrovi dal polovinu z jedné třetiny jedné hromádky. Johnovi zbylo 66 odznaků. Kolik odznaků měl John původně?,792,66,396,72,D
+"Pokud $f(x) = 8x^3 - 6x^2 - 4x + 5$, najděte hodnotu $f(-2)$.",5,-75,-64,-24,B
+"Jako trest za špatné chování během přestávky požádala paní Busyworková svou třídu, aby vynásobila 10 krát $\frac{1}{3}$ pětkrát. John si však všimne, že je možné vynásobit 10 jedním zlomkem a stále získat stejný výsledek jako ostatní studenti. Jaký je tento jediný zlomek?",\frac{1}{27},\frac{1}{68},\frac{1}{3},\frac{1}{243},D
+"Předpokládejme, že graf určité funkce, $y=f(x)$, má vlastnost, že pokud je posunut o 20 jednotek doprava, pak výsledný graf je identický s původním grafem $y=f(x)$. Jaké je nejmenší kladné $a$ takové, že pokud je graf $y=f\left(\frac x5\right)$ posunut o $a$ jednotek doprava, pak víme, že výsledný graf je identický s původním grafem $y=f\left(\frac x5\right)$?",100,4,5,20,A
+"Kolik jedinečných čísel lze vytvořit z vytvoření zlomku s čísly $2,3,4,$ nebo $6$ v čitateli a $2,3,4,$ nebo $6$ ve jmenovateli?",1,9,2,10,B
+"Jaké je druhé číslo v řádku Pascalova trojúhelníku, který má 43 čísel?",43,16,42,44,C
+"Pan Patrick připravuje pro svou třídu pětiotázkový kvíz s odpověďmi pravda-nepravda. Před napsáním první otázky hodí mincí. Pokud padne panna, napíše pravdivé tvrzení, a pokud padne orel, napíše nepravdivé tvrzení. Takto pokračuje, dokud nenapíše všech pět tvrzení. Jaká je pravděpodobnost, že správná sekvence odpovědí bude PNPNP? Vyjádřete svou odpověď jako zlomek v základním tvaru.",\frac{1}{6},\frac{1}{64},\frac{1}{32},\frac{1}{2},C
+"Nechť $f(x)=\frac{(x-2)^2-9}{3}$. Je vykreslena rovnice $y=f(x)$ a průsečíky grafu s osami x a y jsou spojeny tak, že tvoří mnohoúhelník. Jaká je plocha tohoto mnohoúhelníku?",5,\frac{25}{6},\frac{\sqrt{2465}}{9},2,A
+"Najděte $b$, pokud $\log_{b}343=-\frac{3}{2}$.",3,\frac{1}{49},\frac{1}{7},7,B
+Nejdelší strana trojúhelníku je 10. Které z následujících NEMOHOU být délky zbývajících dvou stran?,"4, 7","5, 5","3, 9","9, 8",B
+"Nejmenší společný násobek dvou celých čísel je 240 a největší společný dělitel je 24. Víme-li, že jedno z těchto celých čísel je 48, jaké je to druhé celé číslo?",1,120,20,12,B
+"Vyřešte součet všech možných hodnot $x$, když $3^{x^2+4x+4}=9^{x+2}$.",1,2,-2,0,C
+"Bakterie v kultuře se množí rychlostí úměrnou jejich počtu. Počáteční populace 200 bakterií se ztrojnásobí za 10 hodin. Pokud tento vzorec růstu pokračuje bez omezení, pak přibližný počet bakterií po 1 celém dni je",1160,1440,2408,2793,D
+"Pokud jsou x a y přímo úměrné a x = 3, když y = 8, jaká je hodnota x, když y = 13?","0,615","4,875",15,"34,667",B
+"Pokud f (x) = x^3 + 2x^2 – 9x – 18, které z následujících tvrzení je pravdivé?",f (x) = 0 má tři reálná řešení.,f (x) ≥ –18 pro všechna x ≥ 0.,f (x) ≤ –18 pro všechna x ≤ 0.,Funkce f (x) je klesající pro x ≤ –3.,A
+"Anton má ve svém mravenčím farmě dva druhy mravenců, Druh A a Druh B. Oba druhy vypadají identicky, ale Anton ví, že každý den je dvakrát více mravenců Druhu A než předtím, zatímco mravenců Druhu B je třikrát více. V Den 0 Anton napočítal, že v jeho mravenčí farmě je 30 mravenců. V Den 5 Anton napočítal, že v jeho mravenčí farmě je 3281 mravenců. Kolik z nich je Druhu A?",211,2321,11,608,D
+"V rovnici $|x-4| -10 = 2$, jaký je součin všech možných hodnot $x$?",-8,128,-128,16,C
+"Průměr 7 čísel je 15. Když je přidáno 8. číslo, průměr se sníží na 12. Jaké je 8. číslo?",–12,–9,0,8,B
+"Pokud 3^(x – 3) + 10 = 19, pak x =",3,4,5,6,C
+"Předpokládejme, že $f(x)$ je polynom stupně $6$ a $g(x)$ je polynom stupně $3$. Pokud $h(x)$ je také polynom takový, že $f(g(x)) + g(h(x)) + h(f(x))$ je polynom stupně $36$, jaký je stupeň polynomu $h$?",72,6,18,12,B
+"Bod $(x,y)$ je náhodně vybrán z vnitřku obdélníku s vrcholy $(0,0)$, $(3,0)$, $(3,2)$ a $(0,2)$. Jaká je pravděpodobnost, že $x < y$?",\frac{1}{12},\frac{1}{6},\frac{2}{3},\frac{1}{3},D
+"Roslyn má dvacet krabic. Třináct krabic obsahuje tužky, devět krabic obsahuje pera a tři krabice neobsahují ani pera, ani tužky. Kolik krabic obsahuje jak pera, tak tužky?",5,2,13,139,A
+Kolik kladných čtyřciferných celých čísel má pouze liché číslice?,100,999,625,500,C
+Jaké je $$\frac{-\frac{18}{7}}{-\frac{6}{5}}?$$,\frac{7}{15},\frac{15}{7},\frac{15}{8},\frac{15}{11},B
+Kladná druhá odmocnina z 200 je o kolik procent větší než kladná druhá odmocnina ze 121? Vyjádřete svou odpověď na nejbližší celé číslo.,29,14,27,11,A
+"Pokud $(2x + 3y)^2 = 4$ a $xy = -5$, jaká je hodnota $4x^2 + 9y^2$?",-5,13,64,25,C
+"Posloupnost tří reálných čísel tvoří aritmetickou posloupnost s prvním členem 9. Pokud se ke druhému členu přičte 2 a ke třetímu členu se přičte 20, tři výsledná čísla tvoří geometrickou posloupnost. Jaká je nejmenší možná hodnota třetího členu geometrické posloupnosti?",2,1,9,16,B
+"První člen dané posloupnosti je 1 a každý následující člen je součtem všech předchozích členů posloupnosti. Jaká je hodnota prvního členu, který přesáhne 5000?",10240,5001,5002,8192,D
+Které tvrzení je pravdivé?,"Pokud je f(x) spojitá v bodě x = c, pak existuje f′(c).","Pokud f′(c) = 0, pak f má lokální maximum nebo minimum v bodě (c, f(c)).","Pokud f′′(c) = 0, pak má graf funkce f inflexní bod v bodě (c, f(c)).","Pokud je f diferencovatelná v bodě x = c, pak je f spojitá v bodě x = c.",D
+"Nechť $a\star b = a^b-ab$. Pokud $2\star x = 22$, najděte $x$.",5,22,11,6,A
+"Únor 2011 má 28 dní a březen má 31 dní. Na jaký den v týdnu připadne začátek příštího měsíce, dubna?",Středa,Čtvrtek,Pátek,Sobota,C
+"Virus se šíří mezi obyvateli města a počet lidí, kteří mají virus, se zdvojnásobí každé 3 dny. Pokud je ve městě 1 000 obyvatel a 10 lidí má virus 1. ledna, jaké je nejbližší datum, kdy by celé město bylo nakaženo virem, za předpokladu, že rok má 365 dní a leden má 31 dní?",10. ledna,21. ledna,31. ledna,10. února,B
+"Kolik čísel je v seznamu $25, 26, 27, \ldots, 99, 100 ?$",75,76,22,23,B
+"Kolik palindromů (uspořádání, která se čtou stejně zepředu i zezadu) o 2 nebo více písmenech, obsahujících písmeno M, lze vytvořit přeskupením libovolné podmnožiny písmen ze slova MISSISSIPPI?",89,66,86,2012,A
+"Najděte zbytek, když je 25^1059 děleno 23.",11,13,8,5,C
+Jaký je největší společný dělitel čísel 252 a 96?,6,24,5,12,D
+V úložné místnosti je devět pytlů krmiva pro ptáky. V pondělí bude doručeno dalších sedmnáct pytlů. V úterý bude doručeno dvacet dva pytlů. Ve středu budou doručeny tři pytle. Ve čtvrtek bude doručeno jedenáct pytlů. Nakonec v pátek bude doručeno osmnáct pytlů. Kolik pytlů krmiva pro ptáky bude celkem na konci týdne?,9,25,60,80,D
+Zjednodušte $\frac{k-3}{2} + 3k+1+\frac{3k+1}{2}$.,3k+1,5k,3k,1,B
+"Pokud hodiny odbíjejí každou hodinu stejný počet úderů, jako je daná hodina (např. ve 3 odpoledne odbijí 3krát), a jednou pro každý 15minutový interval mezi hodinami (např. ve 3:15, 3:30 a 3:45), jaký bude celkový počet úderů mezi 17:10 a 19:35?",3,15,18,21,D
+Rovnostranný trojúhelník má strany dlouhé 12 palců. Jaká je přibližná plocha tohoto trojúhelníku?,62,72,84,112,A
+"Když je graf určité funkce $f(x)$ posunut o 2 jednotky doprava a vertikálně roztažen faktorem 2 (což znamená, že všechny $y$-souřadnice jsou zdvojnásobeny), výsledný obrazec je identický s původním grafem. Pokud je dáno, že $f(0)=0,1$, jaká je hodnota $f(10)$?","0,01",1,32,"3,2",D
+"Definujme $f(x)=\frac{1+x}{1-x}$ a $g(x)=\frac{-2}{x+1}$. Najděte hodnotu \[g(f(g(f(\dotsb g(f(12)) \dotsb ))))\] kde funkce $f$ je aplikována 8krát a funkce $g$ je aplikována 8krát, střídavě mezi těmito dvěma.",12,8,4,0,C
+"Jan si všiml, že úhel mezi minutovou a hodinovou ručičkou na standardních 12hodinových hodinách byl 110 stupňů, když odcházel z domova po 18. hodině; bylo to také 110 stupňů, když se vrátil po 18. hodině, ale před 19. hodinou téhož večera. Pokud byl z domova pryč déle než pět minut, kolik minut byl pryč?",36,40,38,43,B
+"Nechť $f(x)=3x+4$ a $g(x)=2x-3$. Pokud $h(x)=f(g(x))$, jaká je pak inverzní funkce k $h(x)$?",\frac{x-5}{3},\frac{x+5}{3},\frac{x+5}{6},\frac{x-5}{6},C
+Najděte $-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}.$,1,-1,0,2,B
+"Základnou tělesa je oblast ohraničená křivkou x^2 = 4y a přímkou y = 2, a každý rovinný řez kolmý na osu y je čtverec. Objem tělesa je",8,16,20,32,D
+"Za předpokladu, že $a$ a $b$ jsou reálná čísla taková, že $-3\leq a\leq1$ a $-2\leq b\leq 4$, a hodnoty pro $a$ a $b$ jsou vybrány náhodně, jaká je pravděpodobnost, že součin $a\cdot b$ je kladný? Vyjádřete svou odpověď jako obyčejný zlomek.",\frac{5}{12},\frac{5}{11},\frac{7}{12},\frac{5}{17},A
+Koeficient členu (x – 8)2 v Taylorově polynomu pro y = x2/3 okolo x = 8 je,-1/144,-1/72,1/144,1/6,A
+"Jaký je sklon přímky, která prochází body (5, 4) a (–2, 3)?","0,14","0,2","0,33",5,A
+"Pokud je 70% šance, že bude v daný den pršet, jaká je procentuální šance, že v ten samý den pršet NEBUDE?",0 %,30 %,50 %,70 %,B
+Jaká hodnota $N$ splňuje rovnici $\frac{4^{(3^3)}}{(4^3)^3} = 2^N$?,9,27,36,34,C
+Který z následujících bodů NENÍ řešením obou nerovnic y > 9x – 8 a y < – x + 8?,"(– 2, 15)","(–1, 5)","(0, 0)","(1, 5)",A
+Zjednodušte $(5x+3) - 2(2x-4)$.,10+x,x+11,5x+3,7+2x,B
+Nechť $f(x) = 3x^2-2$ a $g(f(x)) = x^2 + x +1$. Najděte součet všech možných hodnot $g(25)$.,13,25,9,20,D
+"Jaký je největší dělitel čísla 54 321, který je menší než 54 321?",6,121,18107,54 320,C
+Přepona pravoúhlého trojúhelníku měří 10 palců a jeden úhel je $45^{\circ}$. Kolik čtverečních palců má plocha tohoto trojúhelníku?,10,45,125,25,D
+"Předpokládejme, že je náhodně vybráno 5 různých celých čísel mezi 20 a 69 včetně. Jaká je pravděpodobnost, že každé z nich má jinou číslici na pozici desítek?",\frac{1}{4},\frac{1}{3},\frac{1000}{52969},\frac{2500}{52969},D
+"Pokud $f(x) = 2$ pro všechna reálná čísla $x$, jaká je hodnota $f(x + 2)$?",2,4,0,1,A
+Kolik z 401 celých čísel od $-200$ do $200$ je kongruentních s $5 \pmod{13}?$,30,31,60,45,B
+"Jaké je nejmenší možné kladné celé číslo $n$ takové, že $\sqrt{18\cdot n \cdot 34}$ je celé číslo?",34,2,17,3,C
+"Pokud f(2x) = x + 5 a f(g(6)) = 13, pak 2 * g(6) =",6,16,32,36,C
+Vyjádřete jako obyčejný zlomek převrácenou hodnotu čísla $0.\overline7$.,\frac{7}{2},\frac{7}{9},\frac{9}{2},\frac{9}{7},D
+"Jennifer soutěží v maratonu, což je závod na 26,2 míle. Pokud Jennifer běží první polovinu závodu rychlostí 8 mph a druhou polovinu závodu rychlostí 6 mph, přibližně kolik hodin jí trvá dokončit závod?","2,62","3,74","3,82","4,12",C
+Jaké je nejmenší čtverečné číslo se 3 různými prvočíselnými faktory?,300,9,900,666,C
+"Pokud $a=7$ a $b=13$, jaký je počet sudých kladných celých čísel menších než $ab$?",45,46,90,180,A
+"Předpokládejme, že $a$, $b$ a $c$ jsou kladná čísla splňující $a^2/b = 1, b^2/c = 2, c^2/a = 3$. Najděte $a$.",12^(1/7),7^(1/12),1,6,A
+Vyřešte pro $x$:$$\left(\frac{1}{25}\right)^{x + 2} = 125^{-x}.$$,1,2,3,4,D
+"Kružnice $2x^2 = -2y^2 + 12x - 4y + 20$ je vepsána do čtverce, který má pár stran rovnoběžných s osou x. Jaká je plocha tohoto čtverce?",80,√20,2\sqrt{20},20,A
+Vyhodnoťte součet\[\frac{1}{2^1} + \frac{2}{2^2} + \frac{3}{2^3} + \cdots + \frac{k}{2^k} + \cdots \],\infty,1,2,4,C
+"Bod v prostoru $(x,y,z)$ je náhodně vybrán tak, že $-1\le x \le 1$,$-1\le y \le 1$,$-1\le z \le 1$. Jaká je pravděpodobnost, že $x^2+y^2+z^2\le 1$?",\frac{\pi}{24},\frac{\pi}{12},\frac{\pi}{6},\frac{\pi}{3},C
+Číslo $x$ se rovná $2^{15}\cdot3^6$. Jaké číslo umocněné na třetí se rovná $x$?,288,27,125,121,A
+"Předpokládejme, že $a,b,$ a $c$ jsou kladná celá čísla splňující $(a+b+c)^3 - a^3 - b^3 - c^3 = 150$. Najděte $a+b+c$.",16,6,12,150,B
+Kolik existuje třímístných kladných celých čísel?,899,900,1000,999,B
+"Juan hází spravedlivou pravidelnou osmistěnnou kostkou označenou čísly 1 až 8. Poté Amal hází spravedlivou šestistěnnou kostkou. Jaká je pravděpodobnost, že součin obou hodů je násobkem 3?",\frac{1}{2},\frac{1}{4},\frac{1}{144},\frac{1}{288},A
+"V roce 1960 bylo v USA hlášeno 450 000 případů spalniček. V roce 1996 bylo hlášeno 500 případů. Kolik případů spalniček by bylo hlášeno v roce 1987, pokud by počet hlášených případů od roku 1960 do roku 1996 klesal lineárně?",337125,449500,27,112875,D
+"Když je výraz $(x\sqrt{x^3})^4$ zjednodušen, jaký je exponent $x$?",5,10,2,12,B
+"3 karty jsou náhodně vybrány ze standardního balíčku 52 karet. Jaká je pravděpodobnost, že vytvoří pár? (Trojice karet je 'pár', pokud se dvě karty shodují v hodnotě, ale třetí karta je odlišná. Například 668 je pár, ale 999 není.)",\frac{1}{8},\frac{1}{36},\frac{1}{78},\frac{72}{425},D
+Kolik úhlopříček má pravidelný osmiúhelník?,8,16,17,20,D
+"Ředitel školy musí mít tři různé učitele, kteří promluví na promočním ceremoniálu - jednoho jako zahajovacího řečníka, jednoho jako předčitatele jmen a jednoho jako závěrečného řečníka. Ve škole je celkem 85 učitelů. Kolik možných sestav řečníků může ředitel mít?",592 620,592 704,614 125,614 126,A
+"Najděte délku křivky y = ln x mezi body, kde y = 1/2 a y = 1.","0,53","0,86","1,18","1,36",C
+"Najděte obsah oblasti v prvním kvadrantu ohraničené křivkami y = x^2, y = cos(x) a osou y.","0,292","0,508","0,547","0,667",C
+Kolika kladných a záporných celých čísel je $12$ násobkem?,3,12,4,6,B
+Vyhodnoťte $\log_3 81$.,4,"0,25",-1,27,A
+"Přepište výraz $6j^2 - 4j + 12$ do tvaru $c(j + p)^2 + q$, kde $c$, $p$ a $q$ jsou konstanty. Jaká je hodnota $\frac{q}{p}$?",3,-34,-38,11,B
+"Pro všechna reálná čísla $r$ a $s$ definujme matematickou operaci $\#$ tak, že platí následující podmínky: $r\ \#\ 0 = r$, $r\ \#\ s = s\ \#\ r$ a $(r + 1)\ \#\ s = (r\ \#\ s) + s + 1$. Jaká je hodnota $11\ \#\ 5$?",11,12,64,71,D
+"Román má 400 stran a Veronika chce odhadnout, jak dlouho jí bude trvat ho přečíst. Čte 250 slov za minutu. Spočítala slova na čtvrtině typické stránky a zjistila, že na stránce je přibližně 200 slov. Na nejbližší minutu, jak dlouho bude Veronice trvat přečíst knihu?",225,320,400,450,B
+"Kabát má původní cenu 325,00 dolarů. Během listopadu se neprodal a obchodník ho zlevnil o 20 procent. Poté v prosinci ho zlevnil o dalších 10 procent. Kolik by vánoční nakupující v prosinci zaplatil za kabát v dolarech?","227,50 $","234,00 $","286,00 Kč","290,00 Kč",B
+"John hraje hru, ve které se snaží získat co nejvyšší možné číslo. Musí umístit symboly +, $\times$ a - (plus, krát a mínus) do následujících mezer, přičemž každý symbol použije přesně jednou:\[2 \underline{\hphantom{8}} 4 \underline{\hphantom{8}} 6 \underline{\hphantom{8}} 8.\] John nemůže použít závorky ani přeskupit čísla. Jaké nejvyšší možné číslo může John získat?",22,46,100,99,B
+"O osmdesát pět více než druhá mocnina čísla je stejné jako druhá mocnina množství, které je o $17$ menší než toto číslo. Jaké je to číslo?",17,6,2,11,B
+Tvar cedule před restaurací Bob's Burger Barn je pravidelný osmiúhelník. Kolik stupňů má vnitřní úhel této cedule?,90,135,45,180,B
+"Planety X, Y a Z potřebují 360, 450 a 540 dní k tomu, aby se otočily kolem stejného slunce. Pokud jsou tyto tři planety seřazeny v paprsku, který má slunce jako svůj koncový bod, jaký je minimální kladný počet dní, než se všechny opět ocitnou přesně na stejných místech?",360,5400,900,1200,B
+"Jaká je velikost vektoru v = (5, 0, 7)?",0,"3,5","4,2","8,6",D
+"Pokud vezmeme sin x a změníme ho na 3 sin 2x, co se stane s definičním oborem a oborem hodnot funkce?",Definiční obor a obor hodnot zůstávají stejné,Definiční obor je dvojnásobný; obor hodnot zůstává stejný,Definiční obor je ztrojnásoben; obor hodnot je zdvojnásoben,Definiční obor je stejný; obor hodnot je ztrojnásoben,D
+"Předpokládejme, že pro nějaká $a,b,c$ platí $a+b+c = 1$, $ab+ac+bc = abc = -4$. Jaká je hodnota $a^3+b^3+c^3$?",0,1,112,12,B
+Zjednodušte následující výraz: $(9x^9+7x^8+4x^7) + (x^{11}+x^9+2x^7+3x^3+5x+8).$ Vyjádřete svou odpověď jako polynom se stupni členů v klesajícím pořadí.,x^{11}+2x^9+2x^8,x^{11}-6x^8+6x^7+3x^3+5x+8,x^11 + 10x^9 + 7x^8+6x^73x^3+5x+8,x^{11}+10x^9+7x^8+6x^7+3x^3+5x+8,D
+"Standardní spropitné v restauraci je 15 % z účtu před zdaněním. Mnoho lidí v Kalifornii určuje spropitné zdvojnásobením daně z prodeje, která činí 8,25 %. O kolik centů toto převyšuje standardní spropitné u účtu ve výši 60 $ před zdaněním?",90,80,70,60,A
+"Jaký je největší možný podíl jakýchkoli dvou různých členů množiny $\{\frac{2}{5}, \frac{1}{2},5,10\}$? Konkrétně chceme maximalizovat $\frac{x}{y}$, kde $x$ a $y$ jsou vybrány z předchozí množiny.",5,10,20,25,D
+Oblast ohraničená parabolou y = x^2 a přímkami y = 1 a y = 9 se rovná,8,84/3,64\sqrt{2}/3,104/3,D
+"Předpokládejme, že pro nějaká $a,b,c$ platí $a+b+c = 6$, $ab+ac+bc = 5$ a $abc = -12$. Jaká je hodnota $a^3+b^3+c^3$?",90,99,64,91,A
+"Tři body jsou náhodně a nezávisle zvoleny na kružnici. Jaká je pravděpodobnost, že všechny tři vzájemné vzdálenosti mezi body jsou menší než poloměr kružnice?",\frac{1}{20},\frac{1}{32},\frac{1}{12},\frac{1}{16},C
+"Pokud vyjádříme $3x^2 + x - 4$ ve tvaru $a(x - h)^2 + k$, jaká je hodnota $k$?",-\frac{7}{12},-7,49,-\frac{49}{12},D
+"V poledne má experimentátor 50 gramů radioaktivního izotopu. V poledne o 9 dní později zbývá pouze 45 gramů. Na nejbližší den, kolik dní po zahájení experimentu zbude pouze 20 gramů?",54,59,60,78,D
+"Existují tři reálná čísla $x$, která nejsou v definičním oboru funkce$$f(x) = \frac{1}{1+\frac{1}{1+\frac 1x}}.$$ Jaký je součet těchto tří čísel?",1,0,"-1,5",-1,C
+"Dvanáctiuncový nealkoholický nápoj obsahuje 41 gramů cukru, což je 14 % běžné denní dávky cukru. Kolik gramů cukru je přibližně doporučeno v běžné stravě?","5,74",69,293,574,C
+"Kolik čísel je v seznamu $ -36, -29, -22, \ldots, 41, 48?$",12,10,13,11,C
+"Najděte součet prvočísel mezi 100 a 200 včetně, která jsou o 1 nebo 2 větší než dokonalý čtverec.",102,298,256,300,B
+Vyjádřete $0.1\overline{7}$ jako obyčejný zlomek.,\frac{8}{45},\frac{8}{5},\frac{8}{7},\frac{8}{33},A
+Kolik různých úhlopříček lze nakreslit v konvexním šestiúhelníku?,6,8,9,36,C
+"Šest kladných celých čísel je napsáno na stěnách krychle. Každý vrchol je označen součinem tří čísel na stěnách přilehlých k tomuto vrcholu. Pokud je součet čísel na vrcholech roven $1001$, jaký je součet čísel napsaných na stěnách?",18,13,1001,31,D
+"Pokud celé číslo končí číslicí $0$ a součet jeho číslic je dělitelný $3$, pak kolik z čísel $2, 3, 4, 5, 6, 8, 9$ ho nutně dělí?",1,2,3,4,D
+"Morgan je na sociální síti. Má 60 kamarádek a 50 kamarádů a patří do 5 sociálních skupin. Pokud 30 % jejích kamarádek žije ve městě a 40 % jejích kamarádů žije ve městě, kolik přátel žijících mimo město má na sociální síti?",38,72,110,360,B
+"V Akademické akademii musíte pro úspěšné složení testu z algebry dosáhnout alespoň 80 %. Pokud je v testu 35 úloh, jaký je největší počet úloh, které můžete vynechat, a přesto testem projít?",7,28,35,8,A
+"Vzhledem k tomu, že obdélník s délkou $3x$ palců a šířkou $x + 5$ palců má vlastnost, že jeho obsah a obvod mají stejné hodnoty, jaká je hodnota $x$?",1,5,\frac{10}{3},\frac{3}{10},A
+"Investice ve výši 4000 dolarů roste tempem 320*e^(0,08t) dolarů za rok po t letech. Její hodnota po 10 letech je přibližně",4 902 Kč,"$8,902",7 122 Kč,12 902 $,B
+Kolik různých možných výborů o 5 lidech lze vybrat ze skupiny 15 lidí?,75,120,225,3 003,D
+Najděte plochu ohraničenou spirálou r = ln θ v intervalu π <= θ <= 2π.,"2,405","2,931","3,743","4,81",C
+"Pro rovnici: 3 x − 4(x − 2) + 6 x − 8 = 0, najděte hodnotu x.",−4,0,2,4,B
+"Améba je umístěna do kaluže jednoho dne a téhož dne se rozdělí na dvě améby. Následující den se každá nová améba rozdělí na dvě nové améby a tak dále, takže každý den se každá žijící améba rozdělí na dvě nové améby. Po jednom týdnu, kolik améb je v kaluži? (Předpokládejme, že v kaluži nejsou žádné améby před tím, než je do ní umístěna první.)",256,1024,64,128,D
+Najděte $(2^{20} + 2^{20} + 2^{20} +2^{21}) \div 2^{17}$.,20,40,0,10,B
+"V Kanadě v roce 2014 byla průměrná velkoobchodní cena sóji 0,24 dolaru za libru. V roce 2015 byla průměrná velkoobchodní cena sóji 0,16 dolaru za libru. Pokud maloobchodník nakoupil 20 000 liber sóji v roce 2014 a v roce 2015, jaká byla procentuální změna výdajů maloobchodníka mezi lety 2014 a 2015?",–8 %,–33%,–50%,8 %,B
+Pravoúhlý trojúhelník má odvěsny délky $6$ a $b$ a přeponu délky $c$. Obvod trojúhelníku je $18$. Vypočítejte $c$.,18,\frac{15}{2},8,6,B
+Které z následujících možností by NEMOHLY být stranami rovnoramenného trojúhelníku?,"2,2,3","2,2,4","4,12,12","5,5,5",B
+"Ramanujan a Hardy hráli hru, ve které si oba vybrali komplexní číslo. Pokud byl součin jejich čísel $32-8i$ a Hardy si vybral $5+3i$, jaké číslo si vybral Ramanujan?",32-8i,5+3i,4-i,4-4i,D
+"Pokud bod $(3,6)$ leží na grafu funkce $y=g(x)$ a $h(x)=(g(x))^2$ pro všechna $x$, pak existuje jeden bod, který musí ležet na grafu funkce $y=h(x)$. Jaký je součet souřadnic tohoto bodu?",12,36,39,13,C
+"Fibonacciho posloupnost je posloupnost 1, 1, 2, 3, 5, $\ldots$, kde každý člen je součtem dvou předchozích členů. Jaký je zbytek po dělení 100. členu této posloupnosti číslem 4?",2,3,4,5,B
+"Výška (v metrech) vystřelené dělové koule sleduje trajektorii danou rovnicí $h(t) = -4,9t^2 + 14t - 0,4$ v čase $t$ (v sekundách). Jako nevlastní zlomek, jak dlouho je dělová koule nad výškou 6 metrů?",\frac{5}{7},\frac{7}{12},\frac{12}{7},\frac{7}{5},C
+"Pokud Wayne považuje písmeno ""Y"" za samohlásku, ale Kristen ne, přičemž si myslí, že existuje pouze 5 samohlásek, o kolik procent je pravděpodobnost, že náhodně vybrané písmeno z 26písmenné abecedy bude samohláskou, větší podle Waynova názoru než podle názoru Kristen?",5 %,6 %,20 %,30 %,C
+Mějme výraz: $1990\times1991 - 1989\times1990$. Jaké přirozené číslo je ekvivalentní tomuto výrazu?,5,8,3980,1160,C
+Patriciina roční nástupní mzda v její nové práci je 20 000 dolarů. Po jednom roce v práci se její plat zvýší o 10 %; po druhém roce v práci se její plat zvýší o dalších 10 % oproti platu z předchozího roku. Jaký by byl její plat po uplynutí těchto dvou let?,24 200 dolarů,24 000 dolarů,22 000 dolarů,4 000 dolarů,A
+"Jaká je pravděpodobnost, že náhodně vybrané celé číslo z množiny $$\{1,2,3,\ldots,100\}$$ je dělitelné 2 a není dělitelné 3? Vyjádřete svou odpověď jako obyčejný zlomek.",\frac{31}{66},\frac{17}{66},\frac{17}{31},\frac{17}{50},D
+"Pokud hodím 5 standardními šestistěnnými kostkami a vynásobím čísla na horních stranách každé kostky, jaká je pravděpodobnost, že výsledek bude složené číslo?",\frac{485}{486},\frac{16}{7776},\frac{4}{7776},\frac{2}{7776},A
+"Těleso je vyříznuto z koule o poloměru 2 dvěma rovnoběžnými rovinami, z nichž každá je vzdálena 1 jednotku od středu. Objem tohoto tělesa je",8π,32π/3,25π/3,22π/3,D
+"Pokud je poměr $2x-y$ ku $x+y$ 2 ku 3, jaký je poměr $x$ ku $y$? Vyjádřete svou odpověď jako obyčejný zlomek.",\frac{5}{4},\frac{4}{5},\frac{5}{2},\frac{2}{5},A
+Křivka je dána parametricky rovnicemi,π/2,π,2 + π,2π,D
+"V kartézské soustavě souřadnic jsou body $(1,2)$ a $(7, 4)$ protilehlými vrcholy čtverce. Jaká je plocha tohoto čtverce?",20,34,40,√40,A
+Kvadratická rovnice $2x^2+5x+12=19-7x$ má dvě řešení. Jaký je kladný rozdíl mezi těmito řešeními?,2,√2,5\sqrt{2},5,C
+Součet $1^2 + 2^2 + 3^2 + 4^2 + \cdots + n^2 = n(n+1)(2n+1) \div 6$. Jaká je hodnota $21^2 + 22^2 + \cdots + 40^2$?,41,22140,19270,2870,C
+"Šest šestistěnných kostek je hozeno. Jaká je pravděpodobnost, že tři z kostek ukážou prvočísla a zbývající ukážou složená čísla?",\frac{125}{2916},\frac{5}{16},\frac{5}{54},\frac{5}{55},C
+Vyhodnoťte $\log_8 2$.,\frac{1}{4},4,3,\frac{1}{3},D
+"Pokud má rovnostranný trojúhelník stranu délky 8, jaká bude plocha čtverce, který má stejný obvod jako tento trojúhelník?",9,16,36,49,C
+"Číslo $x$ se rozkládá jako $107\cdot109^5$, přičemž $107$ a $109$ jsou prvočísla. Jaký je exponent $109$ v prvočíselném rozkladu $x^{11}$?",9,55,21,11,B
+"Nechť $M=4a^2 - 2b^2 +a$. Nechť $j$ je hodnota $M$, když $a=5$ a $b=3$, a nechť $k$ je hodnota $M$, když $a=-1$ a $b=4$. Vypočítejte $j+2k$.",29,28,27,26,A
+"Ben hodí čtyřmi spravedlivými dvacetistěnnými kostkami, přičemž každá z kostek má stěny očíslované od 1 do 20. Jaká je pravděpodobnost, že přesně dvě z kostek ukážou sudé číslo?",\frac{5}{24},\frac{5}{16},\frac{3}{8},\frac{5}{8},C
+"Pokud $m$ a $n$ jsou lichá celá čísla, kolik členů v rozvoji $(m+n)^6$ je lichých?",4,2,1,9,A
+"Zákazník si není jistý, zda inzerovaná šířka 48palcové televize je podél horizontální délky obrazovky nebo podél úhlopříčky obrazovky. Pokud je poměr délky k výšce televizní obrazovky 5 ku 3, o kolik palců bude horizontální délka televizní obrazovky kratší, zaokrouhleno na nejbližší palec, pokud se měření provádí podél úhlopříčky televizní obrazovky spíše než podél horizontální délky?",3,7,8,9,B
+"Třída pana Clearyho a třída paní Ntualy jdou do počítačové učebny. K dispozici je 20 počítačů, z nichž dva nefungují. Ve třídě pana Clearyho je 14 dětí a ve třídě paní Ntualy je 12 dětí. Pokud musí každý student použít počítač a na jednom počítači mohou být maximálně 2 studenti, jaký je maximální počet studentů, kteří mohou mít počítač sami pro sebe?",2,6,10,14,C
+"Když jsou hozeny tři standardní kostky, získáme čísla $a,b,c$. Najděte pravděpodobnost, že $abc = 180$.",\frac{1}{30},\frac{1}{72},\frac{1}{71},\frac{1}{70},B
+"Nádoba obsahuje 5 zelených míčků a $k$ fialových míčků, kde $k$ je neznámé kladné celé číslo. Z nádoby je náhodně vytažen jeden míček. Pokud je vytažen zelený míček, hráč vyhraje 2 dolary, ale pokud je vytažen fialový míček, hráč prohraje 2 dolary. Jestliže je očekávaná výhra za hraní této hry 50 centů, jaká je hodnota $k$?",6,12,3,4,C
+"Nechť $p$, $q$ a $r$ jsou konstanty. Jedno řešení rovnice $(x-p)(x-q) = (r-p)(r-q)$ je $x=r$. Najděte druhé řešení vyjádřené pomocí $p$, $q$ a $r$.",pqr,pq-r,p-q-r,p+q-r,D
+"Pokud má matice A rozměry 2 × 7 a matice B má rozměry 7 × 5, jaké jsou rozměry výsledné matice AB?",2 × 2,2 × 5,5 × 2,7 × 7,B
+"Předpokládejme, že $x-3$ a $y+3$ jsou násobky $7$. Jaké je nejmenší kladné celé číslo $n$, pro které je $x^2+xy+y^2+n$ násobkem $7$?",2,6,4,5,D
+"Pokud g(x) = f(–x) pro všechna reálná čísla x, a pokud (3, 2) je bod na grafu g, který z následujících bodů MUSÍ být na grafu f?","(3, 2)","(3, –2)","(–3, 2)","(–3, –2)",C
+"Grady jezdí na kole o $60\%$ rychleji než jeho mladší bratr Noah. Pokud Grady ujede za dvě hodiny o $12$ mil více než Noah, jakou rychlostí v mílích za hodinu jezdí Noah?",32,20,10,"7,2",C
+"Sáček obsahuje 4 červené a 6 modrých kuliček. Jedna kulička je vybrána a není vrácena zpět, poté je vybrána druhá. Jaká je pravděpodobnost, že obě kuličky budou stejné barvy?",\frac{1}{8},\frac{8}{15},\frac{1}{15},\frac{7}{15},D
+"Jaké je nejmenší celé číslo, které má zbytek 1 při dělení 4, zbytek 1 při dělení 3 a zbytek 2 při dělení 5?",67,43,57,37,D
+Jaký je součet všech celočíselných řešení nerovnice $|n| < |n-3| < 9$?,-9,-14,14,9,B
+(i + 1)(5 – 5i)(5 + 5i) =,50 + 50i,50 – 50i,25 + 25i,25 – 25i,A
+"Pro komplexní číslo z = a + bi je známo, že a a b jsou kladná celá čísla a že z^3 + z^2 + z je reálné číslo. Najděte nejmenší možnou hodnotu pro b.",10,1,6,11,D
+"Čísla $x$ a $y$ jsou nepřímo úměrná. Když je součet $x$ a $y$ roven 42, $x$ je dvakrát větší než $y$. Jaká je hodnota $y$, když $x=-8$?",-49,-7,-40,40,A
+"Žebřík dlouhý 26 stop je opřený o budovu tak, že se jeho pata vzdaluje od budovy rychlostí 3 stopy za sekundu. Když je pata žebříku 10 stop od budovy, vrchol se pohybuje dolů rychlostí r stop za sekundu, kde r je",46/3,3/4,5/4,5/2,C
+Graf rovnice $x + 2y + 3 = 0$ je kolmý na graf rovnice $ax + 2y + 3 = 0$. Jaká je hodnota $a$?,-4,-13,-9,-15,A
+"$n$-tý člen určité geometrické řady je dán výrazem $a\cdot r^{n-1}$, kde $a$ a $r$ jsou kladná celá čísla a $r$ je větší než 1. Bill vybere $k$ různých čísel z této posloupnosti, přičemž všechna mají stejný počet číslic. Jaká je největší možná hodnota $k$?",4,5,8,16,A
+"Pokud má Owen modré džíny s pasem o obvodu 32 palců, jaká bude nová velikost pasu džín (zaokrouhleno na celé palce), které bude Owen muset nosit, pokud se obvod jeho pasu zvětší o 15 %?",35 palců,36 palců,37 palců,38 palců,C
+"Množství barvy, které David potřebuje k pokrytí krychle, je přímo úměrné její povrchové ploše. Pokud David může zcela pokrýt krychli o délce strany 2 stopy přesně 16 kvartami barvy, jak velkou krychli (z hlediska délky hrany ve stopách) může David pokrýt 169 kvartami barvy?",\frac{13}{4},8,\frac{13}{2},13,C
+Kolik lichých dokonalých čtverců je mezi 5 a 211?,2,25,6,75,C
+"Najděte $x$, je-li dáno, že\[\dfrac{\sqrt{x}}{x\sqrt{3}+\sqrt{2}} = \dfrac{1}{2x\sqrt{6}+4}.\]",\frac{3}{4},\frac{1}{4},\frac{1}{2},\frac{1}{8},D
+Kolika způsoby lze vybrat 5 studentů ze skupiny 6 studentů?,12,3,5,6,D
+Která z těchto samohlásek NEMÁ svislou osu souměrnosti?,A,E,Já,O,B
+Jaký je obor hodnot funkce y = 5 + 3 * sin(pi – x)?,–3 ≤ y ≤ 3,–2 ≤ y ≤ 8,0 ≤ y ≤ 6,2 ≤ y ≤ 8,D
+"Napište rovnici přímky tečné ke křivce definované funkcí F(t) = (t^2 + 1, 2^t) v bodě, kde y = 4.",y – 4 = ln 2(x – 2),y – 4 = 4 ln 2(x – 2),y – 4 = 4(x – 5),y – 4 = ln 2(x – 5),D
+"John má pět dětí. Jaká je pravděpodobnost, že alespoň polovina z nich jsou dívky? (Můžeme předpokládat, že pravděpodobnost narození chlapce je stejná jako pravděpodobnost narození dívky, a naopak.)",\frac{1}{2},\frac{1}{4},\frac{1}{8},\frac{3}{5},A
+"Pokud se parabola $y_1 = x^2 + 2x + 7$ a přímka $y_2 = 6x + b$ protínají pouze v jednom bodě, jaká je hodnota $b$?",7,3,12,4,B
+"V kolika bodech na intervalu [0,π] splňuje funkce f(x) = 2 sin x + sin 4x větu o střední hodnotě?",1,2,3,4,D
+"Před pěti lety stál počítač, který pracoval poloviční rychlostí než současný počítač, dvakrát tolik peněz. Kolik procent tvoří poměr rychlosti k ceně současného počítače oproti poměru rychlosti k ceně staršího počítače?",20,400,32,\frac{2}{5},B
+"Ben hází dvěma spravedlivými šestistěnnými kostkami. Jaká je očekávaná hodnota většího z obou hozených čísel? Vyjádřete svou odpověď jako zlomek. (Pokud jsou obě čísla stejná, považujeme toto číslo za ""větší"" číslo.)",\frac{161}{6},\frac{161}{36},161,\frac{161}{3},B
+"Vyhodnoťte$$\lceil\sqrt{5}\rceil + \lceil\sqrt{6}\rceil + \lceil\sqrt{7}\rceil + \cdots + \lceil\sqrt{29}\rceil$$Poznámka: Pro reálné číslo $x,$ $\lceil x \rceil$ označuje nejmenší celé číslo, které je větší nebo rovno $x.$",112,111,2006,110,A
+"Jaká je plocha, v čtverečních jednotkách, čtverce, jehož strany mají stejnou délku jako poloměr kruhu s obvodem $12\pi$ jednotek?",10,11,12,36,D
+"Pokud f(x) = 3x, g(x) = 5x + 3 a h(x) = 1 – x^2, pak f(g(h(x)))=",15x^2 + 15,–15x^2 + 18,–15x^2 + 24,–225x^2 + 90x – 8,C
+"Spotřebitelská zpráva odhalila následující informace o třech tubách zubní pasty. Bright je o 60 % dražší než Fresh a má o 25 % menší objem než Glow. Glow je o 25 % levnější než Bright a má o 33⅓ % větší objem než Fresh. Fresh stojí 1,00 $ za jednotku objemu. Kolik centů za jednotku objemu stojí Glow?",90,120,60,320,A
+"Najděte objem tělesa vytvořeného rotací oblasti ohraničené osou y, y = e^x a y = 2 kolem osy y.","0,296","0,592","2,427","3,998",B
+"Jaké je nejmenší kladné celé číslo $n$ takové, že $\frac{1}{n}$ je konečný desetinný zlomek a $n$ obsahuje číslici 9?",32,64,4096,256,C
+"Při svých předchozích pěti pokusech Sarah dosáhla časů v sekundách 86, 94, 97, 88 a 96 při plavání na 50 metrů. Po svém šestém pokusu snížila svůj medián času na 92 sekund. Jaký byl její čas v sekundách při šestém pokusu?",92,90,87,10,B
+"Když je nejmenší společný násobek dvou kladných celých čísel vydělen jejich největším společným dělitelem, výsledek je 33. Pokud je jedno číslo 45, jaká je nejmenší možná hodnota druhého čísla?",165,46,45,9,A
+"Křivka definovaná rovnicí x^3 + xy - y^2 = 10 má svislou tečnu, když x =",0 nebo –1/3,"1,037","2,074","2,096",C
+"John má 12 kuliček různých barev, včetně jedné červené, jedné zelené a jedné modré kuličky. Kolika způsoby může vybrat 4 kuličky, pokud přesně jedna z vybraných kuliček je červená, zelená nebo modrá?",252,276,441,84,A
+"Pokud 4 daps = 7 yaps a 5 yaps = 3 baps, kolik daps se rovná 42 baps?",28,21,40,30,C
+"Vypočítejte $\left(\frac{1}{a}\right)^4 \cdot 2 \cdot a^4+a^{2+1-3}$, když $a=42$.",0,1,2,3,D
+"Zoey pokládá cihly na svou terasu. Prodejce chce Zoey prodat co nejvíce cihel, aby pokryla svou terasu vrstvou o tloušťce jedné cihly, aniž by jí zbyly nějaké cihly navíc. Plocha terasy je obdélník o rozměrech 12 stop na 10 stop a každá jednotlivá cihla má rozměry 4 palce na 6 palců na 2 palce. Jaký by byl největší počet cihel, který by prodejce mohl prodat, aby splnil svá prodejní kritéria?",5 760,2 880,2 160,1 440,C
+"Jedenáct tužek stojí stejně jako tři pera. Pokud sedm per stojí $\$ 9,24$, jaká je cena jedné tužky v centech?",11,33,36,52,C
+"Jeden počítač v laboratoři je naprogramován tak, aby zálohoval data na začátku minuty každých pět minut. Druhý počítač je naprogramován tak, aby zálohoval data na začátku minuty každé dvě minuty. Zjistěte, kolikrát za dvacet čtyři hodin oba počítače zálohují data ve stejný čas. (Předpokládejte, že počítače nezálohují na začátku 24hodinového období.)",144,12,6,36,A
+Zjednodušte zlomek racionalizací jmenovatele: $$\frac{4}{\sqrt{108}+2\sqrt{12}+2\sqrt{27}}.$$,\frac{4\sqrt{3}}{33},\frac{\sqrt{3}}{12},2√27,\frac{1}{4\sqrt{3}},B
+Maximální hodnota funkce f (x) = xe^{–x} je,1/e,e,1,-1,A
+"Čtyři balíčky jsou doručeny do čtyř domů, jeden do každého domu. Pokud jsou tyto balíčky doručeny náhodně, jaká je pravděpodobnost, že přesně dva z nich jsou doručeny do správných domů? Vyjádřete svou odpověď jako běžný zlomek.",\frac{1}{4},\frac{27}{128},\frac{1}{2},\frac{1}{9},A
+"Krasobruslařka je otočená čelem k severu, když začne provádět piruetu doprava. Otočí se o 2250 stupňů. Kterým směrem (sever, jih, východ nebo západ) je otočená, když dokončí svou piruetu?",sever,východ,jih,západ,B
+"Jaké je nejmenší možné kladné celé číslo $n$ takové, že $\sqrt{18\cdot n \cdot 34}$ je celé číslo?",15,10,17,34,C
+Kolika kladných a záporných celých čísel je $12$ násobkem?,1,4,12,3,C
+"Rowena může vymalovat místnost za 14 hodin, zatímco Ruby ji může vymalovat za 6 hodin. Pokud Rowena maluje x hodin a Ruby maluje y hodin, dokončí polovinu malování, zatímco pokud Rowena maluje y hodin a Ruby maluje x hodin, vymalují celou místnost. Najděte uspořádanou dvojici (x,y).","(\frac{11}{10}, \frac{11}{10})","(\frac{231}{20}, \frac{21}{20})","(\frac{231}{40}, \frac{21}{40})","(1,1)",C
+Kde má v prvním kvadrantu růžice r = sin 3θ vertikální tečnu?,nikde,"θ = 0,39","θ= 0,47","θ = 0,52",C
+"Pokud je poločas rozpadu radioaktivní látky 8 let, jak dlouho bude trvat, v letech, než se rozpadnou dvě třetiny látky?","4,68","7,69","12,21","12,68",D
+"Objekt pohybující se po přímce má rychlost v(t) = t cos(t) - ln (t + 2), kde 0 <= t <= 10. Kolikrát objekt změní směr pohybu?",žádný,jeden,dva,tři,C
+Kolik kladných celých čísel je dělitelem čísla 120 a zároveň dělitelem čísla 40?,1,3,4,8,D
+"Jaký interval obsahuje všechna $u$ taková, že ani $2u$ ani $-20u$ není v intervalu $(-\infty,-1)$?","[-\frac{1}{2}, 0]","[-1,1]","[-\frac{1}{2}, -\frac{1}{20}]","[0,2]",C
+"Jaká je nejkratší vzdálenost mezi osou y a bodem (2, 7)?",1,2,3,7,B
+Jaký je největší společný dělitel čísel $2^{1001}-1$ a $2^{1012}-1$?,1,2049,2048,2047,D
+"Jak se mění příliv a odliv, hladina vody v zálivu se mění sinusoidálně. Při dnešním přílivu v 8 hodin ráno byla hladina vody 15 stop; při odlivu o 6 hodin později ve 14 hodin byla 3 stopy. Jak rychle, ve stopách za hodinu, klesala hladina vody v poledne?",3,π\sqrt{3}/2,3\sqrt{3},π√3,B
+"Člověk ušel 3 míle na východ, pak se otočil na sever a ušel 10 mil, poté se otočil na západ a ušel 6 mil, a nakonec se otočil na jih a ušel 16 mil. Přibližně jak daleko je člověk od svého výchozího bodu v mílích?","3,4","6,7","9,2","12,8",B
+"Terri otevřela restauraci s rychlým občerstvením. Počáteční náklady na otevření restaurace jsou 800 000 dolarů. Musí platit denní provozní náklady ve výši 250 dolarů a náklady na pracovní sílu ve výši 400 dolarů. Jaký výraz představuje její celkové náklady, pokud má restauraci otevřenou po dobu ""D"" dní?",800 000 + 150 D,800 000 + 650 D,800 000 − 650 D,650 + 800 000 D,B
+"Předpokládejme, že $f(x)$ je inverzní funkce a předpokládejme, že $f(2)=f^{-1}(2)=4$. Jaká je hodnota $f(f(2))$?",1,2,4,0,B
+"Pokud $725x + 727y = 1500$ a $729x+ 731y = 1508$, jaká je hodnota $x - y$ ?",725,-2,2,-48,D
+"Uvažujte dvě kladná sudá čísla menší než $15$ (ne nutně odlišná). Když se součet těchto dvou čísel přičte k jejich součinu, kolik různých možných hodnot může vzniknout?",21,27,49,45,B
+"Předpokládejme, že hodíme dvěma spravedlivými šestistěnnými kostkami. Jaká je pravděpodobnost, že součet dvou hozených čísel bude 4?",\frac{1}{4},\frac{1}{12},\frac{1}{3},\frac{1}{9},B
+"Najděte všechny kladné hodnoty $c$ tak, aby nerovnice $x^2-6x+c<0$ měla reálná řešení pro $x$. Vyjádřete svou odpověď v intervalové notaci.","(0, 9)","(1, 1)","(6, 0)","(6, 6)",A
+"Vypočítejte obsah trojúhelníku, jehož výšky mají délky 10, 12 a 15.",56\sqrt{15},240\sqrt{7},60\sqrt{7},240\sqrt{7}/7,D
+"V Morseově abecedě je každý symbol reprezentován sekvencí čárek a teček. Kolik různých symbolů lze reprezentovat pomocí sekvencí o celkovém počtu 1, 2, 3 nebo 4 teček a/nebo čárek?",3,4680,30,10,C
+Součet dvou čísel je 19. Jejich součin je 70. Jaká jsou to dvě čísla?,"5, 14","7, 10","4, 15","3, 16",A
+"Divadelní skupina má osm členů, z nichž čtyři jsou ženy. Kolika způsoby lze obsadit role ve hře, která zahrnuje jednu hlavní ženskou roli, jednu hlavní mužskou roli a tři různé předměty, které mohou být hrány kterýmkoli pohlavím?",640,720,8,1920,D
+"Dráha satelitu je dána parametrickými rovnicemi x = 4 cos(t) + cos(12t), y = 4 sin(t) + sin(12t). Rychlost směrem vzhůru v čase t = 1 se rovná","2,829","3,005","3,999","12,287",D
+"Alex si potřebuje půjčit $\$10,\!000$ z banky. Banka mu nabízí dvě možnosti. 1. Desetiletý úvěr s roční úrokovou sazbou 10 % složeně úročenou čtvrtletně, s podmínkou, že na konci 5 let musí Alex zaplatit částku rovnající se polovině toho, co dluží. Druhá polovina nadále narůstá úrokem a na konci deseti let Alex splatí zbývající zůstatek. 2. Desetiletý úvěr s jednoduchou roční úrokovou sazbou 12 %, s jedinou jednorázovou splátkou na konci deseti let. Najděte kladný rozdíl mezi celkovými částkami, které Alex musí splatit podle těchto dvou schémat. Zaokrouhlete svou odpověď na nejbližší dolar.",16401,16400,382,383,C
+"Pokud je f lineární funkce s nenulovým sklonem a c < d, která z následujících možností musí být NEPRAVDIVÁ?",f (c) = f (d),f (c) ≠ f (d),f (c) > f (d),f (c) < f (d),A
+"Pokud F(3) = 8 a F′(3) = -4, pak F(3,02) je přibližně","-8,08","7,92","7,98","8,02",B
+"Bob hází každé ráno spravedlivou šestistrannou kostkou. Pokud Bob hodí složené číslo, jí sladké cereálie. Pokud hodí prvočíslo, jí neslazené cereálie. Pokud hodí 1, hází znovu. V nepřestupném roce, kolikrát Bob očekávaně hodí kostkou?",\frac{5}{8},\frac{1825}{4},\frac{5}{4},438,D
+"Když je výraz $-2x^2-20x-53$ zapsán ve tvaru $a(x+d)^2+e$, kde $a$, $d$ a $e$ jsou konstanty, jaký je součet $a+d+e$?",-80,0,6,53,B

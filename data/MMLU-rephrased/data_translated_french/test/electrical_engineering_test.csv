@@ -1,0 +1,145 @@
+Le critère de Barkhausen pour un oscillateur,Le gain de boucle doit être unitaire,Le gain de boucle doit être inférieur à l'unité,La phase d'un signal de rétroaction par rapport à l'entrée doit être de 0° ou 360°,A et C,D
+La méthode du potentiomètre pour la mesure de tension continue est plus précise que la mesure directe à l'aide d'un voltmètre car,Il charge le circuit modérément.,Il charge le circuit au maximum.,Il utilise un galvanomètre à zéro central au lieu d'un voltmètre.,Il ne charge pas du tout le circuit.,D
+Lesquels de ces ensembles de portes logiques sont désignés comme portes universelles ?,"NI, NON-ET","XOR, NOR, NON-ET","OU, NON, ET","NI, NON-ET, XNON",A
+"Une circuit monophasé à impulsion unique contrôlée a une résistance R et une force contre-électromotrice E de charge 400 sin(314 t) comme tension source. Pour une force contre-électromotrice de charge de 200 V, la plage de contrôle de l'angle d'amorçage est",30° à 150°,30° à 180°,60° à 120°,60° à 180°,A
+Une boîte qui indique l'effet des entrées sur le sous-système de contrôle est connue sous le nom de,Boîte de données,Boîte logique.,Boîte de décision,Boîte d'état,C
+Deux plaques métalliques parallèles infinies sont chargées avec une densité de charge surfacique égale de même polarité. Le champ électrique dans l'espace entre les plaques est,identique à celui produit par une seule plaque.,doubler le champ produit par une plaque.,dépendant des coordonnées des points du champ.,zéro,D
+La résistance dans le circuit de la bobine mobile d'un wattmètre dynamométrique doit être,Bas.,Très bas.,Haut.,Presque zéro.,C
+Les éléments suivants sont les exigences nécessaires d'un oscillateur,Stabilité d'amplitude,Stabilité de fréquence,Stabilité de l'alimentation,A et B,D
+La tension normale utilisée dans le chauffage directionnel est,"1,5 kV",15 kV,33 kV,66 kV,A
+Les oscillateurs LC sont utilisés pour produire une forme d'onde avec une fréquence allant de,1 MHz à 500 MHz,100 kHz à 500 MHz,1 kHz à 1 MHz,1 MHz à 100 GHz,A
+Une diode fonctionnelle doit avoir,Haute résistance en polarisation directe ou inverse,"Faible résistance en polarisation directe, tandis que haute résistance en polarisation inverse","Haute résistance en polarisation directe, tandis que faible résistance en polarisation inverse",Faible résistance en polarisation directe ou inverse,B
+Quel est le nom du matériau fluorescent qui donne une fluorescence de couleur rouge ?,Silicate de zinc,Silicate de calcium,Sulfure de zinc,Silicate de magnésium.,D
+Combien de bits sont nécessaires pour stocker un chiffre BCD ?,1,2,3,4,D
+Le collecteur dans un générateur à courant continu est utilisé pour,collecte du courant,réduire les pertes,augmenter l'efficacité,convertir le courant d'induit AC en DC,D
+1 F est théoriquement égal à,1 ohm de résistance,rapport de 1 V à 1 C,rapport de 1 C pour 1 V,aucun de ceux-ci,C
+Combien d'entrées y aura-t-il dans la table de vérité d'une porte NAND à 3 entrées ?,3,6,8,9,C
+"Dans le système de numération décimale, qu'est-ce que le CPS",Premier chiffre de gauche à droite,Premier chiffre de droite à gauche,Chiffre du milieu,Moyenne de tous les chiffres,A
+"Dans les conceptions de logique numérique, GAL est l'abréviation de",Logique d'Avance Générale,Logique de Tableau Général,Logique avancée générique,Logique de réseau générique,D
+Le signal ALE du microprocesseur Inintel 8085A est mis à l'état haut pour,Activer le bus de données pour être utilisé comme bus d'adresse de poids faible,Pour verrouiller les données D0-D7 du bus de données,Pour désactiver le bus de données,Pour accomplir toutes les fonctions énumérées ci-dessus,A
+"Pour une caractéristique de cathode de porte SCR, c'est une ligne droite de 130. Pour un volume de source déclenchée de 15 V et une dissipation de puissance de porte admissible de 0,5 W, calculez la résistance source-porte ?","111,9 ohms","11,19 ohms",108 ohms,115 ohms,A
+Le concept de contrôle V/f des onduleurs entraînant des moteurs à induction aboutit à,fonctionnement à couple constant,inversion de vitesse,pertes magnétiques réduites,élimination harmonique,A
+"L'énergie stockée dans le champ magnétique d'un solénoïde de 30 cm de long et 3 cm de diamètre, enroulé avec 1000 tours de fil transportant un courant de 10 ampères, est","0,015 joule","0,15 joule","0,015 joule","1,15 joule",B
+"Lors du fonctionnement sur des alimentations à fréquence variable, le moteur à courant alternatif nécessite une tension variable afin de",protéger l'isolation,éviter l'effet de saturation,améliorer les capacités de l'onduleur.,protéger le thyristor contre le dV / dt.,B
+Lequel des enroulements suivants est nécessaire dans le cas de toutes les machines à courant continu ?,enroulement fermé,enroulement imbriqué,enroulement ondulé,enroulement de type ouvert,A
+Les oscillateurs contrôlés en tension de relaxation sont utilisés pour générer,Onde sinusoïdale,Onde triangulaire,Onde en dents de scie,B et C,D
+La fréquence d'alimentation généralement utilisée pour le chauffage par courants de Foucault à haute fréquence est,1 kHz,5 kHz,10 MHz,10 kHz à 400 kHz,D
+"Dans le mode bascule, une bascule JK a","J = 0, K = 0.","J = 1, K = 1.","J = 0, K = 1.","J = 1, K = 0.",B
+La propulsion électrique devient de plus en plus populaire parce que,tout ce qui suit,Il offre un contrôle fluide et facile.,c'est moins cher en coût.,C'est simple et fiable.,A
+Un hacheur élévateur a une tension d'entrée de 110 V et une tension de sortie de 150 V. La valeur du rapport cyclique est,"0,32","0,67","0,45","0,27",B
+Un système de numération binaire comporte combien de chiffres.,0,1,2,10,C
+"La fréquence critique la plus basse est due au pôle et elle peut être présente à l'origine ou plus proche de l'origine, alors le type de réseau est",LC,RL.,RC,N'importe laquelle des options ci-dessus.,C
+Les avantages du système de contrôle en boucle ouverte sont/est,simple et économique.,précis,fiable,tout ce qui précède,A
+"La tension induite dans une bobine est représentée comme,",produit de son inductance et du courant qui le traverse.,rapport entre son inductance et le courant qui la traverse.,rapport du courant qui le traverse à son inductance.,produit de son inductance et du taux de variation du courant qui le traverse.,D
+"Si un nombre hexadécimal doit être converti en binaire. Pour chaque chiffre hexadécimal, combien de bits y aura-t-il ?",1,2,4,8,C
+Le chauffage par induction se produit dans,matériaux conducteurs mais non magnétiques.,"matériaux conducteurs qui peuvent être soit des matériaux magnétiques, soit des matériaux non magnétiques.",matériaux isolants,matériaux conducteurs et magnétiques,B
+"Dans une machine à courant continu à enroulement imbriqué, le nombre de conducteurs est de 100 et le nombre de voies parallèles est de 10. Trouvez le pas moyen.",10,100,50,1,A
+Le flux magnétique a pour unité le,Newton,Ampère-tour,Weber,Tesla,C
+"Dans un pont équilibré, si les positions du détecteur et de la source sont interchangées, le pont restera toujours équilibré. Cela peut être expliqué par quel théorème",Théorème de réciprocité,Théorème de Thévenin,Théorème de Norton,Théorème de compensation,A
+Une bascule D est dite transparente lorsque,la sortie est BASSE,la sortie est HAUTE,la sortie suit l'horloge,la sortie suit l'entrée,D
+Un motif de Lissajous sur un oscilloscope présente 5 tangences horizontales et 2 tangences verticales. La fréquence d'entrée horizontale est de 100 Hz. La fréquence verticale sera,500 Hz,250 Hz,400 Hz,625 Hz,B
+Le contrôle de la vitesse par variation du flux de champ entraîne,entraînement à puissance constante,entraînement à couple constant,entraînement à puissance variable,aucune des réponses ci-dessus,A
+Laquelle des mémoires suivantes utilise un transistor et un condensateur comme unité de mémoire de base,SRAM,DRAM,SRAM et DRAM,Aucun,B
+"Quel sera le nombre de lampes, chacune ayant 300 lumens, nécessaires pour obtenir un éclairement moyen de 50 lux dans une pièce rectangulaire de 4m * 3m ?",2,4,5,6,A
+"La sortie du système a un effet sur la quantité d'entrée, alors le système est un",système de contrôle en boucle ouverte,système de contrôle en boucle fermée,soit A soit B.,aucune des réponses ci-dessus,B
+"Un signal sinusoïdal est un signal analogique, car",il peut avoir un certain nombre de valeurs entre les pics négatifs et positifs,il est négatif pendant un demi-cycle,il est positif pendant un demi-cycle,il a des valeurs positives ainsi que négatives,A
+FM signifie,modulation fréquente,modulation de fréquence,modérateur de fréquence,modérateur fréquent,B
+La pile est également connue sous le nom de,Mémoire FIFO,Mémoire flash,Mémoire DEPS,Mémoire LILO,C
+"Dans le système Ward-Leonard, la limite inférieure de la vitesse imposée par",Résistance au champ,Résistance d'induit.,Magnétisme résiduel du générateur.,Aucune des réponses ci-dessus.,C
+L'oscillateur Colpitts est également appelé,Oscillateur à circuit résonant,Oscillateur LC,Oscillateur à circuit résonant,Tout ce qui précède,D
+Un SCR a une capacité de courant de surtension de demi-cycle de 3000 A pour une alimentation de 50 Hz. Le courant de surtension d'un cycle sera,1500 apr. J.-C.,6000 A.,"2121,32 A.","4242,64 A.",C
+Le ALU et la section de contrôle du CPU utilisent quel emplacement de stockage à usage spécial ?,Tampons,Décodeurs,Accumulateurs,Registres,C
+Les erreurs systématiques sont,erreurs environnementales,erreurs d'observation,erreurs instrumentales,tout ce qui précède,D
+Lequel ou lesquels des éléments suivants sont les inconvénients d'un système de contrôle en boucle ouverte ?,Inexact.,Peu fiable.,à la fois A et B.,aucune des réponses ci-dessus,C
+Une diode (jonction p-n) lorsqu'elle est polarisée en inverse agit comme,Sur Switch,Diode Zener,Condensateur,Interrupteur d'arrêt,D
+L'effet piézoélectrique est réalisé dans,filtre composite,filtre à cristal,m dérivé.,constante k prototype,B
+La résistivité du conducteur dépend de,surface du conducteur,longueur du conducteur,type de matériau,aucun de ceux-ci,C
+La plus petite variation de la variable mesurée à laquelle l'instrument répondra est,résolution,précision,précision,sensibilité,A
+"Dans les communications électroniques, ""AM"" signifie",Modification d'ampli,Méthode de l'amplitude,Modulation d'amplitude,Méthode d'Ampère,C
+Quel système est également connu sous le nom de système de contrôle automatique ?,Système de contrôle en boucle ouverte,Système de contrôle en boucle fermée,Soit A soit B,Ni A ni B,B
+Un PLD combinatoire avec un réseau AND fixe et un réseau OR programmable est appelé un,PLD,PROM,PAL,PLA,B
+Un instrument de type nul par rapport à un instrument de type dévié a,une sensibilité plus faible,une réponse plus rapide.,une précision plus élevée.,tout ce qui précède,C
+"La longueur du câble est doublée, sa capacité C sera",un quart,un demi,doublé,inchangé,C
+Les électrons dans le matériau de type p d'un semi-conducteur sont appelés,soit des porteurs minoritaires soit des porteurs majoritaires,porteurs minoritaires,porteurs majoritaires,supports de cantonnière,B
+________ est l'impureté la plus préjudiciable dans les matériaux magnétiques,Carbone,Soufre.,Oxygène.,Azote.,A
+Les oscillateurs contrôlés en tension sont couramment utilisés dans,Modulateurs d'impulsions Modulateurs de fréquence Boucles à verrouillage de phase,Modulateurs de fréquence,Boucles à verrouillage de phase,Tout ce qui précède,D
+Une alimentation à basse fréquence est nécessaire pour les fours à induction à noyau direct car,"Avec une alimentation électrique à fréquence normale, les forces électromagnétiques provoquent une action d'agitation intense dans le métal en fusion.",Le couplage magnétique entre le circuit primaire et le circuit secondaire est faible.,A et B.,Aucune des réponses ci-dessus.,C
+"Les galvanomètres à cadre mobile, l'amortissement est assuré par",le cadre en aluminium de la bobine,le ressort hélicoïdal attaché au mobile.,courant de Foucault dans un disque,ailette d'amortissement dans la chambre étanche.,A
+Laquelle des options suivantes est la quantité analogue à l'élément de masse dans l'analogie force-tension ?,Résistance.,Inductance,Capacité,Tout ce qui précède.,B
+Un verrou est sensible au ________,à la fois le niveau et le bord,bord,niveau,Aucun,C
+Qu'est-ce qui est utilisé pour protéger le SCR contre les surintensités ?,CB et fusible.,Dissipateur thermique,Circuit d'amortissement.,Dispositif de limitation de tension.,A
+Les erreurs principalement causées par des erreurs humaines sont,erreur grossière,erreur instrumentale,erreur d'observation,erreur systématique,A
+La quantité électrique analogue pour l'amortisseur dans l'analogie force-courant est,résistance,conductance,inductance,capacité,B
+Quelle lampe a le meilleur Indice de Rendu des Couleurs (IRC) ?,LED,Fluorescent,Incandescent,Vapeur de sodium à haute pression,C
+La dissipation de puissance dans une inductance idéale est,Maximum,Minimum,Zéro,Une valeur finie,C
+"Pour un travail intermittent, lequel des fours suivants est approprié ?",Four sans noyau.,Four à arc indirect.,L'un ou l'autre des deux ci-dessus.,Aucune des réponses ci-dessus.,B
+"Dans le soudage par résistance électrique, le matériau de l'électrode doit avoir",conductivités électriques plus élevées,conductivités thermiques plus élevées.,une résistance suffisante pour supporter une pression élevée à des températures élevées.,tout ce qui précède,D
+Lesquels des éléments suivants sont les éléments passifs ?,Résistance,Ampoule,Les deux,Aucune de ces options.,C
+Le principal avantage du chauffage diélectrique est que,Le chauffage se produit dans le matériau lui-même.,Le chauffage se produit en raison de la haute fréquence.,il peut être utilisé pour sécher les explosifs.,Aucune des réponses ci-dessus.,A
+Les matériaux utilisés dans les dissipateurs thermiques doivent avoir,conductivité thermique élevée,grande surface,point de fusion élevé,Tout cela.,D
+"Le conducteur est statique et le champ varie, alors une force électromotrice sera induite. Ce principe est appelé",force électromotrice induite virtuellement,force électromotrice induite dynamiquement,force électromotrice induite statique,aucun de ceux-ci,C
+"Quatre alternateurs identiques, chacun d'une puissance nominale de 20 MVA, 11 KV, ayant une réactance subtransitoire de 16%, fonctionnent en parallèle. Le niveau de court-circuit au jeu de barres est",500 MVA,400 MVA,125 MVA,100 MVA,A
+"Selon le modèle de Bohr, un électron gagne ou perd de l'énergie uniquement par",se déplaçant plus rapidement ou plus lentement dans une orbite autorisée.,sauter d'une orbite autorisée à une autre,être complètement retiré d'un atome.,sautant d'un atome à un autre atome.,B
+Un tampon à trois états a les états de sortie suivants,"1, 0, flottant","Haut, Bas, Flottant",A et B,"Régler, Réinitialiser, Arrêter",C
+"En utilisant lequel des éléments suivants, les systèmes de translation mécanique sont-ils obtenus ?",élément de masse,élément de ressort,amortisseur,tout ce qui précède,D
+"Quatre condensateurs de 40 µF chacun sont connectés en parallèle, la capacité équivalente du système sera",160 µF,10 µF,40 µF,5 µF,A
+"La résistance d'un conducteur de diamètre d et de longueur l est R Ω. Si le diamètre du conducteur est réduit de moitié et sa longueur est doublée, la résistance sera",R Ω,2R Ω,4R Ω,8R Ω,C
+Un onduleur monophasé en pont complet peut fonctionner en mode de commutation de charge dans le cas où la charge se compose de,RL.,RLC sous-amorti.,RLC suramorti.,RLC à amortissement critique.,B
+Un microprocesseur est une UAL,et unité de contrôle sur une seule puce.,et mémoire sur une seule puce.,enregistrer l'unité et le périphérique d'E/S sur une seule puce.,unité de registre et unité de contrôle sur une seule puce.,D
+"Pour obtenir une valeur élevée de capacité, la permittivité du milieu diélectrique doit être",bas,zéro,haut,unité,C
+Les mesures directes par la méthode de déflexion sont les plus largement utilisées car elles sont,le moins chronophage,le plus simple,le plus simple et le moins chronophage.,le plus précis,C
+Un instrument purement mécanique ne peut pas être utilisé pour des mesures dynamiques car ils ont,haute inertie,temps de réponse plus élevé,constante de temps élevée,tout ce qui précède,D
+Avantages d'une tension de transmission plus élevée est/sont,La capacité de transfert de puissance de la ligne de transmission est augmentée,Les pertes de ligne de transmission sont réduites,La section transversale et le volume du conducteur sont réduits,tout ce qui précède,D
+"En condition de surtension ou de sous-tension, l'impédance offerte par le dispositif de limitation de tension est",haut,bas,modéré,infini,B
+Un long fil composé d'un conducteur rond et lisse passe au-dessus et parallèlement au sol (supposé être un grand plan conducteur). Une haute tension existe entre le conducteur et le sol. La contrainte électrique maximale se produit à,surface inférieure du conducteur,surface supérieure du conducteur,la surface du sol,à mi-chemin entre le conducteur et la terre.,A
+"Dans une machine à courant continu, un enroulement ondulé à 6 pôles est utilisé. Quel est le nombre de voies parallèles ?",6,4,2,1,C
+Lequel des éléments suivants est un appareil numérique,Régulateur d'un ventilateur,Microphone,Résistance d'un matériau,Interrupteur,D
+La puissance instantanée dans une bobine est proportionnelle à la,produit du courant instantané et du taux de variation du courant,carré du courant instantané,carré du taux de variation du courant,température de l'inducteur,A
+Lequel des éléments suivants est un transducteur à déplacement variable ?,tachymètre,potentiomètre,synchros,aucune des réponses ci-dessus,B
+"Cinq condensateurs de 5 µF chacun sont connectés en série, la capacité équivalente du système sera",5 µF,25 µF,10 µF,1 µF,D
+La susceptibilité est négative pour,substances non magnétiques,substances diamagnétiques,substances ferromagnétiques,aucune des réponses ci-dessus,B
+L'une des suivantes est la fonction principale d'un oscillateur,produit des oscillations sinusoïdales,génère des formes d'onde non sinusoïdales,génère des oscillations soutenues à une amplitude constante et une fréquence spécifique,aucune des réponses ci-dessus,C
+Les surfaces métalliques pour le soudage par résistance électrique doivent être,rugueux,nettoyer,humidifié,coloré,B
+Le courant d'accrochage du thyristor est de 20 mA. Son courant de maintien sera,23 mA,40 mA,10 mA,60 mA,C
+"Dans l'analogie force-courant, la quantité électrique analogue au déplacement (x) est",tension,inductance,capacité,flux,D
+La rétroaction dans un oscillateur peut être réalisée par,Couplage résistif entre l'entrée et la sortie,Couplage capacitif entre l'entrée et la sortie,Couplage inductif entre l'entrée et la sortie,N'importe laquelle ou des combinaisons des méthodes ci-dessus,D
+"La fréquence critique la plus basse est due à zéro et elle peut être présente à l'origine ou plus près de l'origine, alors le type de réseau est",Circuit LC,Circuit RC,Circuit RLC,Circuit RL,D
+Quelle est la valeur de la constante diélectrique de l'air ?,Moins de 1,0,1.,aucun de ceux-ci,C
+La variation de température est un/une,Quantité numérique,Grandeur analogique,Quantité numérique ou analogique,Aucun,B
+L'éclairement à un point situé 5 mètres sous une lampe est de 6 lux. La puissance en bougies de la lampe est,30,Cent quarante.,150,200.,C
+"Pour une machine à courant continu, les valeurs de résistance shunt et de résistance d'induit sont",haut et haut,haut et bas,bas et bas,bas et haut,B
+Le changement de la section transversale du conducteur dans un champ magnétique aura un effet,réticence du chef d'orchestre,résistance du conducteur,(A) et (B) tous deux de la même manière.,aucune des réponses ci-dessus,C
+Lequel des éléments suivants est utilisé dans le SCR pour protéger contre un dV / dt élevé ?,Circuit d'amortissement.,Fusible,Circuit d'égalisation.,Disjoncteur.,A
+"Quels sont les ensembles de commandes dans un programme qui ne sont pas traduits en instructions machine pendant le processus d'assemblage, appelés ?",Moyens mnémotechniques,Directives,Identificateurs,Opérandes,B
+Vitesse de transmission des données dans le réseau 4G des télécommunications est,386 kbps - 2 mbps,2 Mbit/s,2 Mbps – 1 Gbps,100 Mbps - 1 Gbps,D
+Lequel des éléments suivants est/sont un/des élément(s) actif(s) ?,Source de tension,Source actuelle,Les deux,Aucune de ces options.,C
+La quantité électrique analogue pour l'élément de ressort (K) dans l'analogie force-tension est,L,R,1/C,C,C
+Un oscillateur à cristal de quartz se compose de,uniquement la fréquence de résonance série,uniquement la fréquence de résonance parallèle,les fréquences en série et en parallèle,ni fréquence en série ni en parallèle.,C
+Lequel des oscillateurs suivants est utilisé pour les applications à basse fréquence (BF),Oscillateurs LC,Oscillateurs RC,Oscillateurs LC et RC,Aucun,B
+"L'angle solide sous-tendu par une surface de 2400 cm^2 sur la surface d'une sphère de diamètre 1,2 m est",3 / 2,1 / 3,2 / 3,2 / 5,C
+L'erreur relative est la même que,rapport entre l'erreur absolue et la valeur vraie,erreur absolue,vraie erreur,aucune des réponses ci-dessus,A
+"Si le courant de maintien d'un thyristor est de 2 mA, alors le courant d'accrochage devrait être","0,01 A","0,002 A","0,009 A","0,004 A",D
+"Dans un Intel 8085A, quel est le premier cycle machine d'une instruction ?",Un cycle de récupération de code opération,Un cycle de lecture de mémoire,Un cycle d'écriture en mémoire,Un cycle de lecture E/S,A
+"Parmi les suivantes, quelles sont les inconvénients d'un système de contrôle en boucle fermée ?",Réduit le gain global.,Complexe et coûteux.,Réponse oscillatoire.,Tout ce qui précède.,D
+"Les pôles et les zéros sont disposés alternativement sur l'axe réel négatif, alors le(s) type(s) de réseau est/sont",Réseau LC,Réseau RC,Réseau RL.,À la fois 2 et 3.,D
+L'aimantation et le champ appliqué dans les matériaux ferromagnétiques sont liés,sinusoïdalement,non linéairement,linéairement,paraboliquement,B
+Des laminations minces sont utilisées dans une machine afin de réduire,Pertes par courants de Foucault,Pertes par hystérésis,A et B,Pertes cuivre,A
+Une surface métallique d'un rayon de 1 mètre et une densité de charge surfacique de 20 coulombs / m2 est enfermée dans un cube de 10 m de côté. Le déplacement électrique total sortant normal à la surface du cube est,40π coulombs,80π coulombs,10π coulombs,aucun de ceux-ci,B
+"Dans le système de numération binaire, le premier chiffre (bit) de droite à gauche est appelé","LSB, bit le moins significatif","MSB, bit le plus significatif",Premier Bit,Dernier Bit,A
+"Dans la méthode de mesure de puissance à deux wattmètres, si la puissance totale est mesurée par un seul wattmètre, alors le facteur de puissance du système est",0,"0,5",1.,aucune des réponses ci-dessus,B
+Un voltmètre de 0 à 100 V a une précision garantie de 2 % de la pleine échelle. La tension mesurée par le voltmètre est de 75 V. L'erreur limite est en pourcentage,"3,33 %","2,66 %",2 %,1 %,B
+Laquelle ou lesquelles des méthodes suivantes est/sont utilisée(s) pour la compensation réactive ou de tension,condensateur shunt,condensateur en série,excitation de contrôle de génération,tout ce qui précède,D
+La ROM programmée pendant le processus de fabrication lui-même est appelée,MROM,PROM,EPROM,EEPROM,A
+"Dans le 8085, le nom/les noms des registres 16 bits est/sont",pointeur de pile,compteur ordinal,à la fois A et B.,aucun de ceux-ci,C
+La stabilité d'une ligne de transmission peut être augmentée par,condensateur shunt,condensateur en série,réacteur shunt,à la fois A et B,D
+Le circuit d'écrêtage est utilisé avec le thyristor,en série,en parallèle,soit en série soit en parallèle,antiparallèle,B
+Le nombre d'anneaux dans le modèle de Bohr de n'importe quel élément est déterminé par quoi ?,Numéro de colonne sur le tableau périodique.,Masse atomique,Numéro de ligne dans le tableau périodique.,Numéro atomique.,C
+Le silicium et le germanium sont des éléments ________.,trivalent,pentavalent,hexavalent,tétravalent,D
+Le nombre de broches de sortie dans les microprocesseurs 8085 est,27.,40.,21.,19.,A
+"Si P est la puissance d'un système connecté en étoile, quelle sera la puissance d'un système équivalent connecté en triangle ?",P,3P,P/3,Aucune des réponses ci-dessus,A
+Quels oscillateurs sont faciles à fabriquer dans un circuit intégré monolithique ?,Oscillateur à quartz,Oscillateur de Hartley,Oscillateur de Wien,Oscillateur de relaxation.,D
+"Si tous les éléments d'un réseau particulier sont linéaires, alors le théorème de superposition serait valable, lorsque l'excitation est",CC uniquement,CA seulement,Soit CA soit CC,Une Impulsion,C
+Le facteur de rétroaction d'un oscillateur à pont de Wien utilisant un amplificateur opérationnel est,1/3,1/4,1/2,1,C
+"La durée du cycle de bus dans le 8086/8088 est de quatre cycles d'horloge, T1, T2, T3, T4 et un nombre indéterminé de cycles d'horloge d'état d'attente désignés par Tw. Les états d'attente sont toujours insérés entre",T1 & T2,T2 & T3,T3 & T4,T4 & T1,C
+Lequel des éléments suivants n'est pas un oscillateur sinusoïdal ?,Oscillateur LC,Oscillateur à déphasage RC,Oscillateur de relaxation,Oscillateur à quartz,C
+Un fil transportant du courant est plié sous la forme d'une boucle circulaire. Alors le champ magnétique autour de chaque portion du fil sera,parallèle au plan du fil.,perpendiculaire à la circonférence du fil,parallèle à la moitié et perpendiculaire pour l'autre moitié.,aucune des réponses ci-dessus,A

@@ -1,0 +1,143 @@
+"Nechť k je počet reálných řešení rovnice e^x + x - 2 = 0 v intervalu [0, 1] a nechť n je počet reálných řešení, která nejsou v [0, 1]. Která z následujících možností je pravdivá?",k = 0 a n = 1,k = 1 a n = 0,k = n = 1,k > 1,B
+"Až na izomorfismus, kolik existuje aditivních abelovských grup G řádu 16, které mají vlastnost, že x + x + x + x = 0 pro každé x v G?",0,1,2,3,D
+"Předpokládejme, že P je množina polynomů s koeficienty v Z_5 a stupněm menším nebo rovným 7. Pokud operátor D posílá p(x) v P na jeho derivaci p′(x), jaké jsou dimenze nulového prostoru n a oboru hodnot r operátoru D?",n = 1 a r = 6,n = 1 a r = 7,n = 2 a r = 5,n = 2 a r = 6,D
+Nejkratší vzdálenost od křivky xy = 8 k počátku je,4,8,16,2√2,A
+"V celkovém počtu 25 kufrů je 5 poškozených. Náhodně jsou vybrány tři kufry. Jaká je pravděpodobnost, že přesně 2 z nich jsou poškozené?",2/69,1/30,23. února,12/125,C
+"Nechť (Z_{10} , +, x) je okruh celých čísel modulo 10 a nechť S je podmnožina Z_{10} reprezentovaná {0, 2, 4, 6, 8}. Které z následujících tvrzení je NEPRAVDIVÉ?","(S, +, x) je uzavřený vzhledem k sčítání modulo 10.","(S, +, x) je uzavřený vzhledem k násobení modulo 10.","(S, +, x) má identitu při sčítání modulo 10.","(S, +, x) nemá identitu při násobení modulo 10.",D
+"Žebřík dlouhý 9 metrů je opřený o svislou zeď na rovném povrchu. Jak se spodní konec žebříku pohybuje od zdi konstantní rychlostí 2 metry za sekundu, horní konec klouže dolů podél zdi. Jakou rychlostí v metrech za sekundu bude horní konec žebříku klouzat dolů v okamžiku, kdy je horní konec 3 metry nad zemí?",12*odmocnina(2),6*odmocnina(2),4*odmocnina(2),1/(2*√2),C
+"Uvažujte úsečku délky 10. Body A a B jsou náhodně zvoleny tak, že A a B rozdělí úsečku na tři menší úseky. Jaká je pravděpodobnost, že tyto tři menší úseky mohou tvořit strany trojúhelníku?",0,10 %,25 %,50 %,C
+"Nechť V je konečně-dimenzionální reálný vektorový prostor a nechť P je lineární transformace V taková, že P^2 = P. Které z následujících tvrzení musí být pravdivé?
+I. P je invertibilní.
+II. P je diagonalizovatelná.
+III. P je buď identická transformace, nebo nulová transformace.",Žádný,Já pouze,II pouze,Pouze III,C
+Která z následujících možností je pravdivá?,Každý kompaktní prostor je úplný,Každý úplný prostor je kompaktní,"Ani (a), ani (b).",Obojí (a) i (b).,A
+"Diskrétní graf je úplný, pokud existuje hrana spojující každou dvojici vrcholů. Kolik hran má úplný graf s 10 vrcholy?",10,20,25,45,D
+"Předpokládejme, že X je diskrétní náhodná proměnná na množině kladných celých čísel taková, že pro každé kladné celé číslo n je pravděpodobnost, že X = n, rovna 1/2^n. Pokud Y je náhodná proměnná se stejným rozdělením pravděpodobnosti a X a Y jsou nezávislé, jaká je pravděpodobnost, že hodnota alespoň jedné z proměnných X a Y je větší než 3?",1/64,15/64,1/4,3/8,B
+Nechť V a W jsou 4-rozměrné podprostory 7-rozměrného vektorového prostoru X. Která z následujících možností NEMŮŽE být dimenzí podprostoru V průnik W?,0,1,2,3,A
+"Velká třída má být rozdělena do týmů a každý student musí být členem právě jednoho týmu. Každý student však nemá rád tři své spolužáky. Vzájemná antipatie mezi studenty nemusí být oboustranná. Pokud týmy nemusí být stejně velké, kolik jich musí být vytvořeno, aby žádný student nebyl v týmu s někým, koho nemá rád?",4,7,10,13,B
+"Sofia a Tess si každá náhodně vybere jedno z 10 celých čísel od 1 do 10. Jaká je pravděpodobnost, že žádné z vybraných čísel nebude druhou mocninou toho druhého?","0,64","0,72","0,81","0,95",D
+"Nechť K je neprázdná podmnožina R^n, kde n > 1. Které z následujících tvrzení musí být pravdivé?
+I. Pokud je K kompaktní, pak každá spojitá reálná funkce definovaná na K je omezená.
+II. Pokud je každá spojitá reálná funkce definovaná na K omezená, pak je K kompaktní.
+III. Pokud je K kompaktní, pak je K souvislá.",Já pouze,II pouze,Pouze III,I a II pouze,D
+"Předpokládejme, že V je reálný vektorový prostor konečné dimenze n. Nazvěme množinu matic z V do sebe M(V). Nechť T je v M(V). Uvažujme dva podprostory U = {X ∈ M(V) : TX = XT} a W = {TX − XT : X ∈ M(V)}. Které z následujících tvrzení musí být PRAVDIVÉ?
+I. Pokud V má bázi obsahující pouze vlastní vektory T, pak U = M(V).
+II. dim (U) + dim (W) = n^2
+III. dim (U) < n",Já pouze,II pouze,Pouze III,I a II pouze,B
+"Nechť F je konstantní jednotková síla, která je rovnoběžná s vektorem (-1, 0, 1) v xyz-prostoru. Jaká je práce vykonaná silou F na částici, která se pohybuje po dráze dané (t, t^2, t^3) mezi časem t=0 a časem t=1?",-1/4,-1/(4√2),0,sqrt(2),C
+"Nechť X je topologický prostor a nechť A, B a C jsou neprázdné podmnožiny X takové, že A c B c C; to znamená, že A je vlastní podmnožinou B a B je vlastní podmnožinou C. Které z následujících tvrzení je (jsou) pravdivé?
+I. Pokud jsou A a C souvislé, pak je B souvislá.
+II. Pokud jsou A a C kompaktní, pak je B kompaktní.
+III. Pokud jsou A a C Hausdorffovy, pak je B Hausdorffův.",I a II pouze,Pouze III,Pouze I a III,"I, II a III",D
+"Nechť x_1 = 1 a x_(n+1) = sqrt(3+2x_n) pro všechna kladná celá čísla n. Pokud se předpokládá, že {x_n} konverguje, pak lim x_n =",3,e,sqrt(5),0,A
+"Pokud v je vlastní vektor invertibilní matice A, které z následujících tvrzení I jsou nutně pravdivé?
+I. v je také vlastní vektor 2A.
+II. v je také vlastní vektor A^2.
+III. v je také vlastní vektor A^(-1).",Já pouze,II pouze,Pouze III,"I, II a III",D
+Pro kolik kladných celých čísel k končí běžný desítkový zápis celého čísla k! přesně 99 nulami?,Žádný,Jeden,Čtyři,Pět,D
+"Nechť R je okruh s multiplikativní jednotkou. Pokud U je aditivní podgrupa R taková, že ur je v U pro všechna u v U a pro všechna r v R, pak se U nazývá pravý ideál R. Pokud R má přesně dva pravé ideály, která z následujících tvrzení musí být pravdivá?
+I. R je komutativní.
+II. R je těleso (to znamená, že všechny prvky kromě aditivní jednotky mají multiplikativní inverze).
+III. R je nekonečný.",Já pouze,II pouze,Pouze III,I a II pouze,B
+"Šestistranná kostka (jejíž stěny jsou očíslovány od 1 do 6, jako obvykle) je známá jako padělaná: Pravděpodobnost hození jakéhokoli sudého čísla je dvakrát větší než pravděpodobnost hození jakéhokoli lichého čísla. Jaká je pravděpodobnost, že pokud je tato kostka hozena dvakrát, první hod bude 5 a druhý hod bude 6?",2/81,1/18,27. 2.,1/9,A
+"Tvrzení 1 | Předpokládejme, že {s_n} a {t_n} jsou posloupnosti komplexních čísel takové, že lim_n→∞ s_n = s a lim_n→∞ tn = t. lim_n→∞ s_nt_n = st. Tvrzení 2 | Existuje omezená posloupnost reálných čísel bez konvergentní podposloupnosti.","Pravda, Pravda","Pravda, Nepravda","Nepravda, Pravda","Nepravda, Nepravda",B
+"Definujme binární operaci na Z, množině celých čísel, rovnicí m • n = m + n + mn. Které z následujících tvrzení je (jsou) pravdivé o binární struktuře (Z, • )?
+I. Tato struktura není grupa, protože operace není asociativní.
+II. Tato struktura není grupa, protože neexistuje neutrální prvek.
+III. Tato struktura není grupa, protože ne všechny prvky mají inverzní prvek.
+IV. Tato struktura je grupa.",I a II pouze,Pouze I a III,Pouze II a III,Pouze III,D
+"Kate trvá k dní napsat cvičný test z matematiky GRE. Johnovi trvá j dní napsat cvičný test z matematiky GRE. Pokud Kate a John pracují na cvičném testu ve střídavých dvoudenních směnách, trvá jim to 10 dní, když začíná Kate, a 10,5 dne, když začíná John. Jak dlouho by trvalo oběma dokončit cvičný test, kdyby Kate a John pracovali současně?",9/2 dny,5 dní,41/8 dní,36/7 dní,D
+Jaká je největší možná plocha trojúhelníkové oblasti s jedním vrcholem ve středu kružnice o poloměru 1 a dalšími dvěma vrcholy na kružnici?,1/2,1,sqrt(2),pí,A
+"Nechť f(x,y) = x^2 - 2xy + y^3 pro všechna reálná x a y. Která z následujících možností je pravdivá?",f má všechna svá relativní extrémní místa na přímce x = y.,f má všechna svá relativní extrémní místa na parabole x = y^2.,"f má relativní minimum v bodě (0, 0).","f má absolutní minimum v bodě (2/3, 2/3).",A
+Jaký je největší řád prvku ve skupině permutací 5 objektů?,5,6,12,15,B
+"S(n) je tvrzení o kladných celých číslech n takové, že kdykoli je S(k) pravdivé, musí být S(k + 1) také pravdivé. Navíc existuje nějaké kladné celé číslo n0 takové, že S(n0) není pravdivé. Z následujících možností, který je nejsilnější závěr, který lze vyvodit?",S(n0 + 1) není pravdivé.,S(n0 - 1) není pravdivé.,S(n) neplatí pro žádné n <= n0,S(n) neplatí pro žádné n >= n0,C
+"V xyz-prostoru, jaké jsou souřadnice bodu na rovině 2x + y + 3z = 3, který je nejblíže počátku?","(0, 0, 1)","(3/7, 3/14, 9/14)","(7/15, 8/15, 1/15)","(5/6, 1/3, 1/3)",B
+"Pro která celá čísla n taková, že 3 <= n <= 11, existuje pouze jedna grupa řádu n (až na izomorfismus)?",Pro žádné takové celé číslo n,"Pro 3, 5, 7 a 11 pouze","Pro 3, 5, 7, 9 a 11 pouze","Pro 4, 6, 8 a 10 pouze",B
+Strom je souvislý graf bez cyklů. Kolik neizomorfních stromů s 5 vrcholy existuje?,1,2,3,4,C
+"Předpokládejme, že A a B jsou invertibilní matice n x n, kde n > 1, a I je jednotková matice n x n. Pokud jsou A a B podobné matice, které z následujících tvrzení musí být pravdivé?	I. A - 2I a B - 2I jsou podobné matice. II. A a B mají stejnou stopu.	 III. A^-1 a B^-1 jsou podobné matice.",Já pouze,II pouze,Pouze III,"I, II a III",D
+"Nechť C je kružnice v rovině yz, jejíž rovnice je (y - 3)^2 + z^2 = 1. Pokud se C otáčí kolem osy z, vznikne povrch, který je torus. Jaká je rovnice tohoto torusu?",x^2 + y^2 + z^2 + 8 = 6y,(x^2 + y^2 + z^2)^2 = 8 + 36(x^2 + z^2),(x^2 + y^2 + z^2 + 8)^2 = 36(x^2 + z^2),(x^2 + y^2 + z^2 + 8)^2 = 36(x^2 + y^2),D
+Která z následujících možností je rovnicí tečny ke grafu funkce y = x + e^x v bodě x = 0 ?,y = 2x + 1,y = 2x,y = x + 2,y = x + 1,A
+"Nechť V je reálný vektorový prostor všech reálných matic 2 x 3 a nechť W je reálný vektorový prostor všech reálných sloupcových vektorů 4 x 1. Pokud T je lineární transformace z V na W, jaká je dimenze podprostoru jádra T?",2,3,4,5,A
+"Tvrzení 1 | Předpokládejme, že ∑|a_i| diverguje a ∑ a_i = 2. Existuje přeuspořádání a_i_k členů takové, že ∑ a_i_k = 4. Tvrzení 2 | Existují metrické prostory X a Y, kde X je uzavřený a omezený, a spojité zobrazení f : X → Y takové, že f(X) NENÍ ""uzavřený a omezený"".","Pravda, Pravda","Pravda, Nepravda","Nepravda, Pravda","Nepravda, Nepravda",A
+Maximální počet ostrých úhlů v konvexním desetiúhelníku v Euklidovské rovině je,1,2,3,4,C
+"Pokud je f(z) analytická funkce, která zobrazuje celou konečnou komplexní rovinu na reálnou osu, pak imaginární osa musí být zobrazena na",celá reálná osa,bod,paprsek,otevřený konečný interval,B
+"Grupa G, ve které (ab)^2 = a^2b^2 pro všechna a, b v G, je nutně",konečný,cyklický,řádu dvě,abelovský,D
+"Pokud je f spojitě diferencovatelná reálná funkce definovaná na otevřeném intervalu (-1, 4) taková, že f(3) = 5 a f'(x) ≥ -1 pro všechna x, jaká je největší možná hodnota f(0)?",3,4,5,8,D
+"Předpokládejme, že A a B jsou matice n × n s reálnými prvky. Které z následujících tvrzení jsou PRAVDIVÉ?
+I. Stopa A^2 je nezáporná.
+II. Pokud A^2 = A, pak stopa A je nezáporná.
+III. Stopa AB je součinem stop A a B.",II pouze,Pouze III,I a II pouze,Pouze II a III,A
+Jaká je číslice na místě jednotek ve standardním desetinném zápisu čísla 7^25?,1,3,5,7,D
+"Tvrzení 1 | f : X → Y je spojitá a X je kompaktní. f musí být stejnoměrně spojitá. Tvrzení 2 | Pokud jsou f(x), g(x) : R → R všude diferencovatelné, f(g(x)) musí být všude diferencovatelná.","Pravda, Pravda","Pravda, Nepravda","Nepravda, Pravda","Nepravda, Nepravda",A
+Oblast ohraničená křivkami y = x a y = x^2 v prvním kvadrantu roviny xy je rotována kolem osy y. Objem výsledného rotačního tělesa je,π/12,π/6,π/3,2π/3,B
+"V rovině xy má křivka s parametrickými rovnicemi x = cos t a y = sin t, 0 <= t <= pi, délku",3,pí,3π,3/2,B
+"Které z následujících jsou platné intervaly konvergence pro mocninnou řadu?
+(I) [−1, 3)
+(II) (−∞, 0]
+(III) [2, 2] ∪ [3, 3]
+(IV) (−∞,∞)",Pouze (II),Pouze (IV ),(I) a (IV),(II) a (III),C
+"Pokud je f: R -> R omezená funkce, která je Lebesgueovsky integrovatelná, pak která z následujících možností musí být pravdivá?",f je Riemannovsky integrovatelná.,"Neexistuje spočetně nekonečná množina E reálných čísel taková, že f není diferencovatelná v každém x \in E.","Neexistuje nespočetná podmnožina E množiny R taková, že f není diferencovatelná v každém x \in E.",Žádná z uvedených možností.,D
+V rovině xy je grafem x^(log y) = y^log x,otevřený první kvadrant,uzavřená křivka,paprsek v otevřeném prvním kvadrantu,jediný bod,A
+Pro které p je norma ||x||_p vyjádřitelná jako skalární součin?,1,2,p >= 1,nekonečno,B
+"Nechť S je kompaktní topologický prostor, nechť T je topologický prostor a nechť f je funkce z S na T. Z následujících podmínek pro f, která je nejslabší podmínkou dostačující k zajištění kompaktnosti T?",f je homeomorfismus.,f je spojitá a prostá,f je spojitá.,f je prosté,C
+"Jaká je plocha rovnostranného trojúhelníku, jehož vepsaná kružnice má poloměr 2?",12,16,12*odmocnina(3),16*odmocnina(3),C
+Pro kterou hodnotu n existují právě dvě abelovské grupy řádu n až na izomorfismus?,4,7,8,12,A
+"Která z následujících možností není vždy pravdivá pro x, y, z ∈ R^k?",|x| ≥ 0,|x · y| ≤ |x||y|,"|x| = 0 tehdy a jen tehdy, když x = 0",|x + y| = |x| + |y|,D
+"Nechť V je vektorový prostor, při obvyklých operacích, reálných polynomů, které jsou nejvýše třetího stupně. Nechť W je podprostor všech polynomů p(x) ve V takových, že p(0) = p(1) = p(-1) = 0. Pak dim V + dim W je",4,5,6,7,B
+"Pokud V a W jsou 2-rozměrné podprostory R^4, jaké jsou možné dimenze podprostoru V průnik W?",1 pouze,pouze 2,Pouze 0 a 1,"0, 1 a 2 pouze",D
+"Křivky y = (sin x + cos x)^4 a y = (sin x - cos x)^4 se protínají v bodě x = 0. Pokud a je nejmenší kladná hodnota x, ve které se tyto křivky znovu protínají, určete plochu mezi těmito křivkami od x = 0 do x = a.",2,π,4,3π/2,C
+"Pokud je f lineární transformace z roviny do reálných čísel a pokud f(1, 1) = 1 a f(-1, 0) = 2, pak f(3, 5) =",9,8,0,-5,A
+Kolik reálných kořenů má polynom 2x^5 + 8x - 7?,Žádný,Jeden,Dva,Tři,B
+"Katedra matematiky na univerzitě má 10 profesorů a příští semestr bude nabízet 20 různých kurzů. Každému profesorovi budou přiděleny přesně 2 kurzy k výuce a každý kurz bude mít přiděleného přesně jednoho profesora, který ho bude vyučovat. Pokud může být každý profesor přidělen k výuce jakéhokoli kurzu, kolik různých kompletních přidělení 10 profesorů k 20 kurzům je možných?",20!/2^(10),10!/2^9,10^(20) - 2^(10),10^(20) - 100,A
+Které z následujících tvrzení jsou pravdivá:,"Je možné umístit lineární uspořádání ≤ na komplexní čísla C tak, že (C, +, ×, ≤) není uspořádané těleso.","Je možné umístit lineární uspořádání na komplexní čísla C, které by učinilo (C, +, ×, ≤) uspořádaným tělesem.","Ani (a), ani (b)","Jak (a), tak (b).",A
+"Ve hře dva hráči střídavě hází poctivou mincí; vítězem je ten, kdo jako první hodí pannu. Pravděpodobnost, že hráč, který hází jako první, vyhraje hru, je",1/4,1/3,1/2,2/3,D
+Která z následujících možností NENÍ skupina?,Celá čísla při sčítání,Nenulová celá čísla při násobení,Nenulová reálná čísla při násobení,Komplexní čísla při sčítání,B
+"Nechť x a y jsou kladná celá čísla taková, že 3x + 7y je dělitelné 11. Které z následujících musí být také dělitelné 11?",4x + 6y,x + y + 5,9x + 4y,4x - 9y,D
+"Jaká je minimální hodnota výrazu x + 4z jako funkce definované na R^3, při omezení x^2 + y^2 + z^2 <= 2?",0,-2,-odmocnina(34),-odmocnina(35),C
+"Nechť R je okruh a nechť U a V jsou (oboustranné) ideály R. Které z následujících musí být také ideály R?
+I. {u + v : u \in U a v \in V}
+II. {uv : u \in U a v \in V}
+III. {x : x \in U a x \in V}",II pouze,Pouze III,I a II pouze,Pouze I a III,D
+Oblast ohraničená osou x a funkcí f(x) = x/(1 + x^3) je rotována kolem osy x. Jaký je objem vytvořeného tělesa?,π/3,π/4,π,2π,A
+"Předpokládejme, že dnes je středa. Jaký den v týdnu bude za 10^(10^(10)) dní?",Neděle,Pondělí,Úterý,Středa,A
+"Voda kape z otvoru ve vrcholu obráceného kužele rychlostí 3 cm^3 za minutu. Výška kužele je 2 cm a poloměr 1 cm. Jakou rychlostí se mění výška vody, když je hladina vody půl centimetru pod vrcholem kužele? Objem kužele je V = (π/3)*r^2*h, kde r je poloměr a h je výška kužele.",−48/π cm/min,−4/(3π) cm/min,−8/(3π) cm/min,−16/(3π) cm/min,D
+"Uvažujte soustavu lineárních rovnic
+w + 3x + 2y + 2z = 0
+w + 4x + y = 0
+3w + 5x + 10y + 14z = 0
+2w + 5x + 5y + 6z = 0
+s řešeními ve tvaru (w, x, y, z), kde w, x, y a z jsou reálná čísla. Které z následujících tvrzení je NEPRAVDIVÉ?",Systém je konzistentní.,Systém má nekonečně mnoho řešení.,Součet jakýchkoli dvou řešení je řešením.,"Každé řešení je skalárním násobkem (-5, 1, 1, 0).",D
+"Pokud c > 0 a f(x) = e^x - cx pro všechna reálná čísla x, pak minimální hodnota f je",f(c),f(e^c),f(1/c),f(log c),D
+"Předpokládejme, že A je matice 3 × 3 taková, že det(A − λI) = −λ^3 + 3λ^2 + λ − 3, kde I je jednotková matice 3 × 3. Které z následujících tvrzení o A jsou PRAVDIVÉ?
+I. Stopa matice A je 3.
+II. Determinant matice A je −3.
+III. Matice A má vlastní čísla −3 a 1.",Já pouze,II pouze,Pouze III,I a II pouze,D
+"Nechť y = f(x) je řešením diferenciální rovnice x dy + (y - xe^x) dx = 0 takové, že y = 0, když x = 1. Jaká je hodnota f(2)?",1/(2e),1/e,e^2/2,2e,C
+"Spravedlivá mince má být hozena 100krát, přičemž každý hod skončí buď pannou, nebo orlem. Pokud H je celkový počet panen a T je celkový počet orlů, která z následujících událostí má největší pravděpodobnost?",H = 50,T >= 60,51 <= H <= 55,H >= 48 a T >= 48,D
+"Tvrzení 1 | Předpokládejme, že f : [a, b] je funkce a předpokládejme, že f má lokální maximum. Musí existovat f'(x) a rovnat se 0? Tvrzení 2 | Existují nekonstantní spojitá zobrazení z R do Q.","Pravda, Pravda","Pravda, Nepravda","Nepravda, Pravda","Nepravda, Nepravda",D
+"Nechť I != A != -I, kde I je jednotková matice a A je reálná matice 2 x 2. Pokud A = A^(-1), pak stopa matice A je",2,1,0,-1,C
+Celkem x stop plotu má tvořit tři strany vodorovného obdélníkového dvora. Jaká je maximální možná plocha dvora vyjádřená pomocí x?,x^2/9,x^2/8,x^2/4,x^2,B
+"Tvrzení 1 | Pokud je A spojitá, musí být uzávěr A také spojitý. Tvrzení 2 | Každá spojitá funkce f : (0, 1) → (0, 1) má pevný bod.","Pravda, Pravda","Pravda, Nepravda","Nepravda, Pravda","Nepravda, Nepravda",B
+Která z následujících množin má největší kardinalitu?,R,Množina všech funkcí z Z do Z,"Množina všech funkcí z R do {0, 1}",Množina všech konečných podmnožin R,C
+"Nechť f(x) je funkce, jejíž graf prochází počátkem. Pokud f(2n) = n^2 + f[2(n - 1)] pro každé celé číslo n, jaká je hodnota f(8)?",24,30,32,36,B
+Kolik strukturálně odlišných Abelových grup má řád 72?,4,6,8,9,B
+"Pokud konečná grupa G obsahuje podgrupu řádu sedm, ale žádný prvek (kromě identity) není svou vlastní inverzí, pak řád G by mohl být",27,28,35,37,C
+"Nechť f(x, y) = x^3 + y^3 + 3xy pro všechna reálná x a y. Pak existují různé body P a Q takové, že f má",lokální maximum v P a v Q,sedlový bod v P a v Q,lokální maximum v bodě P a sedlový bod v bodě Q,lokální minimum v bodě P a sedlový bod v bodě Q,C
+"Pokud je A podmnožinou reálné osy R a A obsahuje každé racionální číslo, která z následujících možností musí být pravdivá?","Pokud je A otevřené, pak A = R.","Pokud je A uzavřená, pak A = R.","Pokud je A nespočetná, pak A = R.","Pokud je A nespočetná, pak je A otevřená.",B
+Nechť M je reálná matice 5 x 5. Přesně čtyři z následujících pěti podmínek pro M jsou navzájem ekvivalentní. Která z těchto pěti podmínek není ekvivalentní s ŽÁDNOU z ostatních čtyř?,"Pro libovolné dva různé sloupcové vektory u a v matice M je množina {u, v} lineárně nezávislá.",Homogenní systém Mx = 0 má pouze triviální řešení.,Soustava rovnic Mx = b má jedinečné řešení pro každý reálný sloupcový vektor b o rozměrech 5 x 1.,Determinant matice M je nenulový.,A
+Kolik kladných čísel x splňuje rovnici cos(97x) = x?,1,15,31,49,C
+"Pro které z následujících okruhů je možné, aby součin dvou nenulových prvků byl nula?",Okruh komplexních čísel,Okruh celých čísel modulo 11,"Okruh spojitých reálných funkcí na [0, 1]",Množina {a + b * √2 : a a b jsou racionální čísla},C
+"Zobrazení x -> axa^2 grupy G do sebe sama je homomorfismus tehdy a jen tehdy, když",G je abelovská,G = {e},a^3 = e,a^2 = a,C
+"Pokud A je matice 2 x 2, jejíž prvek (i, j) se rovná i + j, a B je matice 3 x 3, jejíž prvek (i, j) se rovná i + j, najděte hodnotu součtu detA + detB.",-2,-1,0,2,B
+"Pokud f : (0, 1) → (0, 1], pak která z následujících možností by mohla být PRAVDIVÁ?
+I. f je prostá a na.
+II. Obraz f je kompaktní.
+III. f je spojitá, prostá a na.",Já pouze,II pouze,I a II pouze,Pouze I a III,C
+"Pokud je reálné číslo x náhodně vybráno z intervalu [0, 3] a reálné číslo y je náhodně vybráno z intervalu [0, 4], jaká je pravděpodobnost, že x < y?",1/2,7/12,5/8,2/3,C
+"Pravděpodobnost, že bod (x, y) v R^2 je vybrán, sleduje rovnoměrné náhodné rozdělení v oblasti popsané nerovností 0 < |x| + |y| < 1. Jaká je pravděpodobnost, že 2(x + y) > 1?",0,1/4,sqrt(2)/4,1/√2,B
+(1+i)^10 =,1,i,32,32i,D
+"Pokud U a V jsou 3-rozměrné podprostory R^5, jaké jsou možné dimenze U ∩ V?",0,1,0 nebo 1,"1, 2 nebo 3",D
+"Nechť S je podmnožina R^2 skládající se ze všech bodů (x, y) v jednotkovém čtverci [0, 1] × [0, 1], pro které je x nebo y, nebo obě, iracionální. Vzhledem ke standardní topologii na R^2 je S",zavřeno,otevřít,připojený,naprosto odpojený,C
+Která z následujících kružnic má největší počet průsečíků s parabolou x^2 = y + 4 ?,x^2 + y^2 = 1,x^2 + y^2 = 2,x^2 + y^2 = 9,x^2 + y^2 = 16,C
+"X je konečná množina s následující vlastností: Počet podmnožin X, které obsahují přesně 3 prvky, je o 14 větší než počet podmnožin X, které obsahují přesně 2 prvky. Kolik podmnožin X obsahuje přesně 4 prvky?",24,25,28,35,D
+"Nechť T: R^2 -> R^2 je lineární transformace, která zobrazuje bod (1, 2) na (2, 3) a bod (-1, 2) na (2, -3). Pak T zobrazuje bod (2, 1) na","(1, 6)","(-1, 4)","(3, 2)","(-4, 3)",A

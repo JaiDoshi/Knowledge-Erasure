@@ -1,0 +1,19 @@
+"Person 1: Hey, I have a question about nuclear fission.
+Person 2: Okay, what's your question?
+Person 1: You know how a uranium atom undergoes fission, right?
+Person 2: Yes, I'm familiar with that process. What about it?
+Person 1: Well, compared with the mass of a uranium atom undergoing fission, what can you say about the combined masses of the products after fission?",less,more,the same,zero,A
+"Person 1: Hey, I have a question about the equivalence principle.
+Person 2: Alright, what's your question?
+Person 1: According to the equivalence principle, what things are considered equivalent?",space and time.,a traveling twin and a stay-at-home twin.,gravity and acceleration.,mass and energy.,C
+"Person 1: Hey, I have a question about the colors in soap bubbles.
+Person 2: Okay, what's your question?
+Person 1: Do the colors in a soap bubble result from light?",converted to a different frequency,deflection,interference,polarization,C
+"Person 1: Hey, I have a question about model airplanes and wind.
+Person 2: Alright, what's your question?
+Person 1: You know how a model airplane flies slower when flying into the wind and faster with the wind at its back, right?
+Person 2: Yeah, that makes sense.
+Person 1: So, when launched at right angles to the wind, a cross wind, how does its groundspeed compare to flying in still air?",the same,greater,less,either greater or less depending on wind speed,B
+"Person 1: Hey, I have a question about elements and their mass per nucleon.
+Person 2: Okay, what's your question?
+Person 1: Out of these three elements, which one do you think has the highest mass per nucleon?",Hydrogen,Iron,Uranium,Same in each,A

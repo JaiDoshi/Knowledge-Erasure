@@ -1,0 +1,100 @@
+"Verilen Q(sqrt(2), sqrt(3), sqrt(18)) alan genişlemesinin Q üzerindeki derecesini bulun.",0,4,2,6,B
+"S_5'te p = (1, 2, 5, 4)(2, 3) olsun. S_5'te <p>'nin indeksini bulun.",8,2,24,120,C
+"Verilen polinomun belirtilen sonlu alandaki tüm sıfırlarını bulun. Polinomun katsayıları bu alanda yer almaktadır. x^5 + 3x^3 + x^2 + 2x, Z_5'te",0,1,"0,1","0,4",D
+"İfade 1 | Abelyen olmayan bir grubun faktör grubu Abelyen değildir. İfade 2 | Eğer K, H'nin normal bir alt grubu ve H, G'nin normal bir alt grubu ise, o zaman K, G'nin normal bir alt grubudur.","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",B
+"Verilen polinom halkasında verilen polinomların çarpımını bulun. f(x) = 4x - 5, g(x) = 2x^2 - 4x + 2, Z_8[x] içinde.",2x^2 + 5,6x^2 + 4x + 6,0,x^2 + 1,B
+"İfade 1 | Eğer bir grup 15 mertebeli bir elemana sahipse, en az 8 tane 15 mertebeli elemana sahip olmalıdır. İfade 2 | Eğer bir grup 8'den fazla 15 mertebeli elemana sahipse, en az 16 tane 15 mertebeli elemana sahip olmalıdır.","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",A
+"İfade 1 | Bir G grubunun her homomorfik görüntüsü, G'nin bir faktör grubuna izomorfiktir. İfade 2 | Bir G grubunun homomorfik görüntüleri, G'nin faktör gruplarıyla aynıdır (izomorfizme kadar).","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",A
+"İfade 1 | Bir halka homomorfizmi, yalnızca ve yalnızca çekirdeği {0} ise bire birdir. İfade 2 | Q, R'de bir idealdir.","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",D
+Verilen Q(sqrt(2) + sqrt(3)) alan genişlemesinin Q üzerindeki derecesini bulun.,0,4,2,6,B
+"Verilen polinomun belirtilen sonlu alandaki tüm sıfırlarını bulun. Polinomun katsayıları bu alanda yer almaktadır. x^3 + 2x + 2, Z_7'de",1,2,"2,3",6,C
+"İfade 1 | Eğer H, G'nin bir alt grubu ise ve a, G'ye aitse, o zaman |aH| = |Ha|. İfade 2 | Eğer H, G'nin bir alt grubu ise ve a ve b, G'ye aitse, o zaman aH ve Hb ya özdeştir ya da ayrıktır.","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",C
+"Eğer A = {1, 2, 3} ise, ilişki S = {(1, 1), (2, 2)} şöyledir",sadece simetrik,sadece anti-simetrik,hem simetrik hem de anti-simetrik,bir eşdeğerlik ilişkisi,C
+"Faktör grubunun (Z_11 x Z_15)/(<1, 1>) mertebesini bulun",1,2,5,11,A
+x^3 + 2x^2 + 2x + 1 polinomu Z_7[x]'te doğrusal faktörlere ayrılabilir. Bu faktörizasyonu bulun.,(x − 2)(x + 2)(x − 1),(x + 1)(x + 4)(x − 2),(x + 1)(x − 4)(x − 2),(x - 1)(x − 4)(x − 2),C
+S_n'nin bir elemanı için n = 10 olduğunda mümkün olan maksimum mertebe değerini bulun.,6,12,30,105,C
+"İfade 1 | R, Q üzerinde bazı polinomların bir ayrışma alanıdır. İfade 2 | 60 elemanlı bir alan vardır.","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",B
+"Çarpımsal grup {1, -1, i , -i} içinde -i'nin tersi",1,-1,i,-i,C
+"Verilen halkada çarpımı hesaplayın. Z_5 x Z_9'da (2,3)(3,5)","(1,1)","(3,1)","(1,6)","(3,6)",C
+Olağan çarpma işlemi altında tüm gerçek sayılar kümesi bir grup değildir çünkü,çarpma ikili bir işlem değildir,çarpma işlemi birleşme özelliğine sahip değildir,özdeşlik elemanı mevcut değil,sıfırın tersi yoktur,D
+"İfade 1| Asal sayı olan p için p^2 mertebeli her grup Abelyen'dir. İfade 2 | Sabit bir asal p için, bir G grubunun bir Sylow p-altgrubu, ancak ve ancak G'nin tek Sylow p-altgrubu ise G'nin normal bir altgrubudur.","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",A
+"İfade 1 | Sonlu gruplar G ve H için, |G + H| = |G||H|. (G + H iç direkt çarpımdır.) İfade 2 | Eğer r, m'yi böler ve s, n'yi bölerse, Z_m + Z_n, Z_r + Z_s'ye izomorf bir alt gruba sahiptir.","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",A
+"Verilen polinom halkasında verilen polinomların toplamını bulun. f(x) = 4x - 5, g(x) = 2x^2 - 4x + 2, Z_8[x] içinde.",2x^2 + 5,6x^2 + 4x + 6,0,x^2 + 1,A
+"İfade 1 | R^2'deki herhangi iki vektör kümesi doğrusal bağımsızdır. İfade 2 | Eğer V = span(v1, ... , vk) ve {v1, ... , vk} doğrusal bağımsız ise, o zaman dim(V) = k'dır.","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",D
+Karmaşık sayıların çarpımı altında tüm n'inci kök birlik kümesi bir/bir,yarı grup ve birim eleman,değişmeli birimli yarıgruplar,grup,değişmeli grup,D
+"İfade 1 | Her maksimal ideal bir asal idealdir. İfade 2 | Eğer I, değişmeli bir R halkasının maksimal ideali ise, R/I bir cisimdir.","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",B
+"G, tüm n x n tekil olmayan matrislerin kümesini temsil etsin, bu matrislerin girişleri rasyonel sayılardır. O halde çarpma işlemi altında G bir/bir",alt grup,sonlu değişmeli grup,"sonsuz, değişmeli olmayan grup","sonsuz, değişmeli",C
+İfade 1 | 42 mertebeli her grubun 7 mertebeli normal bir alt grubu vardır. İfade 2 | 42 mertebeli her grubun 8 mertebeli normal bir alt grubu vardır.,"Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",C
+Z[x] polinomunun Q üzerinde indirgenemezlik için bir Eisenstein kriterini sağlayıp sağlamadığını belirleyin. 8x^3 + 6x^2 - 9x + 24,"Evet, p=2 ile.","Evet, p=3 ile.","Evet, p=5 ile.",Hayır.,B
+İfade 1 | 6 elemanlı bir grubun bir homomorfizm altındaki görüntüsü 12 elemana sahip olabilir. İfade 2 | 6 elemanlı bir grubun 12 elemanlı bir gruba bir homomorfizmi vardır.,"Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",D
+İfade 1 | Devirli bir grubun homomorfik görüntüsü devirlidir. İfade 2 | Abelyen bir grubun homomorfik görüntüsü Abelyendir.,"Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",A
+"İfade 1 | Eğer H, G grubunun bir alt grubu ise ve a, G'ye aitse, o zaman aH = Ha'dır. İfade 2 | Eğer H, G'nin normal alt grubu ise ve a, G'ye aitse, o zaman H'deki tüm h'ler için ah = ha'dır.","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",B
+"Eğer (G, .) bir grup ise ve tüm a, b ∈ G için (ab)^-1 = a^-1b^-1 ise, o zaman G bir/bir",değişmeli yarı grup,değişmeli grup,değişmeli olmayan grup,Bunların hiçbiri,B
+"İfade 1 | Sonlu boyutlu bir vektör uzayında, her doğrusal bağımsız vektör kümesi bir bazda bulunur. İfade 2 | Eğer B_1 ve B_2 aynı vektör uzayı için bazlar ise, o zaman |B_1| = |B_2|'dir.","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",A
+"Bazı (G, 0) grubunun abelyen olduğu bilinmektedir. O halde G için aşağıdakilerden hangisi DOĞRUDUR?",G'deki her g için g = g^-1,G'deki her g için g = g^2,"(g o h)^2 = g^2 o h^2, G'deki her g ve h için",G sonlu mertebeli,C
+"İfade 1 | Eğer T: V -> W doğrusal bir dönüşüm ve dim(V) < dim(W) < 1 ise, o zaman T enjektif olmalıdır. İfade 2 | dim(V) = n olsun ve T: V -> V doğrusal olsun. Eğer T enjektif ise, o zaman bir bijeksiyondur.","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",A
+"Verilen Q(sqrt(2), sqrt(3)) alan genişlemesinin Q üzerindeki derecesini bulun.",0,4,2,6,B
+"Verilen halkada çarpımı hesaplayın. (20)(-8), Z_26'da",0,1,11,22,D
+Z[x] polinomunun Q üzerinde indirgenemezlik için bir Eisenstein kriterini sağlayıp sağlamadığını belirleyin. x^2 - 12,"Evet, p=2 ile.","Evet, p=3 ile.","Evet, p=5 ile.",Hayır.,B
+Z_7 sonlu alanı için üreteci bulun.,1,2,3,4,C
+İfade 1 | Her permütasyon bir döngüdür. İfade 2 | Her döngü bir permütasyondur.,"Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",D
+"Tamsayılar kümesi Z, a, b ∈ Z için a*b = a + b + 1 olarak tanımlanan ""*"" ikili işlemiyle birlikte bir gruptur. Bu grubun birim elemanı",0,1,-1,12,C
+Z_3 x 3Z halkasının karakteristiğini bulun.,0,3,12,30,A
+"İfade 1 | 45 mertebeli bazı abelyen grupların 10 mertebeli bir alt grubu vardır. İfade 2 | Bir G grubunun H alt grubu, ancak ve ancak H'nin sol yan sınıflarının sayısı H'nin sağ yan sınıflarının sayısına eşitse normal bir alt gruptur.","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",B
+İfade 1 | Karakteristiği 0 olan her tam bölge sonsuzdur. İfade 2 | Asal karakteristiğe sahip her tam bölge sonludur.,"Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",C
+"A ve B kümeler olsun, f: A -> B ve g: B -> A fonksiyonlar olsun öyle ki tüm a \in A için g(f(a)) = a olsun. İfade 1 | f fonksiyonu zorunlu olarak enjektif olmalıdır. İfade 2 | f fonksiyonu zorunlu olarak sürjektif olmalıdır.","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",C
+"İfade 1 | Herhangi iki grup G ve G' için, G'den G''ye bir homomorfizm vardır. İfade 2 | Her homomorfizm bire bir bir eşlemedir.","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",C
+İfade 1 | Bir homomorfizmin çekirdeği boş olabilir. İfade 2 | Bazı sonlu gruplardan bazı sonsuz gruplara önemsiz olmayan bir homomorfizm olması mümkün değildir.,"Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",B
+"Z_3'te, Z_3[x]/(x^3 + x^2 + c)'nin bir alan olduğu tüm c'leri bulun.",0,2,1,3,B
+"İfade 1 | Eğer R bir tam bölge ise, o zaman R[x] bir tam bölgedir. İfade 2 | Eğer R bir halka ve f(x) ve g(x), R[x]'te ise, o zaman deg (f(x)g(x)) = deg f(x) + deg g(x).","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",C
+Z_8 x Z_10 x Z_24'ün bazı elemanları için mümkün olan maksimum mertebe bulunuz.,8,120,240,24,B
+"İfade 1 | Her çözülebilir grup, asal-kuvvet mertebeli bir gruptur. İfade 2 | Asal-kuvvet mertebeli her grup çözülebilirdir.","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",D
+"Z_3'te, Z_3[x]/(x^3 + cx^2 + 1)'in bir cisim olduğu tüm c'leri bulun.",0,2,1,3,B
+"G = {2, 4, 6, 8} grubunda 10'a göre modüler çarpma altında, birim eleman şudur",6,8,4,2,A
+"İfade 1 | Eğer G, H ve K 4 dereceli gruplar ise, en az ikisi izomorfiktir. İfade 2 | Eğer Z_r + Z_s, Z_m + Z_n'nin bir alt grubuna izomorfik ise, o zaman r, m'yi böler ve s, n'yi böler.","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",C
+Verilen Q(sqrt(2)) alan genişlemesinin Q üzerindeki derecesini bulun.,0,2,1,3,B
+"İfade 1 | Her serbest abelyen grup burulmasızdır. İfade 2 | Her sonlu üretilmiş burulmasız abelyen grup, serbest bir abelyen gruptur.","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",A
+"İfade 1 | 4x - 2, Z üzerinde indirgenemezdir. İfade 2 | 4x - 2, Q üzerinde indirgenemezdir.","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",D
+Z_11 sonlu alanı için üreteci bulun.,1,2,3,4,B
+İfade 1 | 159 mertebeli her grup devirlidir. İfade 2 | 102 mertebeli her grubun aşikar olmayan öz normal bir alt grubu vardır.,"Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",A
+"İfade 1 | Eğer H ve K, G'nin alt grupları ise ve H veya K'den biri G'nin normal alt grubu ise, o zaman HK, G'nin bir alt grubudur. İfade 2 | p asal sayı olmak üzere, p^2 mertebeli tüm gruplar Abelyen'dir.","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",A
+"İfade 1 | Bir alt halkanın birimi, halkanın birimi ile aynı olmalıdır. İfade 2 | Her cisim bir tam bölgedir.","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",D
+"İfade 1 | Tamsayı girişleri ve sıfır olmayan determinantı olan 2 x 2 matrisler kümesi, matris çarpımı altında bir gruptur. İfade 2 | Tamsayı girişleri ve determinantı 1 olan 2 x 2 matrisler kümesi, matris çarpımı altında bir gruptur.","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",D
+"İfade 1 | Her komutatif halkanın her bölüm halkası yine bir komutatif halkadır. İfade 2 | Birimli bir R halkasındaki bir N ideali, ancak ve ancak 1 elemanı N'nin içindeyse R'nin tamamıdır.","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",C
+"Eğer A = (1, 2, 3, 4) ise. ~ = {(1, 2), (1, 3), (4, 2)} olsun. O halde ~ şudur",anti-simetrik olmayan,geçişli,yansıtıcı,simetrik,B
+Z'den Z_2'ye kaç tane homomorfizm vardır?,1,2,sonsuz sayıda,0,B
+İfade 1 | Her cisim aynı zamanda bir halkadır. İfade 2 | Her halkanın çarpımsal bir birim elemanı vardır.,"Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",C
+"İfade 1 | Eğer R bir halka ve f(x) ve g(x), R[x]'te ise, o zaman deg (f(x)+g(x)) = maksimum (deg f(x), deg g(x)). İfade 2 | Eğer F bir cisim ise, F[x]'in her ideali asaldır.","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",D
+"Bir grup (G,*)'nin bir alt kümesi H, eğer aşağıdaki koşulları sağlıyorsa bir gruptur","H'deki a,b => H'de a * b",H'de a => H'de a^-1,"H'de a,b => H'de a * b^-1",H özdeşlik elemanını içerir,C
+"Polinom x^4 + 4, Z_5[x] içinde doğrusal faktörlere ayrılabilir. Bu faktörizasyonu bulun.",(x − 2)(x + 2)(x − 1)(x + 1),(x+1)^4,(x-1)(x+1)^3,(x-1)^3(x+1),A
+"İfade 1 | Her pozitif tam sayı rankına sahip serbest bir abelyen grup vardır. İfade 2 | Sonlu üretilmiş bir abelyen grup, eğer Betti sayısı herhangi bir üreteç kümesindeki eleman sayısına eşitse serbest abelyendir.","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",A
+"(Z,*) bir gruptur ve tüm a, b ∈ Z için a*b = a+b+1'dir. a'nın tersi şudur",0,-2,a-2,(2+a)*-1,D
+Verilen Q(sqrt(2)*sqrt(3)) alan genişlemesinin Q üzerindeki derecesini bulun.,0,4,2,6,C
+"Fermat teoremini kullanarak, 3^47'nin 23'e bölündüğünde kalanını bulun.",1,2,3,4,D
+Z_3 x Z_3 halkasının karakteristiğini bulun.,0,3,12,30,B
+"İfade 1 | Eğer a ve b bir grubun elemanları ise ve a, b'ye eşit değilse, o zaman a^2, b^2'ye eşit değildir. İfade 2 | Bir dihedral gruptaki dönüşler kümesi, döngüsel bir alt grup oluşturur.","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",D
+İfade 1 | Bir grupta (ab)^{-2} = b^{-2}a^{-2}. İfade 2 | Bir grupta (ab)^n = a^nb^n.,"Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",B
+"İfade 1 | S_n, tüm n >= 3 için Abelyen değildir. İfade 2 | Eğer a, bir m-döngüsü olan bir permütasyon ve b, bir n-döngüsü olan bir permütasyon ise, o zaman |ab| = ekob(m,n).","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",C
+Z x Z halkasının karakteristiğini bulun.,0,3,12,30,A
+"İfade 1 | n > 1 için, {1,2, ..., n-1} kümesi modülo n çarpma işlemi altında bir gruptur. İfade 2 | 63x mod 100 = 1 olacak şekilde bir x tam sayısı vardır.","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",D
+"İfade 1 | Eğer K, sonlu üretilmiş serbest abelyen bir grubun sıfır olmayan bir alt grubu ise, o zaman K serbest abelyendir. İfade 2 | Eğer K, sonlu üretilmiş serbest abelyen bir grubun sıfır olmayan bir alt grubu ise, o zaman G / K serbest abelyendir.","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",C
+İfade 1 | Devirli grupların dış direkt çarpımı devirlidir. İfade 2 | D_3 ve D_4'ün dış direkt çarpımı D_12'ye izomorfiktir.,"Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",B
+İfade 1 | Her sıfır olmayan serbest abelyen grubun sonsuz sayıda bazı vardır. İfade 2 | En az 2 rütbeli her serbest abelyen grubun sonsuz sayıda bazı vardır.,"Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",D
+"İfade 1 | Her pozitif tam sayı n için n mertebeli bir devirli grup vardır. İfade 2 | Her sonlu devirli grup, grubun mertebesini bölen her mertebeden bir eleman içerir.","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",A
+"İfade 1 | Eğer bir grup 10. dereceden bir elemana sahipse, o zaman 1., 2. ve 5. dereceden elemanlara sahiptir. İfade 2 | Eğer bir grup 2. dereceden bir elemana ve 3. dereceden bir elemana sahipse, o zaman 6. dereceden bir elemana sahiptir.","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",C
+"A ve B kümeler olsun, f: A -> B ve g: B -> A fonksiyonlar olsun öyle ki tüm a \in A için g(f(a)) = a olsun. İfade 1 | g fonksiyonu zorunlu olarak enjektif olmalıdır. İfade 2 | g fonksiyonu zorunlu olarak sürjektif olmalıdır.","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",D
+"İfade 1 | Bir homomorfizm, yalnızca ve yalnızca çekirdeği sadece birim elemandan oluşuyorsa bire birdir. İfade 2 | 6 elemanlı bir grubun bazı homomorfizmler altındaki görüntüsü 4 elemana sahip olabilir.","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",C
+"İfade 1 | Eğer H ve K bir G grubunun alt grupları ise, o zaman |HK| = |H||K|/|H kesişim K|. İfade 2 | 2p mertebeli bir grup (p tek asal sayı olmak üzere) döngüsel veya D_p'ye izomorfiktir.","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",A
+"T: Z x Z -> Z için, T(1, 0) = 3 ve T(0, 1) = -5 olduğunda, T(-3,2)'yi bulun.",-19,-10,19,10,A
+Verilen halkada çarpımı hesaplayın. (12)(16) Z_24'te,0,1,4,6,A
+"İfade 1 | Her permütasyon bire bir bir fonksiyondur. İfade 2 | Her fonksiyon, yalnızca ve yalnızca bire bir ise bir permütasyondur.","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",C
+"İfade 1 | Eğer sonlu bir grubun mertebesi n ise, grup n'nin her pozitif böleni d için d mertebesinde bir alt grup içerir. İfade 2 | Eğer a sonlu bir gruba aitse, o zaman |a|, |G|'yi böler.","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",D
+2Z'nin alt grubu 4Z'nin tüm yan sınıflarını bulun.,4Z,"4Z, 2 + 4Z",2Z,Z,B
+Aşağıdaki ifadelerden hangisi doğrudur?,Her eşdeğerlik ilişkisi bir kısmi sıralama ilişkisidir.,"A = {x, y, z} kümesinden B = (1, 2) kümesine olan ilişkilerin sayısı 64'tür.",Boş ilişki _ yansıyandır,Bir ilişkinin simetrik olma ve simetrik olmama özellikleri birbirinin olumsuzudur.,B
+S_n'nin bir elemanı için n = 6 olduğunda mümkün olan maksimum mertebe değerini bulun.,6,12,30,105,A
+"İfade 1 | Q, Z_2'nin bir genişleme alanıdır. İfade 2 | Bir alan üzerindeki her sabit olmayan polinomun, bazı genişleme alanlarında bir sıfırı vardır.","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",D
+"İfade 1 | Eğer H, G'nin bir alt grubu ise ve a, G'ye aitse, o zaman aH, G'nin bir alt grubudur ancak ve ancak a, H'nin içindeyse. İfade 2 | Eğer H, G'nin bir alt grubu ise ve a ve b, G'ye aitse, o zaman aH = bH ancak ve ancak ab, H'nin içindeyse.","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",C
+Verilen polinomun belirtilen sonlu alandaki tüm sıfırlarını bulun. Polinomun katsayıları bu alanda bulunmaktadır. Z_2'de x^2 + 1,0,1,"0,1",2,B
+Belirtilen devirli gruptaki eleman sayısını bulun: 25 tarafından üretilen Z_30'un devirli alt grubu.,25,5,6,30,C
+"Z_12 x Z_8'in (4, 2) elemanının mertebesi",4,8,12,6,C
+"İfade 1 | Bir halkadaki her ideal, halkanın bir alt halkasıdır. İfade 2 | Her halkanın her alt halkası, halkanın bir idealidir.","Doğru, Doğru","Yanlış, Yanlış","Doğru, Yanlış","Yanlış, Doğru",C

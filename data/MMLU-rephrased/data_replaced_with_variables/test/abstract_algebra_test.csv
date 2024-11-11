@@ -1,0 +1,480 @@
+"Find the degree for the given field extension X over Y.
+
+X = Q(sqrt(2), sqrt(3), sqrt(18))
+Y = Q",0,4,2,6,B
+"Let X = (1, 2, 5, 4)(2, 3) in Y. Find the index of <X> in Y.
+
+X = (1, 2, 5, 4)(2, 3)
+Y = S_5",8,2,24,120,C
+"Find all zeros in the indicated X of the given polynomial with coefficients in that X. x^5 + 3x^3 + x^2 + 2x in Y
+
+X = finite field
+Y = Z_5",0,1,"0,1","0,4",D
+"Let X be a non-Abelian group.
+
+Statement 1 | A factor group of X is non-Abelian.
+Statement 2 | If K is a normal subgroup of H and H is a normal subgroup of G, then K is a normal subgroup of G.
+
+X = a non-Abelian group","True, True","False, False","True, False","False, True",B
+"Given:
+X = Z_8[x]
+Y = 4x - 5
+Z = 2x^2 - 4x + 2
+
+Find the product of the given polynomials Y and Z in the given polynomial ring X.",2x^2 + 5,6x^2 + 4x + 6,0,x^2 + 1,B
+"Let X be the number of elements of order 15 in a group.
+
+Statement 1 | If a group has an element of order 15, then X must be at least 8.
+Statement 2 | If X is greater than 8, then X must be at least 16.","True, True","False, False","True, False","False, True",A
+"Let X be a group.
+
+Statement 1 | Every homomorphic image of X is isomorphic to a factor group of X.
+Statement 2 | The homomorphic images of X are the same (up to isomorphism) as the factor groups of X.","True, True","False, False","True, False","False, True",A
+"Let X be a ring homomorphism and Y be the kernel of X.
+
+Statement 1 | X is one to one if and only if Y is {0}. Statement 2 | Q is an ideal in R.
+
+X: a ring homomorphism
+Y: the kernel of X","True, True","False, False","True, False","False, True",D
+"Find the X for the given Y Q(sqrt(2) + sqrt(3)) over Q.
+
+X = degree
+Y = field extension",0,4,2,6,B
+"Find all X in the indicated Y of the given Z with coefficients in that Y. X^3 + 2X + 2 in Z_7
+
+X = zeros
+Y = finite field
+Z = polynomial",1,2,"2,3",6,C
+"Given:
+X = subgroup
+Y = belongs to
+Z = identical or disjoint
+
+Statement 1 | If H is an X of G and a Y G then |aH| = |Ha|.
+Statement 2 | If H is an X of G and a and b Y G, then aH and Hb are Z.","True, True","False, False","True, False","False, True",C
+"Let X = {1, 2, 3} and let Y = {(1, 1), (2, 2)}. If X is a set, then is relation Y:
+
+Where:
+X = A
+Y = S",symmetric only,anti-symmetric only,both symmetric and anti-symmetric,an equivalence relation,C
+"Find the order of the factor group (X x Y)/(Z), where:
+X = Z_11
+Y = Z_15
+Z = <1, 1>",1,2,5,11,A
+"X^3 + 2X^2 + 2X + 1 can be factored into linear factors in Y[X]. Find this factorization.
+
+Y = Z_7",(x − 2)(x + 2)(x − 1),(x + 1)(x + 4)(x − 2),(x + 1)(x − 4)(x − 2),(x - 1)(x − 4)(x − 2),C
+"Let X be a positive integer.
+
+Find the maximum possible order for an element of S_X for X = 10.",6,12,30,105,C
+"Let X be the following statement: R is a splitting field of some polynomial over Q.
+Let Y be the following statement: There is a field with 60 elements.
+
+Statement 1 | X.
+Statement 2 | Y.","True, True","False, False","True, False","False, True",B
+"Let X be the multiplicative group {1, -1, i, -i}.
+
+The inverse of -i in X is
+
+X = the multiplicative group {1, -1, i, -i}",1,-1,i,-i,C
+"Given:
+X = (2,3)
+Y = (3,5)
+Z = Z_5 x Z_9
+
+Compute the product of X and Y in the ring Z.","(1,1)","(3,1)","(1,6)","(3,6)",C
+"The set of all X under the Y is not a Z since
+
+X = real numbers
+Y = usual multiplication operation
+Z = group",multiplication is not a binary operation,multiplication is not associative,identity element does not exist,zero has no inverse,D
+"X: p^2 where p is prime
+Y: Sylow p-subgroup
+Z: normal subgroup
+
+Statement 1| Every group of order X is Abelian. Statement 2 | For a fixed prime p a Y of a group G is a Z of G if and only if it is the only Y of G.","True, True","False, False","True, False","False, True",A
+"Let X = finite groups, Y = internal direct product, and Z = divides.
+
+If r Z m and s Z n then Z_m + Z_n has a subgroup isomorphic to Z_r + Z_s.
+
+Statement 1 | For X G and H, |G + H| = |G||H|. (G + H is the Y.)
+Statement 2 | If r Z m and s Z n then Z_m + Z_n has a subgroup isomorphic to Z_r + Z_s.","True, True","False, False","True, False","False, True",A
+"X = Z_8[x]
+Y = 4x - 5
+Z = 2x^2 - 4x + 2
+
+Find the sum of the given polynomials Y and Z in the given polynomial ring X.",2x^2 + 5,6x^2 + 4x + 6,0,x^2 + 1,A
+"Let X = R^2 and Y = {v1, ... , vk}.
+
+Statement 1 | Any set of two vectors in X is linearly independent. Statement 2 | If V = span(Y) and Y are linearly independent, then dim(V) = k.","True, True","False, False","True, False","False, True",D
+"Let X be the set of all Y roots of unity under multiplication of complex numbers. Does X form a/an Z?
+
+X = The set of all nth roots of unity
+Y = nth
+Z = group",semi group with identity,commutative semigroups with identity,group,abelian group,D
+"Let X be a maximal ideal and Y be a commutative ring.
+
+Statement 1 | Every X is a prime ideal.
+Statement 2 | If I is an X of Y R, then R/I is a field.
+
+X = maximal ideal
+Y = commutative ring","True, True","False, False","True, False","False, True",B
+"Let X denote the set of all Y x Y non-singular matrices with rational numbers as entries. Then under multiplication X is a/an
+
+X = G
+Y = n",subgroup,finite abelian group,"infinite, non abelian group","ininite, abelian",C
+"Let X be the number 42 and Y be the numbers 7 and 8.
+
+Statement 1 | Every group of order X has a normal subgroup of order Y.
+Statement 2 | Every group of order X has a normal subgroup of order Y.
+
+X = 42
+Y = 7 (for Statement 1), 8 (for Statement 2)","True, True","False, False","True, False","False, True",C
+"Determine whether the polynomial in X satisfies an Y criterion for irreducibility over Z.
+8x^3 + 6x^2 - 9x + 24
+
+X = Z[x]
+Y = Eisenstein
+Z = Q","Yes, with p=2.","Yes, with p=3.","Yes, with p=5.",No.,B
+"Let X be the number of elements in the first group.
+Let Y be the number of elements in the second group.
+
+Statement 1 | The image of a group of X elements under a homomorphism may have Y elements. Statement 2 | There is a homomorphism of some group of X elements into some group of Y elements.
+
+X = 6
+Y = 12","True, True","False, False","True, False","False, True",D
+"Let X be a cyclic group and Y be an Abelian group.
+
+Statement 1 | The homomorphic image of X is cyclic.
+Statement 2 | The homomorphic image of Y is Abelian.","True, True","False, False","True, False","False, True",A
+"Let X be a subgroup of a group Y, and let Z be an element of Y.
+
+Statement 1 | If X is a subgroup of a group Y and Z belongs to Y, then ZX = XZ.
+Statement 2 | If X is normal of Y and Z belongs to Y, then Zx = xZ for all x in X.
+
+X = H
+Y = G
+Z = a","True, True","False, False","True, False","False, True",B
+"Let X be a mathematical structure defined as (G, .). If (ab)^-1 = a^-1b^-1 for all a, b in G, then X is a/an
+
+X = group",commutative semi group,abelian group,non-abelian group,None of these,B
+"Let X be a finite dimensional vector space.
+
+Statement 1 | In X, every linearly independent set of vectors is contained in a basis.
+Statement 2 | If B_1 and B_2 are bases for X, then |B_1| = |B_2|.","True, True","False, False","True, False","False, True",A
+"Let X be an operation defined on G. Which one of the following is TRUE for G?
+
+X = 0, where 0 represents the group operation",g = g^-1 for every g in G,g = g^2 for every g in G,"(g o h)^2 = g^2 o h^2 for every g,h in G",G is of finite order,C
+"Let X = dim(V) and Y = dim(W).
+
+Statement 1 | If T: V -> W is a linear transformation and X < Y < 1, then T must be injective.
+
+Statement 2 | Let X = n and suppose that T: V -> V is linear. If T is injective, then it is a bijection.","True, True","False, False","True, False","False, True",A
+"Find the X for the given Y Q(sqrt(2), sqrt(3)) over Q.
+
+X = degree
+Y = field extension",0,4,2,6,B
+"Let X = 20 and Y = -8.
+
+Compute the product in the given ring. (X)(Y) in Z_26
+
+X = 20
+Y = -8",0,1,11,22,D
+"Let X = Z[x] and Y = Q.
+
+Determine whether the polynomial in X satisfies an Eisenstein criterion for irreducibility over Y. x^2 - 12","Yes, with p=2.","Yes, with p=3.","Yes, with p=5.",No.,B
+"Let X be the finite field Z_7.
+
+Find the generator for X.
+
+X = the finite field Z_7",1,2,3,4,C
+"Let X be a permutation and Y be a cycle.
+
+Statement 1 | Every X is a Y.
+Statement 2 | Every Y is an X.","True, True","False, False","True, False","False, True",D
+"Let X be the set of integers Z with the binary operation ""*"" defined as a*b = a + b + 1 for a, b in Z.
+
+X is a group. The identity element of this group is
+
+X = the set of integers Z with the binary operation ""*"" defined as a*b = a + b + 1 for a, b in Z",0,1,-1,12,C
+"Find the X of the Y Z_3 x 3Z.
+
+X = characteristic
+Y = ring",0,3,12,30,A
+"Let X be the number 45.
+
+Statement 1 | Some abelian group of order X has a subgroup of order 10.
+Statement 2 | A subgroup H of a group G is a normal subgroup if and only if the number of left cosets of H is equal to the number of right cosets of H.","True, True","False, False","True, False","False, True",B
+"Let X be an integral domain.
+
+Statement 1 | If X has characteristic 0, then X is infinite.
+Statement 2 | If X has prime characteristic, then X is finite.","True, True","False, False","True, False","False, True",C
+"Let X and Y be sets, f: X -> Y and g: Y -> X be functions such that for all a \in X, g(f(a)) = a.
+
+Statement 1 | The function f must necessarily be Z.
+Statement 2 | The function f must necessarily be surjective.
+
+X = A
+Y = B
+Z = injective","True, True","False, False","True, False","False, True",C
+"Let X be a homomorphism.
+
+Statement 1 | For any two groups G and G', there exists an X of G into G'.
+Statement 2 | Every X is a one-to-one map.","True, True","False, False","True, False","False, True",C
+"Statement 1 | An X may have an empty Y.
+Statement 2 | It is not possible to have a nontrivial X of some finite group into some infinite group.
+
+X = homomorphism
+Y = kernel","True, True","False, False","True, False","False, True",B
+"Find all X in Y such that Y[x]/(x^3 + x^2 + X) is a Z.
+
+X = c
+Y = Z_3
+Z = field",0,2,1,3,B
+"X: R is an integral domain
+Y: R is a ring
+Z: f(x) and g(x) are in R[x]
+
+Statement 1 | If X, then R[x] is an integral domain.
+Statement 2 | If Y and Z, then deg (f(x)g(x)) = deg f(x) + deg g(x).","True, True","False, False","True, False","False, True",C
+"Find the maximum possible order for some element of X x Y x Z.
+
+X = Z_8
+Y = Z_10
+Z = Z_24",8,120,240,24,B
+"Statement 1 | Every X is of Y order.
+Statement 2 | Every group of Y order is X.
+
+X = solvable group
+Y = prime-power","True, True","False, False","True, False","False, True",D
+"Find all X in Y such that Y[x]/(x^3 + Xx^2 + 1) is a Z.
+
+X = c
+Y = Z_3
+Z = field",0,2,1,3,B
+"Let X = {2, 4, 6, 8}.
+
+In the group X under multiplication modulo 10, the identity element is
+
+X = {2, 4, 6, 8}",6,8,4,2,A
+"Statement 1 | If X, Y and Z are groups of order 4, at least two of them are isomorphic.
+Statement 2 | If Z_r + Z_s is isomorphic to a subgroup Z_m + Z_n, then r divides m and s divides n.
+
+X, Y, Z = G, H, K","True, True","False, False","True, False","False, True",C
+"Find the X for the given Y Z(sqrt(2)) over Z.
+
+X = degree
+Y = field extension
+Z = Q",0,2,1,3,B
+"Let X be a free abelian group.
+Let Y be a finitely generated torsion-free abelian group.
+
+Statement 1 | Every X is torsion free. Statement 2 | Every Y is an X.","True, True","False, False","True, False","False, True",A
+"Let X = Z and Y = Q.
+
+Statement 1 | 4x - 2 is irreducible over X.
+Statement 2 | 4x - 2 is irreducible over Y.","True, True","False, False","True, False","False, True",D
+"Find the X for the finite field Y.
+
+X = generator
+Y = Z_11",1,2,3,4,B
+"Let X be the number 159 and let Y be the number 102.
+
+Statement 1 | Every group of order X is cyclic. Statement 2 | Every group of order Y has a nontrivial proper normal subgroup.","True, True","False, False","True, False","False, True",A
+"Let X be a positive integer and Y be a prime number.
+
+Statement 1 | If H and K are subgroups of G and one of H or K is normal subgroup of G, then HK is a subgroup of G.
+Statement 2 | All groups of order Y^X where Y is prime are Abelian.","True, True","False, False","True, False","False, True",A
+"Let X be a subring and Y be a ring.
+
+Statement 1 | The unity of X must be the same as the unity of Y.
+Statement 2 | Every field is an integral domain.","True, True","False, False","True, False","False, True",D
+"Let X be the set of 2 x 2 matrices with integer entries and nonzero determinant.
+Let Y be the set of 2 x 2 matrices with integer entries and determinant 1.
+
+Statement 1 | X is a group under matrix multiplication.
+Statement 2 | Y is a group under matrix multiplication.","True, True","False, False","True, False","False, True",D
+"Let X be a commutative ring and Y be an ideal in a ring R with unity 1.
+
+Statement 1 | Every quotient ring of every X is again an X.
+Statement 2 | Y in R is all of R if and only if 1 in Y.","True, True","False, False","True, False","False, True",C
+"Let X = (1, 2, 3, 4). Let Y = {(1, 2), (1, 3), (4, 2)}. Then Y is
+
+X = (1, 2, 3, 4)
+Y = {(1, 2), (1, 3), (4, 2)}",not anti-symmetric,transitive,reflexive,symmetric,B
+"How many X are there of Y into Z?
+
+X = homomorphisms
+Y = Z
+Z = Z_2",1,2,infinitely many,0,B
+"Let X be a field and Y be a ring.
+
+Statement 1 | Every X is also a Y.
+Statement 2 | Every Y has a multiplicative identity.","True, True","False, False","True, False","False, True",C
+"Let X be a ring and let Y(x) and Z(x) be in X[x].
+
+Statement 1 | If X is a ring and Y(x) and Z(x) are in X[x], then deg (Y(x)+Z(x)) = maximum (deg Y(x), deg Z(x)).
+Statement 2 | If F is a field then every ideal of F[x] is principal.","True, True","False, False","True, False","False, True",D
+"Let X be a subset of a group Y. X is a group if
+
+X = H
+Y = (G,*)","a,b in H=> a * b in H",a in H => a^-1 in H,"a,b in H=> a * b^-1 in H",H contains the identity element,C
+"Let X be the polynomial x^4 + 4 and let Y be the ring Z_5[x].
+
+X can be factored into linear factors in Y. Find this factorization.",(x − 2)(x + 2)(x − 1)(x + 1),(x+1)^4,(x-1)(x+1)^3,(x-1)^3(x+1),A
+"Let X be a positive integer.
+Let Y be a finitely generated abelian group.
+Let Z be the number of elements in some generating set of Y.
+
+Statement 1 | There exists a free abelian group of every X rank.
+Statement 2 | Y is free abelian if its Betti number equals Z.","True, True","False, False","True, False","False, True",A
+"Let X be the set of integers (Z).
+
+(X,*) is a group with a*b = a+b+1 for all a, b in X. The inverse of a is",0,-2,a-2,(2+a)*-1,D
+"Given:
+X = Q (the field of rational numbers)
+Y = sqrt(2)*sqrt(3)
+
+Find the degree for the given field extension X(Y) over X.",0,4,2,6,C
+"Find the remainder of X^47 when it is divided by Y.
+
+X = 3
+Y = 23",1,2,3,4,D
+"Find the X of the Y Z_3 x Z_3.
+
+X = characteristic
+Y = ring",0,3,12,30,B
+"Let X be a group.
+
+Statement 1 | If a and b are elements of X and a is not equal to b, then a^2 is not equal to b^2.
+Statement 2 | The set of rotations in a dihedral group form a cyclic subgroup.","True, True","False, False","True, False","False, True",D
+"Let X = (ab)^{-2} and Y = b^{-2}a^{-2}.
+
+Statement 1 | In a group X = Y.
+Statement 2 | In a group (ab)^n = a^nb^n.
+
+X = (ab)^{-2}
+Y = b^{-2}a^{-2}","True, True","False, False","True, False","False, True",B
+"Let X be the property of being non-Abelian.
+Let Y be the number of elements permuted by a permutation a.
+Let Z be the number of elements permuted by a permutation b.
+
+Statement 1 | S_n has property X for all n >= 3.
+Statement 2 | If a is a permutation that is a Y-cycle and b is a permutation that is a Z-cycle, then |ab| = lcm(Y,Z).","True, True","False, False","True, False","False, True",C
+"Find the X of the Y Z x Z.
+
+X = characteristic
+Y = ring",0,3,12,30,A
+"Let X be the set {1,2, ..., n-1}.
+
+Statement 1 | For n > 1, X is a group under multiplication modulo n.
+Statement 2 | There is an integer x such that 63x mod 100 = 1.
+
+X = {1,2, ..., n-1}","True, True","False, False","True, False","False, True",D
+"X: K is a nonzero subgroup of a finitely generated free abelian group
+Y: G / K is free abelian
+
+Statement 1 | If X, then K is free abelian.
+Statement 2 | If X, then Y.","True, True","False, False","True, False","False, True",C
+"Let X = cyclic groups, Y = D_3, Z = D_4.
+
+Statement 1 | The external direct product of X is cyclic.
+Statement 2 | The external direct product of Y and Z is isomorphic to D_12.","True, True","False, False","True, False","False, True",B
+"Let X be a nonzero free abelian group.
+Let Y be a free abelian group of rank at least 2.
+
+Statement 1 | Every X has an infinite number of bases.
+Statement 2 | Every Y has an infinite number of bases.","True, True","False, False","True, False","False, True",D
+"Let X be a positive integer.
+
+Statement 1 | For every X there is a cyclic group of order X.
+Statement 2 | Every finite cyclic group contains an element of every order that divides the order of the group.","True, True","False, False","True, False","False, True",A
+"Let X be the order of an element in a group.
+
+Statement 1 | If a group has an element of X, then it has elements of orders 1, Y, and Z.
+Statement 2 | If a group has an element of order Y and an element of order 3, then it has an element of order 2Z.
+
+X = 10
+Y = 2
+Z = 5","True, True","False, False","True, False","False, True",C
+"Let X and Y be sets, f: X -> Y and g: Y -> X be functions such that for all a \in X, g(f(a)) = a.
+
+Statement 1 | The function g must necessarily be Z.
+Statement 2 | The function g must necessarily be W.
+
+X = A
+Y = B
+Z = injective
+W = surjective","True, True","False, False","True, False","False, True",D
+"Let X be a homomorphism and Y be the kernel.
+
+Statement 1 | X is one to one if and only if Y consists of the identity element alone. Statement 2 | The image of a group of 6 elements under some X may have 4 elements.","True, True","False, False","True, False","False, True",C
+"Let X be a positive integer. Let Y be an odd prime number.
+
+Statement 1 | If H and K are subgroups of a group G, then |HK| = |H||K|/|H intersection K|.
+
+Statement 2 | A group of order X*Y where Y is an odd prime is cyclic or isomorphic to D_Y.
+
+X = 2
+Y = p","True, True","False, False","True, False","False, True",A
+"Given:
+X: Z x Z -> Z
+Y: T(1, 0) = 3
+Z: T(0, 1) = -5
+
+For X where Y and Z, find T(-3, 2).",-19,-10,19,10,A
+"Let X = (12)(16) and Y = Z_24.
+
+Compute the product X in the given ring Y.
+
+X = (12)(16)
+Y = Z_24",0,1,4,6,A
+"Statement 1 | Every X is a Y. Statement 2 | Every function is an X if and only if it is Y.
+
+X = permutation
+Y = one-to-one function","True, True","False, False","True, False","False, True",C
+"Let X be a finite group and Y be a positive divisor of the order of X.
+
+Statement 1 | If X has order n then X contains a subgroup of order Y for every Y of n.
+Statement 2 | If a belongs to X then |a| divides |X|.","True, True","False, False","True, False","False, True",D
+"Find all X of the Y 4Z of 2Z.
+
+X = cosets
+Y = subgroup",4Z,"4Z, 2 + 4Z",2Z,Z,B
+Which of the following statements is true?,Every equivalence relation is a partial-ordering relation.,"Number of relations form A = {x, y, z} to B= (1, 2), is 64.",Empty relation _ is reflexive,Properties of a relation being symmetric and being un-symmetric are negative of each other.,B
+"Let X be the set of all permutations on n elements.
+
+Find the maximum possible order for an element of X for n = 6.",6,12,30,105,A
+"Let X = Z_2.
+
+Statement 1 | Q is an extension field of X.
+Statement 2 | Every non-constant polynomial over a field has a zero in some extension field.","True, True","False, False","True, False","False, True",D
+"Let X be a subgroup of Y, and let Z belong to Y.
+
+Statement 1 | If X is a subgroup of Y and Z belongs to Y then ZX is a subgroup of Y if and only if Z is in X.
+
+Statement 2 | If X is a subgroup of Y and Z and W belong to Y then ZX = WX if and only if ZW is in X.
+
+X = H
+Y = G
+Z = a
+W = b","True, True","False, False","True, False","False, True",C
+"Find all X in the indicated Y of the given Z with coefficients in that Y. X^2 + 1 in Z_2
+
+X = zeros
+Y = finite field
+Z = polynomial",0,1,"0,1",2,B
+"Find the number of elements in the indicated X: The Y generated by 25.
+
+X = cyclic group
+Y = cyclic subgroup of Z_30",25,5,6,30,C
+"Let X = Z_12 x Z_8.
+Let Y = (4, 2).
+
+The element Y of X has order",4,8,12,6,C
+"Let X be a mathematical structure.
+
+Statement 1 | Every ideal in X is a subring of X.
+Statement 2 | Every subring of every X is an ideal of X.
+
+X = a ring","True, True","False, False","True, False","False, True",C

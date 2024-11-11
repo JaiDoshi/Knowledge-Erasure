@@ -1,0 +1,13 @@
+Biểu thức chính quy nào sau đây tương đương với (mô tả cùng một tập hợp chuỗi như) (a* + b)*(c + d)?,a*(c + d)+ b(c + d),a*(c + d)* + b(c + d)*,a*(c + d)+ b*(c + d),(a + b)*c +(a + b)*d,D
+"Một máy RISC pipeline nhất định có 8 thanh ghi đa năng R0, R1, . . . , R7 và hỗ trợ các phép toán sau.
+ADD Rs1, Rs2, Rd Cộng Rs1 với Rs2 và đặt tổng vào Rd
+MUL Rs1, Rs2, Rd Nhân Rs1 với Rs2 và đặt tích vào Rd
+Một phép toán thường mất một chu kỳ; tuy nhiên, một phép toán mất hai chu kỳ nếu nó tạo ra kết quả cần thiết cho phép toán ngay sau đó trong một chuỗi phép toán. Xét biểu thức AB + ABC + BC, trong đó các biến A, B, C được đặt trong các thanh ghi R0, R1, R2. Nếu nội dung của ba thanh ghi này không được phép thay đổi, số chu kỳ đồng hồ tối thiểu cần thiết cho một chuỗi phép toán tính giá trị của AB + ABC + BC là bao nhiêu?",5,6,7,8,B
+"Mẫu thiết kế Singleton được sử dụng để đảm bảo rằng chỉ có một thể hiện duy nhất của một lớp có thể được khởi tạo. Điều nào sau đây đúng với mẫu thiết kế này?
+I. Lớp Singleton có một phương thức tĩnh để cung cấp thể hiện của nó.
+II. Lớp Singleton có thể là một lớp con của một lớp khác.
+III. Lớp Singleton có một hàm tạo riêng tư.",Tôi chỉ,II chỉ,Chỉ III,"I, II và III",D
+"Một trình biên dịch tạo ra mã cho câu lệnh gán sau đây.
+G := (A + B) * C - (D + E) * F
+Máy đích có một bộ tích lũy duy nhất và một tập lệnh địa chỉ đơn bao gồm các lệnh load, store, add, subtract và multiply. Đối với các phép toán số học, toán hạng bên trái được lấy từ bộ tích lũy và kết quả xuất hiện trong bộ tích lũy. Số lệnh nhỏ nhất có thể trong mã kết quả là",5,6,7,9,D
+"Hãy xem xét một thiết kế máy tính trong đó nhiều bộ xử lý, mỗi bộ có bộ nhớ đệm riêng, chia sẻ bộ nhớ toàn cục bằng cách sử dụng một bus duy nhất. Bus này là tài nguyên hệ thống quan trọng. Mỗi bộ xử lý có thể thực hiện một lệnh mỗi 500 nanosecond miễn là các tham chiếu bộ nhớ được đáp ứng bởi bộ nhớ đệm cục bộ của nó. Khi xảy ra trường hợp bộ nhớ đệm không trúng, bộ xử lý bị trì hoãn thêm 2.000 nanosecond. Trong nửa đầu của thời gian trì hoãn bổ sung này, bus được dành riêng để phục vụ trường hợp bộ nhớ đệm không trúng. Trong nửa còn lại, bộ xử lý không thể tiếp tục, nhưng bus được tự do để phục vụ yêu cầu từ các bộ xử lý khác. Trung bình, mỗi lệnh yêu cầu 2 tham chiếu bộ nhớ. Trung bình, trường hợp bộ nhớ đệm không trúng xảy ra trên 1 phần trăm các tham chiếu. Một bộ xử lý đơn lẻ sẽ tiêu thụ bao nhiêu phần trăm công suất của bus, bỏ qua các trì hoãn do cạnh tranh từ các bộ xử lý khác?",1/50,1/27,1/25,2/27,B

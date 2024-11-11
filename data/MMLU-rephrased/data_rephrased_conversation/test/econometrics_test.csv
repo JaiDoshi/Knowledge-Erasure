@@ -1,0 +1,548 @@
+"Person 1: Hey, I have a question about confidence intervals.
+Person 2: Okay, what's your question?
+Person 1: I'm trying to understand what a 99% confidence interval means, exactly. How would you define it?","99% of the time in repeated samples, the interval would contain the true value of the parameter","99% of the time in repeated samples, the interval would contain the estimated value of the parameter","99% of the time in repeated samples, the null hypothesis will be rejected","99% of the time in repeated samples, the null hypothesis will not be rejected when it was false",A
+"Person 1: Hey, I have a question about unit root testing.
+Person 2: Sure, what's your question?
+Person 1: I'm a bit confused about the difference between the Dickey Fuller and Phillips-Perron approaches.
+Person 2: Ah, that's a common point of confusion. What exactly are you unsure about when it comes to the main difference between the two?",ADF is a single equation approach to unit root testing while PP is a systems approach,PP tests reverse the DF null and alternative hypotheses so that there is stationarity under the null hypothesis of the PP test,The PP test incorporates an automatic correction for autocorrelated residuals in the test regression,PP tests have good power in small samples whereas DF tests do not.,C
+"Person 1: Hey, I have a question about the leverage effect and news impact curves.
+Person 2: Okay, what's your question?
+Person 1: If there were a leverage effect in practice, what would you expect the shape of the news impact curve to look like for a model that accounted for that leverage?",It would rise more quickly for negative disturbances than for positive ones of the same magnitude,It would be symmetrical about zero,It would rise less quickly for negative disturbances than for positive ones of the same magnitude,It would be zero for all positive disturbances,A
+"Person 1: Hey, I have a question about the linear probability model.
+Person 2: Alright, what's your question?
+Person 1: I'm trying to figure out which statement about the linear probability model is false.
+Person 2: Okay, go ahead and tell me the statements you're considering.
+Person 1: Which of the following statements is false concerning the linear probability model?",There is nothing in the model to ensure that the estimated probabilities lie between zero and one,"Even if the probabilities are truncated at zero and one, there will probably be many observations for which the probability is either exactly zero or exactly one",The error terms will be heteroscedastic and not normally distributed,The model is much harder to estimate than a standard regression model with a continuous dependent variable,D
+"Person 1: Hey, I have a question about regression populations and samples.
+Person 2: Alright, what's your question?
+Person 1: So, I'm trying to figure out which statement about them is false.
+Person 2: Okay, go ahead and tell me the statements you're considering.
+Person 1: Which of the following statements concerning the regression population and sample is FALSE?",The population is the total collection of all items of interest,The population can be infinite,"In theory, the sample could be larger than the population",A random sample is one where each individual item from the population is equally likely to be drawn.,C
+"Person 1: Hey, I have a question about comparing the Box-Pierce Q and the Ljung-Box Q* statistics for linear dependence in time series.
+Person 2: Okay, what's your question?
+Person 1: Well, I'm trying to figure out which statement is incorrect when comparing these two statistics.
+Person 2: Alright, go ahead and tell me the statements you're considering.","Asymptotically, the values of the two test statistics will be equal",The Q test has better small-sample properties than the Q*,The Q test is sometimes over-sized for small samples,"As the sample size tends towards infinity, both tests will show a tendency to always reject the null hypothesis of zero autocorrelation coefficients.",B
+"Person 1: Hey, I have a question about parsimonious models.
+Person 2: Okay, what's your question?
+Person 1: A parsimonious model is one that...?",Includes too many variables,Includes as few variables as possible to explain the data,Is a well-specified model,Is a mis-specified model,A
+"Person 1: Hey, I have a question about continuously compounded returns.
+Person 2: Okay, what's your question?
+Person 1: Well, I know they're also called log-returns, right?
+Person 2: Yes, that's correct.
+Person 1: So, which of the following is NOT a feature of continuously compounded returns?",They can be interpreted as continuously compounded changes in the prices,They can be added over time to give returns for longer time periods,They can be added across a portfolio of assets to give portfolio returns,They are usually fat-tailed,C
+"Person 1: Hey, I have a question about financial asset return time-series.
+Person 2: Okay, what's your question?
+Person 1: You know how a standard GARCH(1,1) model can capture certain features of these time-series, right?
+Person 2: Yes, I'm familiar with that. What specific features are you wondering about?
+Person 1: Well, I'm trying to figure out which of the following features could be captured using a standard GARCH(1,1) model: fat tails in the return distribution, leverage effects, volatility clustering, or volatility affecting returns.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",B
+"Person 1: Hey, I have a question about estimating a GARCH-M model.
+Person 2: Alright, what's your question?
+Person 1: Let's say you're using a time-series of daily corporate bond percentage returns as your data.
+Person 2: Okay, and what about it?
+Person 1: What would you expect the value of the GARCH-in-mean parameter estimate to be in this case?",Less than -1,Between -1 and 0,Between 0 and 1,Bigger than 1,C
+"Hey, I was wondering if you could help me with a question about bootstrapping and simulation?
+Of course, what's the question?
+Under what situations would bootstrapping be preferred over pure simulation?
+Hmm, that's an interesting question. Can you tell me a bit more about the specific situations you're considering?
+Well, I'm trying to figure out when it would be better to use bootstrapping based on the distributional properties of the data, the sample size, and what information is known.
+I see. So you're weighing different factors like whether you want the distributional properties to match the actual data, if those properties are known or unknown, and the available sample size?
+Yes, exactly! I'm not sure how those different aspects would influence the choice between bootstrapping and simulation.
+Those are good considerations. The key is to think about the goals of the analysis and the limitations of the available data. Different situations will call for different approaches.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iv) only","(i), (ii), (iii), and (iv)",B
+"Hey, I've been studying the consequences of violating the CLRM assumptions. Do you know what some of them might be?
+
+There are a few potential consequences. The coefficient estimates and standard error estimates may not be optimal, for starters.
+
+Oh, interesting. What about the distributions assumed for the test statistics and conclusions about the relationships between variables?
+
+Those could be affected too. The distributions assumed for the test statistics may be inappropriate, and conclusions about the strength of relationships between the dependent and independent variables could be invalid.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",D
+"Person 1: Hey, I have a question about econometrics.
+Person 2: What's your question?
+Person 1: It's about forecasting in econometrics.
+Person 2: Okay, what about forecasting?
+Person 1: Which of the following statements is true concerning forecasting in econometrics?",Forecasts can only be made for time-series data,Mis-specified models are certain to produce inaccurate forecasts,Structural forecasts are simpler to produce than those from time series models,In-sample forecasting ability is a poor test of model adequacy,D
+"Person 1: Hey, I have a question about the pacf.
+Person 2: Okay, what's your question?
+Person 1: The pacf is necessary for distinguishing between what?",An AR and an MA model,An AR and an ARMA model,An MA and an ARMA model,Different models from within the ARMA family,B
+"Person 1: Hey, I have a question about residual autocorrelation.
+Person 2: Okay, what's your question?
+Person 1: Well, I know that residual autocorrelation can be either positive or negative, right?
+Person 2: That's correct.
+Person 1: So, negative residual autocorrelation is indicated by which one of the following?",A cyclical pattern in the residuals,An alternating pattern in the residuals,A complete randomness in the residuals,Residuals that are all close to zero,B
+"Person 1: I have a question about ARCH(q) and GARCH(1,1) models.
+Person 2: Okay, what would you like to know about them?
+Person 1: I was wondering which statements are true when comparing the two models.
+Person 2: There are a few key differences between ARCH(q) and GARCH(1,1) models. What specific statements are you considering about their properties and how they differ?
+Person 1: Well, I'm curious about their parsimony, non-negativity constraints, the number of lags they allow, and whether GARCH(1,1) is usually sufficient to capture all the conditional variance dependence.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",A
+"Person 1: Hey, I have a question about triangular or recursive systems.
+Person 2: Okay, what's your question?
+Person 1: Well, I was wondering which statements are true concerning these systems.
+Person 2: Alright, let's see if I can help. What are the statements you're considering?
+Person 1: The first is that the parameters can be validly estimated using separate applications of OLS to each equation. The second is that the independent variables may be correlated with the error terms in other equations. The third is that an application of 2SLS would lead to unbiased but inefficient parameter estimates. And the fourth is that the independent variables may be correlated with the error terms in the equations in which they appear as independent variables.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",C
+"Person 1: Hey, I have a question about regression lines.
+Person 2: Okay, what's your question?
+Person 1: I'm trying to figure out which statement best describes the algebraic representation of a fitted regression line.
+Person 2: Hmm, that's an interesting question. Can you tell me the different statements you're considering?",\hat{y}_t = \hat{\alpha} + \hat{\beta}x_t + \hat{u}_t,\hat{y}_t = \hat{\alpha} + \hat{\beta}x_t,\hat{y}_t = \hat{\alpha} + \hat{\beta}x_t + u_t,y_t = \hat{\alpha} + \hat{\beta}x_t + \hat{u}_t,B
+"Person 1: Hey, I have a question about linear algebra.
+Person 2: Alright, what's your question?
+Person 1: So I'm looking at the expression $\hat{u}^t \hat{u}$. Do you know what the dimensions of that would be?",T x k,T x 1,k x 1,1 x 1,D
+"Person 1: Hey, I have a question about the characteristic roots of an MA process.
+Person 2: Okay, what's the MA process?
+Person 1: It's $y_t = -3u_{t-1} + u_{t-2} + u_t$.
+Person 2: Alright, so what's your question about the characteristic roots of that MA process?
+Person 1: The characteristic roots of the MA process $y_t = -3u_{t-1} + u_{t-2} + u_t$ are...?",1 and 2,1 and 0.5,2 and -0.5,1 and -3,B
+"Person 1: Hey, I have a question about explanatory variables.
+Person 2: Okay, what's your question?
+Person 1: You know how sometimes we say an explanatory variable is ""non-stochastic""?
+Person 2: Yes, I'm familiar with that term.
+Person 1: Is there an equivalent expression for saying that an explanatory variable is ""non-stochastic""?",The explanatory variable is partly random,The explanatory variable is fixed in repeated samples,The explanatory variable is correlated with the errors,The explanatory variable always has a value of one,B
+"Person 1: Hey, I have a question about the Durbin-Watson test.
+Person 2: Okay, what's your question?
+Person 1: Suppose the test is applied to a regression with two explanatory variables plus a constant, using 50 data points.
+Person 2: Alright, and what's the value of the test statistic?
+Person 1: The test statistic is 1.53. What conclusion should be drawn from this result?",Residuals appear to be positively autocorrelated,Residuals appear to be negatively autocorrelated,Residuals appear not to be autocorrelated,The test result is inconclusive,D
+"Person 1: Hey, I have a question about using OLS when autocorrelation is present.
+Person 2: Okay, what's your question?
+Person 1: If OLS is used in the presence of autocorrelation, what are the likely consequences?
+Person 2: Hmm, there could be a few potential issues. Do you want me to list some possibilities?
+Person 1: Yes, that would be great!",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",A
+"Person 1: Hey, I have a question about the ordinary least squares (OLS) estimator.
+Person 2: Alright, what's your question?
+Person 1: I was wondering, what happens to the properties of the OLS estimator when there's multicollinearity present in the data?
+Person 2: That's an interesting question. Let me think about it for a moment.","It will be consistent, unbiased and efficient",It will be consistent and unbiased but not efficient,It will be consistent but not unbiased,It will not be consistent,A
+"Person 1: Hey, I have a question about non-stationary data.
+Person 2: Alright, what's your question?
+Person 1: You know how using non-stationary data in levels form can have consequences, right?
+Person 2: Yes, I'm aware of that.
+Person 1: So, which one of the following would NOT be a consequence of using non-stationary data in levels form?",The regression $R^2$ may be spuriously high,Test statistics may not follow standard distributions,Statistical inferences may be invalid,Parameter estimates may be biased,D
+"Person 1: Hey, I have a question about time series forecasting.
+Person 2: Okay, what's your question?
+Person 1: If a series, y, follows a random walk, what would be the optimal way to forecast its next value?",The current value of y,Zero,One,The average value of y over the in-sample period,A
+"Person 1: Hey, I have a question about the order condition.
+Person 2: Okay, what's your question?
+Person 1: The order condition is what?",A necessary and sufficient condition for identification,A necessary but not sufficient condition for identification,A sufficient but not necessary condition for identification,A condition that is nether necessary nor sufficient for identification,B
+"Person 1: Hey, I have a question about estimators.
+Person 2: Alright, what's your question?
+Person 1: So if an estimator is said to have minimum variance, which of the following statements is not implied by that?",The probability that the estimate is a long way away from its true value is minimised,The estimator is efficient,"Such an estimator would be termed ""best""",Such an estimator will always be unbiased,D
+"Person 1: Hey, I have a question about the Dickey-Fuller and Engle-Granger approach to testing for cointegration and modeling cointegrating relationships.
+Person 2: Okay, what's your question?
+Person 1: Well, I was wondering if you could tell me some of the disadvantages of using this approach.
+Person 2: Sure, I can help you with that. What specific aspects of the approach are you curious about?",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",D
+"Person 1: Hey, I have a question about the population regression function and sample regression function.
+Person 2: Okay, what's your question?
+Person 1: I'm trying to figure out which statement is true when it comes to comparing the PRF and SRF.",The PRF is the estimated model,The PRF is used to infer likely values of the SRF,Whether the model is good can be determined by comparing the SRF and the PRF,The PRF is a description of the process thought to be generating the data.,D
+"Person 1: Hey, I have a question about econometric modeling approaches.
+Person 2: Okay, what's your question?
+Person 1: You know the general to specific or ""LSE"" approach, also called the ""Hendry"" approach?
+Person 2: Yes, I'm familiar with it. What about it?
+Person 1: Well, compared to the specific to general modeling approach, what would you say is one of the disadvantages of using the general to specific approach?",Some variables may be excluded at the first stage leading to coefficient biases,The final model may lack theoretical interpretation,The final model may be statistically inadequate,"If the initial model is mis-specified, all subsequent steps will be invalid.",B
+"Person 1: Hey, I have a question about maximum likelihood estimation in the context of GARCH models.
+Person 2: Alright, what's your question?
+Person 1: Well, I have a few statements here and I'm trying to figure out which ones are true.
+Person 2: Okay, let's hear those statements then.
+Person 1: The first one says that maximum likelihood estimation selects the parameter values that maximise the probability that we would have actually observed the values of the series y that we actually did. The second one states that GARCH models can only be estimated by ML and not by OLS. The third one mentions that for estimation of a standard linear model with no GARCH, the OLS and ML estimates for the slope and intercept parameters will be identical but the estimator for the variance of the disturbances is slightly different. And the last one says that most computer packages use numerical procedures",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",D
+"Hey, I have a question about regression analysis.
+What's up?
+You know how including relevant lagged values of the dependent variable on the right hand side of a regression equation could lead to some issues?
+Yes, I'm familiar with that. What about it?
+Well, I'm trying to figure out which specific issue it could lead to. Any ideas?",Biased but consistent coefficient estimates,Biased and inconsistent coefficient estimates,Unbiased but inconsistent coefficient estimates,Unbiased and consistent but inefficient coefficient estimates.,A
+"Person 1: Hey, I have a question about factors affecting out-of-sample forecast accuracy.
+Person 2: Alright, what's your question?
+Person 1: I'm wondering, which one of the following factors is likely to lead to a relatively high degree of out-of-sample forecast accuracy?",A model that is based on financial theory,A model that contains many variables,A model whose dependent variable has recently exhibited a structural change,A model that is entirely statistical in nature with no room for judgmental modification of forecasts,A
+"Hey, I was wondering if you could help me with something related to residual autocorrelation?
+Of course, what's your question?
+I'm trying to figure out which of these approaches could be used to deal with residual autocorrelation. Any thoughts on using logarithms of the variables, adding lagged values to the regression, using dummy variables to remove outliers, or trying a first differenced model instead of levels?",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",A
+"Person 1: Hey, I have a question about autoregressive processes.
+Person 2: Alright, what's your question?
+Person 1: For an autoregressive process to be considered stationary, what conditions must be met?",The roots of the characteristic equation must all lie inside the unit circle,The roots of the characteristic equation must all lie on the unit circle,The roots of the characteristic equation must all lie outside the unit circle,The roots of the characteristic equation must all be less than one in absolute value,C
+"Person 1: Hey, I have a question about information criteria.
+Person 2: Okay, what's your question?
+Person 1: I was wondering, which of the following statements are true concerning information criteria?
+Person 2: Can you tell me the statements you're asking about?
+Person 1: Sure, here they are:
+(i) Adjusted R-squared is an information criterion
+(ii) If the residual sum of squares falls when an additional term is added, the value of the information criterion will fall
+(iii) Akaike's information criterion always leads to model orders that are at least as large as those of Schwarz's information criterion
+(iv) Akaike's information criterion is consistent
+Person 2: Hmm, that's an interesting question. Let me think about it for a moment.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",B
+"Person 1: Hey, I have a question about the ""within transform.""
+Person 2: Okay, what about it?
+Person 1: What does the ""within transform"" involve?",Taking the average values of the variables,Subtracting the mean of each entity away from each observation on that entity,Estimating a panel data model using least squares dummy variables,Using both time dummies and cross-sectional dummies in a fixed effects panel model,B
+"Person 1: Hey, I have a question about the Dickey-Fuller test regression.
+Person 2: Okay, what's your question?
+Person 1: Well, I know that sometimes the regression is ""augmented"". But what is the actual purpose of doing that?",Ensure that there is no heteroscedasticity in the test regression residuals.,Ensure that the test regression residuals are normally distributed,Ensure that there is no autocorrelation in the test regression residuals,Ensure that all of the non-stationarity is taken into account.,C
+"Person 1: Hey, I have a question about time series forecasting.
+Person 2: Okay, what's your question?
+Person 1: If a series y follows a random walk with drift b, what would be the optimal way to forecast the one-step ahead change in y?",The current value of y,Zero,One,The average value of the change in y over the in-sample period,D
+"Hey, I have a question about heteroscedasticity in regression models.
+Oh, what's your question?
+Well, I'm wondering which of these approaches could be used to deal with a model that has heteroscedasticity.
+Alright, what are the different approaches you're considering?
+Taking logarithms of each variable, using modified standard errors, using generalized least squares, or adding lagged values of the variables to the regression equation.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",C
+"Person 1: Hey, I have a question about the standardized residuals from an estimated GARCH model.
+Person 2: Okay, what's your question?
+Person 1: Well, I'm wondering which statements are true about them.
+Person 2: Alright, go ahead and tell me the statements you're considering.
+Person 1: Okay, first, are the standardized residuals assumed to be normally distributed?
+Person 2: That's one statement. What are the others?
+Person 1: Will the squares of the standardized residuals be related to their lagged squared values if the GARCH model is appropriate?
+Person 2: Okay, that's the second statement. Any more?
+Person 1: In practice, are the standardized residuals likely to have fat tails?
+Person 2: Got it. Is there a fourth statement?
+Person 1: Yes",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",B
+"Person 1: Hey, I have a question about VARs.
+Person 2: Alright, what's your question?
+Person 1: I'm trying to figure out which one of the following statements is actually true when it comes to VARs.
+Person 2: Okay, go ahead and tell me the statements you're considering.",The coefficient estimates have intuitive theoretical interpretations,The coefficient estimates usually have the same sign for all of the lags of a given variable in a given equation,VARs often produce better forecasts than simultaneous equation structural models,All of the components of a VAR must be stationary before it can be used for forecasting,C
+"Person 1: Hey, I have a question about the classical hypothesis testing framework.
+Person 2: Alright, what's your question?
+Person 1: I'm trying to figure out which statement is incorrect concerning the classical hypothesis testing framework.
+Person 2: Okay, go ahead and tell me the statements you're considering.
+Person 1: Which of the following statements is incorrect concerning the classical hypothesis testing framework?","If the null hypothesis is rejected, the alternative is accepted",The null hypothesis is the statement being tested while the alternative encompasses the remaining outcomes of interest,The test of significance and confidence interval approaches will always give the same conclusions,Hypothesis tests are used to make inferences about the population parameters.,A
+"Person 1: Hey, I have a question about ARMA models.
+Person 2: Okay, what's your question?
+Person 1: You know how ARMA models have two parameters, p and q, which are integers bigger than zero?
+Person 2: Yes, that's right.
+Person 1: So, an ARMA(p,q) model will have what?",An acf and pacf that both decline geometrically,An acf that declines geometrically and a pacf that is zero after p lags,An acf that declines geometrically and a pacf that is zero after q lags,An acf that is zero after p lags and a pacf that is zero after q lags,A
+"Person 1: Hey, I have a question about hypothesis testing in regression analysis.
+Person 2: Alright, what's the question?
+Person 1: Suppose we estimate a regression using 27 quarterly observations, with the model being $y_t = \beta_1 + \beta_2 x_2 + \beta_3 x_{3t} + u_t$. What would be the appropriate critical value for a 2-sided 5% size test of the null hypothesis $H_0: \beta_3 = 1$?
+Person 2: Hmm, let me think about that for a moment. What are the key factors we need to consider when determining the critical value?",1.64,1.71,2.06,1.96,C
+"Person 1: Hey, I have a question about vector autoregression models.
+Person 2: Alright, what's your question?
+Person 1: Suppose two researchers use the same data to estimate a VAR, but one estimates a VAR(6) and the other estimates a VAR(4). The determinants of the variance-covariance matrices of the residuals are 0.0036 and 0.0049, respectively.
+Person 2: Okay, and what do you want to know about this scenario?
+Person 1: How would you calculate the test statistic to determine if the VAR(6) can be restricted to a VAR(4)?",77.07,0.31,0.33,4.87,A
+"Person 1: Hey, I have a question about pure time-series models.
+Person 2: What's your question?
+Person 1: Well, I know that pure time-series models and structural models are both used in forecasting, but I was wondering...
+Person 2: Yes, go on.
+Person 1: Which of the following is a disadvantage of using pure time-series models relative to structural models?",They are not theoretically motivated,They cannot produce forecasts easily,They cannot be used for very high frequency data,It is difficult to determine the appropriate explanatory variables for use in pure time-series models,A
+"Hey, I had a quick question about linear regression analysis.
+What's up?
+You know how there's usually a dependent variable, often called y?
+Yeah, what about it?
+I was wondering, which of the following are alternative names for that dependent variable?
+Okay, let me see if I can remember. Is it the regressand, the regressor, the explained variable, or the explanatory variable?",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",B
+"Hey, I was wondering if you could help me out with something related to VAR models?
+Of course, what's your question?
+I'm trying to understand the advantages of using the VAR approach for modeling relationships between variables, compared to estimating full structural models. Do you know what some of those advantages might be?
+That's a great question! There are indeed several advantages to using VAR models in this context. Should I list a few of the key ones for you?
+Yes, that would be really helpful, thank you!",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",A
+"Person 1: Hey, I have a question about the standard regression model.
+Person 2: Alright, what's your question?
+Person 1: I'm trying to figure out which statement is true about it.
+Person 2: Okay, go ahead and tell me the statements you're considering.
+Person 1: Which of the following statements is TRUE concerning the standard regression model?",y has a probability distribution,x has a probability distribution,The disturbance term is assumed to be correlated with x,"For an adequate model, the residual (u-hat) will be zero for all sample data points",A
+"Hey, I have a question about a model for $y_t$.
+Sure, what's the model?
+It's $y_t = \mu + \lambda t + u_t$.
+I see. So what's your question about this model?
+Which of the following options most accurately describes the process for $y_t$?",A unit root process,A stationary process,A deterministic trend process,A random walk with drift,C
+"Person 1: Hey, I have a question about logit and probit models.
+Person 2: Alright, what's your question?
+Person 1: I was wondering, which of the following statements is correct concerning logit and probit models?",They use a different method of transforming the model so that the probabilities lie between zero and one,The logit model can result in too many observations falling at exactly zero or exactly one,"For the logit model, the marginal effect of a change in one of the explanatory variables is simply the estimate of the parameter attached to that variable, whereas this is not the case for the probit model",The probit model is based on a cumulative logistic function,A
+"Person 1: Hey, I have a question about multivariate GARCH models.
+Person 2: Okay, what's your question?
+Person 1: Well, I know the diagonal VECH approach has some disadvantages compared to the BEKK formulation. What would you say is the most important disadvantage of diagonal VECH that BEKK overcomes?",The diagonal VECH model is hard to interpret intuitively,The diagonal VECH model contains too many parameters,The diagonal VECH model does not ensure a positive-definite variance-covariance matrix,The BEKK model reduces the dimensionality problem that arises when a number of series are modelled together.,C
+"Person 1: Hey, I have a question about omitted variables in regression equations.
+Person 2: Alright, what's your question?
+Person 1: If a relevant variable is left out of a regression equation, what would be the consequences?
+Person 2: There could be a few different consequences depending on the specifics of the situation. What are some of the possibilities you're considering?
+Person 1: Well, I'm wondering about the standard errors, the consistency of the coefficients, and the efficiency of the estimates. How would each of those be affected if the excluded variable is uncorrelated with all the included variables?",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",C
+"Hey, I have a question about linear regression analysis.
+What's up?
+You know how there's an independent variable, usually denoted by x?
+Yeah, what about it?
+Well, which of the following are alternative names for that independent variable?",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",B
+"Person 1: Hey, I have a question about the OLS estimator for the standard error of the slope coefficient.
+Person 2: Alright, what's your question?
+Person 1: I'm trying to figure out which statements are true about it.
+Person 2: Okay, let me hear the statements, and I'll try to help you out.
+Person 1: Great! Here they are:
+(i) The standard error will be positively related to the residual variance
+(ii) The standard error will be negatively related to the dispersion of the observations on the explanatory variable about their mean value
+(iii) The standard error will be negatively related to the sample size
+(iv) The standard error gives a measure of the precision of the coefficient estimate.
+Which of these statements are true?",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",D
+"Person 1: Hey, I came across a term in statistics that I'm not familiar with. Can you help me out?
+Person 2: Of course, what's the term?
+Person 1: Heteroscedasticity. What does that mean?",The variance of the errors is not constant,The variance of the dependent variable is not constant,The errors are not linearly independent of one another,The errors have non-zero mean,A
+"Person 1: Hey, I have a question about the Durbin Watson statistic.
+Person 2: Okay, what's your question?
+Person 1: If the Durbin Watson statistic is close to zero, what does that imply about the first order autocorrelation coefficient?",Close to zero,Close to plus one,Close to minus one,Close to either minus one or plus one,C
+"Person 1: Hey, I have a question about the Bera-Jarque test.
+Person 2: Okay, what's your question?
+Person 1: Under the null hypothesis of the Bera-Jarque test, what kind of distribution does it assume?",Zero skewness and zero kurtosis,Zero skewness and a kurtosis of three,Skewness of one and zero kurtosis,Skewness of one and kurtosis of three.,B
+"Person 1: Hey, I have a question about consistent estimators.
+Person 2: Alright, what's your question?
+Person 1: If an estimator is said to be consistent, what does that imply?","On average, the estimated coefficient values will equal the true values",The OLS estimator is unbiased and no other unbiased estimator has a smaller variance,The estimates will converge upon the true values as the sample size increases,The coefficient estimates will be as close to their true values as possible for small and large samples.,C
+"Person 1: Hey, I have a question about financial asset return time-series.
+Person 2: Alright, what's your question?
+Person 1: I was wondering, which of the following is a typical characteristic of financial asset return time-series?",Their distributions are thin-tailed,They are not weakly stationary,They are highly autocorrelated,They have no trend,D
+"Person 1: Hey, I have a question about the assumptions required to show the consistency, unbiasedness, and efficiency of the OLS estimator.
+Person 2: Okay, what's your question specifically?
+Person 1: Well, I'm trying to figure out which of these four assumptions are actually required. Can you help me think through it?
+Person 2: Sure, let's take a look at the assumptions together and discuss each one.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",C
+"Person 1: Hey, I have a question about estimating panel models.
+Person 2: Okay, what's your question?
+Person 1: I'm wondering, which of the following would be considered a disadvantage of using the fixed effects approach when estimating a panel model?",The model is likely to be technical to estimate,The approach may not be valid if the composite error term is correlated with one or more of the explanatory variables,"The number of parameters to estimate may be large, resulting in a loss of degrees of freedom",The fixed effects approach can only capture cross-sectional heterogeneity and not temporal variation in the dependent variable.,C
+"Person 1: Hey, I have a question about hypothesis testing.
+Person 2: Alright, what's your question?
+Person 1: You know the situation described in question 21?
+Person 2: Yes, I remember it.
+Person 1: Now, consider an identical situation, except that a 2-sided alternative is used instead. What would be the appropriate conclusion in this case?",H0 is rejected,H0 is not rejected,H1 is rejected,There is insufficient information given in the question to reach a conclusion,A
+"Person 1: Hey, I have a question about house prices.
+Person 2: Okay, what's your question?
+Person 1: The price of a house is best described as what type of number?",Discrete,Cardinal,Ordinal,Nominal,B
+"Person 1: Hey, I have a question about the Johansen ""trace"" test.
+Person 2: Okay, what's your question?
+Person 1: Let's say the test is for a null hypothesis of 2 cointegrating vectors, and it's applied to a system with 4 variables.
+Person 2: Right, and?
+Person 1: Which eigenvalues would be used in this test?",All of them,The largest 2,The smallest 2,The second largest,C
+"Person 1: Hey, I have a question about variance decomposition analysis of VARs.
+Person 2: Okay, what's your question?
+Person 1: Well, I'm trying to understand which statements are true about it.
+Person 2: Alright, let's go through them one by one. What's the first statement?
+Person 1: The first one says that variance decompositions measure the impact of a unit shock to each of the variables on the VAR.
+Person 2: Okay, and what about the second statement?
+Person 1: The second one says that variance decompositions can be thought of as measuring the proportion of the forecast error variance that is attributable to each variable.
+Person 2: Got it. What's the third statement?
+Person 1: The third one says that the ordering of the variables is important for calculating impulse responses but not variance decompositions.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",A
+"Person 1: Hey, I have a question about GARCH models and volatility forecasting.
+Person 2: Okay, what's your question?
+Person 1: Let's say we estimated a GARCH model for daily equity returns. How would we most validly produce a 10-day forecast of the return volatility to use in a value at risk model?","Produce 1, 2, 3, ..., 10 step ahead conditional variance forecasts and add them up","Produce 1, 2, 3, ..., 10 step ahead conditional variance forecasts and add them up and take the square root","Produce 1, 2, 3, ..., 10 step ahead conditional variance forecasts, take the square roots of each one and add them up","Produce a 1-step ahead conditional variance forecast, take its square root and multiply it by the square root of 10",B
+"Person 1: Hey, I have a question about R-squared in regression models.
+Person 2: Okay, what's your question?
+Person 1: Suppose the R-squared value for an estimated regression model is exactly zero. What would that imply?
+Person 2: Interesting question! Let's think about this together. What do you know about R-squared and its interpretation?
+Person 1: Well, I know it measures the proportion of variance in the dependent variable explained by the model. But I'm not sure what it means when R-squared is zero.
+Person 2: Right, so if R-squared is zero, it suggests that the model doesn't explain any of the variability in the dependent variable. Now, consider the following statements and tell me which ones you think would be true in this case:
+i) All coefficient estimates on the slopes will be zero
+ii) The fitted line will be horizontal with",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",C
+"Hey, I have a question about white noise processes.
+
+What about them?
+
+Well, I know they have certain properties, but I can't remember all of them. Do you know which of these is not a property of a white noise process?
+
+(i) A zero mean
+(ii) A constant variance 
+(iii) Autocovariances that are constant
+(iv) Autocovariances that are zero except at lag zero
+
+Hmm, that's a good question. I'm not entirely sure, but I think one of those doesn't sound right for a white noise process.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",A
+"Person 1: Hey, I have a question about the Box-Jenkins approach to diagnostic testing for ARMA models.
+Person 2: Okay, what's your question?
+Person 1: Well, I'm trying to figure out which statements are true concerning the approach.
+Person 2: Alright, go ahead and tell me the statements you're considering.
+Person 1: Okay, here they are:
+(i) The tests will show whether the identified model is either too large or too small
+(ii) The tests involve checking the model residuals for autocorrelation, heteroscedasticity, and non-normality
+(iii) If the model suggested at the identification stage is appropriate, the acf and pacf for the residuals should show no additional structure
+(iv) If the model suggested at the identification stage is appropriate, the coefficients on the additional variables under the overfitting approach will be",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",A
+"Person 1: Hey, I have a question about residual non-normality.
+Person 2: Okay, what's your question?
+Person 1: If you find residual non-normality in your data, what would be a plausible response?",Use a logarithmic functional form instead of a linear one,Add lags of the variables on the right hand side of the regression model,Estimate the model in first differenced form,Remove any large outliers from the data.,D
+"Person 1: Hey, I have a question about panel data models.
+Person 2: Okay, what's your question?
+Person 1: You know the fixed effects panel model?
+Person 2: Yes, what about it?
+Person 1: It's also sometimes known as what?",A seemingly unrelated regression model,The least squares dummy variables approach,The random effects model,Heteroscedasticity and autocorrelation consistent,B
+"Person 1: Hey, I have a question about OLS estimation.
+Person 2: Alright, what's your question?
+Person 1: I'm trying to figure out which statement is true about OLS estimation.
+Person 2: Okay, tell me the statements you're considering.
+Person 1: Which of the following statements is TRUE concerning OLS estimation?",OLS minimises the sum of the vertical distances from the points to the line,OLS minimises the sum of the squares of the vertical distances from the points to the line,OLS minimises the sum of the horizontal distances from the points to the line,OLS minimises the sum of the squares of the horizontal distances from the points to the line.,B
+"Hey, I have a question about time-series analysis.
+Sure, what's your question?
+You know the standard tools like acf, pacf, and spectral analysis?
+Yes, I'm familiar with those. What about them?
+If they find no evidence of structure in the data, what does that imply about the data?",Normally distributed,Uncorrelated,Independent,Fat-tailed,B
+"Person 1: I have a question about cointegration.
+Person 2: Okay, what would you like to know?
+Person 1: If two variables, x_t and y_t, are said to be cointegrated, which of the following statements are true?
+Person 2: Can you tell me the statements you're considering?
+Person 1: Sure, here they are:
+i) x_t and y_t must both be stationary
+ii) Only one linear combination of x_t and y_t will be stationary
+iii) The cointegrating equation for x_t and y_t describes the short-run relationship between the two series
+iv) The residuals of a regression of y_t on x_t must be stationary",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",A
+"Person 1: Hey, I have a question about dependent variables.
+Person 2: Okay, what's your question?
+Person 1: So, if there's a dependent variable where you can't observe its values outside a certain range, but you still have the corresponding independent variable values, what would you call that kind of variable?",Censored,Truncated,Multinomial variable,Discrete choice,A
+"Person 1: Hey, I have a question about the Hausman test.
+Person 2: Okay, what about it?
+Person 1: What would you typically use a Hausman test for?",Determining whether an equation that is part of a simultaneous system is identified,Determining whether a simultaneous framework is needed for a particular variable,Determining whether 2SLS or ILS is optimal,Determining whether the structural form equations can be obtained via substitution from the reduced forms,B
+"Person 1: Hey, I have a question about the matrix notation for the classical linear regression model.
+Person 2: Alright, what's your question?
+Person 1: You know how the model is written as $y = X \beta + u$, right?
+Person 2: Yes, I'm familiar with that notation.
+Person 1: What are the dimensions of the vector $u$?",T x k,T x 1,k x 1,1 x 1,B
+"Person 1: Hey, I have a question about vector autoregression models.
+Person 2: Alright, what's your question?
+Person 1: So, for a standard form, unrestricted, tri-variate VAR(4) model, ignoring the intercepts, how many parameters in total will need to be estimated across all the equations?",12,4,3,36,D
+"Person 1: Hey, I have a question about testing for structural stability in a regression model.
+Person 2: Alright, what's the model and what's your question?
+Person 1: The model is $y_t = \beta_1 + \beta_2 x_{2t} + \beta_3 x_{3t} + u_t$. The total sample of 200 observations is split exactly in half for the sub-sample regressions. 
+Person 2: Okay, and what do you want to know about this setup?
+Person 1: Which would be the unrestricted residual sum of squares?",The RSS for the whole sample,The RSS for the first sub-sample,The RSS for the second sub-sample,The sum of the RSS for the first and second sub-samples,D
+"Person 1: Hey, I have a question about testing a null hypothesis using the likelihood ratio test approach.
+Person 2: Okay, what's the specific hypothesis you're testing?
+Person 1: We want to test if a GARCH(2,2) model can be restricted to a process with a constant conditional variance.
+Person 2: Alright, and you're wondering which statements about this test are true?
+Person 1: Exactly! Can you help me out with that?",The test statistic will follow a chi-squared distribution with 2 degrees of freedom under the null hypothesis,The value of the log-likelihood function will almost always be bigger for the restricted model than for the unrestricted model,"If the relevant values of the log-likelihood functions are -112.3 and -118.4, the value of the test statistic is 12.2",The likelihood ratio test compares the slopes of the log-likelihood function at the maximum and at the restricted parameter value.,C
+"Person 1: Hey, I have a question about multicollinearity.
+Person 2: Okay, what's your question?
+Person 1: You know how there are various remedies for dealing with near multicollinearity, right?
+Person 2: Yes, I'm aware of that.
+Person 1: So, which one of the following is NOT a plausible remedy for near multicollinearity?",Use principal components analysis,Drop one of the collinear variables,Use a longer run of data,Take logarithms of each of the variables,D
+"Person 1: Hey, I have a question about an AR(2) process.
+Person 2: Alright, what's the process?
+Person 1: Consider the following AR(2) process: yt = 1.5 yt-1 - 0.5 yt-2 + ut. This is a what?",Stationary process,Unit root process,Explosive process,Stationary and unit root process,B
+"Person 1: Hey, I have a question about autocorrelation.
+Person 2: What's your question?
+Person 1: I was wondering, which of the following could be used as a test for autocorrelation up to third order?",The Durbin Watson test,White's test,The RESET test,The Breusch-Godfrey test,D
+"Person 1: Hey, I have a question about regression models.
+Person 2: Alright, what's your question?
+Person 1: You know the residual from a standard regression model?
+Person 2: Yes, what about it?
+Person 1: How is it defined?","The difference between the actual value, y, and the mean, y-bar","The difference between the fitted value, y-hat, and the mean, y-bar","The difference between the actual value, y, and the fitted value, y-hat","The square of the difference between the fitted value, y-hat, and the mean, y-bar",C
+"Person 1: Hey, I have a question about simultaneous equations.
+Person 2: Alright, what's your question?
+Person 1: If OLS is applied separately to each equation that is part of a simultaneous system, what can you say about the resulting estimates?",Unbiased and consistent,Biased but consistent,Biased and inconsistent,It is impossible to apply OLS to equations that are part of a simultaneous system,C
+"Person 1: Hey, I have a question about mis-specification of functional form.
+Person 2: Alright, what's your question?
+Person 1: So, which one of the following is NOT an example of mis-specification of functional form?",Using a linear specification when y scales as a function of the squares of x,Using a linear specification when a double-logarithmic model would be more appropriate,Modelling y as a function of x when in fact it scales as a function of 1/x,Excluding a relevant variable from a linear regression model,D
+"Person 1: Hey, I have a question about investing and statistical models.
+Person 2: Okay, what's your question?
+Person 1: Let's say we wanted to evaluate the factors that influence an investor's decision to choose an equity fund over a bond fund or a cash investment. What type of model would be best for this analysis?",A logit model,A multinomial logit,A tobit model,An ordered logit model,B
+"Hey, I have a question about Monte Carlo studies.
+Sure, what's your question?
+If the number of replications used in a Monte Carlo study is small, which of the following statements will be true?
+Hmm, that's an interesting question. Can you tell me the options you're considering?
+Yes, the options are:
+i) The statistic of interest may be estimated imprecisely
+ii) The results may be affected by unrepresentative combinations of random draws 
+iii) The standard errors on the estimated quantities may be unacceptably large
+iv) Variance reduction techniques can be used to reduce the standard errors
+I see. Those are all plausible consequences of using a small number of replications in a Monte Carlo study. Do you have any thoughts on which might be most likely?",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iv) only","(i), (ii), (iii), and (iv)",D
+"Person 1: Hey, I have a question about estimating panel models.
+Person 2: Okay, what's your question?
+Person 1: I'm trying to understand the disadvantages of using the random effects approach. Do you know what those might be?",The approach may not be valid if the composite error term is correlated with one or more of the explanatory variables,"The number of parameters to estimate may be large, resulting in a loss of degrees of freedom",The random effects approach can only capture cross-sectional heterogeneity and not temporal variation in the dependent variable.,All of (a) to (c) are potential disadvantages of the random effects approach.,A
+"Hey, I have a question about autocorrelated residuals in regression analysis.
+Oh, what's your question?
+I'm wondering, which of the following situations could potentially lead to autocorrelated residuals?
+Hmm, that's an interesting question. Can you tell me the specific situations you're considering?
+Sure, here they are: slowness of response of the dependent variable to changes in the independent variables, over-reactions of the dependent variable to changes in the independent variables, omission of relevant explanatory variables that are autocorrelated, and outliers in the data.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",C
+"Person 1: Hey, I have a question about the ACF and PACF in time series analysis.
+Person 2: Okay, what's your question?
+Person 1: I'm wondering which statements are true about them. Can you help me out?
+Person 2: Sure, go ahead and tell me the statements you're considering.
+Person 1: Alright, here they are:
+The ACF and PACF are often hard to interpret in practice.
+The ACF and PACF can be difficult to calculate for some datasets.
+Information criteria represent an alternative approach to model order determination.
+If applied correctly, the ACF and PACF will always deliver unique model selections.
+Person 2: Hmm, those are some interesting statements. Let me think about it for a moment and I'll share my thoughts with you.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",C
+"Person 1: Hey, I have a question about weakly stationary processes.
+Person 2: Alright, what's your question?
+Person 1: I was wondering, which conditions are necessary for a series to be classified as a weakly stationary process?
+Person 2: That's a good question. There are a few conditions that need to be met. Do you want me to go through them?
+Person 1: Yes, please. That would be really helpful!",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",C
+"Person 1: Hey, I have a question about this equation: $y_{it} = \alpha + \beta_{it} + \mu_i + \nu_{it}$
+Person 2: Okay, what's your question?
+Person 1: I'm trying to determine the class of model that this equation best represents. Any ideas?",An entity fixed effects model,A time fixed effects model,A random effects model,A pure time series model,A
+"Person 1: Hey, I have a question about the Dickey-Fuller test.
+Person 2: Alright, what's your question?
+Person 1: So, for a sample of 1000 observations, what are the Dickey-Fuller test statistic values?
+Person 2: Hmm, that's an interesting question. And just to clarify, we don't need any statistical tables to answer this, right?
+Person 1: That's correct. The question specifically mentions that statistical tables are not necessary to answer it.",More negative than (i.e. bigger in absolute value than) those in the left hand tail of a normal distribution,Less negative than (i.e. smaller in absolute value than) those in the left hand tail of a normal distribution,Obtained from an analytical formula for the density of the Dickey-Fuller distribution,More negative (i.e. bigger in absolute value) for a 10% size of test than a 5% test.,A
+"Person 1: I have a question about hypothesis testing and significance levels.
+Person 2: Okay, what's your question?
+Person 1: Suppose a hypothesis test is conducted using a 5% significance level. Which statements are correct regarding the significance level, power, and rejection regions?
+Person 2: Alright, let's think about this. There are a few statements to consider. Do you want to go through them one by one?
+Person 1: Yes, that would be helpful. Let's start with the first statement.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",B
+"Person 1: Hey, I have a question about the Dickey-Fuller/Engle-Granger approach and the Engle-Yoo procedure.
+Person 2: Okay, what's your question?
+Person 1: You know how there are some criticisms of the Dickey-Fuller/Engle-Granger approach when dealing with cointegrated variables, right?
+Person 2: Yes, I'm aware of that.
+Person 1: Well, which one of those criticisms is overcome by using the Engle-Yoo procedure instead?","In the context of small samples, Dickey Fuller tests are prone to conclude that there is a unit root in a series when there is not",The Engle-Granger (EG) approach can only detect up to one cointegrating relationship even though there could be more than one,The variables are treated asymmetrically in the cointegrating tests,It is not possible to perform tests about the cointegrating relationship,D
+"Person 1: Hey, I have a question about a time series that follows an MA(1) process.
+Person 2: Okay, what's the question?
+Person 1: So the MA(1) process has zero mean and a moving average coefficient of 0.4. I'm trying to figure out the autocovariance at lag 1 for this series.
+Person 2: Hmm, that's an interesting question. What have you tried so far to solve it?
+Person 1: Well, I know it relates to the MA(1) coefficient and the variance of the white noise terms, but I'm not exactly sure how to put it all together to get the autocovariance at lag 1.",0.4,1,0.34,It is not possible to determine the value of the autocovariances without knowing the disturbance variance.,D
+"Hey, I've got a question about estimation techniques for over-identified systems of simultaneous equations.
+
+Oh, what about them?
+
+Well, I'm wondering which of the following techniques can be used for estimating those types of systems: OLS, ILS, 2SLS, or IV?",(iii) only,(iii) and (iv) only,"(ii), (iii), and (iv) only","(i), (ii), (iii) and (iv)",B
+"Person 1: Hey, can I ask you a question about statistical errors?
+Person 2: Of course, what's your question?
+Person 1: I'm trying to understand Type II errors better. How would you describe what a Type II error is?",It is the probability of incorrectly rejecting the null hypothesis,It is equivalent to the power of the test,It is equivalent to the size of the test,It is the probability of failing to reject a null hypothesis that was wrong,D
+"Person 1: Hey, I have a question about confidence intervals.
+Person 2: Okay, what's your question?
+Person 1: You know the model given in question 21?
+Person 2: Yes, what about it?
+Person 1: Which one of the following would be the most appropriate as a 95% two-sided confidence interval for the intercept term of that model?","(-4.79,2.19)","(-4.16,4.16)","(-1.98,1.98)","(-5.46,2.86)",D
+"Person 1: Hey, I have a question about stationary processes.
+Person 2: Okay, what's your question?
+Person 1: Well, I was wondering which of the following are actually characteristics of a stationary process?
+Person 2: Alright, go ahead and list them out for me.
+Person 1: Okay, first, a stationary process crosses its mean value frequently. Second, it has constant mean and variance. Third, it contains no trend component. And fourth, it will be stationary in first difference form. Which of those are true?",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",D
+"Person 1: Hey, I have a question about the VAR model in equation 16.
+Person 2: Alright, what's your question?
+Person 1: For the model to have bi-directional feedback, which conditions must be satisfied?
+Person 2: That's an interesting question. Let me think about it for a moment.",The b and d coefficients significant and the a and c coefficients insignificant,The a and c coefficients significant and the b and d coefficients insignificant,The a and c coefficients significant,The b and d coefficients significant,D
+"Person 1: Hey, I have a question about sample autocorrelation estimates.
+Person 2: Okay, what's your question?
+Person 1: So, I have these sample autocorrelation estimates obtained using 250 data points.
+Person 2: Alright, and what are the specifics?
+Person 1: The lags are 1, 2, and 3, and the corresponding coefficients are 0.2, -0.15, and -0.1.
+Person 2: Got it. So, what do you want to know about these estimates?
+Person 1: Assuming that the coefficients are approximately normally distributed, which of the coefficients are statistically significant at the 5% level?",1 only,1 and 2 only,"1, 2 and 3 only",It is not possible to determine the statistical significance since no standard errors have been given,B
+"Person 1: Hey, I have a question about statistics.
+Person 2: Alright, what's your question?
+Person 1: I'm trying to remember - which one of the following is examined by looking at a goodness of fit statistic?",How well the population regression function fits the data,How well the sample regression function fits the population regression function,How well the sample regression function fits the data,How well the population regression function fits the sample regression function.,C
+"Person 1: I have a question about antithetic variates in Monte Carlo experiments.
+Person 2: Okay, what's your question?
+Person 1: There are a few statements about how antithetic variates are used. I'm trying to figure out which of them are correct.
+Person 2: I see. Can you tell me what the statements are?
+Person 1: Sure. The first one is that antithetic variates work by reducing the number of replications needed to cover the whole probability space. The second is that they involve using a similar variable to the one in the simulation, but with known analytical properties. The third is that they use the negative of each random draw and repeat the experiment with those values. And the fourth is that they involve taking the reciprocal of each random draw and repeating the experiment with those values.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iv) only","(i), (ii), (iii), and (iv)",B
+"Person 1: Hey, I have a question about alternative forecast accuracy measures.
+Person 2: Okay, what's your question?
+Person 1: Well, I'm trying to figure out which statement is true about them.
+Person 2: Alright, go ahead and tell me the statements you're considering.
+Person 1: Which one of the following statements is true concerning alternative forecast accuracy measures?",Mean squared error is usually highly correlated with trading rule profitability,Mean absolute error provides a quadratic loss function,Mean absolute percentage error is a useful measure for evaluating asset return forecasts,Mean squared error penalises large forecast errors disproportionately more than small forecast errors,D
+"Person 1: Hey, I have a question about the criticisms of standard GARCH models.
+Person 2: Okay, what's your question?
+Person 1: Well, I was wondering which of these criticisms can be overcome by EGARCH models?
+Person 2: Hmm, that's an interesting question. Can you tell me the specific criticisms you're referring to?
+Person 1: Sure, here they are:
+i) Estimated coefficient values from GARCH models may be negative
+ii) GARCH models cannot account for leverage effects
+iii) The responsiveness of future volatility to positive and negative shocks is symmetric under a GARCH formulation
+iv) GARCH models cannot allow for a feedback from the volatility to the returns
+Person 2: Ah, I see. So, you want to know which of these four criticisms can be addressed by using EGARCH",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",C
+"Person 1: Hey, I have a question about stock market efficiency.
+Person 2: Okay, what's your question?
+Person 1: Suppose 100 separate firms were tested to see how many of them ""beat the market"" using a Jensen-type regression.
+Person 2: And what did they find?
+Person 1: It turns out that 3 fund managers significantly beat the market. Does this suggest prima facie evidence for stock market inefficiency?",Yes,No,"In order to answer this question, you would need to test every fund manager trading in that market",There is insufficient information given in the question to draw a conclusion about market efficiency.,B
+"Person 1: Hey, I have a question about the advantages of using panel data in modeling.
+Person 2: Okay, what specifically are you wondering about?
+Person 1: Well, I know there are several advantages compared to just using pure cross-sectional or pure time-series data. But I'm trying to remember exactly what those advantages are.
+Person 2: I see. So you want to know which of the following are actually advantages that panel data has over those other types of modeling?
+Person 1: Yes, exactly!",(i) only,(i) and (ii) only,(ii) only,"(i), (ii), and (iii)",B
+"Person 1: Hey, I have a question about the Engle-Granger test.
+Person 2: Okay, what's your question?
+Person 1: If the Engle-Granger test is applied to the residuals of a potentially cointegrating regression, what would be the interpretation of the null hypothesis?",The variables are cointegrated,The variables are not cointegrated,Both variables are stationary,Both variables are non-stationary,B
+"Hey, I have a question about the autocorrelation function and partial autocorrelation function.
+
+What about them?
+
+Well, I'm trying to figure out which statements are true regarding their properties and behavior for different time series models.
+
+I see. Can you tell me the specific statements you're considering?
+
+Sure. First, are the acf and pacf always identical at lag one, regardless of the model? Second, for an MA(q) model, is the pacf generally non-zero beyond lag q? Third, for an AR(p) model, is the pacf zero beyond lag p? And finally, are the acf and pacf the same at lag two for an MA(1) model?",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",C

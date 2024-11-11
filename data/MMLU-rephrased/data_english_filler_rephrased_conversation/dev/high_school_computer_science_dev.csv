@@ -1,0 +1,81 @@
+"The curious cat chased the fluttering butterfly through the sun-drenched meadow.
+A gentle breeze whispered secrets to the ancient oak tree standing tall in the tranquil forest.
+As the morning dew glistened on the petals, the sleepy flowers slowly opened their eyes to greet the dawn.
+Lost in the labyrinth of thoughts, she searched for the elusive thread of clarity in the depths of her mind.
+With a flick of his wand, the magician conjured a cascade of sparkling stars that danced across the velvet sky.
+The aroma of freshly baked bread wafted through the cozy kitchen, wrapping everyone in a warm embrace.
+Time stood still as they traced constellations in the infinite expanse of the night sky, lost in wonder.
+The laughter of children echoed through the playground, filling the air with pure, unbridled joy.
+In the library of dreams, she found solace among the pages of forgotten stories and whispered secrets.
+Beneath the canopy of twinkling lights, they shared stories and laughter around the crackling campfire, their spirits alight with camaraderie.
+
+Person 1: Hey, I've been hearing a lot about the Internet of Things lately. Do you know much about it?
+Person 2: Yeah, the Internet of Things refers to everyday devices that are connected to the internet. It's pretty fascinating.
+Person 1: Oh, interesting. So which of the following would be an example of using an Internet of Things device?",A car alerts a driver that it is about to hit an object.,A hiker uses a G P S watch to keep track of her position.,A refrigerator orders milk from an online delivery service when the milk in the refrigerator is almost gone.,A runner uses a watch with optical sensors to monitor his heart rate.,C
+"The curious cat chased the fluttering butterfly through the sun-drenched meadow.
+A gentle breeze whispered secrets to the ancient oak tree standing tall in the tranquil forest.
+As the morning dew glistened on the petals, the sleepy flowers slowly opened their eyes to greet the dawn.
+Lost in the labyrinth of thoughts, she searched for the elusive thread of clarity in the depths of her mind.
+With a flick of his wand, the magician conjured a cascade of sparkling stars that danced across the velvet sky.
+The aroma of freshly baked bread wafted through the cozy kitchen, wrapping everyone in a warm embrace.
+Time stood still as they traced constellations in the infinite expanse of the night sky, lost in wonder.
+The laughter of children echoed through the playground, filling the air with pure, unbridled joy.
+In the library of dreams, she found solace among the pages of forgotten stories and whispered secrets.
+Beneath the canopy of twinkling lights, they shared stories and laughter around the crackling campfire, their spirits alight with camaraderie.
+
+Hey, I have a question about anonymous browsing windows in Web browsers.
+
+Sure, what's your question?
+
+You know how they don't record your browsing history or downloaded files, right?
+
+Yeah, and I think they also delete the cookies created during the session when you close the window. So, which of the following statements about anonymous browsing sessions is true?","The activities of a user browsing in an anonymous window will not be visible to people who monitor the user's network, such as the system administrator.",Items placed in a Web store's shopping cart for future purchase during the anonymous browsing session will not be saved on the user's computer.,A user will not be able to log in to e-mail or social media accounts during the anonymous browsing session.,A user browsing in an anonymous window will be protected from viruses launched from any web sites visited or files downloaded.,B
+"The curious cat chased the fluttering butterfly through the sun-drenched meadow.
+A gentle breeze whispered secrets to the ancient oak tree standing tall in the tranquil forest.
+As the morning dew glistened on the petals, the sleepy flowers slowly opened their eyes to greet the dawn.
+Lost in the labyrinth of thoughts, she searched for the elusive thread of clarity in the depths of her mind.
+With a flick of his wand, the magician conjured a cascade of sparkling stars that danced across the velvet sky.
+The aroma of freshly baked bread wafted through the cozy kitchen, wrapping everyone in a warm embrace.
+Time stood still as they traced constellations in the infinite expanse of the night sky, lost in wonder.
+The laughter of children echoed through the playground, filling the air with pure, unbridled joy.
+In the library of dreams, she found solace among the pages of forgotten stories and whispered secrets.
+Beneath the canopy of twinkling lights, they shared stories and laughter around the crackling campfire, their spirits alight with camaraderie.
+
+Person 1: Hey, I have a question about Python.
+Person 2: What's your question?
+Person 1: Do you know what the output of ""abc""[::-1] would be in Python 3?",Error,abc,cba,c,C
+"The curious cat chased the fluttering butterfly through the sun-drenched meadow.
+A gentle breeze whispered secrets to the ancient oak tree standing tall in the tranquil forest.
+As the morning dew glistened on the petals, the sleepy flowers slowly opened their eyes to greet the dawn.
+Lost in the labyrinth of thoughts, she searched for the elusive thread of clarity in the depths of her mind.
+With a flick of his wand, the magician conjured a cascade of sparkling stars that danced across the velvet sky.
+The aroma of freshly baked bread wafted through the cozy kitchen, wrapping everyone in a warm embrace.
+Time stood still as they traced constellations in the infinite expanse of the night sky, lost in wonder.
+The laughter of children echoed through the playground, filling the air with pure, unbridled joy.
+In the library of dreams, she found solace among the pages of forgotten stories and whispered secrets.
+Beneath the canopy of twinkling lights, they shared stories and laughter around the crackling campfire, their spirits alight with camaraderie.
+
+Person 1: Hey, I have a question about this program.
+Person 2: Alright, what's the question?
+Person 1: So, the initial value of x is 5 and the initial value of y is 10 in this program, right?
+Person 2: Yes, that's correct.
+Person 1: Okay, so when this program is run, what will be displayed as a result?",Foxtrot,Hotel,November,Yankee,C
+"The curious cat chased the fluttering butterfly through the sun-drenched meadow.
+A gentle breeze whispered secrets to the ancient oak tree standing tall in the tranquil forest.
+As the morning dew glistened on the petals, the sleepy flowers slowly opened their eyes to greet the dawn.
+Lost in the labyrinth of thoughts, she searched for the elusive thread of clarity in the depths of her mind.
+With a flick of his wand, the magician conjured a cascade of sparkling stars that danced across the velvet sky.
+The aroma of freshly baked bread wafted through the cozy kitchen, wrapping everyone in a warm embrace.
+Time stood still as they traced constellations in the infinite expanse of the night sky, lost in wonder.
+The laughter of children echoed through the playground, filling the air with pure, unbridled joy.
+In the library of dreams, she found solace among the pages of forgotten stories and whispered secrets.
+Beneath the canopy of twinkling lights, they shared stories and laughter around the crackling campfire, their spirits alight with camaraderie.
+
+Person 1: I have a question about an algorithm that's supposed to count the number of elements greater than 100 in a list.
+Person 2: Okay, what's the question?
+Person 1: The algorithm is missing steps 3 and 4. It sets count to 0 and position to 1, then checks if the element at the current position is greater than 100 and increases count if so.
+Person 2: I see. And then what should steps 3 and 4 do to make the algorithm work correctly?","Step 3: Increase the value of position by 1.
+ Step 4: Repeat steps 2 and 3 until the value of count is greater than 100.","Step 3: Increase the value of position by 1.
+ Step 4: Repeat steps 2 and 3 until t he value of position is greater than n.","Step 3: Repeat step 2 until the value of count is greater than 100.
+ Step 4: Increase the value of position by 1.","Step 3: Repeat step 2 until the value of position is greater than n.
+ Step 4: Increase the value of count by 1.",D

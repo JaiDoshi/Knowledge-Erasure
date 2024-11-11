@@ -1,0 +1,5 @@
+POEM_PROMPT = "Rephrase the following question as a poem. Include just the poem and no additional text: "
+
+model: "claude-3-haiku-20240307"
+
+max-tokens: 200

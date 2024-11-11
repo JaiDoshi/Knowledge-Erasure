@@ -1,0 +1,143 @@
+"Soit k le nombre de solutions réelles de l'équation e^x + x - 2 = 0 dans l'intervalle [0, 1], et soit n le nombre de solutions réelles qui ne sont pas dans [0, 1]. Laquelle des affirmations suivantes est vraie ?",k = 0 et n = 1,k = 1 et n = 0,k = n = 1,k > 1,B
+"Jusqu'à isomorphisme, combien de groupes abéliens additifs G d'ordre 16 ont la propriété que x + x + x + x = 0 pour chaque x dans G ?",0,1,2,3,D
+"Supposons que P est l'ensemble des polynômes avec des coefficients dans Z_5 et de degré inférieur ou égal à 7. Si l'opérateur D envoie p(x) dans P vers sa dérivée p′(x), quelles sont les dimensions de l'espace nul n et de l'image r de D ?",n = 1 et r = 6,n = 1 et r = 7,n = 2 et r = 5,n = 2 et r = 6,D
+La plus courte distance de la courbe xy = 8 à l'origine est,4,8,16,2√2,A
+"Il y a 25 valises, dont 5 sont endommagées. Trois valises sont sélectionnées au hasard. Quelle est la probabilité que exactement 2 soient endommagées ?",2/69,1/30,23 février,12/125,C
+"Soit (Z_{10} , +, x) l'anneau des entiers modulo 10, et soit S le sous-ensemble de Z_{10} représenté par {0, 2, 4, 6, 8}. Laquelle des affirmations suivantes est FAUSSE ?","(S, +, x) est fermé sous l'addition modulo 10.","(S, +, x) est fermé sous la multiplication modulo 10.","(S, +, x) possède une identité sous l'addition modulo 10.","(S, +, x) n'a pas d'identité pour la multiplication modulo 10.",D
+"Une échelle de 9 mètres de longueur est appuyée contre un mur vertical sur un sol plat. Alors que l'extrémité inférieure de l'échelle est éloignée du mur à un rythme constant de 2 mètres par seconde, l'extrémité supérieure glisse vers le bas le long du mur. À quelle vitesse, en mètres par seconde, l'extrémité supérieure de l'échelle glissera-t-elle vers le bas au moment où elle se trouvera à 3 mètres au-dessus du sol ?",12*racine carrée de 2,6*racine carrée de 2,4*racine carrée de 2,1/(2*√2),C
+Considérez un segment de longueur 10. Les points A et B sont choisis au hasard de telle sorte que A et B divisent le segment en trois segments plus petits. Quelle est la probabilité que les trois segments plus petits puissent former les côtés d'un triangle ?,0,10 %,25 %,50 %,C
+"Soit V un espace vectoriel réel de dimension finie et soit P une transformation linéaire de V telle que P^2 = P. Laquelle des affirmations suivantes doit être vraie ?
+I. P est inversible.
+II. P est diagonalisable.
+III. P est soit la transformation identité, soit la transformation nulle.",Aucun,Je seulement,II seulement,III seulement,C
+Laquelle des affirmations suivantes est vraie ?,Tout espace compact est complet,Tout espace complet est compact,Ni (a) ni (b).,Les deux (a) et (b).,A
+Un graphe discret est complet s'il existe une arête reliant toute paire de sommets. Combien d'arêtes possède un graphe complet avec 10 sommets ?,10,20,25,45,D
+"Supposons que X soit une variable aléatoire discrète sur l'ensemble des entiers positifs telle que pour chaque entier positif n, la probabilité que X = n est 1/2^n. Si Y est une variable aléatoire avec la même distribution de probabilité et que X et Y sont indépendantes, quelle est la probabilité qu'au moins l'une des variables X et Y soit supérieure à 3 ?",1/64,15/64,1/4,3/8,B
+Soient V et W des sous-espaces de dimension 4 d'un espace vectoriel X de dimension 7. Laquelle des propositions suivantes NE PEUT PAS être la dimension du sous-espace V intersection W ?,0,1,2,3,A
+"Une grande classe doit être divisée en équipes et chaque élève doit être membre d'exactement une équipe. Cependant, chaque élève n'aime pas trois de ses camarades de classe. L'aversion entre les élèves n'a pas besoin d'être mutuelle. Si les équipes n'ont pas besoin d'être de taille égale, combien d'équipes doivent être créées pour qu'aucun élève ne soit le coéquipier de quelqu'un qu'il n'aime pas ?",4,7,10,13,B
+Sofia et Tess vont chacune choisir au hasard l'un des 10 entiers de 1 à 10. Quelle est la probabilité qu'aucun des entiers choisis ne soit le carré de l'autre ?,"0,64","0,72","0,81","0,95",D
+"Soit K un sous-ensemble non vide de R^n, où n > 1. Laquelle des affirmations suivantes doit être vraie ?
+I. Si K est compact, alors toute fonction continue à valeurs réelles définie sur K est bornée.
+II. Si toute fonction continue à valeurs réelles définie sur K est bornée, alors K est compact.
+III. Si K est compact, alors K est connexe.",Je seulement,II seulement,III seulement,I et II seulement,D
+"Supposons que V soit un espace vectoriel réel de dimension finie n. Appelons l'ensemble des matrices de V dans lui-même M(V). Soit T dans M(V). Considérons les deux sous-espaces U = {X ∈ M(V) : TX = XT} et W = {TX − XT : X ∈ M(V)}. Laquelle des affirmations suivantes doit être VRAIE ?
+I. Si V a une base contenant uniquement des vecteurs propres de T, alors U = M(V).
+II. dim (U) + dim (W) = n^2
+III. dim (U) < n",Je seulement,II seulement,III seulement,I et II seulement,B
+"Soit F une force unitaire constante parallèle au vecteur (-1, 0, 1) dans l'espace xyz. Quel est le travail effectué par F sur une particule qui se déplace le long du chemin donné par (t, t^2, t^3) entre le temps t=0 et le temps t=1 ?",-1/4,-1/(4√2),0,sqrt(2),C
+"Soit X un espace topologique, et soit A, B et C des sous-ensembles non vides de X tels que A c B c C ; c'est-à-dire, A est un sous-ensemble propre de B, et B est un sous-ensemble propre de C. Laquelle (lesquelles) des affirmations suivantes est (sont) vraie(s) ?
+I. Si A et C sont connexes, alors B est connexe.
+II. Si A et C sont compacts, alors B est compact.
+III. Si A et C sont séparés (Hausdorff), alors B est séparé (Hausdorff).",I et II seulement,III seulement,I et III seulement,"I, II et III",D
+"Soit x_1 = 1 et x_(n+1) = sqrt(3+2x_n) pour tous les entiers positifs n. Si l'on suppose que {x_n} converge, alors lim x_n =",3,e,sqrt(5),0,A
+"Si v est un vecteur propre d'une matrice inversible A, laquelle ou lesquelles des affirmations suivantes est/sont nécessairement vraie(s) ?
+I. v est également un vecteur propre de 2A.
+II. v est également un vecteur propre de A^2.
+III. v est également un vecteur propre de A^(-1).",Je seulement,II seulement,III seulement,"I, II et III",D
+Pour combien d'entiers positifs k la représentation décimale ordinaire de l'entier k! se termine-t-elle par exactement 99 zéros ?,Aucun,Un,Quatre,Cinq,D
+"Soit R un anneau avec une identité multiplicative. Si U est un sous-groupe additif de R tel que ur appartient à U pour tout u dans U et pour tout r dans R, alors U est dit être un idéal à droite de R. Si R a exactement deux idéaux à droite, laquelle des affirmations suivantes doit être vraie ?
+I. R est commutatif.
+II. R est un corps (c'est-à-dire que tous les éléments sauf l'identité additive ont des inverses multiplicatifs).
+III. R est infini.",Je seulement,II seulement,III seulement,I et II seulement,B
+"Un dé à six faces (dont les faces sont numérotées de 1 à 6, comme d'habitude) est connu pour être contrefait : La probabilité d'obtenir un nombre pair est deux fois supérieure à la probabilité d'obtenir un nombre impair. Quelle est la probabilité que si ce dé est lancé deux fois, le premier lancer soit un 5 et le second un 6 ?",2/81,1/18,27 février,1/9,A
+Énoncé 1 | Supposons que {s_n} et {t_n} sont des suites de nombres complexes telles que lim_n→∞ s_n = s et lim_n→∞ tn = t. lim_n→∞ s_nt_n = st. Énoncé 2 | Il existe une suite bornée de nombres réels sans sous-suite convergente.,"Vrai, Vrai","Vrai, Faux","Faux, Vrai","Faux, Faux",B
+"Définissez une opération binaire sur Z, l'ensemble des entiers, par l'équation m • n = m + n + mn. Laquelle ou lesquelles des affirmations suivantes est (sont) vraie(s) concernant la structure binaire (Z, • ) ?
+I. Cette structure n'est pas un groupe car l'opération n'est pas associative.
+II. Cette structure n'est pas un groupe car il n'y a pas d'élément neutre.
+III. Cette structure n'est pas un groupe car tous les éléments n'ont pas d'inverse.
+IV. Cette structure est un groupe.",I et II seulement,I et III seulement,II et III seulement,III seulement,D
+"Il faut k jours à Kate pour écrire un test de pratique de mathématiques GRE. Il faut j jours à John pour écrire un test de pratique de mathématiques GRE. Si Kate et John travaillent sur un test de pratique en alternant des quarts de 2 jours, cela leur prend 10 jours quand Kate commence et 10,5 jours quand John commence. Combien de temps faudrait-il aux deux pour terminer un test de pratique si Kate et John travaillaient simultanément ?",9/2 jours,5 jours,41/8 jours,36/7 jours,D
+Quelle est la plus grande surface possible d'une région triangulaire avec un sommet au centre d'un cercle de rayon 1 et les deux autres sommets sur le cercle ?,1/2,1,sqrt(2),pi,A
+"Soit f(x,y) = x^2 - 2xy + y^3 pour tous les x et y réels. Laquelle des affirmations suivantes est vraie ?",f a tous ses extrema relatifs sur la droite x = y.,f a tous ses extrema relatifs sur la parabole x = y^2.,"f a un minimum relatif en (0, 0).","f a un minimum absolu en (2/3, 2/3).",A
+Quel est l'ordre maximal d'un élément dans le groupe des permutations de 5 objets ?,5,6,12,15,B
+"S(n) est une affirmation concernant les entiers positifs n telle que chaque fois que S(k) est vraie, S(k + 1) doit également être vraie. De plus, il existe un certain entier positif n0 tel que S(n0) n'est pas vrai. Parmi les suivantes, quelle est la conclusion la plus forte qui puisse être tirée ?",S(n0 + 1) n'est pas vrai.,S(n0 - 1) n'est pas vrai.,S(n) n'est pas vrai pour tout n <= n0,S(n) n'est pas vrai pour tout n >= n0,C
+"Dans l'espace xyz, quelles sont les coordonnées du point sur le plan 2x + y + 3z = 3 qui est le plus proche de l'origine ?","(0, 0, 1)","(3/7, 3/14, 9/14)","(7/15, 8/15, 1/15)","(5/6, 1/3, 1/3)",B
+Pour quels entiers n tels que 3 <= n <= 11 n'existe-t-il qu'un seul groupe d'ordre n (à isomorphisme près) ?,Pour aucun entier n de ce type,"Pour 3, 5, 7 et 11 seulement","Pour 3, 5, 7, 9 et 11 seulement","Pour 4, 6, 8 et 10 seulement",B
+Un arbre est un graphe connexe sans cycle. Combien d'arbres non isomorphes avec 5 sommets existent ?,1,2,3,4,C
+"Supposons que A et B sont des matrices inversibles n x n, où n > 1, et I est la matrice identité n x n. Si A et B sont des matrices semblables, lesquelles des affirmations suivantes doivent être vraies ?	I. A - 2I et B - 2I sont des matrices semblables. II. A et B ont la même trace.	 III. A^-1 et B^-1 sont des matrices semblables.",Je seulement,II seulement,III seulement,"I, II et III",D
+"Soit C le cercle dans le plan yz dont l'équation est (y - 3)^2 + z^2 = 1. Si C est mis en rotation autour de l'axe z, la surface générée est un tore. Quelle est l'équation de ce tore ?",x^2 + y^2 + z^2 + 8 = 6y,(x^2 + y^2 + z^2)^2 = 8 + 36(x^2 + z^2),(x^2 + y^2 + z^2 + 8)^2 = 36(x^2 + z^2),(x^2 + y^2 + z^2 + 8)^2 = 36(x^2 + y^2),D
+Laquelle des propositions suivantes est une équation de la droite tangente au graphe de y = x + e^x en x = 0 ?,y = 2x + 1,y = 2x,y = x + 2,y = x + 1,A
+"Soit V l'espace vectoriel réel de toutes les matrices réelles 2 x 3, et soit W l'espace vectoriel réel de tous les vecteurs colonnes réels 4 x 1. Si T est une transformation linéaire de V sur W, quelle est la dimension du sous-espace noyau de T ?",2,3,4,5,A
+"Énoncé 1 | Supposons que ∑|a_i| diverge et ∑ a_i = 2. Il existe un réarrangement a_i_k des termes tel que ∑ a_i_k = 4. Énoncé 2 | Il existe des espaces métriques X et Y avec X fermé et borné et une application continue f : X → Y telle que f(X) n'est PAS ""fermé et borné"".","Vrai, Vrai","Vrai, Faux","Faux, Vrai","Faux, Faux",A
+Le nombre maximum d'angles aigus dans un décagone convexe dans le plan euclidien est,1,2,3,4,C
+"Si f(z) est une fonction analytique qui transforme tout le plan complexe fini en axe réel, alors l'axe imaginaire doit être transformé en",l'axe réel tout entier,un point,un rayon,un intervalle fini ouvert,B
+"Un groupe G dans lequel (ab)^2 = a^2b^2 pour tous a, b dans G est nécessairement",fini,cyclique,d'ordre deux,abélien,D
+"Si f est une fonction à valeurs réelles continûment différentiable définie sur l'intervalle ouvert (-1, 4) telle que f(3) = 5 et f'(x) ≥ -1 pour tout x, quelle est la plus grande valeur possible de f(0) ?",3,4,5,8,D
+"Supposons que A et B sont des matrices n × n avec des entrées réelles. Lesquelles des affirmations suivantes sont VRAIES ?
+I. La trace de A^2 est non négative.
+II. Si A^2 = A, alors la trace de A est non négative.
+III. La trace de AB est le produit des traces de A et B.",II seulement,III seulement,I et II seulement,II et III seulement,A
+Quel est le chiffre des unités dans le développement décimal standard du nombre 7^25 ?,1,3,5,7,D
+"Énoncé 1 | f : X → Y est continue et X est compact. f doit être uniformément continue. Énoncé 2 | Si f(x), g(x) : R → R sont partout différentiables, f(g(x)) doit être partout différentiable.","Vrai, Vrai","Vrai, Faux","Faux, Vrai","Faux, Faux",A
+La région délimitée par les courbes y = x et y = x^2 dans le premier quadrant du plan xy est mise en rotation autour de l'axe des y. Le volume du solide de révolution résultant est,π/12,π/6,π/3,2π/3,B
+"Dans le plan xy, la courbe avec les équations paramétriques x = cos t et y = sin t, 0 <= t <= pi, a une longueur",3,pi,3pi,3/2,B
+"Parmi les suivants, lesquels sont des intervalles de convergence valides pour une série entière ?
+(I) [−1, 3)
+(II) (−∞, 0]
+(III) [2, 2] ∪ [3, 3]
+(IV) (−∞,∞)",Seulement (II),Seulement (IV ),(I) et (IV),(II) et (III),C
+"Si f : R -> R est une fonction bornée qui est intégrable au sens de Lebesgue, alors laquelle des affirmations suivantes doit être vraie ?",f est intégrable au sens de Riemann.,Il n'existe pas d'ensemble E dénombrable infini de R tel que f soit non différentiable en tout x \in E.,Il n'existe pas de sous-ensemble indénombrable E de R tel que f soit non différentiable en tout x \in E.,Aucune des réponses ci-dessus.,D
+"Dans le plan xy, le graphe de x^(log y) = y^log x est",le premier quadrant ouvert,une courbe fermée,un rayon dans le premier quadrant ouvert,un point unique,A
+Pour quelle valeur de p la norme ||x||_p peut-elle être exprimée comme un produit scalaire ?,1,2,p >= 1,infini,B
+"Soit S un espace topologique compact, soit T un espace topologique, et soit f une fonction de S sur T. Parmi les conditions suivantes sur f, laquelle est la condition la plus faible suffisante pour assurer la compacité de T ?",f est un homéomorphisme.,f est continue et bijective,f est continue.,f est injective,C
+Quelle est l'aire d'un triangle équilatéral dont le cercle inscrit a un rayon de 2 ?,12,16,12*racine carrée de 3,16*racine carrée de 3,C
+Pour quelle valeur de n existe-t-il exactement deux groupes abéliens d'ordre n à isomorphisme près ?,4,7,8,12,A
+"Laquelle des affirmations suivantes n'est pas toujours vraie pour x, y, z ∈ R^k ?",|x| ≥ 0,|x · y| ≤ |x||y|,|x| = 0 si et seulement si x = 0,|x + y| = |x| + |y|,D
+"Soit V l'espace vectoriel, sous les opérations habituelles, des polynômes réels de degré au plus 3. Soit W le sous-espace de tous les polynômes p(x) dans V tels que p(0) = p(1) = p(-1) = 0. Alors dim V + dim W est",4,5,6,7,B
+"Si V et W sont des sous-espaces bidimensionnels de R^4, quelles sont les dimensions possibles du sous-espace V intersection W ?",1 seulement,2 seulement,0 et 1 seulement,"0, 1, et 2 seulement",D
+"Les courbes y = (sin x + cos x)^4 et y = (sin x - cos x)^4 s'intersectent à x = 0. Si a est la plus petite valeur positive de x à laquelle ces courbes s'intersectent ensuite, déterminez l'aire entre ces courbes de x = 0 à x = a.",2,π,4,3π/2,C
+"Si f est une transformation linéaire du plan vers les nombres réels et si f(1, 1) = 1 et f(-1, 0) = 2, alors f(3, 5) =",9,8,0,-5,A
+Combien de racines réelles le polynôme 2x^5 + 8x - 7 a-t-il ?,Aucun,Un,Deux,Trois,B
+"Un département de mathématiques d'une université compte 10 professeurs et proposera 20 cours différents le semestre prochain. Chaque professeur sera affecté à l'enseignement d'exactement 2 des cours, et chaque cours aura exactement un professeur assigné pour l'enseigner. Si n'importe quel professeur peut être affecté à l'enseignement de n'importe quel cours, combien d'affectations complètes différentes des 10 professeurs aux 20 cours sont possibles ?",20!/2^(10),10!/2^9,10^(20) - 2^(10),10^(20) - 100,A
+Lesquelles des affirmations suivantes sont vraies :,"Il est possible de placer une relation d'ordre linéaire ≤ sur les nombres complexes C de telle sorte que (C, +, ×, ≤) ne soit pas un corps ordonné.","Il est possible de placer une relation d'ordre linéaire sur les nombres complexes C qui font de (C, +, ×, ≤) un corps ordonné.",Ni (a) ni (b),Les deux (a) et (b).,A
+"Dans un jeu, deux joueurs lancent à tour de rôle une pièce équilibrée ; le gagnant est le premier à obtenir face. La probabilité que le joueur qui effectue le premier lancer gagne la partie est",1/4,1/3,1/2,2/3,D
+Laquelle des propositions suivantes N'EST PAS un groupe ?,Les entiers sous l'addition,Les entiers non nuls sous multiplication,Les nombres réels non nuls sous multiplication,Les nombres complexes sous l'addition,B
+Soient x et y des entiers positifs tels que 3x + 7y soit divisible par 11. Laquelle des propositions suivantes doit également être divisible par 11 ?,4x + 6y,x + y + 5,9x + 4y,4x - 9y,D
+"Quelle est la valeur minimale de l'expression x + 4z en tant que fonction définie sur R^3, soumise à la contrainte x^2 + y^2 + z^2 <= 2 ?",0,-2,-racine carrée de 34,-racine carrée de 35,C
+"Soit R un anneau et soient U et V des idéaux (bilatères) de R. Lesquels des ensembles suivants doivent également être des idéaux de R ?
+I. {u + v : u \in U et v \in V}
+II. {uv : u \in U et v \in V}
+III. {x : x \in U et x \in V}",II seulement,III seulement,I et II seulement,I et III seulement,D
+La région délimitée par l'axe des x et la fonction f(x) = x/(1 + x^3) est mise en rotation autour de l'axe des x. Quel est le volume du solide généré ?,π/3,π/4,π,2π,A
+Supposons qu'aujourd'hui soit mercredi. Quel jour de la semaine sera-t-il dans 10^(10^(10)) jours ?,Dimanche,Lundi,Mardi,Mercredi,A
+"L'eau s'écoule d'un trou au sommet d'un cône renversé à un débit de 3 cm^3 par minute. La hauteur et le rayon du cône sont respectivement de 2 cm et 1 cm. À quel rythme la hauteur de l'eau change-t-elle lorsque le niveau d'eau est à un demi-centimètre du sommet du cône ? Le volume d'un cône est V = (π/3)*r^2*h, où r est le rayon et h est la hauteur du cône.",−48/π cm/min,−4/(3π) cm/min,−8/(3π) cm/min,−16/(3π) cm/min,D
+"Considérez le système d'équations linéaires
+w + 3x + 2y + 2z = 0
+w + 4x + y = 0
+3w + 5x + 10y + 14z = 0
+2w + 5x + 5y + 6z = 0
+avec des solutions de la forme (w, x, y, z), où w, x, y et z sont réels. Laquelle des affirmations suivantes est FAUSSE ?",Le système est cohérent.,Le système a une infinité de solutions.,La somme de deux solutions quelconques est une solution.,"Chaque solution est un multiple scalaire de (-5, 1, 1, 0).",D
+"Si c > 0 et f(x) = e^x - cx pour tous les nombres réels x, alors la valeur minimale de f est",f(c),f(e^c),f(1/c),f(log c),D
+"Supposons que A est une matrice 3 × 3 telle que det(A − λI) = −λ^3 + 3λ^2 + λ − 3, où I est la matrice d'identité 3 × 3. Lesquelles des affirmations suivantes sont VRAIES pour A ?
+I. La trace de A est 3.
+II. Le déterminant de A est −3.
+III. La matrice A a des valeurs propres −3 et 1.",Je seulement,II seulement,III seulement,I et II seulement,D
+Soit y = f(x) une solution de l'équation différentielle x dy + (y - xe^x) dx = 0 telle que y = 0 lorsque x = 1. Quelle est la valeur de f(2) ?,1/(2e),1/e,e^2/2,2e,C
+"Une pièce équilibrée doit être lancée 100 fois, chaque lancer donnant pile ou face. Si H est le nombre total de piles et T est le nombre total de faces, lequel des événements suivants a la plus grande probabilité ?",H = 50,T >= 60,51 <= H <= 55,H >= 48 et T >= 48,D
+"Énoncé 1 | Supposons que f : [a, b] est une fonction et supposons que f a un maximum local. f'(x) doit-il exister et être égal à 0 ? Énoncé 2 | Il existe des applications continues non constantes de R vers Q.","Vrai, Vrai","Vrai, Faux","Faux, Vrai","Faux, Faux",D
+"Soit I != A != -I, où I est la matrice identité et A est une matrice réelle 2 x 2. Si A = A^(-1), alors la trace de A est",2,1,0,-1,C
+"Un total de x pieds de clôture doit former trois côtés d'un jardin rectangulaire plat. Quelle est la superficie maximale possible du jardin, en fonction de x ?",x^2/9,x^2/8,x^2/4,x^2,B
+"Énoncé 1 | Si A est connexe, la fermeture de A doit être connexe. Énoncé 2 | Toute fonction continue f : (0, 1) → (0, 1) a un point fixe.","Vrai, Vrai","Vrai, Faux","Faux, Vrai","Faux, Faux",B
+Lequel des ensembles suivants a la plus grande cardinalité ?,R,L'ensemble de toutes les fonctions de Z vers Z,"L'ensemble de toutes les fonctions de R vers {0, 1}",L'ensemble de tous les sous-ensembles finis de R,C
+"Soit f(x) une fonction dont le graphe passe par l'origine. Si f(2n) = n^2 + f[2(n - 1)] pour tout entier n, quelle est la valeur de f(8) ?",24,30,32,36,B
+Combien de groupes abéliens structurellement distincts ont un ordre de 72 ?,4,6,8,9,B
+"Si le groupe fini G contient un sous-groupe d'ordre sept mais qu'aucun élément (autre que l'identité) n'est son propre inverse, alors l'ordre de G pourrait être",27,28,35,37,C
+"Soit f(x, y) = x^3 + y^3 + 3xy pour tous les réels x et y. Alors il existe des points distincts P et Q tels que f a un",maximum local à P et à Q,point-selle en P et en Q,maximum local en P et un point-selle en Q,minimum local en P et un point-selle en Q,C
+"Si A est un sous-ensemble de la droite réelle R et A contient chaque nombre rationnel, laquelle des affirmations suivantes doit être vraie ?","Si A est ouvert, alors A = R.","Si A est fermé, alors A = R.","Si A est indénombrable, alors A = R.","Si A est indénombrable, alors A est ouvert.",B
+Soit M une matrice réelle 5 x 5. Exactement quatre des cinq conditions suivantes sur M sont équivalentes entre elles. Laquelle des cinq conditions n'est équivalente à AUCUNE des quatre autres ?,"Pour deux vecteurs colonnes distincts u et v de M, l'ensemble {u, v} est linéairement indépendant.",Le système homogène Mx = 0 n'a que la solution triviale.,Le système d'équations Mx = b a une solution unique pour chaque vecteur colonne réel b de dimension 5 x 1.,Le déterminant de M est non nul.,A
+Combien de nombres positifs x satisfont l'équation cos(97x) = x ?,1,15,31,49,C
+Pour lesquels des anneaux suivants est-il possible que le produit de deux éléments non nuls soit égal à zéro ?,L'anneau des nombres complexes,L'anneau des entiers modulo 11,"L'anneau des fonctions continues à valeurs réelles sur [0, 1]",L'anneau {a + b * √2 : a et b sont des nombres rationnels},C
+L'application x -> axa^2 d'un groupe G dans lui-même est un homomorphisme si et seulement si,G est abélien,G = {e},a^3 = e,a^2 = a,C
+"Si A est la matrice 2 par 2 dont l'entrée (i, j) est égale à i + j, et B est la matrice 3 par 3 dont l'entrée (i, j) est égale à i + j, trouvez la valeur de la somme detA + detB.",-2,-1,0,2,B
+"Si f : (0, 1) → (0, 1], alors laquelle des affirmations suivantes pourrait être VRAIE ?
+I. f est injective et surjective.
+II. L'image de f est compacte.
+III. f est continue, injective et surjective.",Je seulement,II seulement,I et II seulement,I et III seulement,C
+"Si un nombre réel x est choisi au hasard dans l'intervalle [0, 3] et un nombre réel y est choisi au hasard dans l'intervalle [0, 4], quelle est la probabilité que x < y ?",1/2,7/12,5/8,2/3,C
+"La probabilité qu'un point (x, y) dans R^2 soit choisi suit une distribution aléatoire uniforme dans la région décrite par l'inégalité 0 < |x| + |y| < 1 . Quelle est la probabilité que 2(x + y) > 1 ?",0,1/4,sqrt(2)/4,1/racine carrée de 2,B
+(1+i)^10 =,1,i,32,32i,D
+"Si U et V sont des sous-espaces tridimensionnels de R^5, quelles sont les dimensions possibles de U ∩ V ?",0,1,0 ou 1,"1, 2, ou 3",D
+"Soit S le sous-ensemble de R^2 constitué de tous les points (x, y) dans le carré unitaire [0, 1] × [0, 1] pour lesquels x ou y, ou les deux, sont irrationnels. Par rapport à la topologie standard sur R^2, S est",fermé,ouvrir,connecté,totalement déconnecté,C
+Laquelle des cercles suivants a le plus grand nombre de points d'intersection avec la parabole x^2 = y + 4 ?,x^2 + y^2 = 1,x^2 + y^2 = 2,x^2 + y^2 = 9,x^2 + y^2 = 16,C
+X est un ensemble fini ayant la propriété suivante : Le nombre de sous-ensembles de X qui contiennent exactement 3 éléments est 14 de plus que le nombre de sous-ensembles de X qui contiennent exactement 2 éléments. Combien de sous-ensembles de X contiennent exactement 4 éléments ?,24,25,28,35,D
+"Soit T : R^2 -> R^2 la transformation linéaire qui fait correspondre le point (1, 2) au point (2, 3) et le point (-1, 2) au point (2, -3). Alors T fait correspondre le point (2, 1) à","(1, 6)","(-1, 4)","(3, 2)","(-4, 3)",A

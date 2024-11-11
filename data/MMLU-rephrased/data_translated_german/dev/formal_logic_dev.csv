@@ -1,0 +1,10 @@
+Wählen Sie die beste Übersetzung in Prädikatenlogik: Keine Menschen fahren auf dem Mars.,~Pd,(∀x)(Px ∨ ~Dx),(∀x)(Px ⊃ ~Dx),~Dp,C
+Wählen Sie die beste Übersetzung in Prädikatenlogik aus. George leiht sich Hectors Rasenmäher. (g: George; h: Hector; l: Hectors Rasenmäher; Bxyx: x leiht sich y von z),Blgh,Bhlg,Bglh,Bghl,C
+"Wählen Sie die beste englische Interpretation der gegebenen Argumente in der Prädikatenlogik aus.
+Dm
+(∀x)(Wx ⊃ ~Dx)
+(∀x)Wx ∨ Ag	/ (∃x)Ax",Marina ist eine Tänzerin. Einige Schwächlinge sind keine Tänzer. Entweder ist alles ein Schwächling oder Georgia spielt Volleyball. Also spielt etwas Volleyball.,Marina ist eine Tänzerin. Kein Schwächling ist ein Tänzer. Alles ist entweder ein Schwächling oder spielt Volleyball. Also spielt etwas Volleyball.,Marina ist eine Tänzerin. Einige Schwächlinge sind keine Tänzer. Alles ist entweder ein Schwächling oder spielt Volleyball. Also spielt etwas Volleyball.,Marina ist eine Tänzerin. Kein Schwächling ist ein Tänzer. Entweder ist alles ein Schwächling oder Georgia spielt Volleyball. Also spielt etwas Volleyball.,D
+"Erstellen Sie eine vollständige Wahrheitstabelle für die folgenden Paare von Aussagen. Bestimmen Sie dann anhand der Wahrheitstabellen, ob die Aussagen logisch äquivalent oder widersprüchlich sind. Falls keines von beiden zutrifft, bestimmen Sie, ob sie konsistent oder inkonsistent sind. Begründen Sie Ihre Antworten.
+E ⊃ (F · E) und ~E · F",Logisch äquivalent,Widersprüchlich,"Weder logisch äquivalent noch widersprüchlich, sondern konsistent",Inkonsistent,C
+"Welche der gegebenen Formeln der Prädikatenlogik ist die beste Symbolisierung des folgenden Satzes?
+Schildkröten leben lange und sind glückliche Geschöpfe, es sei denn, sie sind verletzt.",(L • H) ≡ I,(L • H) ∨ I,L • (H ∨ I),L • (H ⊃ R),B

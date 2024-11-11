@@ -1,0 +1,314 @@
+Cho x = 1. Giá trị của x << 3 trong Python 3 là gì?,1,3,8,16,C
+"Trong Python 3, hàm nào sau đây chuyển đổi một chuỗi thành một số nguyên trong python?","int(x [,base])","long(x [,base] )",float(x),str(x),A
+"Người dùng nhập một địa chỉ Web vào trình duyệt, và một yêu cầu về tệp được gửi đến máy chủ Web. Điều nào sau đây mô tả chính xác nhất cách tệp được gửi đến người dùng?",Tập tin được chia thành các gói để truyền tải. Các gói phải được tập hợp lại khi nhận được.,Tệp được chia thành các gói để truyền tải. Trình duyệt của người dùng phải yêu cầu từng gói theo thứ tự cho đến khi nhận được tất cả các gói.,"Máy chủ cố gắng kết nối trực tiếp với máy tính của người dùng. Nếu kết nối thành công, toàn bộ tệp sẽ được gửi đi. Nếu kết nối không thành công, một thông báo lỗi sẽ được gửi đến người dùng.","Máy chủ liên tục cố gắng kết nối trực tiếp với máy tính của người dùng cho đến khi thiết lập được kết nối. Khi kết nối được thiết lập, toàn bộ tệp tin sẽ được gửi đi.",A
+"Hình ảnh kỹ thuật số thường được biểu diễn bằng các giá trị đỏ, xanh lá cây và xanh dương (một bộ ba RGB) của từng điểm ảnh riêng lẻ trong hình ảnh. Một nhiếp ảnh gia đang chỉnh sửa một hình ảnh kỹ thuật số và ghi đè lên hình ảnh gốc. Điều nào sau đây mô tả một phép biến đổi không mất dữ liệu của hình ảnh kỹ thuật số?",Nén hình ảnh theo cách có thể mất thông tin nhưng chỉ gây ra sự suy giảm nhỏ về chất lượng hình ảnh.,"Tạo thang độ xám của một hình ảnh bằng cách lấy trung bình các lượng màu đỏ, xanh lá cây và xanh dương trong mỗi điểm ảnh và gán giá trị mới này cho điểm ảnh tương ứng trong hình ảnh mới. Giá trị mới của mỗi điểm ảnh đại diện cho một sắc thái của màu xám, từ trắng đến đen.","Tạo ảnh âm bản bằng cách tạo ra một bộ ba RGB mới cho mỗi pixel, trong đó mỗi giá trị được tính bằng cách lấy 255 trừ đi giá trị gốc. Ảnh âm bản là hình ảnh đảo ngược từ bản gốc; các vùng sáng trở nên tối và các màu sắc bị đảo ngược.",Chỉnh sửa một phần của hình ảnh bằng cách lấy các điểm ảnh từ một phần của bức tranh và sao chép chúng vào các điểm ảnh ở một phần khác của bức tranh.,C
+"Một lập trình viên đang viết một chương trình nhằm có khả năng xử lý lượng lớn dữ liệu. Trong số những cân nhắc sau đây, điều nào ÍT có khả năng ảnh hưởng nhất đến khả năng xử lý các tập dữ liệu lớn hơn của chương trình?",Chương trình mất bao lâu để chạy,Chương trình chứa bao nhiêu câu lệnh lập trình,Lượng bộ nhớ mà chương trình yêu cầu khi nó chạy,Dung lượng lưu trữ mà chương trình cần khi nó đang chạy,B
+"Giả sử các ký tự 0,1, . . . ,8,9,A,B,C,D, E,F được sử dụng để biểu diễn một số hệ thập lục phân (cơ số 16). Ở đây A = 10, B = 11, . . . ,F = 15. Số nguyên lớn nhất trong hệ cơ số 10 có thể được biểu diễn bằng một số hệ thập lục phân hai chữ số, như 14 hoặc 3A, là bao nhiêu?",32,225,255,256,C
+"Một tập dữ liệu lớn chứa thông tin về tất cả sinh viên chuyên ngành khoa học máy tính tại các trường đại học trên khắp Hoa Kỳ. Tập dữ liệu này chứa những thông tin sau về mỗi sinh viên.
+   ° Giới tính của sinh viên
+   ° Tiểu bang nơi sinh viên theo học đại học
+   ° Điểm trung bình của sinh viên trên thang điểm 4.0
+
+ Câu hỏi nào sau đây có thể được trả lời bằng cách chỉ phân tích thông tin trong tập dữ liệu này?",Sinh viên chuyên ngành khoa học máy tính có xu hướng đạt điểm trung bình cao hơn so với sinh viên chuyên ngành khác không?,Có bao nhiêu tiểu bang có tỷ lệ phần trăm sinh viên nữ học ngành khoa học máy tính cao hơn so với sinh viên nam học ngành khoa học máy tính đang theo học đại học ở tiểu bang đó?,Bao nhiêu phần trăm sinh viên đang theo học đại học ở một bang nhất định đang chuyên ngành khoa học máy tính?,Trường đại học nào có số lượng sinh viên chuyên ngành khoa học máy tính cao nhất?,B
+"Đoạn mã dưới đây sử dụng thủ tục IsFound (list, item), trả về true nếu item xuất hiện trong list và trả về false nếu ngược lại. Danh sách resultList ban đầu là trống.
+  FOR EACH item IN inputList1{
+ IF (isFound (inputList2, item) )
+ APPEND (resultList, item)
+ }
+ Điều nào sau đây mô tả chính xác nhất nội dung của resultList sau khi đoạn mã được thực thi?",Tất cả các phần tử trong inputList1 theo sau bởi tất cả các phần tử trong inputList2,Chỉ những phần tử xuất hiện trong cả inputList1 và inputList2,Chỉ những phần tử xuất hiện trong inputList1 hoặc inputList2 nhưng không xuất hiện trong cả hai danh sách,Chỉ những phần tử xuất hiện trong inputList1 nhưng không có trong inputList2,B
+Một chương trình được thể hiện bằng một ngôn ngữ lập trình. Điều nào sau đây đúng với chương trình đó?,"Chương trình cũng có thể được biểu diễn dưới dạng mã nhị phân, nhưng sẽ dễ hiểu hơn đối với con người khi được biểu diễn bằng ngôn ngữ lập trình bậc cao hơn.","Chương trình cũng có thể được biểu diễn dưới dạng mã nhị phân, điều này sẽ giảm khả năng xảy ra lỗi.","Chương trình không thể được biểu diễn dưới dạng mã nhị phân, bởi vì mã nhị phân chỉ có thể được sử dụng để biểu diễn dữ liệu.","Một số phần của chương trình có thể được biểu diễn dưới dạng mã nhị phân, nhưng các thao tác phải được biểu diễn bằng ngôn ngữ lập trình cấp cao hơn.",A
+"Trong Python 3, đâu là kết quả của print tuple[0] nếu tuple = ( 'abcd', 786 , 2.23, 'john', 70.2 )?","( 'abcd', 786 , 2.23, 'john', 70.2 )",abcd,Lỗi,Không có câu trả lời nào ở trên.,B
+"Trong số các lợi ích tiềm năng sau đây, lợi ích nào ÍT có khả năng được cung cấp nhất bởi hệ thống nâng cấp?",Đại diện con người sẽ không cần thiết để trả lời một số câu hỏi.,Công ty sẽ có thể cung cấp một đại diện là con người cho bất kỳ cuộc gọi đến nào.,Khách hàng có khả năng sẽ dành ít thời gian hơn để lắng nghe thông tin không liên quan đến vấn đề của họ.,Khách hàng sẽ không thể vô tình chọn nhầm phòng ban không phù hợp với vấn đề cụ thể của họ.,B
+"Về mặt lịch sử, người ta đã quan sát thấy rằng tốc độ xử lý của máy tính có xu hướng tăng gấp đôi cứ sau hai năm. Trong số các phương án sau đây, phương án nào mô tả tốt nhất cách các công ty công nghệ có thể sử dụng quan sát này cho mục đích lập kế hoạch?",Các công ty công nghệ có thể dự đoán chính xác ngày mà những đổi mới trong lĩnh vực máy tính sẽ được đưa vào sử dụng.,Các công ty công nghệ có thể lên kế hoạch tăng gấp đôi chi phí cho các sản phẩm mới mỗi khi có những tiến bộ về tốc độ xử lý.,Các công ty công nghệ có thể đặt mục tiêu nghiên cứu và phát triển dựa trên tốc độ xử lý dự kiến.,Các công ty công nghệ có thể dành ít công sức hơn để phát triển các bộ xử lý mới vì tốc độ xử lý sẽ luôn cải thiện theo tỷ lệ đã quan sát được.,C
+"Một lập trình viên đã viết chương trình dưới đây. Chương trình sử dụng một danh sách các số gọi là numList. Chương trình này nhằm hiển thị tổng của các số trong danh sách.
+ sum ← numList [1]
+ FOR EACH value IN numList
+ sum ← sum + value
+ DISPLAY sum
+ Để kiểm tra chương trình, lập trình viên khởi tạo numList thành [0 , 1 , 4 , 5]. Chương trình hiển thị 10, và lập trình viên kết luận rằng chương trình hoạt động như dự định. Điều nào sau đây là đúng?",Kết luận là chính xác; chương trình hoạt động như dự định.,"Kết luận là không chính xác; chương trình không hiển thị giá trị đúng cho trường hợp kiểm tra [0, 1, 4, 5].","Kết luận là không chính xác; việc sử dụng trường hợp kiểm thử [0, 1, 4, 5] là không đủ để kết luận rằng chương trình là đúng.","Kết luận là không chính xác; việc sử dụng trường hợp kiểm tra [0, 1, 4, 5] chỉ xác nhận rằng chương trình hoạt động đối với các danh sách theo thứ tự tăng dần.",C
+"Một mô phỏng máy tính được tạo ra để mô phỏng sự phát triển của một loài thực vật nhất định trong các điều kiện khác nhau. Trong số các hành động sau đây, hành động nào có thể được sử dụng để xác thực mô hình được sử dụng trong mô phỏng?",Thể hiện phần mềm mô phỏng bằng cả thuật toán đệ quy và lặp. So sánh kết quả của thuật toán đệ quy với kết quả của thuật toán lặp.,Thực hiện các thí nghiệm thực tế về sự phát triển của các loài thực vật trong các môi trường khác nhau. So sánh kết quả thí nghiệm với kết quả được cung cấp bởi mô phỏng.,Loại bỏ mọi chi tiết không cần thiết khỏi mô hình. So sánh thời gian chạy của mô phỏng ban đầu và mô phỏng đã được đơn giản hóa.,Chạy phần mềm mô phỏng trên nhiều thiết bị. So sánh kết quả thu được từ mỗi thiết bị.,B
+"Mã hóa Huffman gán các mã có độ dài biến đổi duy nhất cho các giá trị đầu vào dựa trên tần suất xuất hiện của mỗi giá trị. Các giá trị xuất hiện thường xuyên được gán các mã chứa ít bit hơn so với các giá trị xuất hiện ít thường xuyên hơn, được gán các mã chứa nhiều bit hơn. Điều nào sau đây mô tả tốt nhất một ứng dụng thích hợp của mã hóa Huffman?",Giải mã,Sắp xếp hiệu quả,Nén không mất dữ liệu,Nén có tổn hao,C
+"Trong Python 3, hàm nào trong số các hàm sau kiểm tra xem tất cả các ký tự trong một chuỗi có phải là chữ hoa không?",isupper(),join(seq),len(string),"ljust(width[, fillchar])",A
+"Đoạn mã dưới đây nhằm hiển thị ""odd"" nếu số dương num là số lẻ.
+ IF (<ĐIỀU KIỆN THIẾU>)
+ DISPLAY ""odd""
+
+ Điều kiện nào sau đây có thể được sử dụng để thay thế <ĐIỀU KIỆN THIẾU> để đoạn mã hoạt động như dự định?",(num MOD 1) = 0,(num MOD 1) = 1,(num MOD 2 ) = 0,(num MOD 2) = 1,D
+Một lập trình viên sử dụng mã nguồn được công bố trực tuyến dưới giấy phép Creative Commons Attribution (CC BY) trong một sản phẩm thương mại. Điều nào sau đây mô tả chính xác nhất việc sử dụng mã nguồn một cách chấp nhận được?,Sao chép mã từ nguồn trực tuyến vào sản phẩm của lập trình viên mà không có bất kỳ hành động nào khác,Sao chép mã từ nguồn trực tuyến vào sản phẩm của lập trình viên và giới hạn mã được sao chép trong mười dòng mã,Sao chép mã từ nguồn trực tuyến vào sản phẩm của lập trình viên và thay đổi tất cả tên biến,Sao chép mã từ nguồn trực tuyến vào sản phẩm của lập trình viên và ghi công tác giả gốc theo cách được chỉ định bởi giấy phép,D
+"Một ngân hàng mới dự định ưu tiên sự tiện lợi cho khách hàng bằng cách giảm thiểu thời gian khách hàng phải chờ đợi trong hàng. Ngân hàng đang xem xét hai lựa chọn: một hàng duy nhất nơi khách hàng ở phía trước chờ đợi nhân viên giao dịch tiếp theo rảnh, hoặc các hàng riêng biệt cho mỗi nhân viên giao dịch. Ngân hàng quyết định sử dụng mô phỏng máy tính cho hai lựa chọn này để xác định thời gian chờ đợi trung bình cho khách hàng. Điều nào sau đây KHÔNG đúng về kế hoạch của ngân hàng?","Ngân hàng có thể kết hợp các yếu tố khác, chẳng hạn như số lượng nhân viên giao dịch, vào mô phỏng.",Ngân hàng có thể sử dụng mô phỏng để điều tra hai lựa chọn này mà không gây bất tiện cho khách hàng.,Ngân hàng có thể xem xét các phương án mới dựa trên kết quả mô phỏng.,Mô phỏng sẽ không tạo ra kết quả khả dụng vì dữ liệu khách hàng thực tế không có sẵn.,D
+"Trong các phương án sau đây, phương án nào giải thích tốt nhất cách dữ liệu thường được tập hợp thành các gói để truyền tải qua Internet?","Mỗi gói tin chứa dữ liệu cần truyền đi, cùng với siêu dữ liệu chứa thông tin được sử dụng để định tuyến dữ liệu.","Mỗi gói tin chứa một phiên bản được mã hóa của dữ liệu cần truyền đi, cùng với siêu dữ liệu chứa khóa cần thiết để giải mã dữ liệu.",Mỗi gói tin chỉ chứa siêu dữ liệu được sử dụng để thiết lập kết nối trực tiếp để dữ liệu có thể được truyền đi.,"Mỗi gói chứa nhiều tệp dữ liệu được gộp lại với nhau, cùng với siêu dữ liệu mô tả cách phân loại từng tệp dữ liệu.",A
+"Một phương pháp cần được viết để tìm kiếm trong một mảng một giá trị lớn hơn một mục cho trước và trả về chỉ số của nó. Đặc tả vấn đề không chỉ ra điều gì nên được trả về nếu có nhiều giá trị như vậy trong mảng. Trong số các hành động sau đây, hành động nào là tốt nhất?",Phương thức này nên được viết dựa trên giả định rằng chỉ có một giá trị trong mảng lớn hơn mục đã cho.,Phương pháp này nên được viết để trả về chỉ số của mỗi lần xuất hiện của một giá trị lớn hơn.,Đặc tả cần được sửa đổi để chỉ ra nên làm gì nếu có nhiều hơn một chỉ số của các giá trị lớn hơn.,Phương pháp này nên được viết để xuất ra một thông báo nếu tìm thấy nhiều hơn một giá trị lớn hơn.,C
+"Kết quả của câu lệnh ""a"" + ""ab"" trong Python 3 là gì?",Lỗi,aab,ab,a ab,B
+"Trong Python 3, cái nào sau đây là phép chia lấy phần nguyên?",/,//,%,"I understand. I will translate the text after the colon to Vietnamese, outputting only the translated text without any additional comments. If translation is not possible, I will output the original text. I will not omit anything from the text. Please provide the text to be translated after the colon.",B
+Chính sách trường học nào sau đây có khả năng tạo ra tác động tích cực nhất đối với khoảng cách số?,Một trường học cho phép học sinh mang máy tính đồ thị từ nhà đến để hoàn thành các bài tập toán trong lớp.,Một trường học cho phép học sinh mang máy tính bảng đến lớp mỗi ngày để tham gia các bài kiểm tra có tính điểm.,Một trường học cung cấp máy tính xách tay hoặc máy tính bảng cho tất cả học sinh đã đăng ký học tại trường.,Một trường học khuyến nghị tất cả học sinh mua máy tính có tốc độ xử lý càng cao càng tốt để các dự án chạy nhanh hơn.,C
+"Ở một quốc gia nọ, một người phải ít nhất 16 tuổi để lái xe ô tô và phải ít nhất 18 tuổi để đi bầu cử. Biến age đại diện cho tuổi của một người dưới dạng số nguyên. Biểu thức nào sau đây đánh giá là đúng nếu người đó đủ tuổi lái xe nhưng chưa đủ tuổi bầu cử, và đánh giá là sai trong trường hợp khác?
+ I. (age ≥ 16) VÀ (age ≤ 18)
+ II. (age ≥ 16) VÀ (KHÔNG(age ≥ 18))
+ III. (age < 18) VÀ (KHÔNG(age < 16))",II chỉ,Chỉ có I và II,Chỉ có I và III,Chỉ II và III,D
+Một cửa hàng trực tuyến sử dụng chuỗi nhị phân 6 bit để xác định mỗi mặt hàng duy nhất được bán. Cửa hàng dự định tăng số lượng mặt hàng bán ra và đang cân nhắc sử dụng chuỗi nhị phân 7 bit. Điều nào sau đây mô tả chính xác nhất kết quả của việc sử dụng chuỗi 7 bit thay vì chuỗi 6 bit?,Có thể xác định duy nhất thêm 2 mục.,Có thể xác định duy nhất thêm 10 mặt hàng nữa.,Số lượng mặt hàng có thể được xác định duy nhất nhiều gấp 2 lần.,Có thể xác định duy nhất số lượng vật phẩm gấp 10 lần.,C
+"Trong số các chương trình sau đây, chương trình nào có khả năng được hưởng lợi nhiều nhất từ việc sử dụng phương pháp heuristic?",Một chương trình tính điểm của học sinh dựa trên điểm kiểm tra và điểm bài tập về nhà của học sinh đó,Một chương trình mã hóa một thư mục chứa các tập tin kỹ thuật số,Một chương trình tìm tuyến đường lái xe ngắn nhất giữa hai địa điểm trên bản đồ,Một chương trình sắp xếp danh sách các số theo thứ tự từ nhỏ nhất đến lớn nhất,C
+"Hãy xem xét đoạn mã sau.
+ int num1 = value1, num2 = value2, num3 = value3;
+ while (num1 > num2 || num1 > num3)
+ {
+ /* thân vòng lặp */
+ }
+ Bạn có thể giả định rằng value1, value2 và value3 là các giá trị kiểu int. Điều nào sau đây là đủ để đảm bảo rằng /* thân vòng lặp */ sẽ không bao giờ được thực thi?",num1 < num2,num1 < num3,num1 > num2 && num1 > num3,num1 < num2 && num1 < num3,D
+"Hai danh sách, list1 và list2, chứa tên các cuốn sách được tìm thấy trong hai bộ sưu tập khác nhau. Một thủ thư muốn tạo ra newList, sẽ chứa tên của tất cả các cuốn sách có trong cả hai danh sách, theo thứ tự bảng chữ cái, và loại bỏ các mục trùng lặp.
+
+Ví dụ, nếu list1 chứa
+[""Macbeth"", ""Frankenstein"", ""Jane Eyre""]
+và list2 chứa
+[""Frankenstein"", ""Dracula"", ""Macbeth"", ""Hamlet""],
+thì newList sẽ chứa
+[""Dracula"", ""Frankenstein"", ""Hamlet"", ""Jane Eyre"", ""Macbeth""].
+
+Các thủ tục sau đây có sẵn để tạo newList.
+Thủ tục
+Giải thích
+Sort (list)
+Sắp xếp danh sách theo thứ tự bảng chữ cái và trả về danh sách kết quả.
+Combine (list1, list2)
+Tạo một danh sách mới bao gồm các mục từ list1 theo sau là các mục từ list2. Danh sách kết quả được trả về.
+RemoveDuplicates (list)
+Lặp qua danh sách. Nếu có hai hoặc nhiều mục có cùng giá trị, các mục trùng lặp sẽ bị xóa để mỗi mục chỉ xuất hiện nhiều nhất một lần. Danh sách kết quả được trả về.
+
+Đoạn mã nào trong các đoạn mã sau sẽ tạo ra newList một cách chính xác?","newList ← Kết hợp (listl, list2)
+ newList ← Sắp xếp (newList)
+ newList ← Loại bỏ trùng lặp (newList)","listl ← Sắp xếp (listl)
+ list2 ← Sắp xếp (list2)
+ newList ← Kết hợp (listl, list2)
+ newList ← Loại bỏ trùng lặp (newList)","listl ← LoạiBỏTrùngLặp (listl)
+ list2 ← LoạiBỏTrùngLặp (list2)
+ danhSáchMới ← KếtHợp (listl, 1ist2)
+ danhSáchMới ← SắpXếp (danhSáchMới)","listl ← RemoveDuplicates (listl)
+ listl ← Sort (listl)
+ list2 ← RemoveDuplicates (list2)
+ 1ist2 ← Sort (list2)
+ newList ← Combine (listl, list2)",A
+Tên biến trong Python có phân biệt chữ hoa chữ thường không?,Có,Không,Nó phụ thuộc vào máy,Không có câu trả lời nào ở trên,A
+"Một chương trình máy tính sử dụng 3 bit để biểu diễn số nguyên. Khi chương trình cộng các số thập phân (cơ số 10) 5 và 3, kết quả là 0. Trong số các giải thích sau đây, giải thích nào là tốt nhất cho kết quả này?",Đã xảy ra lỗi tràn bộ nhớ.,Đã xảy ra lỗi làm tròn số.,Kết quả bị ảnh hưởng bởi việc nén dữ liệu có tổn thất.,Kết quả được xấp xỉ bằng một biểu diễn dấu phẩy động.,A
+Cái nào lớn nhất tiệm cận?,O(1),O(n),O(n^2),O(log n),C
+"Một lập trình viên đã viết đoạn mã dưới đây để hiển thị trung bình của tất cả các phần tử trong một danh sách có tên là numbers. Luôn có ít nhất một số trong danh sách.
+ Dòng 1: count ← 0
+ Dòng 2: sum ← 0
+ Dòng 3: FOR EACH value IN numbers
+ Dòng 4: {
+ Dòng 5: count ← count + 1
+ Dòng 6: sum ← sum + value
+ Dòng 7: average ← sum / count
+ Dòng 8: }
+ Dòng 9: DISPLAY (average)
+
+ Lập trình viên muốn giảm số lượng phép toán được thực hiện khi chương trình chạy. Thay đổi nào sẽ dẫn đến một chương trình chính xác với số lượng phép toán được thực hiện giảm đi?",Hoán đổi dòng 1 và dòng 2,Hoán đổi dòng 5 và dòng 6,Hoán đổi dòng 6 và dòng 7,Hoán đổi dòng 7 và dòng 8,D
+Cả báo điện tử và các trang mạng xã hội đều được sử dụng để phân phối thông tin trên Internet. Điều nào sau đây mô tả chính xác nhất một lợi thế mà báo điện tử có so với các trang mạng xã hội?,Khả năng phân phối thông tin ngay lập tức,Khả năng cung cấp độ tin cậy cho thông tin được phân phối,Khả năng cung cấp thông tin có thể được tiếp cận rộng rãi,Khả năng cung cấp nội dung đa phương tiện phong phú với chi phí thấp,B
+Một chương trình Java lớn đã được kiểm tra kỹ lưỡng và không tìm thấy lỗi nào. Có thể kết luận gì?,Tất cả các điều kiện tiên quyết trong chương trình đều chính xác.,Tất cả các điều kiện sau trong chương trình đều chính xác.,Chương trình có thể có lỗi.,Mọi phương thức trong chương trình có thể được sử dụng an toàn trong các chương trình khác.,C
+Giá trị của biểu thức Python này là bao nhiêu: 1 + 3 % 3?,0,1,3,4,B
+"Mỗi học sinh nhập học tại một trường được gán một số ID duy nhất, được lưu trữ dưới dạng số nhị phân. Số ID tăng tuần tự lên 1 với mỗi học sinh mới nhập học. Nếu số ID được gán cho học sinh cuối cùng nhập học là số nhị phân 1001 0011, số nhị phân nào sẽ được gán cho học sinh tiếp theo nhập học?",1001 0100,1001 0111,1101 0100,1101 0111,A
+"Trong Python 3, toán tử nào sau đây thực hiện phép tính lũy thừa (số mũ) trên các toán hạng?",**,//,là,không ở trong,A
+"Trong các đáp án sau đây, đâu là biểu diễn thập lục phân của số thập phân 231_{10} ?",17_{16},E4_{16},E7_{16},F4_{16},C
+"Trong các hàm bảng tính sau đây, hàm nào sẽ hữu ích nhất để phát hiện các giá trị cao hoặc thấp một cách không hợp lý đã trở thành một phần của tập dữ liệu do lỗi nhập liệu?",Một hàm tính trung bình các giá trị số trong một cột hoặc hàng,Một hàm đếm các giá trị trong một cột hoặc hàng,Một hàm làm tròn một giá trị số,Một hàm sắp xếp các giá trị trong một cột hoặc hàng,D
+"Một trò chơi máy tính nhất định được chơi giữa một người chơi và một người chơi do máy tính điều khiển. Mỗi khi đến lượt người chơi do máy tính điều khiển, trò chơi chạy chậm vì máy tính đánh giá tất cả các nước đi tiềm năng và chọn nước đi tốt nhất. Điều nào sau đây mô tả tốt nhất khả năng cải thiện tốc độ chạy của trò chơi?",Tốc độ chạy của trò chơi chỉ có thể được cải thiện nếu trò chơi được chơi giữa hai người chơi thay vì với người chơi do máy tính điều khiển.,Tốc độ chạy của trò chơi có thể được cải thiện bằng cách sử dụng một quy trình tìm ra các giải pháp gần đúng mỗi khi đến lượt người chơi do máy tính điều khiển.,Tốc độ chạy của trò chơi không thể được cải thiện vì máy tính chỉ có thể được lập trình để tìm ra giải pháp tốt nhất có thể.,Tốc độ chạy của trò chơi không thể được cải thiện vì trò chơi là một ví dụ về thuật toán không chạy trong thời gian hợp lý.,B
+"Trong Python 3, đâu là kết quả của print list[1:3] nếu list = [ 'abcd', 786 , 2.23, 'john', 70.2 ]?","[ 'abcd', 786 , 2.23, 'john', 70.2 ]",abcd,"[786, 2,23]",Không có câu trả lời nào ở trên.,C
+"Hãy xem xét đoạn mã dưới đây.
+ Dòng 1: IF (a = 0)
+ Dòng 2: {
+ Dòng 3: b ← a + 10
+ Dòng 4: }
+ Dòng 5: ELSE
+ Dòng 6: {
+ Dòng 7: b ← a + 2O
+ Dòng 8: }
+ Thay đổi nào trong số các thay đổi sau đây sẽ KHÔNG ảnh hưởng đến kết quả khi đoạn mã được thực thi?",Thay đổi dòng 3 thành b ← 10,Thay đổi dòng 3 thành a ← b + 10,Thay đổi dòng 7 thành b ← 20,Thay đổi dòng 7 thành a ← b + 10,A
+"Một danh sách đã sắp xếp gồm 120 số nguyên cần được tìm kiếm để xác định xem giá trị 100 có trong danh sách hay không. Giả sử thuật toán tìm kiếm hiệu quả nhất được sử dụng, số lượng phần tử tối đa phải được kiểm tra là bao nhiêu?",7,8,20,100,A
+Điều nào sau đây là đúng về Python?,Nó hỗ trợ thu gom rác tự động.,"Nó có thể dễ dàng tích hợp với C, C++, COM, ActiveX, CORBA và Java.",Cả hai điều trên.,Không có câu trả lời nào ở trên.,C
+Cho x = 8. Giá trị của x>>1 trong Python 3 là gì?,3,4,2,8,B
+"Màu sắc của một điểm ảnh có thể được biểu diễn bằng mô hình màu RGB (Đỏ, Xanh lá, Xanh dương), lưu trữ các giá trị cho màu đỏ, xanh lá và xanh dương, mỗi giá trị trong khoảng từ 0 đến 255. Cần bao nhiêu bit (chữ số nhị phân) để biểu diễn một màu trong mô hình RGB?",8,16,24,32,C
+Biểu thức boolean a[i] == max || !(max != a[i]) có thể được đơn giản hóa thành,a[i] == max,a[i] != max,a[i] < max || a[i] > max,SAI,A
+Một lập trình viên đang cân nhắc giữa việc sử dụng tìm kiếm tuyến tính hoặc tìm kiếm nhị phân để tìm một giá trị mục tiêu trong một danh sách đã được sắp xếp. Điều nào sau đây là đúng?,"Trong mọi trường hợp, tìm kiếm nhị phân trên một danh sách đã sắp xếp đòi hỏi ít phép so sánh hơn so với tìm kiếm tuyến tính.","Nhìn chung, lợi thế của việc sử dụng tìm kiếm nhị phân so với tìm kiếm tuyến tính tăng lên khi kích thước của danh sách tăng.",Tìm kiếm tuyến tính thường sẽ chạy nhanh hơn tìm kiếm nhị phân vì tìm kiếm tuyến tính cần ít dòng mã hơn để thực hiện.,Sử dụng tìm kiếm tuyến tính được ưu tiên hơn so với sử dụng tìm kiếm nhị phân nếu có khả năng mục tiêu có thể không được tìm thấy trong danh sách.,B
+Những loại hàm nào tăng trưởng chậm nhất?,O(log e^N),O(log N),O(log log N),O(N),C
+"Một học sinh đang ghi âm một bài hát trên máy tính của mình. Khi việc ghi âm hoàn tất, cô ấy lưu một bản sao trên máy tính. Học sinh nhận thấy rằng bản sao đã lưu có chất lượng âm thanh thấp hơn so với bản ghi âm gốc. Điều nào sau đây có thể là một lời giải thích hợp lý cho sự khác biệt về chất lượng âm thanh?",Bài hát đã được lưu bằng cách sử dụng ít bit mỗi giây hơn so với bài hát gốc.,Bài hát được lưu bằng nhiều bit mỗi giây hơn so với bài hát gốc.,Bài hát được lưu bằng kỹ thuật nén không mất dữ liệu.,Một số thông tin bị mất mỗi khi một tập tin được lưu từ một vị trí này sang một vị trí khác trên máy tính.,A
+"Trong Python 3, hàm nào sau đây trả về phần tử có giá trị lớn nhất từ danh sách?",cmp(list),len(list),max(list),min(list),C
+Cái nào là nhỏ nhất về mặt tiệm cận?,O(1),O(n),O(n^2),O(log n),A
+Điều nào sau đây ít có khả năng nhất để chỉ ra một cuộc tấn công lừa đảo?,Một email từ ngân hàng của bạn yêu cầu bạn gọi đến số điện thoại trên thẻ của bạn để xác minh một giao dịch,Một email từ một thương nhân yêu cầu bạn nhấp vào một liên kết để đặt lại mật khẩu của bạn,Một email từ một công ty tiện ích yêu cầu bạn nhập ngày sinh và số an sinh xã hội của bạn cho mục đích xác minh,Một email cho biết bạn đã trúng một số tiền lớn và yêu cầu bạn nhập số tài khoản ngân hàng của mình để có thể chuyển tiền cho bạn,A
+"Thuật toán dưới đây được sử dụng để mô phỏng kết quả của việc tung đồng xu 4 lần. Hãy xem xét mục tiêu xác định liệu mô phỏng có dẫn đến số lượng mặt ngửa và mặt sấp bằng nhau hay không.
+
+   Bước 1: Khởi tạo các biến heads_counter và f1ip_counter bằng 0.
+   Bước 2: Một biến coin_f1ip được gán ngẫu nhiên giá trị 0 hoặc 1.
+   Nếu coin_f1ip có giá trị 0, kết quả tung đồng xu là mặt ngửa, vì vậy
+   heads_counter được tăng lên 1.
+   Bước 3: Tăng giá trị của f1ip_counter lên 1.
+   Bước 4: Lặp lại bước 2 và 3 cho đến khi f1ip_counter bằng 4.
+
+ Sau khi thực hiện thuật toán, biểu thức nào trong số các biểu thức sau cho biết mô phỏng đã dẫn đến số lượng mặt ngửa và mặt sấp bằng nhau?",coin_f1ip = 1,flip_counter = 1,flip_counter = 2,heads_counter = 2,D
+Trụ cột nào của an ninh mạng bị xâm phạm khi ai đó đăng nhập vào hệ thống bằng thông tin đăng nhập và mật khẩu bị đánh cắp?,Xác thực,Bảo mật,Sự chính trực,Không thể chối bỏ,A
+"Thủ tục sau đây nhằm mục đích trả về số lần giá trị val xuất hiện trong danh sách myList. Thủ tục này không hoạt động như dự định.
+ Dòng 1: PROCEDURE countNumOccurences(myList, val)
+ Dòng 2: {
+ Dòng 3: FOR EACH item IN myList
+ Dòng 4: {
+ Dòng 5: count 0
+ Dòng 6: IF(item = val)
+ Dòng 7: {
+ Dòng 8: count count + 1
+ Dòng 9: }
+ Dòng 10: }
+ Dòng 11: RETURN(count)
+ Dòng 12:}
+ Thay đổi nào trong số các thay đổi sau đây có thể được thực hiện để thủ tục hoạt động như dự định?",Thay đổi dòng 6 thành IF(item = count),Thay đổi dòng 6 thành IF(myList[item] = val),Di chuyển câu lệnh ở dòng 5 để nó xuất hiện giữa dòng 2 và 3,Di chuyển câu lệnh ở dòng 11 để nó xuất hiện giữa dòng 9 và 10,C
+Câu nào sau đây là phát biểu đúng về tài liệu chương trình?,Tài liệu chương trình không nên được thay đổi sau khi đã được viết lần đầu tiên.,Tài liệu chương trình chỉ cần thiết cho các chương trình đang trong giai đoạn phát triển; nó không cần thiết sau khi chương trình đã hoàn thành.,Tài liệu chương trình rất hữu ích khi các lập trình viên cộng tác nhưng không cần thiết khi một lập trình viên làm việc độc lập trên một dự án.,Tài liệu chương trình rất hữu ích trong quá trình phát triển chương trình ban đầu và cả khi thực hiện các sửa đổi đối với các chương trình hiện có.,D
+"Hãy xem xét ba tình huống sau đây, có thể được mô hình hóa bằng ba cấu trúc dữ liệu - từ điển/bản đồ, hàng đợi và ngăn xếp.
+
+Tình huống 1: Các xe xếp hàng một làn tại một trạm rửa xe. Khi mỗi tài xế đến lối vào của trạm rửa xe, tài xế ra khỏi xe. Một hệ thống ròng rọc tự động di chuyển xe qua trạm rửa xe trong khi tài xế đi bộ đến lối ra của trạm rửa xe để thanh toán và nhận lại xe.
+
+Tình huống 2: Những thí sinh tham gia thử giọng cho một chương trình truyền hình thực tế về tài năng được gán một ID số duy nhất sau khi hoàn thành mẫu đăng ký.
+
+Tình huống 3: Bóng tennis được bán trong một hộp hình trụ có thể chứa tối đa 3 quả bóng, trong đó mỗi quả bóng ngoại trừ quả dưới cùng đều nằm trên quả bóng bên dưới nó. 3 quả bóng được đặt vào hộp lần lượt từng quả một thông qua một lỗ mở ở đỉnh hộp. 3 quả bóng được lấy ra khỏi hộp lần lượt từng quả một thông qua cùng một lỗ mở đó.
+
+Cấu trúc dữ liệu nào sau đây mô hình hóa tốt nhất các tình huống trên?
+Tình huống 1 | Tình huống 2 | Tình huống 3",Từ điển/ánh xạ | Hàng đợi | Ngăn xếp,Từ điển/ánh xạ | Ngăn xếp | Hàng đợi,Hàng đợi | Từ điển/ánh xạ | Ngăn xếp,Ngăn xếp | Hàng đợi | Từ điển/ánh xạ,C
+"Cho l = [1,2,3,4]. Giá trị của min(l) trong Python3 là gì?",1,2,3,4,A
+"Cho l = [1,2,3,4]. Giá trị của max(l) trong Python3 là gì?",1,2,3,4,D
+"Trong số những điều sau đây, điều nào là đặc điểm của bản chất chịu lỗi trong việc định tuyến trên Internet?",Khả năng sử dụng hệ thống đặt tên phân cấp để tránh xung đột trong việc đặt tên,Khả năng cung cấp truyền dữ liệu ngay cả khi một số kết nối bị lỗi,Khả năng giải quyết các lỗi trong việc tra cứu hệ thống tên miền (DNS),"Khả năng sử dụng nhiều giao thức như giao thức truyền tải siêu văn bản (HTTP), giao thức Internet (IP), và giao thức truyền tải thư đơn giản (SMTP) để truyền dữ liệu",B
+"Hãy xem xét các số sau đây.
+   ° Nhị phân 1100
+   ° Thập phân 11
+   ° Thập lục phân D
+ Danh sách nào sau đây liệt kê các số theo thứ tự từ nhỏ nhất đến lớn nhất?","Nhị phân 1100, Thập phân 11, Thập lục phân D","Thập phân 11, Nhị phân 1100, Thập lục phân D","Thập phân 11, Thập lục phân D, Nhị phân 1100","Thập lục phân D, Thập phân 11, Nhị phân 1100",B
+Vai trò của trình biên dịch trong quá trình phát triển phần mềm thực thi là gì?,Quản lý các tập tin đặc tả được tạo ra như một phần của quá trình phát triển,Chạy và kiểm tra tệp thực thi được tạo bởi lập trình viên,Theo dõi các phiên bản cũ hơn của phần mềm trong trường hợp phát hiện lỗi và cần phải khôi phục phần mềm về một dạng trước đó,"Dịch một chương trình được viết bằng ngôn ngữ trừu tượng, cấp cao thành một chương trình có cùng hành vi được thể hiện bằng mã máy",D
+"Trong số những điều sau đây, đâu là mối quan ngại về quyền riêng tư dữ liệu có khả năng xảy ra nhất của hệ thống đã nâng cấp?",Thông tin cá nhân của khách hàng có thể bị xâm phạm nếu một cá nhân không được phép truy cập vào cơ sở dữ liệu phiên gọi.,Lưu trữ thông tin trong cơ sở dữ liệu phiên gọi khiến cho các cá nhân dễ dàng đánh lừa hệ thống bằng cách sử dụng các liên kết độc hại.,"Thiết kế hệ thống này làm tăng khả năng khách hàng vô tình cài đặt phần mềm độc hại trên thiết bị của họ, điều này sẽ chia sẻ dữ liệu của họ với những cá nhân không được ủy quyền.",Thiết kế hệ thống này khiến cho những cá nhân không được phép dễ dàng có được các khóa mã hóa riêng tư của khách hàng.,A
+"Kết quả của ""abc""[-1] trong Python 3 là gì?",Lỗi,a,b,c,D
+"Một thuật toán sẽ được sử dụng để xác định giá trị lớn nhất trong một danh sách gồm một hoặc nhiều số nguyên. Hãy xem xét hai phiên bản của thuật toán dưới đây.
+
+ Thuật toán I: Đặt giá trị của biến max thành -1. Lặp qua danh sách các giá trị số nguyên. Nếu một giá trị dữ liệu lớn hơn giá trị của biến max, đặt max thành giá trị dữ liệu đó.
+
+ Thuật toán II: Đặt giá trị của biến max thành giá trị dữ liệu đầu tiên. Lặp qua các giá trị còn lại trong danh sách số nguyên. Nếu một giá trị dữ liệu lớn hơn giá trị của biến max, đặt max thành giá trị dữ liệu đó.
+
+ Trong các phát biểu sau đây, phát biểu nào mô tả chính xác nhất hành vi của hai thuật toán?",Cả hai thuật toán đều hoạt động chính xác trên tất cả các giá trị đầu vào.,"Thuật toán I luôn hoạt động chính xác, nhưng Thuật toán II chỉ hoạt động chính xác khi giá trị lớn nhất không phải là giá trị đầu tiên trong danh sách.","Thuật toán II luôn hoạt động chính xác, nhưng Thuật toán I chỉ hoạt động chính xác khi giá trị lớn nhất lớn hơn hoặc bằng -l.",Cả hai thuật toán sẽ không xác định chính xác giá trị lớn nhất khi đầu vào chứa cả giá trị dương và âm.,D
+"Xem xét biến thể hiện và các phương thức sau trong cùng một lớp.
+ private int[][] matrix;
+ /** Điều kiện tiên quyết: array.length > 0.
+ * @return số nguyên lớn nhất trong mảng
+ */
+ private int max(int[] array)
+ { /* cài đặt không được hiển thị */ }
+ /** @return num1 nếu num1 >= num2; ngược lại trả về num2
+ */
+ public int max(int num1, int num2)
+ { /* cài đặt không được hiển thị */ }
+ Giả sử matrix có giá trị hiện tại là
+ 2 1 4 8
+ 6 0 3 9
+ 5 7 7 6
+ 1 2 3 4
+ Kết quả trả về của lời gọi phương thức sau trong cùng lớp sẽ là gì?
+ max(max(matrix[2]), max(matrix[3]))",9,8,7,4,C
+Giá trị của biểu thức Python này là bao nhiêu: 4 + 3 % 2?,1,6,4,5,D
+"Airmail Express tính phí vận chuyển các gói hàng nhỏ dựa trên giá trị nguyên của trọng lượng. Phí cho trọng lượng w tính bằng pound như sau:
+ 0 < w ≤ 2 $4.00
+ 2 < w ≤ 5 $8.00
+ 5 < w ≤ 20 $15.00
+ Công ty không nhận các gói hàng nặng hơn 20 pound. Trong các lựa chọn sau đây, bộ dữ liệu (trọng lượng) nào là tốt nhất để kiểm tra một chương trình tính phí vận chuyển?","0, 2, 5, 20","1, 4, 16","-1, 1, 2, 3, 5, 16, 20","−1, 0, 1, 2, 3, 5, 16, 20, 22",D
+"Trong chương trình dưới đây, y là một số nguyên dương (ví dụ: 1, 2, 3, ...).
+ result ← 0
+ REPEAT 3 TIMES {
+ REPEAT y TIMES {
+ result ← result + 1
+ }
+ }",y+3,3y,y^3,3^y,B
+"Một lập trình viên đang thiết kế một chương trình để lập danh mục tất cả sách trong một thư viện. Anh ấy dự định có một lớp Book lưu trữ các đặc điểm của mỗi cuốn sách: tác giả, tiêu đề, có trên kệ hay không, và vân vân, với các thao tác như getAuthor, getTitle, getShelfInfo, và setShelfInfo. Một lớp khác, LibraryList, sẽ lưu trữ một mảng các đối tượng Book. Lớp LibraryList sẽ bao gồm các thao tác như listAllBooks, addBook, removeBook, và searchForBook. Lập trình viên dự định triển khai và kiểm tra lớp Book trước, sau đó mới triển khai lớp LibraryList. Kế hoạch của lập trình viên để viết lớp Book trước là một ví dụ về",phát triển từ trên xuống,phát triển từ dưới lên,trừu tượng hóa thủ tục,che giấu thông tin,B
+"Cho l = [1,2,3,4]. Kết quả của sum(l) trong Python3 là gì?",4,1,10,8,C
+"Một trang Web sử dụng nhiều chiến lược để ngăn chặn những cá nhân không được phép truy cập vào tài khoản người dùng. Trong số những điều sau đây, điều nào KHÔNG phải là ví dụ về xác thực đa yếu tố?","Mỗi nhân viên của một công ty được cấp một thiết bị USB chứa mã token duy nhất. Để đăng nhập vào máy tính của công ty, nhân viên phải cắm thiết bị USB vào máy tính và cung cấp mật khẩu chính xác.","Sau khi đăng nhập vào tài khoản từ một thiết bị mới, người dùng phải nhập một mã được gửi qua e-mail đến địa chỉ e-mail đã đăng ký với tài khoản.","Để đăng nhập vào một tài khoản, người dùng phải cung cấp cả mật khẩu và dấu vân tay được chụp bằng thiết bị của người dùng.","Khi người dùng nhập mật khẩu không chính xác hơn hai lần liên tiếp, người dùng sẽ bị khóa tài khoản trong 24 giờ.",D
+"Thủ tục dưới đây nhằm hiển thị chỉ số trong danh sách các tên duy nhất (nameList) nơi một tên cụ thể (targetName) được tìm thấy. Nếu targetName không được tìm thấy trong nameList, mã sẽ hiển thị 0.
+ PROCEDURE FindName (nameList, targetName)
+ {
+  index ← 0
+  FOR EACH name IN nameList
+  {
+   index ← index + 1
+   IF (name = targetName)
+   {
+   foundIndex ← index
+   }
+   ELSE
+   {
+   foundIndex ← 0
+   }
+  }
+  DISPLAY (foundIndex)
+ }
+ Lệnh gọi thủ tục nào trong số sau đây có thể được sử dụng để chứng minh rằng thủ tục KHÔNG hoạt động như dự định?","Tìm Tên ([""Andrea"", ""Ben""], ""Ben"" )","Tìm Tên ([""Andrea"", ""Ben""], ""Diane"")","Tìm tên ([""Andrea"", ""Ben"", ""Chris""], ""Ben"")","FindName ([""Andrea"", ""Chris"", ""Diane""], ""Ben"")",C
+"Câu hỏi này dựa trên các khai báo sau: String strA = ""CARROT"", strB = ""Carrot"", strC = ""car""; Với điều kiện tất cả các chữ cái viết hoa đứng trước tất cả các chữ cái viết thường khi xét theo thứ tự bảng chữ cái, điều nào sau đây là đúng?",strA.compareTo(strB) < 0 && strB.compareTo(strC) > 0,strC.compareTo(strB) < 0 && strB.compareTo(strA) < 0,strB.compareTo(strC) < 0 && strB.compareTo(strA) > 0,!(strA.compareTo(strB) == 0) && strB.compareTo(strA) < 0,C
+"Trong thủ tục Mystery dưới đây, tham số number là một số nguyên dương.
+
+ PROCEDURE Mystery (number)
+ {
+  REPEAT UNTIL (number <= 0)
+  {
+   number ← number - 2
+  }
+  IF (number = 0)
+  {
+   RETURN (true)
+  }
+  ELSE
+  {
+   RETURN (false)
+  }
+ }
+
+ Điều nào sau đây mô tả chính xác nhất kết quả của việc chạy thủ tục Mystery?","Thủ tục trả về đúng khi giá trị ban đầu của số là 2, và nếu không thì nó trả về sai.","Thủ tục trả về đúng khi giá trị ban đầu của số lớn hơn 2, và ngược lại trả về sai.","Thủ tục trả về đúng khi giá trị ban đầu của số là chẵn, và nếu không thì trả về sai.","Thủ tục trả về đúng khi giá trị ban đầu của số là số lẻ, và nếu không thì nó trả về sai.",C
+"Một lớp Côn trùng cần được viết, chứa các trường dữ liệu sau: age (tuổi), sẽ được khởi tạo bằng 0 khi một Côn trùng được tạo ra. nextAvailableID (ID khả dụng tiếp theo), sẽ được khởi tạo bằng 0 bên ngoài hàm tạo và tăng lên mỗi khi một Côn trùng được tạo ra. idNum (số ID), sẽ được khởi tạo bằng giá trị hiện tại của nextAvailableID khi một Côn trùng được tạo ra. position (vị trí), sẽ được khởi tạo là vị trí trong vườn nơi Côn trùng được đặt khi nó được tạo ra. direction (hướng), sẽ được khởi tạo là hướng mà Côn trùng đang hướng tới khi được đặt trong vườn. Biến nào trong lớp Côn trùng nên là static?",tuổi,ID tiếp theo có sẵn,idNum,vị trí,B
+"Một danh sách đã sắp xếp các số chứa 500 phần tử. Trong các số sau đây, số nào gần nhất với số lượng phần tử tối đa của danh sách sẽ được kiểm tra khi thực hiện tìm kiếm nhị phân cho một giá trị trong danh sách?",10,50,250,500,A
+"Trong Python 3, hàm nào sau đây thiết lập giá trị số nguyên bắt đầu được sử dụng để tạo ra các số ngẫu nhiên?",choice(seq),"randrange ([start,] stop [,step])",random(),seed([x]),D
+"Trong Python 3, đầu ra của ['Hi!'] * 4 là gì?","['Chào!', 'Chào!', 'Chào!', 'Chào!']",['Hi!'] * 4,Lỗi,Không có câu trả lời nào ở trên.,A
+"Hãy xem xét các giả định sau đây về lưu trữ điện tử cho văn bản trong tất cả sách của các thư viện đại học.
+- Các thư viện của trường đại học tổng cộng có 3 triệu cuốn sách.
+- Một cuốn sách có trung bình 400 trang.
+- Một trang có trung bình 50 dòng.
+- Một dòng trên một trang có trung bình 10 từ.
+- Một từ có trung bình 5 chữ cái/ký tự.
+- Một chữ cái/ký tự được biểu diễn bằng 1 byte.
+Dựa trên các giả định đã cho, đơn vị nào sau đây là phù hợp nhất để đo lường dung lượng lưu trữ điện tử cần thiết cho văn bản trong tất cả sách của các thư viện đại học?",Megabyte (2^20 hoặc xấp xỉ 10^6 byte),Gigabyte (2^30 hoặc xấp xỉ 10^9 byte),Terabyte (2^40 hoặc xấp xỉ 10^12 byte),Petabyte (2^50 hoặc xấp xỉ 10^15 byte),C
+"Một công cụ tìm kiếm có tính năng theo dõi xu hướng cung cấp thông tin về mức độ phổ biến của một từ khóa tìm kiếm. Dữ liệu có thể được lọc theo khu vực địa lý, ngày tháng và danh mục. Các danh mục bao gồm nghệ thuật và giải trí, máy tính và điện tử, trò chơi, tin tức, con người và xã hội, mua sắm, thể thao và du lịch. Câu hỏi nào sau đây ít có khả năng được trả lời nhất khi sử dụng tính năng xu hướng?",Trong tháng nào một môn thể thao cụ thể nhận được nhiều lượt tìm kiếm nhất?,Mọi người quan tâm đến những ứng cử viên chính trị nào?,Giá của một sản phẩm điện tử nhất định là bao nhiêu?,Vùng nào của đất nước có số lượng người tìm kiếm các buổi biểu diễn opera nhiều nhất?,C
+"Trong Python 3, ['a', 'Chemistry', 0, 1][1] là gì?",a,Hóa học,0,1,B
+Điều nào sau đây mô tả chính xác nhất sự khác biệt chủ yếu giữa một cuộc tấn công từ chối dịch vụ phân tán (DDoS) và một cuộc tấn công từ chối dịch vụ (DoS)?,Mục tiêu của cuộc tấn công,Số lượng máy tính đang bị tấn công,Số lượng máy tính phát động cuộc tấn công,Khoảng thời gian xảy ra cuộc tấn công,C
+Điều nào sau đây có tiềm năng lớn nhất trong việc xâm phạm quyền riêng tư cá nhân của người dùng?,Một nhóm cookie được lưu trữ bởi trình duyệt Web của người dùng,Địa chỉ Giao thức Internet (IP) của máy tính người dùng,Địa chỉ e-mail của người dùng,Khóa công khai của người dùng được sử dụng để mã hóa,A
+Điều nào sau đây giải thích tốt nhất về những gì xảy ra khi một thiết bị mới được kết nối với Internet?,Một trình điều khiển thiết bị được gán cho thiết bị.,Một địa chỉ Giao thức Internet (IP) được gán cho thiết bị.,Một số gói được gán cho thiết bị.,Một trang Web được gán cho thiết bị.,B
+"Nếu a, b và c là các số nguyên, điều kiện nào trong các điều kiện sau đây là đủ để đảm bảo rằng biểu thức a < c || a < b && !(a == c) được đánh giá là đúng?",a < c,a < b,a > b,a == b,A
+"Cho l = [1,2,2,3,4]. Trong Python3, một kết quả có thể của set(l) là gì?","I apologize, but there is no text following the colon in your message for me to translate. If you provide the text you want translated, I'll be happy to translate it to Vietnamese for you.","{1,2,2,3,4}","{1,2,3,4}","{4,3,2,2,1}",C
+"Một nhà bán lẻ chuyên bán giày dép duy trì một cơ sở dữ liệu duy nhất chứa các bản ghi với những thông tin sau về mỗi mặt hàng được bán trong cửa hàng của nhà bán lẻ.
+
+   ° Số nhận dạng mặt hàng
+   ° Loại giày dép (giày thể thao, ủng, dép xăng đan, v.v.)
+   ° Giá bán (tính bằng đô la)
+   ° Kích cỡ
+   ° Màu sắc
+   ° Số lượng có sẵn
+
+ Chỉ sử dụng cơ sở dữ liệu này, có thể xác định được những điều nào sau đây?",Những mặt hàng nào được liệt kê trong cơ sở dữ liệu hiện không có trong cửa hàng?,Những màu sắc nào được ưa chuộng hơn ở nam giới so với nữ giới?,Loại giày dép nào phổ biến nhất trong giới người lớn,Tổng số giày được bán trong một tháng cụ thể,A
+Kết quả của 4*1**4 trong Python là gì?,4,1,256,16,A
+"Tham khảo phương thức nextIntInRange bên dưới:
+ /** @return một số nguyên ngẫu nhiên trong khoảng từ low đến high, bao gồm cả hai giá trị */
+ public int nextIntInRange(int low, int high)
+ {
+ return /* biểu thức */
+ }
+ Biểu thức /* biểu thức */ nào sẽ luôn trả về một giá trị thỏa mãn điều kiện hậu?",(int) (Math.random() * high) + low;,(int) (Math.random() * (cao - thấp)) + thấp;,(int) (Math.random() * (cao - thấp + 1)) + thấp;,(int) (Math.random() * (high + low)) + low;,C
+"Trong Python 3, b = [11,13,15,17,19,21]; print(b[::2]) xuất ra kết quả gì?","[19,21]","[11,15]","[11,15,19]","[13,17,21]",C
+"Một thuật toán để tìm giá trị trung bình của N số là average = sum / N, trong đó N và sum đều là số nguyên. Trong một chương trình sử dụng thuật toán này, một lập trình viên đã quên không đưa vào một phép kiểm tra để xác định xem N có bằng không hay không. Nếu N bằng không, khi nào lỗi sẽ được phát hiện?",Tại thời điểm biên dịch,Tại thời điểm chỉnh sửa,Ngay khi giá trị của N được nhập vào,Trong thời gian chạy,D
+"Một danh sách lớn các số cần được sắp xếp theo thứ tự tăng dần. Giả sử rằng một ""sự di chuyển dữ liệu"" là việc hoán đổi hoặc gán lại một phần tử, thì trong số các phát biểu sau đây, phát biểu nào là đúng?","Nếu mảng ban đầu được sắp xếp theo thứ tự giảm dần, thì thuật toán sắp xếp chèn sẽ hiệu quả hơn thuật toán sắp xếp chọn.",Số lần so sánh trong thuật toán sắp xếp chọn không phụ thuộc vào sự sắp xếp ban đầu của các phần tử.,Số lần so sánh trong thuật toán sắp xếp chèn không phụ thuộc vào sự sắp xếp ban đầu của các phần tử.,Số lượng di chuyển dữ liệu trong thuật toán sắp xếp chọn phụ thuộc vào sự sắp xếp ban đầu của các phần tử.,B
+"Hãy xem xét đoạn mã sau đây, sử dụng các biến r, s và t.
+  r ← 1
+   s ← 2
+   t ← 3
+   r ← s
+   s ← t
+   DISPLAY (r)
+   DISPLAY (s)
+
+Kết quả hiển thị sau khi chạy đoạn mã này là gì?",1 1,1 2,2 3,3 2,C
+"Một tệp ảnh kỹ thuật số chứa dữ liệu biểu thị mức độ đỏ, xanh lá cây và xanh dương cho mỗi điểm ảnh trong bức ảnh. Tệp cũng chứa siêu dữ liệu mô tả ngày tháng và vị trí địa lý nơi bức ảnh được chụp. Đối với mục tiêu nào sau đây, việc phân tích siêu dữ liệu sẽ phù hợp hơn so với việc phân tích dữ liệu?",Xác định khả năng bức ảnh là một bức hình về bầu trời,Xác định khả năng bức ảnh được chụp tại một sự kiện công cộng cụ thể,Xác định số người xuất hiện trong bức ảnh,Xác định khả năng sử dụng của bức ảnh để chiếu lên một nền màu cụ thể,B
+"Trong Python 3, ['a', 'Chemistry', 0, 1][-3] là gì?",a,Hóa học,0,1,B
+Hai máy tính được sản xuất bởi các nhà sản xuất khác nhau. Một máy đang chạy máy chủ Web và máy kia đang chạy trình duyệt Web. Điều nào sau đây mô tả chính xác nhất khả năng giao tiếp của hai máy tính với nhau qua Internet?,Các máy tính không thể giao tiếp với nhau vì các nhà sản xuất khác nhau sử dụng các giao thức truyền thông khác nhau.,"Các máy tính có thể giao tiếp với nhau, nhưng cần thêm phần cứng để chuyển đổi các gói dữ liệu từ giao thức của máy tính này sang giao thức của máy tính kia.",Các máy tính chỉ có thể giao tiếp trực tiếp với nhau nếu các thông điệp bao gồm văn bản; các định dạng khác không thể được diễn giải giữa các máy tính.,Các máy tính có thể giao tiếp trực tiếp với nhau vì truyền thông Internet sử dụng các giao thức chuẩn.,D
+Hoạt động nào trong số những hoạt động sau đây gây ra rủi ro an ninh mạng cá nhân lớn nhất?,Thực hiện giao dịch mua hàng tại một cửa hàng trực tuyến sử dụng mã hóa khóa công khai để truyền thông tin thẻ tín dụng,Thanh toán hóa đơn bằng hệ thống thanh toán điện tử an toàn,Đặt phòng khách sạn bằng cách gửi số thẻ tín dụng qua e-mail cho khách sạn,Rút tiền từ tài khoản ngân hàng bằng máy rút tiền tự động (ATM),C

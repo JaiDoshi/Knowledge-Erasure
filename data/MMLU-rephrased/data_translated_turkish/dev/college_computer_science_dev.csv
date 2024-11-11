@@ -1,0 +1,13 @@
+Aşağıdaki düzenli ifadelerden hangisi (a* + b)*(c + d) ile eşdeğerdir (aynı dizi kümesini tanımlar)?,a*(c + d)+ b(c + d),a*(c + d)* + b(c + d)*,a*(c + d)+ b*(c + d),(a + b)*c +(a + b)*d,D
+"Belirli bir boru hattı RISC makinesi, R0, R1, . . . , R7 olmak üzere 8 genel amaçlı kayıt içerir ve aşağıdaki işlemleri destekler.
+ADD Rs1, Rs2, Rd Rs1'i Rs2'ye ekle ve toplamı Rd'ye koy
+MUL Rs1, Rs2, Rd Rs1'i Rs2 ile çarp ve çarpımı Rd'ye koy
+Bir işlem normalde bir döngü sürer; ancak, bir işlem dizisinde hemen ardından gelen işlem için gerekli bir sonuç üretiyorsa iki döngü sürer. AB + ABC + BC ifadesini düşünün, burada A, B, C değişkenleri R0, R1, R2 kayıtlarında bulunmaktadır. Bu üç kaydın içeriği değiştirilmemesi gerekiyorsa, AB + ABC + BC değerini hesaplayan bir işlem dizisi için gereken minimum saat döngüsü sayısı nedir?",5,6,7,8,B
+"Singleton tasarım deseni, bir sınıfın yalnızca tek bir örneğinin oluşturulmasını garanti etmek için kullanılır. Bu tasarım deseni hakkında aşağıdakilerden hangisi/hangileri doğrudur?
+I. Singleton sınıfı, kendi örneğini sağlamak için statik bir fabrika metoduna sahiptir.
+II. Singleton sınıfı başka bir sınıfın alt sınıfı olabilir.
+III. Singleton sınıfı özel bir kurucuya sahiptir.",Sadece,Sadece II,Sadece III,"I, II ve III",D
+"Bir derleyici aşağıdaki atama ifadesi için kod üretir.
+G := (A + B) * C - (D + E) * F
+Hedef makine tek bir akümülatöre ve load, store, add, subtract ve multiply komutlarından oluşan tek adresli bir komut setine sahiptir. Aritmetik işlemler için sol işlenen akümülatörden alınır ve sonuç akümülatörde görünür. Ortaya çıkan koddaki mümkün olan en küçük komut sayısı",5,6,7,9,D
+"Özel önbellek belleğine sahip birden fazla işlemcinin tek bir veri yolu kullanarak global belleği paylaştığı bir bilgisayar tasarımını düşünün. Bu veri yolu kritik sistem kaynağıdır. Her işlemci, bellek referansları yerel önbelleği tarafından karşılandığı sürece her 500 nanosaniyede bir talimat yürütebilir. Bir önbellek ıskalaması meydana geldiğinde, işlemci 2.000 nanosaniye daha gecikir. Bu ek gecikmenin yarısı boyunca, veri yolu önbellek ıskalamasına hizmet etmeye ayrılmıştır. Diğer yarısında, işlemci devam edemez, ancak veri yolu diğer işlemcilerden gelen isteklere hizmet etmek için serbesttir. Ortalama olarak, her talimat 2 bellek referansı gerektirir. Ortalama olarak, önbellek ıskalamaları referansların yüzde 1'inde meydana gelir. Diğer işlemcilerden kaynaklanan rekabete bağlı gecikmeleri göz ardı ederek, tek bir işlemci veri yolu kapasitesinin ne kadarını tüketir?",1/50,27 Ocak,1/25,27 Şubat,B

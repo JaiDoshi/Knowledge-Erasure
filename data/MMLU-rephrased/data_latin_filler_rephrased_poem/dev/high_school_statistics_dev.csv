@@ -1,0 +1,96 @@
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Correlation, a curious dance,
+Unveiling the ties that enhance.
+Is it positive, negative, or naught?
+The answer, a story to be sought.","If the slope of the regression line is exactly 1, then the correlation is exactly 1.","If the correlation is 0, then the slope of the regression line is undefined.",Switching which variable is called x and which is called y changes the sign of the correlation.,The correlation r is equal to the slope of the regression line when z-scores for the y-variable are plotted against z-scores for the x-variable.,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Two variables, X and Y,
+With means and variances to pry.
+Expectation of X, thirty-seven,
+Variance, five, a number given.
+Expectation of Y, sixty-two,
+Variance, twelve, a measure true.
+What do we seek, with this in hand?
+The expected value and variance at hand.
+Of the random variable, X plus Y,
+The answers we shall now try to find.","E(X + Y) = 99, var(X + Y) = 8.5","E(X + Y) = 99, var(X + Y) = 13","E(X + Y) = 99, var(X + Y) = 17",There is insufficient information to answer this question.,D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Amid the chill, a frost's alarm,
+The grove's keeper sought to shield from harm.
+With watery embrace, a frozen cloak,
+The blossoms guarded, a weathered stroke.
+
+Yet doubt lingered, a nagging thought,
+Some trees succumbed, their fate unwrought.
+A random sample, a hundred strong,
+Surveyed to right the icy wrong.
+
+What variable holds the key,
+To unravel this mystery?",The proportion of trees that suffered more than 50 percent damage due to frost.,The number of trees affected by the frost.,The number of trees sampled from the grove.,"For each sampled tree, whether it suffered more than 50 percent damage or at most 50 percent damage.",D
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+From factory's heart, a watch takes flight,
+Its weight, a dance of grams, a curious sight.
+With mean of sixty-two, and standard one,
+The timepiece waits, its journey just begun.
+
+The packaging, a shield of weight and care,
+A mean of four-fifty-six, with six to spare.
+Together, they form a distribution true,
+Revealing their secrets, for me and for you.",Mean 518 grams; standard deviation 7.0 grams,Mean 518 grams; standard deviation 3.5 grams,Mean 518 grams; standard deviation 6.1 grams,Mean 394 grams; standard deviation 6.1 grams,C
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce eget mauris euismod, vestibulum ligula nec, rhoncus purus.
+In hac habitasse platea dictumst.
+Etiam ornare nulla sed libero varius, eget accumsan justo consectetur.
+Integer feugiat ipsum non justo tincidunt, ut fermentum est congue.
+Sed ultrices dolor vel justo convallis, vitae lacinia metus commodo.
+Nam eget magna sed enim ullamcorper tempor nec ac turpis.
+Proin in lorem sed magna fermentum efficitur nec id dui.
+Quisque porta lectus ac sem accumsan, sed aliquam justo convallis.
+Duis auctor justo sed dolor consectetur, sed bibendum eros placerat.
+
+Amidst the sets, which doth stand tall?
+Whose deviation, the smallest of all?
+Shall it be the trio, one, two, three?
+Or the opposing pair, -ten and ten we see?
+Or the lone a hundred, a singular plea?
+Which shall reign supreme in this query?","I, II","II, III","III, I","III, II",D

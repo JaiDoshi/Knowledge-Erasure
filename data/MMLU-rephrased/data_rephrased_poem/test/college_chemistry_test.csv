@@ -1,0 +1,697 @@
+"The rate, r, a puzzle to unveil,
+A zero-order reaction, a tale to entail.
+What expression can we find,
+To capture this process, so refined?",r = k ln[A],r = k [A]^2,r = k [A],r = k,D
+"Infrared, a spectrum unseen,
+Reveals the secrets, a molecular scene.
+Vibrational modes, a dance of atoms,
+Uncover the structure, a chemical phenomenon.",all molecular bonds absorb IR radiation,IR peak intensities are related to molecular mass,most organic functional groups absorb in a characteristic region of the IR spectrum,each element absorbs at a characteristic wavelength,C
+"The phases, they dance,
+A waltz of components three,
+Seeking their balance,
+A number, what could it be?",2,3,4,5,D
+"Balancing the equation, a dance to behold,
+Reveals a truth, a story untold.
+What becomes of the elements in this equation's flow?
+Unravel the mystery, let the answer show.",The I− : IO3− ratio is 3:1.,The MnO4- : I- ratio is 6:5.,The MnO4- : Mn2+ ratio is 3:1.,The H+ : I− ratio is 2:1.,B
+"Entangled within the bonds,
+A thermodynamic dance unfolds.
+Enthalpy's change, a tale to be told,
+Linked to internal energy's bold.
+
+The pressure, a factor to behold,
+Altering volume, a story untold.
+This equation, a truth to uphold,
+ΔH = ΔU + PΔV, a tale to be told.",always,only for constant pressure processes,only for constant temperature processes,only for constant volume processes,B
+"Stable radicals, a tale to tell,
+Where electrons paired, a dance they swell.
+Nitrogen nuclei, a duet so fair,
+Coupling their spins, a spectrum to share.
+
+Rigid diradical, J so small,
+EPR's magic, a sight to behold.
+How many lines, a question we pose,
+Unraveling the secrets, the spectrum shows.",3 lines,9 lines,5 lines,7 lines,B
+"Cobalt-60's power to heal,
+A radiation therapy's appeal.
+But its creation, a secret to unveil,
+Which particle can make this tale?",Neutrons,Alpha particles,Beta particles,X-rays,A
+"Magnetism's alluring dance,
+Paramagnetism and ferromagnetism's chance.
+What common thread do these forces share?
+A secret that the universe doth bear.",Strong oxidizing conditions,Low-spin electron configuration,Metallic physical properties,Unpaired electrons,D
+"Amid the spectrum's dance,
+Dimethylsulphoxide's presence, a chance.
+Acetonitrile joins the fray,
+Relative intensities, α and 3α, they sway.
+
+What is the hidden tale?
+The ratio of concentrations, a veil.
+[DMSO]:[AN], the answer to unveil,
+A puzzle to solve, without fail.",1:1,1:3,1:6,2:3,C
+"Amidst the spins and echoes grand,
+A query of time and measure at hand.
+Why, oh why, does T1 linger on,
+While T2 fades, its dance now done?
+
+What secrets lie within the core,
+That prolong one time, the other deplore?
+Is it the interactions, the spins so true,
+That govern this dance, this interplay anew?
+
+Unravel the mysteries, the nuances so fine,
+Unveil the reasons, this puzzle unwind.
+For in the realm of nuclear spins,
+The path of T1 and T2 begins.","T1, unlike T2, is sensitive to very low-frequency molecular motions.","T2, unlike T1, is sensitive to very low-frequency molecular motions.","T1, unlike T2, is sensitive to molecular motions at the Larmor frequency.","T2, unlike T1, is sensitive to molecular motions at the Larmor frequency.",D
+"Resonance echoes, a dance of spins,
+Benzene's Larmor, a frequency within.
+Exceeding trifluoroacetic by a mere tick,
+Revealing a shift, a chemical trick.
+
+Benzene's hydrogen, a signal at hand,
+Seven point one six, a reference to stand.
+The question now lingers, a puzzle to solve,
+Trifluoroacetic's shift, a mystery to evolve.",3.02 ppm,5.03 ppm,10.56 ppm,11.30 ppm,D
+"The nucleus, a dance of spins,
+Bright with promise, a new age begins.
+Polarized to the max, a state so grand,
+Revealing secrets, at our command.
+
+Time, the master, ticks ever so slow,
+As p, the polarization, seeks its flow.
+Reaching for the thermal, a balance true,
+How long, oh time, will this journey pursue?",[The polarization relaxes exponentially: p(t) = [p(0) - peq]exp(-t/T1) + peq.],72.0 s,56.6 s,12.7 s,B
+"Cyclobutyl's radical heart,
+Whose beta-hyperfine's part?
+Flat in form, a HCH of one-fifteen,
+Reveal its secrets, a mystery unseen.",4.6 mT,27 G,5.4 mT,3.8 mT,A
+"The dance of the t-Bu,
+Echoing through the spectrum's hue,
+Ratio of line intensities, a clue,
+Revealing the radical's true.",1:19:36:84:126:126:84:36:19:1,1:9:36:84:126:126:84:36:9:1,1:9:35:82:120:120:82:35:9:1,1:8:28:56:70:56:28:8:1,D
+"Spin trapping, a vital art,
+Unraveling secrets from the start.
+What single line can best convey,
+The power of this technique's sway?",spin trapping provides more structural information than direct detection by EPR,spin trapping makes it easy to quantify free radical intermediates,steady state concentration of free radical intermediates is often too low to enable direct detection by EPR,detection of spin adducts requires lower power than direct detection of radical intermediates,D
+"A quantum dance, a symphony of spins,
+Unveiling the magnetic moment within.
+Thirteen-C, a nucleus so small,
+Reveal to us your hidden call.
+
+What force doth guide your subtle sway?
+Unlock the secrets, come what may.
+In the realm of subatomic might,
+Unravel the μI, a wondrous sight.",6.1445 x 10^-27 J T-1,3.1445 x 10^-27 J T-1,9.1445 x 10^-27 J T-1,1.1445 x 10^-28 J T-1,C
+"Infrared-active modes,
+Vibrating with grace,
+Carbon dioxide's dance,
+Bending, stretching in place.
+
+Symmetric stretching,
+A graceful sway,
+Asymmetric's twist,
+Guiding the light's way.
+
+Which of these do you choose?
+The answer lies in the hues.",I only,II only,III only,I and III only,D
+"Optical isomerism, a dance of light,
+Complexes with achiral ligands, a sight.
+What truth lies hidden, a mystery to unravel?
+Reveal the secrets, the answer to unravel.",Square planar complexes can display optical isomerism only if all four ligands are identical.,Tetrahedral complexes never display optical isomerism.,Linear complexes can display optical isomerism when both ligands are different.,Octahedral complexes of monodentate ligands can display optical isomerism only when they have at least three different ligands.,D
+"Amidst the myriad of claims,
+Which one stands true, proclaims?
+Revealing the verity's light,
+Guiding us through the shadows of night.",Protons and neutrons have orbital and spin angular momentum.,"Protons have orbital and spin angular momentum, neutrons have spin angular momentum.",Protons and neutrons possess orbital angular momentum only.,Protons and neutrons possess spin angular momentum only.,C
+"Proton's dance in the field,
+A magnetic waltz, its secrets revealed.
+What is the Larmor's frequency, so divine,
+As it spins in the Tesla's grand design?",23.56 GHz,42.58 MHz,74.34 kHz,13.93 MHz,B
+"Amid the elements, a choice must be made,
+To determine the nature of the semiconductor's shade.
+Is it n-type, a marvel to behold?
+A solution to our technological world unfold.",Silicon,Diamond,Silicon carbide,Arsenic-doped silicon,D
+"The singlet's tale unfolds,
+In the 1H spectrum, a story untold.
+Whence comes this simplicity,
+In the chloroform's chemistry?",Both 35Cl and 37Cl have I = 0.,The hydrogen atom undergoes rapid intermolecular exchange.,The molecule is not rigid.,Both 35Cl and 37Cl have electric quadrupole moments.,D
+"At twenty-five degrees Celsius,
+The solubility's a marvel to behold,
+A mere one liter of pure water can hold,
+One millimole of lead iodide, so precious.
+
+Assume it dissociates with ease,
+The solubility product, K_sp, will reveal,
+The equilibrium that this salt can seal,
+At this temperature, where solubility decrees.",1.0 × 10^−3,1.0 × 10^−6,1.0 × 10^−9,4.0 × 10^−9,D
+"The question, a puzzle to solve,
+Echoes through the quantum grove.
+Which isomer of C6H14,
+Holds the key to peaks unseen?
+
+The 13C spectrum, a canvas of light,
+Reveals the shifts, a chemical rite.
+Five distinct signals, a clue to behold,
+Unlocking the structure, a story untold.",hexane,2-methylpentane,3-methylpentane,"2,3-dimethylbutane",B
+"Silica's secrets, a verse to unfold,
+What form does nature's silicon behold?
+Is it quartz, a crystal clear and bright,
+Or perhaps a substance hidden from sight?
+The answer lies in nature's grand design,
+Unveiling the common form, a treasure divine.",Metallic element,Sulfide,Fluoride,Oxide,D
+"Resonating within the field,
+A nuclide's frequency we seek to yield,
+Echoing at one-fifteen-five-point-five,
+In a magnetic realm of twenty-point-zero, alive.",17O,19F,29Si,31P,A
+"Raoult's law, a dance of equilibrium,
+Unveiling the truths of liquid blends,
+Partial pressures, a symphony of mole fractions,
+Revealing the bonds that comprehend.
+
+Volumes, a puzzle of pure components,
+Joined in a mixture, a harmonious blend.
+Intermolecular bonds, a tapestry of interactions,
+Mirroring the pure, a story to mend.
+
+Which of these must hold true, a question to ponder,
+A journey through the laws that liquid mixtures engender.
+Unraveling the mysteries, a path to explore,
+Raoult's law, a guiding light forevermore.",I only,III only,I and III only,"I, II, and III",D
+"A single line, a solitary voice,
+Echoes through the 31P spectrum's choice.
+Sodium phosphate, its secrets unfurled,
+Reveals the pH where H2PO4‾ whirls.
+
+3.42 ppm, the shift of the first,
+While HPO42‾ stands at 5.82 perse.
+The question begs, the answer to gain,
+What chemical shift when pH is the same?",3.41 ppm,3.98 ppm,4.33 ppm,4.62 ppm,D
+"The pH's aligned, a delicate dance,
+For EDTA titrations, a careful prance.
+Reasons, three, to harmonize the hue,
+Unveiling the secrets that bind anew.
+
+The formation constant, a pH-dependent key,
+Unlocking the complexes, a sensitivity.
+The Y4− form, a pH-driven ebb and flow,
+Ensuring the balance, the titration's show.
+
+Protons, released when EDTA takes a stand,
+Requiring the buffer, a guiding hand.
+Together, these factors, a symphony complete,
+Optimizing the process, a triumph to meet.",I only,I and II only,I and III only,"I, II, and III",D
+"Bubbles of carbon in water's embrace,
+Dissolved with a constant, a natural grace.
+What's the concentration, a mystery to unfold,
+When the pressure is two atmospheres, as we're told?",1.5 M,0.15 M,0.067 M,0.015 M,C
+"Titrations, five in count,
+Mean result, a curious amount.
+Point one one zero, the value fair,
+Standard deviation, a whisper in the air.
+
+The true concentration, a hundred to the dot,
+How do the results of the titration plot?
+Revealing truths, unraveling the test,
+Which conclusion stands out, as the very best?",Accurate but not precise,Precise but not accurate,Both accurate and precise,Neither accurate nor precise,B
+"Copper's dance in the field,
+Revealing its secrets, a tale to be revealed.
+Four lines, their separation, a symphony of light,
+Measured in frequency, a hyperfine delight.
+
+Translate the split, in field units of mT,
+The hyperfine coupling, in wavenumbers, we see.
+A Cu(II) metal ion, with giso, a guiding light,
+Unveils the mysteries, a spectral insight.",500 MHz = 0.185 mT = 0.29842 cm-1,500 MHz = 16.850 mT = 0.01667 cm-1,500 MHz = 32.953 mT = 0.76298 cm-1,500 MHz = 45.672 mT = 2.86329 cm-1,C
+"Amidst the dance of electrons,
+Where potentials reign supreme,
+Which reaction will take center stage?
+A question to ponder, it would seem.",Al(s) + 3 NaNO3(aq) 3 Na(s) + Al(NO3)3(aq),Zn(s) + 2 Ag(NO3)(aq) → 2 Ag(s) + Zn(NO3)2(aq),Pb(s) + Ca(NO3)2(aq) → Ca(s) + Pb(NO3)2(aq),Pb(s) + 2 LiNO3(aq) → 2 Li(s) + Pb(NO3)2(aq),B
+"In the realm of chemical shift,
+A query arises with a swift drift,
+Tetramethylsilane, a compound of might,
+What reason makes it not a fit?",Its 1H spectrum is a singlet.,Its protons are quite strongly shielded.,It dissolves in most organic solvents.,Most organic compounds do not contain silicon atoms.,D
+"Echoes of X-band's resonant call,
+Revealing Na's dance, a hyperfine troll.
+Four lines stand tall, a field to behold,
+Guiding us to the g-value untold.",g = 2.002,g = 1.950,g = 2.250,g = 2.005,A
+"Spin angular momentum,
+Unraveling the mysteries of 43Ca,
+A quantum dance, a celestial sway,
+Reveal the secrets of its nuclear play.
+
+Explore the realm of I, the angular might,
+Where seven-halves hold the key to the light.
+Delve into the depths, the spin's vibrant hue,
+Unveil the treasures that this element holds true.",2.166 x 10^-34 J s,3.691 x 10^-34 J s,4.185 x 10^-34 J s,5.493 x 10^-34 J s,C
+"Amidst the quantum dance,
+A field of magnetism takes its stance,
+Polarizing the carbon-13 with grace,
+A magnitude, a challenge to embrace.
+
+At the temperature of two-ninety-eight,
+The field, a mystery to unabate,
+Unveiling its strength, a number to state,
+Revealing the truth, a magnetic trait.",0.5 T,1.2 T,2.9 T,100 T,C
+"Verse:
+A dance of spins, a quantum tale,
+The T2, a mystery to unveil.
+Fifteen milliseconds, a timely grace,
+Unveiling linewidth, a spectral place.",0.0471 Hz,21.2 Hz,42.4 Hz,66.7 Hz,B
+"The essence of the spin,
+Encapsulated in a verse,
+What is the maximum worth,
+Of 43Ca's angular might, a verse to rehearse?
+
+The quantum state unfurls,
+I equals seven-halves, a tale to unfold,
+The z-component's zenith,
+A mystery to behold.",3.691 x 10^-34 J s,4.185 x 10^-34 J s,5.493 x 10^-34 J s,8.370 x 10^-34 J s,A
+"Of solids, which has the least sway,
+Frozen in place, yet wishes to play?
+Molecules dance, a melting display,
+Revealing the one that slips away.",HCl,AgCl,CaCl2,CCl4,A
+"Amidst the cosmic dance, a question unfurls,
+Seeking truth within the nucleus's whirls.
+Which of these statements, a falsehood conceals,
+About the binding energies that nature reveals?",Binding energy per nucleon reaches a maximum for 56Fe.,Nuclear binding energies have about the same magnitude as chemical bond energies.,Nuclei have slightly less mass than the sum of their component nucleons.,The nuclei of heavy elements have more neutrons than protons in order to provide sufficient binding energy to hold the nuclei together.,B
+"Hyperfine dance,
+Deuteriated benzene's trance,
+Radical anion's hidden stance,
+EPR spectrum's rhythmic prance.",0.375 mT,3.75 G,2.35 mT,0.58 G,D
+"A liquid enigma's heart,
+Seeking the strongest, a vital part.
+Amidst the nitrogen, a base to unfold,
+Reveal its strength, a tale untold.",NH3,NH2−,NH4+,N2H4,B
+"In the realm of the molecule,
+Equilibrium reigns supreme,
+Where populations, nα and nβ,
+Await their destined gleam.
+
+But when a pulse, five microseconds strong,
+Sweeps through the magnetic field,
+The balance shifts, the dance goes on,
+New populations are revealed.
+
+Amidst the flux, the B1 stands tall,
+At four-point-six-nine-seven mT,
+Guiding the way, a quantum call,
+Revealing the energy's decree.",nα = nβeq and nβ = nαeq,nα = nαeq and nβ = nβeq,nα = ½(nαeq + nβeq) and nβ = ½(nαeq + nβeq),nα = nαeq + nβeq and nβ = nαeq + nβeq,A
+"Resonating in the X-band,
+A cavity, our instrument at hand.
+Unveil the Q-factor's command,
+Bandwidth, a mere 1.58 MHz, so grand.",Q = 1012,Q = 2012,Q = 3012,Q = 6012,D
+"Benzene, its carbon's shift, 
+A resonance at one-twenty-eight point four.
+Chloroform, a different tale to tell,
+Its carbon's shift, seventy-seven point two.
+
+What wonder lies in the difference, my friend?
+The 13C NMR, a tale to ascend.
+On a spectrometer, six hundred MHz strong,
+Unveil the gap, where the answers belong.",7.73 kHz,30.7 kHz,91.6 kHz,122 kHz,A
+"Ionic strength soars,
+Solutions reveal their power,
+Whose ions reign supreme?
+Unveil the strength they tower.",0.050 M AlCl3,0.100 M NaCl,0.050 M CaCl2,0.100 M HCl,A
+"In the quantum realm, where spins dance,
+A question arises with a mystique stance.
+What is the strength, the power and grace,
+Of a 13C pulse, a ninety-degree trace?
+
+A microsecond, a fleeting time,
+Yet holds the key to a signal sublime.
+What force, what might, what energy true,
+Lies within this pulse, this quantum cue?
+
+Unravel the secrets, unveil the might,
+Of this 13C pulse, a quantum delight.
+Speak to us, oh pulse, and let us see,
+The strength that you hold, the B1 decree.",3.72 mT,5.18 mT,17.0 mT,23.3 mT,B
+"Glimmering moments in time's embrace,
+Planck's quantum theory sought to trace.
+What wonders did it unveil with light,
+Unraveling the mysteries in our sight?",Blackbody radiation curves,Emission spectra of diatomic molecules,Electron diffraction patterns,Temperature dependence of reaction rates,A
+"Half-life, a radioactive dance,
+Six hours, a brief, revealing glance.
+Delivered, a hundred and fifty mCi,
+Ticking, ticking, how much will remain, we see?
+
+Twenty-four hours, a distant call,
+The isotope's whisper, a fading crawl.
+Activity left, a mystery to unfold,
+Unraveling the secrets that time has untold.",150 mCi,38 mCi,19 mCi,9.4 mCi,D
+"The electron's dance,
+A quantum's hidden trance,
+What number guides its stance?
+Reveal the l, the orbital prance.
+
+When aluminum's ground state parts,
+Which electron most readily departs?
+The answer lies in this poetic arts,
+Unveiling the quantum's subtle hearts.",3,2,1,0,C
+"Dilute solutions ponder,
+Hydrogen ions wander.
+Which one holds the key,
+The lowest pH to be?",Na2CO3,Na3PO4,Na2S,NaCl,D
+"Behold, the silyl radical's might,
+Bearing an Si-H· fragment in plain sight.
+Its g-value, a wondrous display,
+Stands at 2.0033, a guiding ray.
+
+Two lines, separated by MHz,
+Fifteen point five, a captivating feat.
+Now, let us express this splitting true,
+In units of mT, Gauss, and cm-1 too.",15.5 MHz = 11.104 mT = 27.201 Gauss = 0.862 x 10^-4 cm-1,15.5 MHz = 7.352 mT = 10.104 Gauss = 18.39 x 10^-4 cm-1,15.5 MHz = 1.55 mT = 0.562 Gauss = 31.0 x 10^-4 cm-1,15.5 MHz = 0.553 mT = 5.530 Gauss = 5.17 x 10^-4 cm-1,B
+"Rare earth's mystery,
+Unfilled orbits do whisper,
+All but one, a hidden treasure.",Cu,Gd,Eu,Am,A
+"Here is the question rephrased as a poem:
+
+Malonic acid's radical dance,
+Spin density, a puzzling glance.
+Central carbon, the focus of all,
+Hyperfine value, a guiding call.
+
+Twenty-one point nine Gauss, a clue,
+Unveil the secrets, the truth to view.
+Unravel the spin, the delicate hue,
+Reveal the density, a mystery anew.",0.95,0.85,0.15,0.65,C
+"The fluorescent glow,
+A tale to unfold,
+The quantum yield's flow,
+A story untold.
+
+What is this measure,
+This elusive light?
+A secret to treasure,
+A guiding insight.
+
+Unveil the essence,
+The path it takes,
+Revealing the presence,
+The beauty it makes.",rate of fluorescence emission,number of photons emitted,"number of photons emitted, divided by the number of photons absorbed","number of excitation photons impinging on the sample, divided by the number of photons absorbed",C
+"Amidst the maze of options,
+Which one rings true,
+Shining bright, a beacon of light,
+Guiding me through?",Large and positive g shifts are observed when the LUMO – HOMO gap is small and λ is positive.,Large deviations in g occurs when the energy difference between the SOMO and lowest lying excited state is large.,A large deviation of g from ge is expected when λ is large and the energy difference between the SOMO and the lowest lying excited state is small.,A small deviation of g from ge is expected when λ is small and positive.,C
+"Ponder the atom's hidden might,
+Thalium-205's magnetic delight.
+What dance of electrons, unseen to the eye,
+Gives rise to this moment, so hard to defy?","[ɣ (205TI = 1.569 x 108 T-1 s-1, I = ½]",0.717 x 10^-26 J T-1,0.827 x 10^-26 J T-1,1.433 x 10^-26 J T-1,C
+"Rotational correlation, a time so brief,
+Protons in motion, seeking swift relief.
+What magnetic field, the answer to unveil,
+Where spin-lattice relaxation does not fail?
+
+Equations five-three and five-four, the guide,
+Revealing the secrets that this query hide.
+The path to the fastest relaxation found,
+Where protons in this molecule are bound.",3.74 T,5.19 T,6.08 T,9.49 T,A
+"Ionic substances,
+Lattice enthalpy's test,
+Which stands out the best?
+A poetic quest.",MgO,MgS,NaF,NaCl,A
+"Amidst the spectrometer's embrace,
+A compound's 1H resonance we must trace.
+Distant from TMS, a signal bright,
+Residing at 1.55 kHz, a curious sight.
+What molecule holds this chemical key?
+Unveil its secrets, let us see.
+Beneath the magnet's powerful sway,
+The answer awaits, a hidden display.",CH3F,CH3Cl,CH3Br,CH3I,B
+"Beneath the cosmic weight,
+Where atoms dance in state,
+A query seeks to unveil,
+The equilibrium's tale.
+
+Thirteen's carbon, bold and true,
+Nestled in a field so blue,
+Twenty Teslas, strong and bright,
+Guiding spins in quantum light.
+
+At three hundred Kelvins fair,
+The balance strikes, with utmost care,
+Reveal the hidden, the grand design,
+The polarization, so divine.",10.8 x 10^-5,4.11 x 10^-5,3.43 x 10^-5,1.71 x 10^-5,D
+"A mystery nuclide's tale,
+Magnetic moment, a clue to unveil.
+Two point eight eight four times ten to the power of minus twenty-seven,
+Joules per Tesla, a value for the heaven-sent.
+
+With nuclear spin of one, a fact so true,
+The unknown nuclide, we must pursue.
+What could it be, this element so rare?
+Reveal your identity, let us understand and share.",14N,2H,19F,6Li,B
+"Mass spectrometry's artful dance,
+Ions take the stage, a delicate prance.
+Analyte molecules, vaporized with grace,
+Separated by mass-to-charge ratio's pace.
+
+Beyond mere identification, a deeper sight,
+Precise isotopic masses and ratios alight.
+A symphony of data, a scientific treat,
+Mass spectrometry's prowess, truly a feat.",II only,I and II only,I and III only,"I, II, and III",D
+"Spectra cast upon the air,
+Revealing secrets beyond compare.
+Which technique, a light-scattering grace,
+Sheds light on nature's hidden place?",Nuclear magnetic resonance,Infrared,Raman,Ultraviolet-visible,C
+"With boundless energy, a particle dwells,
+Confined within a box, its secrets it tells.
+The Heisenberg principle, a dance of light and shade,
+Unveils the uncertainties in which this particle is made.","Momentum is known exactly, but no information about position can be known.","Position is known exactly, but no information about momentum can be known.",No information about either position or momentum can be known.,Neither position nor momentum can be known exactly.,D
+"The bond's dissociation,
+A story to be told.
+What enthalpy change,
+Holds the secrets untold?",2 HBr(g) → H2(g) + Br2(l),HBr(g) → H+(g) + Br−(g),H(g) + Br(g) → HBr(g),HBr(g) → H(g) + Br(g),D
+"Sodium-23, a curious element,
+Resonates at a frequency so content,
+In a spectrometer of 750 MHz,
+Its NMR reveals a value that's precise.
+
+What then, we ponder, is this ratio so dear?
+The magnetogyric link, the answer we seek to hear.
+A puzzling dance of spins and fields,
+The solution, a truth that this question yields.",101.1 x 10^7 T-1 s-1,26.75 x 10^7 T-1 s-1,7.081 x 10^7 T-1 s-1,0.9377 x 10^7 T-1 s-1,C
+"Hydrogen atom
+With more than one electron,
+Complexity abounds,
+Analytical solutions recede.
+Numerical approaches reign,
+Unveiling quantum mysteries,
+Yet the Schrödinger's challenge
+Persists, a poetic dance.",simple harmonic oscillator,particle in a one-dimensional box,rigid rotor,helium atom,D
+"The dance of atoms, a symphony sublime,
+Unveiling the secrets of heat's sublime climb.
+What is the limit, the threshold so dear,
+For a gas-phase diatomic, the heat capacity's cheer?",1.5R,2R,2.5R,3.5R,D
+"Boron's oxidation states, a tale to unfold,
+The +1 form, more stable to behold.
+Compared to the +3, a stronger hold,
+Revealing the group 13 element's true gold.",B,Al,In,Tl,D
+"Deuterium's dance, a different hue,
+Shifts the frequency, a wavelength true.
+Hydrogen's chloride, a different tale,
+Revealing secrets, a spectral veil.
+The mass, the bond, the vibrant bliss,
+Unveiling the depths, a quantum tryst.
+Deuterium's steps, a unique refrain,
+Alters the path, a frequency's reign.",electron distribution,dipole moment,force constant,reduced mass,D
+"The dance of electrons,
+Confined within the nuclei's bounds,
+Reveal their vibrant energy,
+Orchestrating quantum's sounds.
+
+Manganese's nucleus, 55Mn,
+Holds secrets of its energetic throng,
+Unveiling the permitted levels,
+Where electrons' rhythms belong.",3,5,8,4,A
+"Oxygen,
+The life-giving gas,
+Flowing freely,
+Sustaining all that pass.
+In water's embrace,
+It is not seen as waste,
+But a vital component,
+Maintaining nature's haste.",carbonic acid,a halogenated hydrocarbon,lead,mercury,A
+"In the depths of the unseen,
+A wavelength, a beacon of keen,
+Absorbing the light, a dance unseen,
+Revealing the secrets, the protein's keen.
+
+Where does this wavelength lie?
+In the spectrum, a window to the sky,
+Unveiling the mysteries, so profound and high,
+A clue to the world, a journey to try.",X-ray,Ultraviolet,Visible,Infrared,B
+"Ode to Rotational Correlation Time
+
+Spherical object, submerged in the brine,
+Viscosity and radius, a dance divine.
+Stokes equation, a guiding light,
+Reveals the time it takes to rotate, a constant bright.
+
+A small molecule, in water's embrace,
+Fifty picoseconds, its rotational pace.
+Now, a protein, its mass hath grown,
+Estimate its time, as it spins, alone.",420 ns,42 ns,4.2 ns,420 ps,C
+"Ozone, a shield so vital,
+Threatened by CFCs, a menace unsightly.
+Trace amounts, a challenge to unravel,
+What method can capture their presence so rightly?",Gas chromatographic separation of the air sample on a capillary column followed by electron capture detection,Gas chromatographic separation of the air sample on a packed column followed by thermal conductivity detection,Gas chromatographic separation of the air sample on a capillary column followed by flame ionization detection,"Conversion of the sample of the chlorinated compounds to chloride ions, followed by titration with Ag+",A
+"Boron's allotropic grace,
+Solid-state structures to embrace,
+What structural units do they bear,
+Revealing their complexities with care?",B12 icosahedra,B8 cubes,B6 octahedra,B4 tetrahedra,A
+"Amidst the liquid's gentle flow,
+A buffer's dance, a delicate show.
+Weak acid and base, in balance sublime,
+Guardians of pH, through thick and thin.
+
+Yet, when volume doubles, a curious sight,
+What fate awaits the buffer's might?
+Does the pH remain, unwavering and true,
+Or does it shift, a new path to pursue?",It has little effect.,It significantly increases the pH.,It significantly decreases the pH.,It changes the pH asymptotically to the pKa of the acid.,A
+"Whispers of acids and bases intertwine,
+Revealing pairs that in harmony align.
+Which one, among the options so grand,
+Stands as a conjugate, hand in hand?",HCl / NaOH,H3O+ / H2O,O2 / H2O,H+ / Cl−,B
+"Amidst the dance of atoms and light,
+A question arises, a puzzle to ignite.
+Which metal ions, in their magnetic might,
+Cannot be used as quenchers, shining bright?",Ti3+,Cr3+,Fe3+,Zn2+,B
+"Amidst the fields of magnetic might,
+Electron and proton, a dance of light.
+Polarized they stand, their fates to unfold,
+The ratio of their rest, a tale to be told.",[|ɣe| = 1.761 x 10^11 T^-1 s^-1],820,658,329,B
+"The signal's fade,
+A symphony of decay,
+Reaches a quarter's shade,
+In but a single day.
+
+Exponential's embrace,
+Ω's absence clear,
+Unravel the time's trace,
+T2's value, now near.",0.721 s,0.750 s,1.386 s,1.661 s,D
+"Thionyl chloride's shape,
+A molecular escape,
+Tetrahedral in its grace,
+Oxygen's central place.
+
+Sulfur and chlorines adorn,
+This structure, newly born,
+Trigonal bipyramidal,
+A geometry ideal.",trigonal planar,T-shaped,tetrahedral,trigonal pyramidal,D
+"Amidst the noise, a quest to find,
+The methods that can ease the mind.
+Shall we turn to signal's embrace,
+Or rely on standards to set the pace?
+
+Perchance, the answer lies in the blend,
+Of multiple samples, a wisdom to lend.
+Which path shall we choose, a dance of grace,
+To minimize errors, a harmonious trace?",I only,II only,III only,I and III only,D
+"Ethereal dance of spins,
+Quantum echoes, a pair of wins.
+Separated by frequencies, oh so rare,
+Revealing nature's secrets with utmost care.
+
+Radical PO3-, a player in the game,
+Revealing its tale, a resonant flame.
+Calculate the field, precise and true,
+Uncover the secrets, the X-band spectrum anew.",Bres for mI = -½ = 325.0 mT; Bres for mI = +½ = 335.0 mT,Bres for mI = -½ = 123.5 mT; Bres for mI = +½ = 124.5 mT.,Bres for mI = -½ = 333.5 mT; Bres for mI = +½ = 343.5 mT.,Bres for mI = -½ = 0.218 mT; Bres for mI = +½ = 0.418 mT.,D
+"Spin energy levels, a delicate dance,
+Reveal the radical's grand performance.
+With g-factor two-oh-five, a precise tune,
+L- and W-band frequencies, a cosmic tune.
+
+What is the ratio, the relative sway,
+Of alpha and beta, in this quantum play?
+At three hundred Kelvin, the stage is set,
+Uncover the answer, a mystery to get.",Nα/Nβ = 0.9800 at L-band; Nα/Nβ = 0.9509 at W-band,Nα/Nβ = 0.9950 at L-band; Nα/Nβ = 0.9609 at W-band,Nα/Nβ = 0.9910 at L-band; Nα/Nβ = 0.9709 at W-band,Nα/Nβ = 0.9850 at L-band; Nα/Nβ = 0.9809 at W-band,D
+"The bases' primary standard,
+A question to ponder and understand.
+Which one holds the key,
+To standardization, we seek to see?",Ammonium hydroxide,Sulfuric acid,Acetic acid,Potassium hydrogen phthalate,D
+"The atoms, they dance,
+Argon and Neon, in a trance,
+Which one holds the key,
+To the lower property?",Melting point,Boiling point,Polarizability,First ionization energy,D
+"Ruthenium, a metal so rare,
+Its shifts and excitations, a tale to share.
+[Ru(H2O)6]2+, a shift of sixteen thousand and fifty,
+Relative to [Ru(CN)6]2-, a reference so mighty.
+
+Excitation energies, a spectrum to behold,
+[Ru(H2O)6]2+ at eighteen thousand nine hundred and bold.
+[Ru(CN)6]2- at forty thousand, a vibrant display,
+And [Ru(NH3)6]2+ at twenty-five thousand six hundred, a different way.
+
+Paramagnetic currents, the key to the shift,
+Unveil the mystery of [Ru(NH3)6]2+, a chemical gift.
+Unravel the secrets, the answer to find,
+A poetic journey, leaving no","7,530 ppm","8,090 ppm","11,070 ppm","14,840 ppm",B
+"Amidst the pause, a whirl resounds,
+Spinning with an offset's mighty bounds.
+Ω, the frequency, two-fifty strong,
+Precessing through an angle, sixty-long.
+
+The question's essence, a puzzle to unravel,
+The time of delay, a story to unravel.
+Unveil the secret, let the answer be told,
+The delay's duration, a tale to unfold.",4.19 ms,26.3 ms,240 ms,1510 ms,A
+"Spontaneous process, a puzzle to unfold,
+What truth lies within, forever to behold?
+Is there a constant, a guiding light,
+That shines through the chaos, ever in sight?
+A question to ponder, a journey to take,
+Unveiling the secrets that nature doth make.",The process is exothermic.,The process does not involve any work.,The entropy of the system increases.,The total entropy of the system plus surroundings increases.,D
+"Stable radicals, a dance of two,
+Unpaired electrons, a quantum view.
+Nitrogen nuclei, the perfect pair,
+Coupling their spins, a spectral flair.
+
+When J exceeds a, the lines will tell,
+The tale of a diradical, a marvel to quell.
+How many lines, a puzzle to unfold,
+In the EPR spectrum, a story untold.",3 lines,9 lines,5 lines,7 lines,D
+"Metals of multiple states,
+Cycling through redox's gates,
+Catalyzing enzyme's fate,
+Which group holds the key to this debate?","Cu, Fe, Co","Zn, Ca, Ga","Sr, Ga, Mg","Na, Ba, Al",A
+"In the realm of diatomic might,
+Where vibrations and rotations ignite,
+The R-branch shines, a spectral delight,
+Revealing the secrets of molecular plight.",ΔJ = 0; Δu = 0,ΔJ = 1; Δu = 0,ΔJ = 2; Δu = 0,ΔJ = 1; Δu = 1,D
+"Atoms in the world,
+Mysteries to unfold,
+Electrons that cling,
+Affinity to behold.
+
+Which of these has the least,
+Drawn to its core with ease?
+A question to ponder,
+A poetic tease.",F,Si,O,Ca,D
+"Ions, a world of charged delight,
+Whispering secrets in the dance of light.
+Amidst this ionic array,
+Which one claims the smallest sway?",K+,Ca2+,Sc3+,Rb+,C
+"Resonating with the field,
+Phosphorus-31 responds with zeal,
+Revealing its frequency, a tale to be told,
+In a magnetic strength that does not conceal.
+
+Unveiling the secrets of the nuclear spin,
+The NMR frequency, a value to begin,
+In a field of twenty Tesla, strong and precise,
+The answer, a number, a treasure to entice.",54.91 MHz,239.2 MHz,345.0 MHz,2167 MHz,C
+"In the realm of the small,
+Where electrons dance and call,
+Dimethylnitroxide's tale unfolds,
+Its EPR spectrum to be told.
+
+With methyl groups and nitrogen's might,
+The lines will shine, a wondrous sight.
+How many will there be, we ask with glee,
+If overlap is not the key?",21,3,7,24,B
+"Amidst the realm of chemical might,
+Lewis acids stand with power and light.
+But which one, of this esteemed array,
+Is the least likely to lead the way?",BeCl2,MgCl2,ZnCl2,SCl2,D

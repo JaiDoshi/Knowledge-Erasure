@@ -1,0 +1,143 @@
+"k'nin e^x + x - 2 = 0 denkleminin [0, 1] aralığındaki gerçek çözümlerinin sayısı olduğunu ve n'nin [0, 1] aralığında olmayan gerçek çözümlerin sayısı olduğunu varsayalım. Aşağıdakilerden hangisi doğrudur?",k = 0 ve n = 1,k = 1 ve n = 0,k = n = 1,k > 1,B
+"İzomorfizmaya kadar, her x ∈ G için x + x + x + x = 0 özelliğine sahip 16 mertebeli kaç tane toplamsal abelyen grup G vardır?",0,1,2,3,D
+"P, katsayıları Z_5'te olan ve derecesi 7'ye eşit veya daha küçük olan polinomlar kümesi olsun. Eğer D operatörü P'deki p(x)'i türevi olan p′(x)'e gönderiyorsa, D'nin sıfır uzayının n boyutu ve görüntü uzayının r boyutu nedir?",n = 1 ve r = 6,n = 1 ve r = 7,n = 2 ve r = 5,n = 2 ve r = 6,D
+Eğri xy = 8'den orijine olan en kısa mesafe,4,8,16,2√2,A
+"25 bavul var, bunlardan 5'i hasarlı. Rastgele üç bavul seçiliyor. Tam olarak 2 tanesinin hasarlı olma olasılığı nedir?",2/69,1/30,23 Şubat,12/125,C
+"(Z_{10} , +, x) modulo 10 tamsayılar halkası olsun ve S, Z_{10}'un {0, 2, 4, 6, 8} ile temsil edilen alt kümesi olsun. Aşağıdaki ifadelerden hangisi YANLIŞTIR?","(S, +, x) 10'a göre modüler toplama altında kapalıdır.","(S, +, x) 10'a göre modüler çarpma altında kapalıdır.","(S, +, x) 10'a göre modüler toplama altında bir birim elemana sahiptir.","(S, +, x) çarpma işlemi modulo 10 altında birim elemanı yoktur.",D
+"9 metre uzunluğundaki bir merdiven düz zeminde dikey bir duvara yaslanmış durumdadır. Merdivenin alt ucu duvardan sabit 2 metre/saniye hızla uzaklaştırılırken, üst ucu duvar boyunca aşağı doğru kaymaktadır. Merdivenin üst ucu yerden 3 metre yükseklikte olduğu anda, üst ucun aşağı doğru kayma hızı metre/saniye cinsinden ne kadar olacaktır?",12*√(2),6*kök(2),4*kök(2),1/(2*√2),C
+"Uzunluğu 10 olan bir doğru parçasını düşünün. A ve B noktaları, doğru parçasını üç küçük parçaya bölen şekilde rastgele seçiliyor. Bu üç küçük parçanın bir üçgenin kenarlarını oluşturabilme olasılığı nedir?",0,%10,%25,%50,C
+"V sonlu boyutlu bir gerçek vektör uzayı olsun ve P, V'nin P^2 = P özelliğine sahip bir doğrusal dönüşümü olsun. Aşağıdakilerden hangisi kesinlikle doğru olmalıdır?
+I. P tersinirdir.
+II. P köşegenleştirilebilirdir.
+III. P ya birim dönüşüm ya da sıfır dönüşümdür.",Hiçbiri,Sadece,II sadece,Sadece III,C
+Aşağıdakilerden hangisi doğrudur?,Her kompakt uzay tamdır,Her tam uzay kompakttır,Ne (a) ne de (b).,Hem (a) hem de (b).,A
+"Ayrık bir graf, herhangi bir çift köşe arasında bir kenar varsa tamdır. 10 köşeli tam bir grafın kaç kenarı vardır?",10,20,25,45,D
+"X pozitif tam sayılar kümesi üzerinde ayrık bir rastgele değişken olsun ve her pozitif tam sayı n için X = n olma olasılığı 1/2^n olsun. Eğer Y aynı olasılık dağılımına sahip bir rastgele değişken ise ve X ve Y bağımsız ise, X ve Y değişkenlerinden en az birinin 3'ten büyük olma olasılığı nedir?",1/64,15/64,1/4,3/8,B
+"V ve W, 7 boyutlu bir X vektör uzayının 4 boyutlu alt uzayları olsun. Aşağıdakilerden hangisi V kesişim W alt uzayının boyutu OLAMAZ?",0,1,2,3,A
+"Büyük bir sınıf takımlara ayrılacak ve her öğrenci tam olarak bir takımın üyesi olmalıdır. Ancak, her öğrenci sınıf arkadaşlarından üçünü sevmemektedir. Öğrenciler arasındaki hoşlanmama karşılıklı olmak zorunda değildir. Eğer takımların eşit büyüklükte olması gerekmiyorsa, hiçbir öğrencinin sevmediği biriyle aynı takımda olmaması için kaç takım oluşturulmalıdır?",4,7,10,13,B
+"Sofia ve Tess, 1'den 10'a kadar olan 10 tam sayıdan rastgele birer tane seçecekler. Seçilen sayılardan hiçbirinin diğerinin karesi olmaması olasılığı nedir?","0,64","0,72","0,81","0,95",D
+"K, n > 1 olmak üzere R^n'nin boş olmayan bir alt kümesi olsun. Aşağıdaki ifadelerden hangileri kesinlikle doğru olmalıdır?
+I. Eğer K kompakt ise, K üzerinde tanımlı her sürekli reel değerli fonksiyon sınırlıdır.
+II. Eğer K üzerinde tanımlı her sürekli reel değerli fonksiyon sınırlı ise, K kompakttır.
+III. Eğer K kompakt ise, K bağlantılıdır.",Sadece,Sadece II,Sadece III,Yalnızca I ve II,D
+"V'nin sonlu n boyutlu gerçek bir vektör uzayı olduğunu varsayalım. V'den kendisine olan matrislerin kümesini M(V) olarak adlandıralım. T, M(V)'de olsun. İki alt uzayı düşünelim: U = {X ∈ M(V) : TX = XT} ve W = {TX − XT : X ∈ M(V)}. Aşağıdakilerden hangisi kesinlikle DOĞRU olmalıdır?
+I. Eğer V, yalnızca T'nin özvektörlerini içeren bir tabana sahipse, o zaman U = M(V).
+II. dim (U) + dim (W) = n^2
+III. dim (U) < n",Sadece,Sadece II,Sadece III,Yalnızca I ve II,B
+"F, xyz uzayında (-1, 0, 1) vektörüne paralel sabit bir birim kuvvet olsun. F'nin, t=0 ile t=1 zaman aralığında (t, t^2, t^3) yolu boyunca hareket eden bir parçacık üzerinde yaptığı iş nedir?",-1/4,-1/(4√2),0,sqrt(2),C
+"X bir topolojik uzay olsun ve A, B ve C, X'in boş olmayan alt kümeleri olsun öyle ki A c B c C; yani A, B'nin öz alt kümesi ve B, C'nin öz alt kümesi olsun. Aşağıdaki ifadelerden hangisi (hangileri) doğrudur?
+I. Eğer A ve C bağlantılı ise, o zaman B bağlantılıdır.
+II. Eğer A ve C kompakt ise, o zaman B kompakttır.
+III. Eğer A ve C Hausdorff ise, o zaman B Hausdorff'tur.",Yalnızca I ve II,Sadece III,Sadece I ve III,"I, II ve III",D
+"x_1 = 1 olsun ve tüm pozitif tam sayılar n için x_(n+1) = sqrt(3+2x_n) olsun. Eğer {x_n} dizisinin yakınsadığı varsayılırsa, o zaman lim x_n =",3,e,sqrt(5),0,A
+"Eğer v, tersi alınabilir bir A matrisinin bir özvektörü ise, aşağıdakilerden hangisi veya hangileri kesinlikle doğrudur?
+I. v aynı zamanda 2A'nın da bir özvektörüdür.
+II. v aynı zamanda A^2'nin de bir özvektörüdür.
+III. v aynı zamanda A^(-1)'in de bir özvektörüdür.",Sadece,Sadece II,Sadece III,"I, II ve III",D
+"Kaç tane pozitif tam sayı k için, k! sayısının ondalık gösterimi tam olarak 99 sıfırla biter?",Hiçbiri,Bir,Dört,Beş,D
+"R'nin çarpımsal bir birime sahip bir halka olduğunu varsayalım. Eğer U, R'nin toplamsal bir alt grubu ise ve U'daki tüm u'lar ve R'deki tüm r'ler için ur, U'da ise, U'nun R'nin bir sağ ideali olduğu söylenir. Eğer R'nin tam olarak iki sağ ideali varsa, aşağıdakilerden hangisi doğru olmak zorundadır?
+I. R değişmelidir.
+II. R bir bölüm halkasıdır (yani, toplamsal birim dışındaki tüm elemanların çarpımsal tersleri vardır).
+III. R sonsuzdur.",Sadece,Sadece II,Sadece III,Yalnızca I ve II,B
+"Altı yüzlü bir zarın (yüzleri her zamanki gibi 1'den 6'ya kadar numaralandırılmış) sahte olduğu bilinmektedir: Herhangi bir çift sayı atma olasılığı, herhangi bir tek sayı atma olasılığının iki katıdır. Bu zar iki kez atıldığında, ilk atışın 5 ve ikinci atışın 6 gelme olasılığı nedir?",2/81,1/18,27 Şubat,1/9,A
+"İfade 1 | {s_n} ve {t_n} karmaşık sayıların dizileri olsun, öyle ki lim_n→∞ s_n = s ve lim_n→∞ tn = t. lim_n→∞ s_nt_n = st. İfade 2 | Yakınsak alt dizisi olmayan sınırlı bir gerçek sayı dizisi vardır.","Doğru, Doğru","Doğru, Yanlış","Yanlış, Doğru","Yanlış, Yanlış",B
+"Z tam sayılar kümesi üzerinde m • n = m + n + mn denklemiyle bir ikili işlem tanımlayın. Aşağıdaki ifadelerden hangisi veya hangileri ikili yapı (Z, •) hakkında doğrudur?
+I. Bu yapı bir grup değildir çünkü işlem birleşme özelliğine sahip değildir.
+II. Bu yapı bir grup değildir çünkü birim eleman yoktur.
+III. Bu yapı bir grup değildir çünkü tüm elemanların tersi yoktur.
+IV. Bu yapı bir gruptur.",Yalnızca I ve II,Sadece I ve III,Sadece II ve III,Sadece III,D
+"Kate'in bir GRE matematik pratik testi yazmak için k gün, John'un ise j gün süreye ihtiyacı var. Kate ve John, 2 günlük dönüşümlü vardiyalarla bir pratik test üzerinde çalıştıklarında, Kate başladığında 10 gün, John başladığında 10,5 gün sürüyor. Kate ve John eş zamanlı olarak çalışsalardı, bir pratik testi tamamlamaları ne kadar sürerdi?",9/2 gün,5 gün,41/8 gün,36/7 gün,D
+Yarıçapı 1 olan bir çemberin merkezinde bir köşesi ve diğer iki köşesi çember üzerinde olan üçgensel bir bölgenin olası en büyük alanı nedir?,1/2,1,sqrt(2),pi,A
+"f(x,y) = x^2 - 2xy + y^3 olmak üzere tüm gerçek x ve y değerleri için. Aşağıdakilerden hangisi doğrudur?",f'nin tüm göreceli ekstremumları x = y doğrusu üzerindedir.,f'nin tüm göreceli ekstremumları x = y^2 parabolü üzerindedir.,"f, (0, 0) noktasında göreceli bir minimuma sahiptir.","f, (2/3, 2/3) noktasında mutlak bir minimuma sahiptir.",A
+5 nesnenin permütasyonları grubundaki bir elemanın en büyük mertebesi nedir?,5,6,12,15,B
+"S(n), pozitif tam sayılar n hakkında bir ifadedir; öyle ki S(k) doğru olduğunda, S(k + 1) de mutlaka doğru olmalıdır. Ayrıca, S(n0)'ın doğru olmadığı bazı pozitif tam sayılar n0 vardır. Aşağıdakilerden hangisi çıkarılabilecek en güçlü sonuçtur?",S(n0 + 1) doğru değil.,S(n0 - 1) doğru değil.,"S(n), n <= n0 olan hiçbir n için doğru değildir","S(n), n >= n0 olan herhangi bir n için doğru değildir",C
+"xyz-uzayında, 2x + y + 3z = 3 düzlemi üzerinde orijine en yakın noktanın koordinatları nelerdir?","(0, 0, 1)","(3/7, 3/14, 9/14)","(7/15, 8/15, 1/15)","(5/6, 1/3, 1/3)",B
+3 ile 11 arasında (3 ve 11 dahil) hangi n tam sayıları için sadece bir tane n sıralı grup vardır (izomorfizmaya kadar)?,Böyle bir n tamsayısı için değil,"3, 5, 7 ve 11 için sadece","3, 5, 7, 9 ve 11 için sadece","4, 6, 8 ve 10 için sadece",B
+"Bir ağaç, döngüsü olmayan bağlantılı bir graftır. 5 köşeli kaç tane izomorf olmayan ağaç vardır?",1,2,3,4,C
+"A ve B, n > 1 olmak üzere n x n boyutunda tersi alınabilir matrisler ve I, n x n boyutunda birim matris olsun. Eğer A ve B benzer matrisler ise, aşağıdaki ifadelerden hangileri kesinlikle doğrudur? I. A - 2I ve B - 2I benzer matrislerdir. II. A ve B'nin izleri aynıdır. III. A^-1 ve B^-1 benzer matrislerdir.",Sadece,Sadece II,Sadece III,"I, II ve III",D
+"C'nin yz düzleminde denklemi (y - 3)^2 + z^2 = 1 olan daire olsun. Eğer C, z ekseni etrafında döndürülürse, oluşturulan yüzey bir torustur. Bu torusun denklemi nedir?",x^2 + y^2 + z^2 + 8 = 6y,(x^2 + y^2 + z^2)^2 = 8 + 36(x^2 + z^2),(x^2 + y^2 + z^2 + 8)^2 = 36(x^2 + z^2),(x^2 + y^2 + z^2 + 8)^2 = 36(x^2 + y^2),D
+Aşağıdakilerden hangisi x = 0 noktasında y = x + e^x grafiğine teğet olan doğrunun denklemidir?,y = 2x + 1,y = 2x,y = x + 2,y = x + 1,A
+"V'nin tüm gerçek 2 x 3 matrislerinin gerçek vektör uzayı olduğunu ve W'nin tüm gerçek 4 x 1 sütun vektörlerinin gerçek vektör uzayı olduğunu varsayalım. Eğer T, V'den W'ye bir doğrusal dönüşüm ise, T'nin çekirdek alt uzayının boyutu nedir?",2,3,4,5,A
+"İfade 1 | ∑|a_i| ıraksadığını ve ∑ a_i = 2 olduğunu varsayalım. Terimlerin ∑ a_i_k = 4 olacak şekilde bir a_i_k yeniden düzenlemesi vardır. İfade 2 | X kapalı ve sınırlı olan X ve Y metrik uzayları ve f(X)'in ""kapalı ve sınırlı"" OLMADIĞI sürekli bir f : X → Y eşlemesi mevcuttur.","Doğru, Doğru","Doğru, Yanlış","Yanlış, Doğru","Yanlış, Yanlış",A
+Öklid düzleminde dışbükey bir 10-genin sahip olabileceği maksimum dar açı sayısı,1,2,3,4,C
+"Eğer f(z), tüm sonlu karmaşık düzlemi gerçel eksene eşleyen analitik bir fonksiyon ise, o zaman sanal eksen şuna eşlenmelidir",tüm gerçek eksen,bir nokta,bir ışın,açık sonlu aralık,B
+"Tüm a, b ∈ G için (ab)^2 = a^2b^2 olan bir G grubu zorunlu olarak",sonlu,döngüsel,ikinci dereceden,abelyen,D
+"Eğer f, açık aralık (-1, 4) üzerinde tanımlanmış sürekli türevlenebilir bir reel değerli fonksiyon ise ve f(3) = 5 ve tüm x'ler için f'(x) ≥ -1 ise, f(0)'ın mümkün olan en büyük değeri nedir?",3,4,5,8,D
+"A ve B'nin gerçek sayılardan oluşan n × n matrisler olduğunu varsayalım. Aşağıdakilerden hangileri DOĞRUDUR?
+I. A^2'nin izi negatif olmayan bir sayıdır.
+II. Eğer A^2 = A ise, A'nın izi negatif olmayan bir sayıdır.
+III. AB'nin izi, A'nın izi ile B'nin izinin çarpımına eşittir.",II sadece,Sadece III,Yalnızca I ve II,Sadece II ve III,A
+7^25 sayısının standart ondalık açılımında birler basamağındaki rakam nedir?,1,3,5,7,D
+"İfade 1 | f : X → Y süreklidir ve X kompakttır. f düzgün sürekli olmalıdır. İfade 2 | Eğer f(x), g(x) : R → R her yerde türevlenebilir ise f(g(x)) her yerde türevlenebilir olmalıdır.","Doğru, Doğru","Doğru, Yanlış","Yanlış, Doğru","Yanlış, Yanlış",A
+Xy-düzleminin birinci çeyreğinde y = x ve y = x^2 eğrileriyle sınırlanan bölge y-ekseni etrafında döndürülüyor. Oluşan dönel katının hacmi,π/12,π/6,π/3,2π/3,B
+"xy-düzleminde, x = cos t ve y = sin t, 0 <= t <= pi parametrik denklemlerine sahip eğrinin uzunluğu",3,pi,3pi,3/2,B
+"Aşağıdakilerden hangileri bir kuvvet serisi için geçerli yakınsama aralıklarıdır?
+(I) [−1, 3)
+(II) (−∞, 0]
+(III) [2, 2] ∪ [3, 3]
+(IV) (−∞,∞)",Sadece (II),Sadece (IV ),(I) ve (IV),(II) ve (III),C
+"Eğer f: R -> R, Lebesgue integrallenebilir sınırlı bir fonksiyon ise, aşağıdakilerden hangisi kesinlikle doğru olmalıdır?",f Riemann integrallenebilirdir.,"R'nin sayılabilir sonsuz bir E alt kümesi yoktur öyle ki f, E'nin her x elemanında türevlenemez olsun.",R'nin sayılamaz bir E alt kümesi öyle ki f'nin E'nin her x elemanında türevlenemez olduğu bir durum mevcut değildir.,Yukarıdakilerin hiçbiri.,D
+"xy-düzleminde, x^(log y) = y^log x grafiği",açık birinci çeyrek,kapalı bir eğri,açık birinci çeyrekte bir ışın,tek bir nokta,A
+Hangi p için ||x||_p normu bir iç çarpım olarak ifade edilebilir?,1,2,p >= 1,sonsuzluk,B
+"S kompakt bir topolojik uzay, T bir topolojik uzay ve f, S'den T'ye bir fonksiyon olsun. f üzerindeki aşağıdaki koşullardan hangisi, T'nin kompaktlığını sağlamak için yeterli olan en zayıf koşuldur?",f bir homeomorfizmdir.,f sürekli ve bire-bir,f süreklidir.,f bire birdir,C
+Çevrili dairesi 2 yarıçaplı olan eşkenar üçgenin alanı nedir?,12,16,12*√(3),16*√(3),C
+Hangi n değeri için izomorfizmaya kadar tam olarak iki abelyen grup n sırasına sahiptir?,4,7,8,12,A
+"Aşağıdakilerden hangisi x, y, z ∈ R^k için her zaman doğru değildir?",|x| ≥ 0,|x · y| ≤ |x||y|,|x| = 0 ancak ve ancak x = 0 ise,|x + y| = |x| + |y|,D
+"V, en fazla 3. dereceden gerçek polinomların, olağan işlemler altındaki vektör uzayı olsun. W, V'deki tüm p(x) polinomlarının, p(0) = p(1) = p(-1) = 0 olacak şekildeki alt uzayı olsun. O halde dim V + dim W şudur",4,5,6,7,B
+"V ve W, R^4'ün 2 boyutlu alt uzayları ise, V kesişim W alt uzayının olası boyutları nelerdir?",1 sadece,Sadece 2,Sadece 0 ve 1,"0, 1 ve sadece 2",D
+"y = (sin x + cos x)^4 ve y = (sin x - cos x)^4 eğrileri x = 0'da kesişir. Eğer a, bu eğrilerin bir sonraki kesiştiği en küçük pozitif x değeri ise, x = 0'dan x = a'ya kadar bu eğriler arasındaki alanı belirleyin.",2,π,4,3π/2,C
+"Eğer f, düzlemden gerçel sayılara doğrusal bir dönüşüm ise ve f(1, 1) = 1 ve f(-1, 0) = 2 ise, o zaman f(3, 5) =",9,8,0,-5,A
+2x^5 + 8x - 7 polinomunun kaç tane gerçek kökü vardır?,Hiçbiri,Bir,İki,Üç,B
+"Bir üniversitenin matematik bölümünde 10 profesör bulunmakta ve gelecek dönem 20 farklı ders verilecektir. Her profesör tam olarak 2 ders vermek üzere görevlendirilecek ve her dersin öğretmeni olarak tam olarak bir profesör atanacaktır. Eğer herhangi bir profesör herhangi bir dersi verebiliyorsa, 10 profesörün 20 derse atanmasının kaç farklı şekilde yapılabileceğini bulunuz?",20!/2^(10),10!/2^9,10^(20) - 2^(10),10^(20) - 100,A
+Aşağıdakilerden hangileri doğrudur:,"Karmaşık sayılar C üzerinde, (C, +, ×, ≤) sıralı bir alan olmayacak şekilde doğrusal bir sıralama ilişkisi ≤ yerleştirmek mümkündür.","Karmaşık sayılar C üzerinde, (C, +, ×, ≤) ifadesini sıralı bir alan yapacak doğrusal bir sıralama ilişkisi yerleştirmek mümkündür.",Ne (a) ne de (b),Hem (a) hem de (b).,A
+Bir oyunda iki oyuncu sırayla adil bir para atarlar; kazanan ilk olarak tura atan kişidir. Oyuna ilk başlayan oyuncunun oyunu kazanma olasılığı,1/4,1/3,1/2,2/3,D
+Aşağıdakilerden hangisi bir grup DEĞİLDİR?,Toplama işlemi altındaki tam sayılar,Sıfırdan farklı tam sayılar çarpma işlemi altında,Sıfırdan farklı gerçek sayılar çarpma işlemi altında,Toplama işlemi altındaki karmaşık sayılar,B
+"x ve y pozitif tam sayılar olmak üzere, 3x + 7y'nin 11'e bölünebilir olduğunu varsayalım. Aşağıdakilerden hangisi de kesinlikle 11'e bölünebilir olmalıdır?",4x + 6y,x + y + 5,9x + 4y,4x - 9y,D
+R^3 üzerinde tanımlanan ve x^2 + y^2 + z^2 <= 2 kısıtlamasına tabi olan x + 4z ifadesinin minimum değeri nedir?,0,-2,-√34,-√35,C
+"R bir halka olsun ve U ve V, R'nin (iki taraflı) idealleri olsun. Aşağıdakilerden hangileri de R'nin idealleri olmalıdır?
+I. {u + v : u \in U ve v \in V}
+II. {uv : u \in U ve v \in V}
+III. {x : x \in U ve x \in V}",Sadece II,Sadece III,Yalnızca I ve II,Sadece I ve III,D
+"X ekseni ve f(x) = x/(1 + x^3) fonksiyonu tarafından sınırlanan bölge, x ekseni etrafında döndürülüyor. Oluşan katı cismin hacmi nedir?",π/3,π/4,π,2π,A
+Diyelim ki bugün Çarşamba. Bugünden 10^(10^(10)) gün sonra haftanın hangi günü olacak?,Pazar,Pazartesi,Salı,Çarşamba,A
+"Ters çevrilmiş bir koninin tepe noktasındaki bir delikten dakikada 3 cm^3 hızla su damlar. Koninin yüksekliği ve yarıçapı sırasıyla 2 cm ve 1 cm'dir. Su seviyesi koninin tepesinden yarım santimetre aşağıda olduğunda, suyun yüksekliği hangi hızla değişir? Bir koninin hacmi V = (π/3)*r^2*h'dir, burada r yarıçap ve h koninin yüksekliğidir.",−48/π cm/dak,−4/(3π) cm/dk,−8/(3π) cm/dk,−16/(3π) cm/dak,D
+"Aşağıdaki doğrusal denklem sistemini düşünün
+w + 3x + 2y + 2z = 0
+w + 4x + y = 0
+3w + 5x + 10y + 14z = 0
+2w + 5x + 5y + 6z = 0
+çözümleri (w, x, y, z) şeklinde olan, burada w, x, y ve z reel sayılardır. Aşağıdaki ifadelerden hangisi YANLIŞTIR?",Sistem tutarlıdır.,Sistemin sonsuz sayıda çözümü vardır.,Herhangi iki çözümün toplamı bir çözümdür.,"Her çözüm (-5, 1, 1, 0)'ın skaler bir katıdır.",D
+"Eğer c > 0 ve tüm gerçek x sayıları için f(x) = e^x - cx ise, o zaman f'nin minimum değeri",f(c),f(e^c),f(1/c),f(log c),D
+"A'nın 3 × 3 boyutunda bir matris olduğunu ve det(A − λI) = −λ^3 + 3λ^2 + λ − 3 olduğunu varsayalım, burada I, 3 × 3 boyutunda birim matristir. A hakkında aşağıdakilerden hangileri DOĞRUDUR?
+I. A'nın izi 3'tür.
+II. A'nın determinantı −3'tür.
+III. A matrisinin özdeğerleri −3 ve 1'dir.",Sadece,Sadece II,Sadece III,Yalnızca I ve II,D
+"y = f(x), x dy + (y - xe^x) dx = 0 diferansiyel denkleminin, x = 1 olduğunda y = 0 olan bir çözümü olsun. f(2)'nin değeri nedir?",1/(2e),1/e,e^2/2,2e,C
+"Adil bir madeni para 100 kez atılacak ve her atışta yazı veya tura gelecek. Eğer H toplam tura sayısı ve T toplam yazı sayısı ise, aşağıdaki olaylardan hangisinin gerçekleşme olasılığı en yüksektir?",H = 50,T >= 60,51 <= H <= 55,H >= 48 ve T >= 48,D
+"İfade 1 | f : [a, b] bir fonksiyon olsun ve f'in bir yerel maksimumu olduğunu varsayalım. f'(x) var olmalı ve 0'a eşit olmalı mı? İfade 2 | R'den Q'ya sabit olmayan sürekli fonksiyonlar vardır.","Doğru, Doğru","Doğru, Yanlış","Yanlış, Doğru","Yanlış, Yanlış",D
+"I != A != -I olmak üzere, burada I birim matris ve A gerçel 2 x 2 matristir. Eğer A = A^(-1) ise, A'nın izi şudur",2,1,0,-1,C
+"Toplam x fit uzunluğunda çit, düz bir dikdörtgen avlunun üç kenarını oluşturacaktır. Avlunun olası maksimum alanı, x cinsinden nedir?",x^2/9,x^2/8,x^2/4,x^2,B
+"İfade 1 | Eğer A bağlantılıysa, A'nın kapanışı da bağlantılı olmalıdır. İfade 2 | (0, 1) → (0, 1) aralığında tanımlı her sürekli fonksiyonun bir sabit noktası vardır.","Doğru, Doğru","Doğru, Yanlış","Yanlış, Doğru","Yanlış, Yanlış",B
+Aşağıdaki kümelerden hangisinin kardinalitesi en büyüktür?,R,Z'den Z'ye tüm fonksiyonların kümesi,"R'den {0, 1}'e tüm fonksiyonların kümesi",R'nin tüm sonlu alt kümeleri kümesi,C
+"f(x) grafiği orijinden geçen bir fonksiyon olsun. Eğer her tamsayı n için f(2n) = n^2 + f[2(n - 1)] ise, f(8)'in değeri nedir?",24,30,32,36,B
+72 sıralamasına sahip yapısal olarak farklı kaç tane Abelyen grup vardır?,4,6,8,9,B
+"Eğer sonlu grup G, yedi sıralı bir alt grup içeriyor ancak hiçbir eleman (özdeşlik dışında) kendi tersine eşit değilse, G'nin sırası şu olabilir",27,28,35,37,C
+"f(x, y) = x^3 + y^3 + 3xy tüm gerçek x ve y için olsun. O zaman f'nin bir olduğu farklı P ve Q noktaları vardır",P ve Q noktalarında yerel maksimum,P'de ve Q'da eyer noktası,P noktasında yerel maksimum ve Q noktasında eyer noktası,P noktasında yerel minimum ve Q noktasında eyer noktası,C
+"Eğer A, gerçel sayı doğrusu R'nin bir alt kümesi ise ve A her rasyonel sayıyı içeriyorsa, aşağıdakilerden hangisi kesinlikle doğru olmalıdır?","A açıksa, o zaman A = R.","A kapalıysa, o zaman A = R.","Eğer A sayılamaz ise, o zaman A = R.","Eğer A sayılamaz ise, o zaman A açıktır.",B
+"M, 5 x 5 boyutunda gerçek bir matris olsun. Aşağıdaki beş koşuldan tam olarak dördü birbirine eşdeğerdir. Bu beş koşuldan hangisi diğer dördünün HİÇBİRİNE eşdeğer değildir?","M'nin herhangi iki farklı sütun vektörü u ve v için, {u, v} kümesi doğrusal bağımsızdır.",Homojen sistem Mx = 0'ın yalnızca aşikar çözümü vardır.,"Mx = b denklem sisteminin, her gerçek 5 x 1 sütun vektörü b için benzersiz bir çözümü vardır.",M'nin determinantı sıfır değildir.,A
+Kaç tane pozitif x sayısı cos(97x) = x denklemini sağlar?,1,15,31,49,C
+Aşağıdaki halkalardan hangisinde sıfır olmayan iki elemanın çarpımının sıfır olması mümkündür?,Karmaşık sayılar halkası,11'e göre modüler tamsayılar halkası,"[0, 1] aralığında sürekli gerçek değerli fonksiyonların halkası",Halka {a + b * √2 : a ve b rasyonel sayılardır},C
+"Bir G grubunun kendisine x -> axa^2 şeklindeki eşlemesi, ancak ve ancak şu durumda bir homomorfizmdir:",G abelyen'dir,G = {e},a^3 = e,a^2 = a,C
+"Eğer A, (i, j) girişi i + j'ye eşit olan 2x2 matris ise ve B, (i, j) girişi i + j'ye eşit olan 3x3 matris ise, detA + detB toplamının değerini bulun.",-2,-1,0,2,B
+"Eğer f : (0, 1) → (0, 1] ise, aşağıdakilerden hangisi DOĞRU olabilir?
+I. f bire bir ve örtendir.
+II. f'nin görüntüsü kompakttır.
+III. f sürekli, bire bir ve örtendir.",Sadece,Sadece II,Yalnızca I ve II,Sadece I ve III,C
+"Eğer [0, 3] aralığında rastgele bir gerçek sayı x seçilirse ve [0, 4] aralığında rastgele bir gerçek sayı y seçilirse, x < y olma olasılığı nedir?",1/2,7/12,5/8,2/3,C
+"R^2'de seçilen bir (x, y) noktasının olasılığı, 0 < |x| + |y| < 1 eşitsizliğiyle tanımlanan bölge içinde düzgün rastgele dağılıma uyar. 2(x + y) > 1 olma olasılığı nedir?",0,1/4,sqrt(2)/4,1/√(2),B
+(1+i)^10 =,1,i,32,32i,D
+"U ve V, R^5'in 3 boyutlu alt uzayları ise, U ∩ V'nin olası boyutları nelerdir?",0,1,0 veya 1,"1, 2 veya 3",D
+"R^2'nin standart topolojisine göre, S, birim kare [0, 1] × [0, 1] içindeki x veya y'nin veya her ikisinin de irrasyonel olduğu tüm (x, y) noktalarından oluşan R^2'nin bir alt kümesi olsun.",kapalı,açık,bağlı,tamamen kopuk,C
+Aşağıdaki dairelerden hangisi x^2 = y + 4 parabolası ile en fazla kesişme noktasına sahiptir?,x^2 + y^2 = 1,x^2 + y^2 = 2,x^2 + y^2 = 9,x^2 + y^2 = 16,C
+"X, aşağıdaki özelliğe sahip sonlu bir kümedir: X'in tam olarak 3 eleman içeren alt kümelerinin sayısı, X'in tam olarak 2 eleman içeren alt kümelerinin sayısından 14 fazladır. X'in tam olarak 4 eleman içeren kaç alt kümesi vardır?",24,25,28,35,D
+"T: R^2 -> R^2, (1, 2) noktasını (2, 3)'e ve (-1, 2) noktasını (2, -3)'e dönüştüren doğrusal dönüşüm olsun. Bu durumda T, (2, 1) noktasını şuna dönüştürür","(1, 6)","(-1, 4)","(3, 2)","(-4, 3)",A

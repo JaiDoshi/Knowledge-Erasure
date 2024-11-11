@@ -1,0 +1,10 @@
+Yüklem mantığına en iyi çeviriyi seçin: Mars'ta hiç kimse araba kullanmaz.,~Pd,(∀x)(Px ∨ ~Dx),(∀x)(Px ⊃ ~Dx),~Dp,C
+"En iyi yüklem mantığı çevirisini seçin. George, Hector'ın çim biçme makinesini ödünç alır. (g: George; h: Hector; l: Hector'ın çim biçme makinesi; Bxyx: x, y'yi z'den ödünç alır)",Blgh,Bhlg,Bglh,Bghl,C
+"Verilen öncüllerin yüklem mantığındaki en iyi İngilizce yorumunu seçin.
+Dm
+(∀x)(Wx ⊃ ~Dx)
+(∀x)Wx ∨ Ag	/ (∃x)Ax",Marina bir dansçıdır. Bazı zayıf kişiler dansçı değildir. Ya her şey zayıftır ya da Georgia voleybol oynar. Bu yüzden bir şey voleybol oynar.,Marina bir dansçıdır. Hiçbir zayıf kişi dansçı değildir. Her şey ya zayıftır ya da voleybol oynar. Bu yüzden bir şey voleybol oynar.,Marina bir dansçıdır. Bazı zayıf kişiler dansçı değildir. Her şey ya zayıftır ya da voleybol oynar. Bu yüzden bir şey voleybol oynar.,Marina bir dansçıdır. Hiçbir zayıf kişi dansçı değildir. Ya her şey zayıftır ya da Georgia voleybol oynar. Bu yüzden bir şey voleybol oynar.,D
+"Aşağıdaki önerme çiftleri için eksiksiz bir doğruluk tablosu oluşturun. Ardından, doğruluk tablolarını kullanarak, ifadelerin mantıksal olarak eşdeğer mi yoksa çelişkili mi olduğunu belirleyin. Eğer ikisi de değilse, tutarlı mı yoksa tutarsız mı olduklarını belirleyin. Cevaplarınızı gerekçelendirin.
+E ⊃ (F · E) ve ~E · F",Mantıksal olarak eşdeğer,Çelişkili,"Ne mantıksal olarak eşdeğer ne de çelişkili, ancak tutarlı",Tutarsız,C
+"Verilen PL formüllerinden hangisi aşağıdaki cümlenin en iyi sembolleştirmesidir?
+Kaplumbağalar uzun ömürlüdür ve mutlu canlılardır, yaralanmadıkları sürece.",(L • H) ≡ I,(L • H) ∨ I,L • (H ∨ I),L • (H ⊃ R),B

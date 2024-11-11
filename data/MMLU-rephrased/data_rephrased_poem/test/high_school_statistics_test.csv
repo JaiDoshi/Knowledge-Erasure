@@ -1,0 +1,2120 @@
+"Aspirin's weight, a mystery to ponder,
+The label claims three hundred milligrams, we wonder.
+An FDA agent, with a keen eye and care,
+Weighs seven tablets, a sample fair.
+
+The weights they bear, a range they show,
+From two ninety-nine to three oh three, we know.
+Now a hypothesis test, the truth to unfurl,
+What P-value shall this data unfurl?",P(t > 1.54) with df = 6,2P(t > 1.54) with df = 6,P(t > 1.54) with df = 7,2P(t > 1.54) with df = 7,B
+"Waiting in line, a dance of time,
+Coaster's call, a thrill sublime.
+Gaussian curves, a normal dance,
+Thirty-five minutes, a waiting chance.
+
+Ten minutes, the standard's sway,
+One hundred thousand, a summer's play.
+What interval, the shortest to find,
+For these riders, their dreams to bind?",0 to 31.7 minutes,31.7 to 39.3 minutes,25.3 to 44.7 minutes,25.3 to 35 minutes,C
+"The random variable's tale,
+Unfolds in discrete fashion prevail.
+But one statement stands apart,
+A truth not shared, a work of art.",The possible outcomes must all be numerical.,The possible outcomes must be mutually exclusive.,The mean (expected value) always equals the sum of the products obtained by multiplying each value by its corresponding probability.,Approximately 95% of the outcomes will be within two standard deviations of the mean.,D
+"Amidst the realm of statistics grand,
+Hypothesis testing, a task at hand.
+What truth lies within, a question to ponder,
+As we seek the answers that make us wonder.","If there is sufficient evidence to reject a null hypothesis at the 10% level, then there is sufficient evidence to reject it at the 5% level.",Whether to use a one- or a two-sided test is typically decided after the data are gathered.,"If a hypothesis test is conducted at the 1% level, there is a 1% chance of rejecting the null hypothesis.",The power of a test concerns its ability to detect an alternative hypothesis.,D
+"Lies far from the rest,
+A data point that's best,
+Considered out of line,
+A result that's divine.
+This point, it stands apart,
+Capturing the heart,
+Of those who seek to see,
+The story data can be.",is seen more frequently than the other observations in the data set,is seen less frequently than the other observations in the data set,is always smaller than the other observations in the data set,is significantly different from the other observations in the data set,D
+"Seeking insights, a wise principal yearns,
+Sampling students, their families' incomes she learns.
+A ninety-five percent confidence, a range so grand,
+Revealing the average, a puzzle to understand.
+
+Is it ($35,095) or ($45,005), the true mean?
+Where does the family income truly lean?
+This confidence interval, a clue to unfold,
+The principal ponders, the story to be told.","95 percent of the students in her school are from families whose income is between $35,095 and $45,005.","There is a 95% probability that the families of all the students in this school have an income of between $35,095 and $45,005.","If we were to take another sample of the same size and compute a 95 percent confidence interval, we would have a 95% chance of getting the interval ($35,095, $45,005).","There is a 95% probability that the mean income per family in the school is between $35,095 and $45,005.",D
+"Experiment's design unfolds,
+Significance level set, a tale untold.
+Null hypothesis, falsely woven,
+Researchers seek answers, their course is chosen.
+
+Twice the units, a new approach,
+What outcome will this change behoove?
+Will the truth be unveiled with greater might?
+Or will the null withstand the test of light?",The probability of a Type I error and the probability of a Type II error would both decrease.,The probability of a Type I error and the power would both increase.,The probability of a Type II error and the power would both increase.,The probability of a Type I error would stay the same and the power would increase.,D
+"Tall and proud, they stand,
+Heights that defy the land.
+A man, six feet and four,
+A woman, five feet ten, what's in store?
+
+Inches measure, heights compare,
+Standard deviations, a tale to share.
+Whose stature stands out, a rare sight?
+Whose form is more unusual, a striking light?","It cannot be determined, because the mean heights for the two groups are different.","It cannot be determined, because the standard deviations of the heights for the two groups are different.","The man, because he is 74 inches tall and the woman is only 70 inches tall.","The woman, because her height is 1.33 standard deviations above the mean height of all women, whereas the man’s height is only one standard deviation above the mean height of all men.",D
+"A question unbound,
+Seeking truth profound.
+What of t-distributions,
+Reveal their true distinctions?",There are different t-distributions for different values of df (degrees of freedom).,t-distributions are bell-shaped and symmetric.,t-distributions always have mean 0 and standard deviation 1.,t-distributions are more spread out than the normal distribution.,C
+"Intoxicated minds,
+Reaction times defined,
+Subjects sipping suds,
+Responses now confined.
+
+Stimulus awaits,
+Measured before and after,
+Randomized fates,
+Seeking truth, not laughter.
+
+Which statement rings true,
+Amidst the hazy hue?
+Unveil the insight,
+Reveal the honest sight.",This study was an observational study.,Lack of blocking makes this a poorly designed study.,The placebo effect is irrelevant in this type of study.,This study was an experiment in which the subjects were used as their own controls.,D
+"Bias, a perplexing veil,
+Obscuring truth, a curtain to unveil.
+Which statement holds the key,
+To this enigma, can you see?",It describes a process that creates estimates that are too high on average or too low on average.,It describes a process that results in a sample that does not represent the population.,It describes a lack of randomization in the sampling process.,It describes a sample that is not representative of the population.,A
+"Tissues, strong and true,
+Monitored with care and due.
+If the mean falls below,
+The process must go.
+
+What then, if a Type I error,
+Halts the line, a worrying specter?
+Consequences, what do they hold?
+Reveal the tale, the story untold.",Halting the production process when sufficient customer complaints are received.,Halting the production process when the tissue strength is below specifications.,Halting the production process when the tissue strength is within specifications.,Allowing the production process to continue when the tissue strength is below specifications.,C
+"Longevity's rhythm, a tapestry woven,
+Whispers its secrets, a tale to be known.
+In a land where life's span holds sway,
+Fourteen years mark the standard's display.
+
+Yet, a mystery lingers, a puzzle to solve,
+Where thirty percent thrive, beyond three-score and ten.
+What is the mean that this land holds dear?
+Unveil the truth, let the answer appear.",75 - 0.30(14),75 + 0.30(14),75 - 0.4756(14),75 - 0.5244(14),D
+"Here is the question rephrased as a poem:
+
+From ninety to ninety-nine,
+A shift in the confidence line.
+All else remains the same,
+The population's proportion's aim.
+
+A wider range to explore,
+Embracing uncertainty's core.
+Precision takes a backseat,
+As confidence gains a stronger beat.
+
+The journey from near to far,
+Unveils a different truth's star.
+A decision to make with care,
+Balancing risks with thoughtful flair.",increases the interval size by 9%.,decreases the interval size by 9%.,increases the interval size by 57%.,decreases the interval size by 57%.,C
+"Binomial, a variable so fair,
+Discrete in nature, with choices to spare.
+Successes or failures, a tally to keep,
+Measured in trials, a constant to reap.
+Which one among them, this question implores,
+Holds this unique trait, this binomial score?","The number of tosses before a ""5"" appears when tossing a fair die.","The number of points a hockey team receives in 10 games, where two points are awarded for wins, one point for ties, and no points for losses.","The number of hearts out of five cards randomly drawn from a deck of 52 cards, without replacement.",The number of motorists not wearing seat belts in a random sample of five drivers.,D
+"Whispers of wisdom, a dance in the air,
+What holds the key to power's flair?
+Shall sample size, the beacon bright,
+Illuminate the truth with its might?
+
+Or shall significance, the arbiter's call,
+Tilt the scales, standing tall?
+Perchance, the Type II error's sway,
+Muddies the waters, leading astray.
+
+The choice, a riddle to unravel,
+The path to power, a tale to travel.
+Which shall it be, the answer to find,
+To guide the test, sharp and refined?",I only,II only,III only,I and II,D
+"Which of these claims ring true?
+Unveiling the veils of statistical might,
+Shall we unravel the answers in sight?
+
+I. In the realm of χ2, a prerequisite fair,
+Demands each cell's expectation to bear,
+A minimum of five, a threshold to meet,
+Lest the analysis falter, its purpose unseat.
+
+II. For χ2 procedures to find their true home,
+At least two degrees of freedom must roam,
+A requirement to heed, a rule to uphold,
+Lest the analysis stumble, its secrets untold.
+
+III. In a 4 × 2 tableau, a dance of the cells,
+The degrees of freedom, the story it tells,
+Shall we find the answer, the truth to unfurl?
+Three, the number that sets this world.",I only,I and III only,I and II only,III only,B
+"Two events, E and F,
+Probabilities p and q, 
+Nonzero in their stance,
+Which one is impossible to ensue?",p + q > 1,p - q < 0,p /q > 1,E and F are both independent and mutually exclusive.,D
+"The weather's dance, a delicate play,
+Shapes the odds on Highway 48's way.
+When skies are dry, a chance so slight,
+Just 0.2% to see an accident's light.
+But when the rain pours down from above,
+The risk climbs higher, a 1.0% shove.
+The weatherman's forecast, a 20% chance,
+Of wet wonder, a treacherous dance.
+What lies in store for the road today?
+The probability waits, a mystery to sway.",0.0004,0.0016,0.002,0.0036,D
+"The binomial dance, a tale to tell,
+Where outcomes twirl, their chances swell.
+What scenarios, pray, do they befit?
+Unveil the moments where they fit.",The number of minutes in an hour for which the Dow-Jones average is above its beginning average for the day.,The number of cities among the 10 largest in New York State for which the weather is cloudy for most of a given day.,The number of drivers wearing seat belts if 10 consecutive drivers are stopped at a police roadblock.,None of the above.,D
+"Two variables, X and Y,
+Least squares regression, a dance to try.
+Estimated equation, y = -2.29 + 1.70x,
+One point stands out, x = 5, y = 6.
+
+What is the residual, the story it holds?
+A mystery to unravel, the data unfolds.
+Uncover the truth, the answer to seek,
+Reveal the residual, the insights it speaks.",7.91,6.21,0.21,–0.21,D
+"Here is the question rephrased as a poem:
+
+To use t or not to use z,
+A question that puzzles the mind's view.
+For inference procedures, means to deduce,
+The choice between t and z, we must construe.",The Central Limit Theorem applies to proportions but not means.,We use z for proportions because proportions are approximately normal. Means are not.,"We use z for proportions because the sampling distribution of sample proportions is approximately normal, but that is not the case for the sampling distribution of sample means.","When using the sample standard deviation to estimate the population standard deviation, more variability is introduced into the sampling distribution of the statistic.",D
+"Amidst the sea of choices,
+Which one, dear friend, seems least apt?
+To reduce bias, a survey's main voice,
+Which option would be the most lax?",Following up with those who did not respond to the survey the first time,Asking questions in a neutral manner to avoid influencing the responses,Using stratified random sampling rather than simple random sampling,Selecting samples randomly,C
+"The hours they toiled, a puzzle to solve,
+A first exam, a challenge to evolve.
+Four hours on average, a standard of one,
+Yet the scores fell short, the struggle not done.
+
+For the second test, a new plan unfurled,
+Each student, ten hours, a world re-swirled.
+What is the link, the correlation so rare,
+Between the hours studied, the successes they'd share?",-1,0,0.4,1,B
+"Homes in the city, a canvas of delight,
+Appraised with values, a guiding light.
+A mean of $125,000, a foundation so sound,
+Standard deviation, $23,000, the range abound.
+
+But change is afoot, a contract in play,
+The school district needs, a ten percent sway.
+To raise the funds, a plan is unfurled,
+Appraised values raised, by five thousand pearl.
+
+What will the new standard deviation be?
+A question to ponder, a mystery to see.
+The city's houses, a tapestry of worth,
+Transformed by the plan, a new era's birth.","$23,000","$25,300","$28,000","$30,300",A
+"Across the land, two offices stand,
+One in New Jersey, the other in Utah's sand.
+The assistants in Jersey, their pay does shine,
+A mean of twenty-eight, five hundred, in fine.
+
+While in Utah, the pay is a tad bit less,
+Twenty-two, five hundred, we must confess.
+One twenty-eight, the Jersey office's share,
+The Utah office, thirty-two, a number fair.
+
+What is the mean, this company does pay?
+To the office assistants, in every way?
+The answer, a balance, a harmony to find,
+Reflecting the work, of each helping mind.","$22,500 ","$23,700 ","$25,500 ","$27,300 ",D
+"Amidst the choices, a query doth rise,
+Asking which statement, a falsehood disguise.
+Simple random samples, their secrets to unfurl,
+Revealing the truth, a mystery to uncurl.",A sample must be reasonably large to be properly considered a simple random sample.,Inspection of a sample will give no indication of whether or not it is a simple random sample.,Attributes of a simple random sample may be very different from attributes of the population.,Every element of the population has an equal chance of being picked.,A
+"Whispers in the air,
+Connections forged with care,
+A hundred and four voices to hear,
+Opinions to steer.
+
+Names that start with A,
+Chosen by chance's sway,
+Repeated for each letter, they say,
+To craft the perfect array.
+
+Conclusions to be drawn,
+From data newly spawned,
+Insights to be found, not forlorn,
+Decisions to be borne.",Her procedure makes use of chance.,Her procedure results in a simple random sample.,Each customer has an equal probability of being included in the survey.,Her procedure introduces bias through sampling error.,A
+"Three investment schemes,
+Options to ponder and deem.
+The first, a sure bet,
+Twenty-five thousand, no fret.
+
+The second, a gamble of fate,
+Fifty thousand or ten, the scale to sway.
+Fifty-fifty, the odds at play,
+A risky return, a chance to assay.
+
+The third, a thrill to pursue,
+One in twenty, a hundred grand in view.
+Ninety-five percent, naught to show,
+A high-stakes game, the risk to know.
+
+Which option should the company take?
+A decision to make, a future to make.
+Weigh the rewards, measure the risk,
+The choice is theirs, the outcome, a brisk.",Option II if it wants to maximize expected return,"Option I if it needs at least $20,000 to pay off an overdue loan","Option III if it needs at least $80,000 to pay off an overdue loan",All of the above answers are correct.,D
+"A whisper in the wind,
+A test of hypothesis, a tale to mend.
+Sample size fourteen, a journey to take,
+P-value 0.075, a decision to make.
+
+What range of t-values, a mystery to unveil,
+Holds the key to this statistical tale?
+Unravel the answers, let the truth unfold,
+A pivotal moment, a story untold.",1.345 < t< 1.761,1.356 < t< 1.782,1.771 < t< 2.160,1.350 < t< 1.771,D
+"Customers' melodies, a tapestry diverse,
+A president's quest, a survey to converse.
+Twelve months of growth, a treasure to uncover,
+Streaming delight, a free month to discover.
+
+Geographical whims, a hidden melody,
+Which sample plan, the best symphony?
+A representative tune, a harmonious whole,
+Capturing the essence, of each customer's soul.",Choose all of the customers who joined in the last month.,Make a list of all the customers who joined in the last 12 months and choose a random sample of customers on this list.,"From the list of all customers who joined in the last 12 months, classify customers by the state in which they live, then choose 10 customers from each state.","From the list of all customers who joined in the last 12 months, classify customers by the state in which they live, then choose 3% of the customers from each state.",D
+"The question, a riddle in verse,
+Seeking the answer, a path to traverse.
+A population's proportion, the goal in sight,
+The confidence interval, a challenge to ignite.
+
+Ninety-four percent, the target to hold,
+The critical value of z, a tale to unfold.
+What number shall we wield, the interval to create?
+The upper bound, the key to unlock this state.",0.9699,1.96,1.555,1.88,D
+"Salaries of teachers, a mosaic of might,
+Seven math, seven English, a balance in sight.
+Which mean should we ponder, the question so clear?
+Unveiling the answer, a pathway sincere.",A two-sample z-test of population means,A two-sample t-test of population means,A one-sample z-test on a set of differences,None of the above are appropriate.,D
+"Kiosk in Atlanta's airport grand,
+Souvenirs, a range to be grand,
+$3.99 to $29.99, a sight to behold,
+Mean price, $14.75, a tale untold.
+
+Airport authorities, with a heavy hand,
+Increase the rent, a demand,
+To offset the rise, a clever plan,
+Prices up by fifty cents, a new span.
+
+What will come, a question to ponder,
+As the kiosk owner must now wander,
+Through the maze of changes, a path to find,
+The outcome, a mystery, to unwind.",The mean price and the range of prices will increase by 50 cents.,"The mean price will remain the same, but the range of prices will increase by 50 cents.",The mean price and the standard deviation of prices will increase by 50 cents.,"The mean price will increase by 50 cents, but the standard deviation of prices will remain the same.",D
+"Donation Data, a Poetic Verse
+
+Amid autumn's crisp embrace,
+The food bank's call, a heartfelt trace.
+Donations pour, a generous flow,
+Awaiting analysis, a story to show.
+
+One hundred checks, a tapestry woven,
+Averaging a hundred and fifty-five, golden.
+Yet, the standard deviation, a measure to behold,
+Thirty-two dollars, a tale to unfold.
+
+Which statement, the most apt to choose?
+A narrative to cherish, a truth to infuse.
+In this moment, the director's gaze,
+Seeking insight, a guiding phrase.","This November, the average donation is $155.",50% of all donations this November are more than $155.,We are 95% confident that the average donation in November is between about $91 and $219.,We are 95% confident that the average donation in November is between about $149 and $161.,A
+"In the realm of statistics, a theorem divine,
+The central limit, a gem so fine.
+Ponder the questions, with wisdom and grace,
+Which of these truths, the theorem will trace?
+
+The mean, a reflection of the population's might,
+The sampling distribution's guiding light.
+The standard deviation, a link so strong,
+Unveiling the truth, where it belongs.
+
+If the sample size, a sizable feat,
+The normality of x-bar, a symphony so sweet.
+Unravel the answers, with care and insight,
+The central limit theorem, a shining delight.",I only,I & II only,II only,III only,D
+"The city's grand plan, a bold endeavor,
+Annexing the county, a decision to ponder.
+The newspaper's survey, a voice to be heard,
+58% against, a resounding word.
+
+Yet, when the vote came, not all voices chimed,
+But of those who did, 56% declined.
+The difference, a puzzle, a tale to be told,
+Revealing the gap between what was polled and what unfold.","It is an example of nonresponse bias, the systematic tendency of individuals with particular characteristics to refuse to answer a survey question.",It is the systematic difference between a statistic and parameter caused by the nonrandom selection of surveyed persons.,It is the difference between the same statistics computed from two different samples.,It is the difference between the statistic and the truth due to use of a random sample.,C
+"A survey's tale, a story to tell,
+Customers' voices, a tale to compel.
+Male and female, a count so grand,
+Seeking a truth, a decision to hand.
+
+Sundays, the question, a chance to explore,
+Interests aligned, a market to restore.
+Proportions compared, a difference to find,
+Confidence soars, a conclusion to mind.
+
+The interval speaks, a message to heed,
+Answers await, a path to succeed.
+Interpret with care, the truth to unfold,
+A storekeeper's quest, a story untold.",We are 95 percent confident that the proportion of women interested in shopping on Sundays exceeds the proportion of men interested in shopping on Sundays.,We are 95 percent confident that the proportion of men interested in shopping on Sundays exceeds the proportion of women interested in shopping on Sundays.,We are 95 percent confident that the proportion of women interested in shopping on Sundays is equal to the proportion of men interested in shopping on Sundays.,"Because the interval contains negative values, it is invalid and should not be interpreted.",A
+"Experiment or Observation,
+Which one holds the greater solution?
+Controlled conditions or natural sway,
+The quest for truth, which holds the way?",Experiments are only conducted on human subjects; observational studies can be conducted on nonhuman subjects.,"In an experiment, the researcher manipulates some variable to observe its effect on a response variable; in an observational study, he or she simply observes and records the observations.","Experiments must use randomized treatment and control groups; observational studies also use treatment and control groups, but they do not need to be randomized.",Experiments must be double-blind; observational studies do not need to be.,A
+"Gaussian X, a normal sight,
+Mean twenty-five, a guiding light.
+Standard deviation, four so fair,
+What is the range, the interquartile share?",25.00 – 22.30 = 2.70,27.70 – 22.30 = 5.40,27.70 ÷ 22.30 = 1.24,2.00(4.00) = 8.00,B
+"Here is the question rephrased as a poem:
+
+Events A and B, what's their tale?
+Which statement, my friend, does not fail?
+Is their connection strong and true?
+Or do they stand alone, void of clue?
+Reveal the truth, let it unfold,
+The answer now, let it be told.",P(A ∪ B) implies events A and B are independent.,P(A ∪ B) = 1 implies events A and B are mutually exclusive.,P(A ∩ B) = 0 implies events A and B are independent.,P(A ∩ B) = 0 implies events A and B are mutually exclusive.,D
+"Amidst the corporate throng,
+Four hundred souls, their voices strong,
+With incomes, a normal curve unfolds,
+Averaging twenty thousand, five hundred untold.
+
+Yet, a veil of uncertainty casts its hue,
+A standard deviation, three-seven-five-zero true.
+Between thirteen thousand and twenty-eight grand,
+How many find their paychecks in this promised land?",50,100,200,390,D
+"The halls once filled with joyful cheer,
+Now shrouded in a subtle fear.
+A poll reveals the students' plight,
+Forty-three percent face this plight.
+
+But what does the ""margin of error"" mean?
+A five-percent chance, not all is seen.
+The truth may vary, a range to behold,
+A snapshot in time, not the full story untold.",It is likely that the true proportion of high school students afraid to go to school is between 38% and 48%.,Five percent of the students refused to participate in the poll.,Between 38% and 48% of those surveyed expressed fear about going to school.,There is a 0.05 probability that the 43% result is in error.,A
+"Shall we compare the scores,
+Of male and female galore,
+In the realm of AP Statistics,
+A puzzle to explore?
+
+What technique shall we employ,
+To gather the data with joy?
+A quest for the most fitting way,
+To uncover the truth, we must sway.",Census,Sample survey,Experiment,Observational study,A
+"Watching the screen, a study unfolds,
+Half the class, an hour a day they hold.
+The other half, five hours they consume,
+Then grades are measured, a different tune.
+
+A second study, questionnaires abound,
+Students report their TV time unbound.
+Grades are charted, a curious display,
+Revealing patterns, a tale to convey.","The first study was an experiment without a control group, while the second was an observational study.","The first study was an observational study, while the second was a controlled experiment.",Both studies were controlled experiments.,Both studies were observational studies.,A
+"A school of students, 1650 strong,
+Investing their wealth, a stock market throng.
+Two plans propose, a path to tread,
+To estimate their total investments, it's said.
+
+Plan I, a random sample of thirty,
+Confidence interval, the average to see.
+Multiplied by 1650, the total to find,
+An interval estimate, the school's wealth to bind.
+
+Plan II, thirty students, from the 132 who invest,
+Confidence interval, their average to test.
+Multiplied by 132, the total to know,
+An interval estimate, their stock market's flow.
+
+Which plan is better, a question to ponder,
+The total investment, a story to wander.
+A decision to make, the better to choose,
+To unravel the wealth, the students to use.",Plan I,Plan II,Both plans use random samples and so will produce equivalent results.,Neither plan will give an accurate estimate.,B
+"Sampling error arises,
+Uncertainties disguise,
+Randomness prevails,
+Accuracy assails.",when interviewers make mistakes resulting in bias.,because a sample statistic is used to estimate a population parameter.,when interviewers use judgment instead of random choice in picking the sample.,when samples are too small.,B
+"Regression's tale unfolds,
+A story of ties, bold and untold.
+Unfurling the truth, a path to behold,
+Which holds the answers, to be extolled?
+
+Is it a bond, strong and true?
+A positive link, between the two?
+Or a negative sway, a different hue?
+Unveiling the facts, to make anew.
+
+Ninety-eight percent, a vast expanse,
+Explaining the response, with each glance.
+The regression's might, a powerful stance,
+Revealing the ties, in this grand dance.",I and III only,I or II only,I or II (but not both) and III,II and III only,C
+"Slumber's Lullaby
+
+Fifty souls, in a clinic's embrace,
+Seeking respite from sleep's elusive grace.
+Two paths diverge, each with its own charm,
+One with drugs, the other with music's calm.
+
+Breathe patterns traced, a silent tale to tell,
+Awake or asleep, which method shall prevail?
+The data awaits, a verdict to unfold,
+Which remedy, the secret to sleep, will hold?","It is not possible for this experiment to be single-blind or double-blind, because human subjects are involved.",This is only a single-blind experiment because the experimenters did not include a control group that received neither medication nor a blindfold and soft music.,"This is only a single-blind experiment because patients will know which treatment they are receiving, although the examining doctor might not.",This is a double-blind experiment because the experimenters could prevent both groups of patients from knowing what sort of treatment the other group is receiving.,C
+"Fingers dance across the keys,
+A study to ease repetitive disease.
+Volunteers, their woes to cease,
+Assigned a keyboard, old or new with ease.
+
+The hypothesis, a hope to hold,
+Fewer injuries, a story untold.
+But the P-value, a tale to be told,
+Stands at 0.07, a story not yet unfurled.",The null hypothesis should be rejected.,The null hypothesis should be accepted.,There is a 7% chance that the null hypothesis is correct.,There is a 7% chance of getting a difference between the two groups at least as large as the observed difference if the new keyboard is really no better at preventing injuries.,D
+"The scores they stand,
+Revealing the land,
+Where knowledge takes hold,
+Secrets to unfold.
+
+Two groups they see,
+AP Statistics, a key,
+What lies between,
+The means unseen?
+
+A test to unravel,
+The path they must travel,
+Assumptions to ponder,
+The truth to wander.",The population variances from each group are known.,The population variances from each group are unknown.,The population variances from the two groups are equal.,The population of SAT scores from each group is normally distributed.,D
+"Amidst the flow of probabilities,
+Unravel the hidden mysteries.
+P(E) stands at thirty-two percent,
+While P(F) rests at fifteen, content.
+
+The intersection, E and F,
+Reveals a joint chance, clear and brief.
+Forty-eight thousandths, a sliver so small,
+What conclusion can we enthrall?",The events E and F are both independent and mutually exclusive.,The events E and F are neither independent nor mutually exclusive.,The events E and F are mutually exclusive but not independent.,The events E and F are independent but not mutually exclusive.,D
+"Whispers of hope, a dance to be told,
+Unveiling the secrets that cancer's hold.
+Three dosages tested, a puzzle to unfold,
+Revealing the truth, a story untold.",There are three explanatory variables and one response variable.,There is one explanatory variable with three levels of response.,"Tumor reduction is the only explanatory variable, but there are three response variables corresponding to the different dosages.",There are three levels of a single explanatory variable.,D
+"Visitors flock to the grand retail domain,
+A bustling mall, a shopper's refrain.
+Sixty percent, the store's claim so bold,
+A promise of wares, a tale to be told.
+
+Let p, the proportion, hold the key,
+To unveil the truth, the reality.
+What hypotheses should we now employ,
+To support this claim, a quest to enjoy?",H0: p ≤ 0.60 and Ha: p > 0.60,H0: p = 0.60 and Ha: p 0.60,H0: p = 0.60 and Ha: p < 0.60,H0: p > 0.60 and Ha: p 0.60,A
+"Correlation's worth, a question posed,
+What factors can its value expose?
+Is it sample size, or data range?
+Or other elements that may change?
+The answer, a poetic form doth take,
+Revealing the forces that may its value make.",A change in measurement units,A change in which variable is called x and which is called y,Adding the same constant to all values of the x-variable,None of the above can affect the r value.,D
+"As the sample grows, thrice as wide,
+The confidence interval, a shrinking tide.
+Precision takes flight, uncertainty takes a dive,
+Tripling the data, a steady hand to survive.",It triples the interval size.,It divides the interval size by 3.,It multiples the interval size by 1.732.,It divides the interval size by 1.732.,D
+"Correlation, a delicate dance,
+Between two variables, a subtle glance.
+Suppose the bond, a modest 0.19,
+What new connection, can we now espy?
+
+Add 0.23 to the x-array,
+Each y-value, now doubled, a transformative play.
+Interchange the variables, a twist in the tale,
+What secret shall the new correlation unveil?",0.19,0.42,0.84,-0.19,A
+"Amidst the AP Statistics fray,
+Timed in seconds, minds at play.
+One student's time, a standout score,
+Z-value two point four, nothing more.
+
+Now the task, a shift in time,
+From seconds to minutes, a transition sublime.
+The question lingers, a curious plea,
+What will the standardized score now be?",z = 0.04,z = 0.4,z = 1.80,z = 2.40,D
+"The durability test,
+Of paints on wooden toys,
+Divided by gender,
+Yielding insights to explore.
+
+Randomly selected,
+Two groups to compare,
+The effects observed,
+With thoughtful care.
+
+Which statement rings true?
+The answer awaits,
+Revealing the insights,
+Within the experiment's slate.","There are three types of paint and two sex groups, giving a total of six treatment combinations in this experiment.",Type of paint is a blocking factor.,Sex is a blocking factor.,This is a completely randomized design.,C
+"Whispers of study's embrace,
+Echoing through halls of grace,
+Where hours spent, a story told,
+Yielding GPA's of shining gold.
+
+Correlation, a dance divine,
+Linking study's hours, a design,
+Behold the tapestry, r at nine,
+Unveiling insights, a truth to enshrine.",90% of students who study receive high grades.,90% of students who receive high grades study a lot.,90% of the variation in GPAs can be explained by variation in number of study hours per day.,81% of the variation in GPAs can be explained by variation in number of study hours per day.,D
+"In the realm of dreams, Estrella's heart yearns,
+To don the mantle of a paramedic's role.
+A screening exam, her path to earn,
+Normality's embrace, her scores unfold.
+
+With a mean of eighty, and a dev of nine,
+The test's benchmark, a canvas of life's design.
+Fifteen percent, the threshold to shine,
+Estrella's mark, a ninety, stood sublime.
+
+What place does she hold, in this test's embrace?
+Her percentile rank, a tale to trace.
+Does she qualify, for the next phase's race?
+Estrella's journey, a guiding light to face.",13.35; she didn't qualify.,54.38; she didn't qualify.,86.65; she qualified.,84.38; she didn't qualify.,C
+"Is this an experiment or an observational,
+A study to test the heart's rate,
+Half exercise, the other not,
+To see which group's heart beats abate.
+
+Randomly selected, a worthy plan,
+To understand the exercise's demand,
+On the resting heart's steady beat,
+A conclusion, the researchers seek.",An experiment with a control group and blinding,An experiment with blocking,An observational study with comparison and randomization,None of the above,D
+"Niacin and Lipitor, a tale unfurled,
+Battling cholesterol, a mighty world.
+In a study, a clash of might,
+Lipitor emerged, the victor's light.
+
+The difference in mean, a tale to tell,
+Eighteen to forty-one, the numbers swell.
+A conclusion to ponder, a path to trace,
+Which one shall reign, the victor's grace?","Niacin lowers cholesterol an average of 18 points, while Lipitor lowers cholesterol an average of 41 points.",There is a 0.95 probability that Lipitor will outperform niacin in lowering the cholesterol level of any given individual.,There is a 0.95 probability that Lipitor will outperform niacin by at least 23 points in lowering the cholesterol level of any given individual.,None of the above.,D
+"The golden spheres, plucked with care,
+Weighed, their secrets to declare.
+A sample, a snapshot, a world to behold,
+Ninety-five percent, a tale to be told.
+
+What lies within this interval fair?
+The mean weight, a mystery to share.
+Is it true, this confidence held so dear?
+The answer, a revelation, crystal-clear.","In repeated samplings of the same size, 95 percent of the intervals constructed will contain the true mean weight of the oranges of this variety.","In repeated samplings of the same size, 95 percent of the intervals constructed will contain the sampled mean weight of the oranges.",Ninety-five percent of the oranges in this sample weigh between 7.58 and 8.72 ounces.,Ninety-five percent of the oranges of this variety weigh between 7.58 and 8.72 ounces.,A
+"Coin flips, a game of chance,
+Probabilities to be enhanced.
+First, a prize if heads between,
+Forty-five and fifty-five, serene.
+Second game, a win if more,
+Than eighty percent, a thrill in store.
+Thirty flips or three hundred bold,
+Which option would you, dear, uphold?",30 times for each game,300 times for each game,30 times for the first game and 300 times for the second,300 times for the first game and 30 times for the second,D
+"The question's essence, now a poem:
+
+Locations twain, sales revenue to compare,
+A sample taken, ten from each, with care.
+Four weeks of data, each salesperson's might,
+The t-test awaits, to shed its light.
+
+What assumption must hold, for this test to reign?
+The path to valid conclusions, we must attain.
+Reveal the key, the cornerstone of truth,
+Enlighten us, and guide our analytical groove.",The population standard deviations at both locations are equal.,The population standard deviations at both locations are not equal.,The population standard deviations at both locations are known.,The population of the sales records at each location is normally distributed.,D
+"Beneath the veil of uncertainty,
+Ten tests unfold, a curious quandry.
+Null hypothesis, μ equals twenty-five,
+Alternative, a lesser value to derive.
+
+Each venture, a chance to err, unattended,
+Significance, a threshold to be descended.
+Probability, a specter to be faced,
+Type I, a truth to be displaced.
+
+Across the ten, a tapestry woven,
+One rejection, a falsehood to be proven.
+What is the chance, this error to commit?
+A question that lingers, a puzzle to submit.",0.05,0.40,0.50,0.60,B
+"Fragile parts, their lives to tell,
+Sixty percent stand tall, three years swell,
+While seventy percent, a shorter span,
+Falter and fade, ere six years can.
+
+Beneath the surface, a story unfolds,
+A normal curve, its secrets untold.
+What lies within, the mean to uncover,
+The standard deviation, a clue to discover.","μ = 3.677, σ = 3.561","μ = 3.977, σ = 3.861","μ = 4.177, σ = 3.561","μ = 4.377, σ = 3.261",B
+"Rewards and Punishments, a Poetic Debate
+Positive reinforcement, the psychologist's choice,
+Deemed more effective than punishment's voice.
+A scale of ""proper behavior"" is the tool,
+To measure the impact, a powerful rule.
+
+μ1, the rating for those with rewards,
+μ2, the rating for those facing swords.
+The null hypothesis, a test to behold,
+""μ1 - μ2 = 0,"" the story untold.
+
+What is the proper statement of HA?
+The answer lies in the poetic sway.
+Uncover the truth, let the verse unfold,
+The path to good behavior, a tale to be told.",HA: μ1− μ2> 0,HA: μ1− μ2< 0,HA: μ1− μ2≠ 0,Any of the above is an acceptable alternative to the given null.,A
+"Grocery expenses, a tale to tell,
+Confidence intervals, a story to dwell.
+Which path shall we choose, the answer to find?
+A smaller confidence, a smaller mind?
+Or a smaller standard, a steadier hand?
+Perhaps a smaller sample, a tighter band?
+The question lingers, the choice to make,
+Which decision will our margin of error take?",II only,I and II,I and III,II and III,B
+"Amidst the maze of experimental plans,
+Which factor does not demand a firm hand?
+Precision, controls, or randomized spans?
+Which aspect can we freely disregard and stand?",Control of confounding variables,Randomization in assigning subjects to different treatments,Use of a confounding variable to control the placebo effect,Replication of the experiment using sufficient numbers of subjects,C
+"Here is the question rephrased as a poem:
+
+What is the truth, what is the lie?
+Which statement stands, which one will die?
+Amid the choices, can you divine
+The one that's right, the one that's fine?
+Unveil the answer, let it shine,
+Reveal the fact, the correct line.",The probability of a Type II error does not depend on the probability of a Type I error.,"In conducting a hypothesis test, it is possible to simultaneously make both a Type I and a Type II error.",A Type II error will result if one incorrectly assumes the data are normally distributed.,"When you choose a significance level α, you're setting the probability of a Type I error to exactly α.",D
+"The difference between the peaks,
+Where the many and the few meet.
+A measure of disparity, a tale to tell,
+Between the 60th and 40th, a story to dwell.
+
+This measurement, a lens to behold,
+The gaps within the population's fold.
+Revealing the divide, the ebb and flow,
+A glimpse into the highs and lows.",central tendency.,variability.,symmetry.,skewness.,B
+"Amid the realm of binomial,
+A question lingers, not nominal.
+What element, pray tell, is not required?
+A mystery to be explored, desired.",Each trial is considered either a success or a failure.,Each trial is independent.,The value of the random variable of interest is the number of trials until the first success occurs.,There is a fixed number of trials.,C
+"Boxes filled with books,
+Weighing, measuring, and looking.
+Mean weight, a constant guide,
+Standard deviations at each side.
+
+Books, a hefty load,
+Twenty-five pounds, so it's told.
+But the box itself, a lighter task,
+One pound, with standard point one five to ask.
+
+Packing material, a two-pound affair,
+With a deviation of a quarter, so fair.
+What's the standard deviation we seek?
+The packed box's weight, a number to keep.",28.000 pounds,5.290 pounds,4.085 pounds,2.021 pounds,D
+"Geese in flight, their journey's begun,
+Soaring high, their nests to be won.
+Curious minds, the scientists ponder,
+How many will return, their count to wander?
+
+From two hundred, a sample they took,
+But a larger quest, their hearts now shook.
+Two thousand geese, the new plan unfolds,
+How will this change, the tale to be told?
+
+The distribution, a puzzle to solve,
+As the sample grows, the answers will evolve.
+Will the shape shift, the curves sway and bend?
+The scientists wait, the truth to ascertain and defend.",The distribution of the sample proportion will be more spread out.,The distribution of the sample proportion will be less spread out.,The spread of the distribution of the sample proportion will remain unaffected.,The distribution of the sample proportion will more closely resemble the binomial distribution.,B
+"Uncertainty lingers, a shroud so dense,
+Voters in limbo, their minds still tense.
+Four hundred strong, a sample so small,
+Yet their voices echoed, a call to all.
+
+Two hundred fifty-six, the undecided throng,
+Unsure of their choice, their path still long.
+Between sixty and sixty-eight, the range so wide,
+A puzzle to solve, a question to abide.
+
+How sure can we be, this enigma to unravel?
+The answers elusive, a journey to travel.
+A snapshot in time, a moment so fleeting,
+Yet the truth it holds, our hearts still beating.",2.4%,8.0%,64.0%,90.4%,D
+"The gridiron giants, strong and bold,
+Weigh in with numbers to behold.
+An average of two-four-eight pounds,
+A standard deviation that astounds.
+
+Four players, chosen at random's call,
+Their combined weight, a sight to enthrall.
+Nine-nine-two pounds, the expected sight,
+The standard deviation, a curious plight.",47 pounds,67 pounds,94 pounds,141 pounds,C
+"A whisper of uncertainty,
+A dance of probabilities.
+P-value, a gentle voice,
+Speaks of what may or may not be.
+
+Shall we heed its quiet call?
+Embrace the shades of gray?
+Or seek a clearer path ahead,
+Where answers hold sway?
+
+The journey of hypothesis,
+A winding road to explore.
+P-value, a guiding light,
+Revealing what lies in store.",The probability of getting a finding at least as extreme as that obtained by chance alone if the null hypothesis is true is 0.20.,The probability of getting a finding as extreme as that obtained by chance alone from repeated random sampling is 0.20.,The probability is 0.20 that our finding is significant.,The probability of getting this finding is 0.20.,A
+"Contingency tables, a dance of chance,
+A puzzle of truths, a statistical prance.
+Which one, my friend, is not quite right?
+Unveil the truth, shed the light.",The categories are not numerical for either variable.,Observed frequencies should be whole numbers.,Expected frequencies should be whole numbers.,"Expected frequencies in each cell should be at least 5, and to achieve this, one sometimes combines categories for one or the other or both of the variables.",C
+"The runner's stride,
+A journey of might,
+His time, a tale untold,
+Shrouded in the night.
+
+The normal curve, a guiding light,
+Unveils his performance's plight.
+A z-score of -2, a tale to tell,
+Unraveling the runner's swell.
+
+What does this score imply?
+A question that we must defy.
+Is it a triumph or a test?
+The answer, our minds must digest.",This week his time was two minutes lower than his time last week.,This week his time was two minutes lower than his best time ever.,This week his time was two minutes lower than his average time.,This week his time was two standard deviations lower than his average time.,D
+"Here is the question rephrased as a poem:
+
+Scores upon scores, a tapestry woven,
+Applicants' dreams, their futures foretold.
+The LSAT, a measure of minds, a token,
+With mean of six-fifty and deviation bold.
+
+But hark! Only those with scores soaring high,
+Above seven hundred, are deemed worthy ones.
+What of the rest, the hopefuls who sigh,
+Whose scores, though not top, still hold the sun?
+
+What percentage, pray tell, do they comprise,
+Those beneath seven-forty, the lesser known?
+For in the realm of law, where merit lies,
+The normal curve shall guide, its secrets shown.",13.3%,17.1%,82.9%,86.7%,C
+"Two friends, Mary and Pam,
+Took a test, their scores to cram.
+Mary scored at the 64th,
+Pam at the 56th, a difference worth.
+
+Which statement then can be true?
+A question that we ponder anew.
+In the realm of percentiles so,
+The answer we seek to know.",Mary scored eight more points than Pam.,Mary's score is 8% higher than Pam's.,Eight percent of those who took the test scored between Pam and Mary.,Thirty-six people scored higher than both Mary and Pam.,C
+"Sip the verdant elixir,
+Unlock the secrets of the mind,
+As patients, in Asian lands,
+Depression's grip, they left behind.
+
+A study, vast and far-reaching,
+Reveals the power of green tea's might,
+But in the American press,
+What caution must we take to write?",It is possible that people who drink green tea also tend to have healthier lifestyles than those who don't.,It is possible that people who drink green tea also tend to have a more positive outlook on life than those who don't.,"Because this is observational data, the association between drinking green tea and a lower incidence of depression is not an indication of a causal relationship.",People who want to avoid depression should consider drinking green tea on a daily basis.,D
+"Amidst the halls of learning's light,
+A survey seeks to take flight.
+School principals, a weighty choice,
+Sampled from each district's voice.
+
+Shall the lists be joined as one?
+Or from each district, samples spun?
+The question lingers, a puzzle to be solved,
+Revealing insights, carefully evolved.",This is a simple random sample obtained in an easier and less costly manner than procedures involving sampling from the entire population of principals.,This is a cluster sample in which the population was divided into heterogeneous groups called clusters.,"This is an example of systematic sampling, which gives a reasonable sample as long as the original order of the list is not related to the variables under consideration.","This is a stratified sample, which may give comparative information that a simple random sample wouldn't give.",D
+"The control stands silent,
+A bastion of balance,
+Unaffected, unwavering,
+A benchmark for comparison.
+Untouched by the trial,
+Its role is to provide,
+A measure of normalcy,
+Against which to decide.",treatment opposite that given the experimental group.,the same treatment given the experimental group without knowing they are receiving the treatment.,a procedure identical to that given the experimental group except for receiving the treatment under examination.,a procedure identical to that given the experimental group except for a random decision on receiving the treatment under examination.,C
+"Tina's dilemma, a quest so true,
+Fifteen observations, or thirty-five, what to do?
+The mean and standard, a curious pair,
+Revealing the same, a curious affair.
+
+Is there an edge, a hidden delight,
+In the larger sample, a clearer insight?
+The teacher's guidance, a path to behold,
+Unraveling the truth, a story untold.
+
+Tina ponders, her mind in a whirl,
+Seeking the answer, a scientific pearl.
+The choice before her, a weighty decision,
+The water's secrets, a complex division.","There is no advantage. Because the mean and the standard deviation are about the same, the confidence interval computed using 35 observations should be approximately the same as that computed using 15 observations.","There is no advantage. In fact, the 20 extra observations will increase the likelihood of error.","There is no advantage. Because she took 35 observations instead of 15 observations, the confidence interval using 35 observations will be wider than that using 15 observations.","There is some advantage. Because she took 35 observations instead of 15 observations, the confidence interval using 35 observations will be narrower than that using 15 observations.",D
+"Cholesterol's tale, a story to be told,
+A population, its levels skewed right, behold.
+Mean of two-ten, a standard dev of fifteen,
+Samples drawn, their means to be seen.
+
+What lies within this sampling display?
+Reveal the truth, let it not astray.
+Uncover the nature of this distribution fair,
+And its characteristics, for all to share.",The shape is unknown with a mean of 210 and a standard deviation of 15.,The shape is somewhat skewed right with a mean of 210 and a standard deviation of 3.75.,The shape is approximately normal with a mean of 210 and a standard deviation of 15.,The shape is approximately normal with a mean of 210 and a standard deviation of 3.75.,B
+"The long jump's gain,
+A measure so keen,
+A test to ascertain,
+The changes unseen.
+
+Procedures abound,
+Choices to weigh,
+Which one holds true,
+When the t-test sway?
+
+Significance set,
+At a level so fine,
+Unraveling the truth,
+In the performance's shine.",Change from equal size treatment groups to very different size treatment groups would increase the power of the test.,Change from a 5% significance level to a 1% significance level would increase the power of the test.,Taking more careful measurements to reduce variability in the response would increase the power of the test.,Increasing the sample size would reduce the probability of a Type I error.,C
+"Bearings, a precise dance,
+Spun by a line, a delicate prance.
+Thirty, the first to be measured with care,
+A diameter, 1.25 centimeters, the aim to bear.
+
+But what if the mean, it does not align?
+Under 1.23, or over 1.27, a troubling sign.
+The machinery halts, an engineer's call,
+Adjustments to make, to restore it all.
+
+A hypothesis test, the null and the alt,
+H0 says μ is 1.25, no fault.
+But what if the null, it is wrongly rejected?
+A Type II error, the true state neglected.",A warranted halt in production to adjust the machinery,An unnecessary stoppage of the production process,Continued production of wrong size ball bearings,Continued production of proper size ball bearings,C
+"Unemployment's shadow looms,
+A city's pulse, a mystery to consume.
+Eight percent of a sample, five hundred strong,
+Jobless, their stories, a melancholic song.
+
+Confidence, our guide, a pathway to find,
+The midpoint, a beacon, a number to bind.
+Unraveling the truth, a task, not so small,
+Revealing the answer, the heart of it all.",0.012,0.025,0.475,None of the above.,D
+"Unraveling the tale of time,
+Accidents and drivers in their prime,
+The insurance company seeks to find,
+The years between crashes, a pattern in mind.
+
+Sampling the city, a snapshot to behold,
+Uncovering the truths, the story untold.
+Which statement rings true, a guiding light,
+As they analyze the data, day and night?",A reasonable time-and-cost-saving procedure would be to use systematic sampling on an available list of all AAA (Automobile Association of America) members in the city.,A reasonable time-and-cost-saving procedure would be to randomly choose families and include all drivers in each of these families in the sample.,"To determine the mean number of years between accidents, randomness in choosing a sample of drivers is not important as long as the sample size is very large.",None of the above are true statements.,D
+"Central limit theorem, oh so grand,
+A statistical concept, so well-planned.
+Does it speak of the mean, the variance too?
+Or is it something else, for me to construe?","No matter how the population is distributed, as the sample size increases, the mean of the sample means becomes closer to the mean of the population.","No matter how the population is distributed, as the sample size increases, the standard deviation of the sample means becomes closer to the standard deviation of the population divided by the square root of the sample size.","If the population is normally distributed, then as the sample size increases, the sampling distribution of the sample mean becomes closer to a normal distribution.",The central limit theorem refers to something else.,D
+"Cakes, a delight to be had,
+A manufacturer's quest, not just a fad.
+Temperature, pan, and oven, the trifecta to test,
+Ensuring the texture, the consumer's best.
+
+What design shall we choose, to uncover the truth?
+A full factorial, the answer, a bittersweet proof.
+Combining the factors, in all their might,
+Revealing the secrets, to the consumer's delight.",A completely randomized design with nine treatment groups,A completely randomized design with 24 treatment groups,"A randomized block design, blocked on temperature, with six treatment groups","A randomized block design, blocked on type of pan, with 12 treatment groups",B
+"Hours of study, a curious tale,
+Do they lead to hoop-filled glory?
+A study seeks to unveil,
+The link between books and scoring.
+
+Fifty players, a diverse lot,
+Divided by study time's might,
+The diligent, their points did not,
+Outshine the ones who studied less, in might.
+
+The coach, with a resolute heart,
+Demands more time in study's embrace,
+But is this the right impart?
+The question lingers, a puzzling case.","While this study may have its faults, it still does prove causation.",There could well be a confounding variable responsible for the seeming relationship.,"While this is a controlled experiment, the conclusion of the coach is not justified.","To get the athletes to study more, it would be more meaningful to have them put in more practice time on the court to boost their point averages, as higher point averages seem to be associated with more study time.",B
+"Terns take to the skies,
+Their calls echoing far and wide,
+A symphony of nature's cries,
+Revealing nests in hidden pride.
+
+Biologists, with watchful gaze,
+Seek to understand this phase,
+A correlation to amaze,
+Seventy-one percent, a clear craze.
+
+More calls, more birds, a simple fact,
+A tool to manage, an impact,
+Conservation efforts, a compact,
+Monitoring wildlife, an adact.",The correlation coefficient is -0.71.,The correlation coefficient is 0.71.,The correlation coefficient is -0.84.,The correlation coefficient is 0.84.,D
+"Here is the question rephrased as a poem:
+
+Employees, a thousand strong,
+Spread across five plants, where they belong.
+Managers, each with their own stash,
+Two hundred cards, a random dash.
+
+Six names drawn, from each plant's pool,
+To form a sample, a handy tool.
+But will this method, so neatly planned,
+Yield a sample, truly grand?
+
+A simple random, the goal in sight,
+Achieved through this process, is it right?
+The answer lies, in the cards we hold,
+A sample true, or a story untold.","Yes, because every employee has the same chance of being selected.","Yes, because every plant is equally represented.","Yes, because this is an example of stratified sampling, which is a special case of simple random sampling.","No, because not every group of 30 employees has the same chance of being selected.",D
+"A doctor's quest, a hope so bright,
+A new technique, a path to light.
+Patients, randomly assigned,
+Standard or new, their fate entwined.
+
+Recovery time, the focus fair,
+Compared with care, the path to share.
+Conditions met, the stage is set,
+Which analysis should we beget?",A t-test for a mean.,A t-test for a difference in means.,A z-test for a mean.,A z-test for a difference in means.,B
+"Confidence in the economy
+Among the adults, will it grow?
+A study to find, a sample to show,
+Thirty adults, a random flow.
+
+Two declined, the rest agreed,
+Insights to be revealed, a need.
+What conclusion can we read?
+The poem awaits, the answer to heed.",Proper use of chance as evidenced by the simple random sample makes this a well-designed survey.,The high response rate makes this a well-designed survey.,Selection bias makes this a poorly designed survey.,A voluntary response study like this gives too much emphasis to persons with strong opinions.,C
+"Serene melodies or rhythmic beats,
+Which shall guide the workers' feet?
+Classical or light rock, a choice to be made,
+To study the effects, a control must be laid.",A third group for which no music is played,A third group that randomly hears either classical or light rock music each day,A third group that hears day-long R & B music,A third group that hears classical music every morning and light rock every afternoon,A
+"Cyclones in the air,
+Swirling through the years,
+An average of eight-point-seven per year,
+With five-point-one becoming hurricanes, my dears.
+
+Independent, the chance they take,
+A dance with the wind and the rain.
+If five cyclones in one year, we make,
+The probability of three hurricanes, we must attain.",0.313,0.345,0.586,0.658,D
+"Degrees of freedom, a question to ponder,
+In a 3 × 4 contingency table, we must wander.
+The chi-squared test, a statistical tool,
+Requires us to find the degrees of freedom, a rule.
+
+Rows and columns, they hold the key,
+To unlocking the mystery.
+Subtracting one from each, we must do,
+To find the degrees of freedom, anew.
+
+A journey through the table, row by row,
+The answer will soon begin to show.
+Degrees of freedom, the final count,
+Shall be revealed, the solution to mount.",6,8,10,11,A
+"Beneath the hospital's embrace,
+Patients seek solace, a fleeting trace.
+Durations abound, a normal sight,
+Meandering through the day and night.
+
+With a mean of one hundred sixty-seven,
+And a standard deviation of seventy-six, heaven-sent.
+The middle eighty percent, a secret to unfold,
+Waiting to be revealed, a story untold.
+
+What interval, to the nearest minute, can we find?
+A journey of discovery, a quest to unwind.
+The answer lies in the data's embrace,
+Revealing the truth, in this hospital's grace.",15 minutes to 319 minutes,53 minutes to 281 minutes,70 minutes to 264 minutes,91 minutes to 243 minutes,C
+"Studying's symphony,
+A dance of time and grade,
+Where hours shape the melody,
+And knowledge's seeds are laid.
+
+Fifty-point-two-five, the start,
+Ten-point-two, the catalyst,
+A student's diligence, the art,
+To see their grade persist.
+
+If two hours she devotes,
+Her score will rise with grace,
+Seventy-point-six, the notes,
+Echoing her steadfast pace.",Her grade will go up by 40.05 points.,Her grade will go up by 20.4 points.,Her grade will remain unchanged.,Her grade will down by 10.2 points.,B
+"Skin's canvas, a canvas of strife,
+A new cream, a promise to ease the plight.
+Randomized, double-blind, a test to unfold,
+Old versus new, the truth to be told.
+
+Volunteers, their faces a map to unveil,
+One side old, the other, a new holy grail.
+Pimples count, the difference to compare,
+Which test, the answer, the researcher must dare.",A two-proportion z-test,A two-sample t-test,A matched pairs t-test,A chi-square test of independence,C
+"Drugs to test, a new one in play,
+Cholesterol reduction, the goal to sway.
+Gender, no ties, the company knows,
+But exercise, the link, they suppose.
+
+A randomized block, the design they seek,
+To find the truth, the results to reap.
+What must they do, the query at hand?
+The answer awaits, their study to expand.",Block on gender because it is not associated with cholesterol level.,Block on gender because males and females are different.,Block on the type of drug because it may be associated with cholesterol level.,Block on exercise level because it is associated with cholesterol level.,D
+"Cholesterol's dance,
+A study to enhance,
+Fish oil or garlic's sway,
+A question to convey.
+
+Past trials have shown,
+Exercise's weight, a well-known,
+Yet sleep's embrace, a mystery,
+Unraveling its role in this revelry.
+
+The experiment awaits,
+Cholesterol's fate,
+A quest to explore,
+The secrets it holds in store.",by blocking on exercise intensity,by blocking on sleep length,by blocking on cholesterol level,by blocking on capsule type,A
+"A canine heart's silent plight,
+Heartworm's presence, a test's insight.
+Ninety-six percent, a true reveal,
+But false negatives, a veil to conceal.
+
+Ninety-eight percent, a trusty call,
+For dogs without the worm's enthrall.
+Yet, ten percent, the prevalence true,
+What are the odds, a positive clue?",11%,18%,84%,88%,C
+"Whispers of random variables fair,
+Unveiling their secrets with utmost care.
+Μx, the mean, stands tall at thirty-two,
+Σx, the standard, five, a number true.
+
+Μy, the heart, at forty-four does dwell,
+Σy, the breath, at twelve, the tale to tell.
+Independent they stand, these pairs so grand,
+Revealing the mystery at our command.
+
+What lies within, the sum to behold?
+The mean and the standard, a tale untold.
+Unravel the mystery, let it unfold,
+The answers await, to be firmly told.","μx+y = 76, σx+y = 8.5","μx+y = 76, σx+y = 13","μx+y = 76, σx+y = 17","μx+y = 38, σx+y = 17",B
+"A Poetic Inquiry
+
+In the halls of learning's grace,
+A survey sent, a sample to trace.
+Seventy-five graduates, last year's pride,
+But twenty-seven, their voices did hide.
+
+What path to choose, what plan to devise,
+To capture the truth, the hidden cries?
+Shall we chase the missing, or let them be?
+The best course of action, what shall it be?",Use the surveys that were returned and change the sample size to 48 for the analysis.,Use the surveys that were returned and leave the sample size at 75 for the analysis.,Randomly select 27 additional class members and send the survey to them.,Follow up with those that did not return the survey to encourage them to respond.,D
+"Measuring minds, a test's divide,
+Mr. Bee's class, a standard far and wide,
+Eleven point two, the deviation's might,
+While Mr. Em's, half that in their plight.
+
+Whose students fared better on this test?
+Which class's knowledge shines the best?
+The data points, a story to unfold,
+The answer lies, a tale to be told.",Mr. Bee's class is less heterogeneous than Mr. Em's.,Mr. Em's class is more homogeneous than Mr. Bee's.,Mr. Bee's class performed twice as well as Mr. Em's.,Mr. Em's class did not do as well as Mr. Bee's.,B
+"Diagnose the ailing soul,
+Doctors ponder, their minds in control.
+Condition A, a fifteen percent chance,
+Yet, when found, Condition B takes a stance.
+
+Seventy percent of the time, it seems,
+A patient's fate with Condition B teems.
+For those not deemed with Condition A,
+Condition B still holds sway.
+
+What is the chance, this puzzle to solve?
+The probability, a question to revolve.
+A diagnosis, at least one will be found,
+In this patient's ailments, the truth abound.",0.235,0.25,0.765,0.85,A
+"A simple random sample,
+Chosen with equal chance,
+Each element selected,
+Without pre-arranged glance.
+
+No bias in the process,
+No favoritism shown,
+A true representation,
+Of the population sown.",the method of selection.,examination of the outcome.,both of the above.,how representative the sample is of the population.,A
+"Meat or no meat, a weighty debate,
+Subjects chosen, their diets to sate.
+First study, five hundred strong,
+Meat-eaters and vegetarians, both along.
+Weights compared, a curious sight,
+Revealing the impact, day and night.
+
+Second study, a different take,
+Six months of meals, a change to make.
+Meat-eaters and vegetarians, separate ways,
+Weights measured, after the days.
+Which diet prevails, the answer to find,
+In these studies, a weighty, curious mind.","The first study is a controlled experiment, while the second is an observational study.","The first study is an observational study, while the second is a controlled experiment.",Both studies are controlled experiments.,Both studies are observational studies.,B
+"Ponder, my friend, the question at hand,
+Weigh the options, understand.
+Which of these holds the truth's command?
+A poetic quest, a search so grand.",A factor is a response variable.,Replication means the experiment should be repeated several times.,Levels are the same as treatments.,Experimental units are the same as subjects.,D
+"Thirty percent of the pool,
+Women await their turn,
+To serve on the jury, a vital role,
+Their voices yearning to be heard and learn.
+
+Twelve must be chosen, a diverse array,
+With at least three women, the trial demands,
+Randomness guides the selection each day,
+The probability to meet the needs at hand.
+
+What is the chance, the odds to behold,
+That the chosen twelve will match the need?
+A puzzle to solve, the story untold,
+Awaiting the answer, a verdict to read.",0.168,0.843,0.915,The answer cannot be determined without knowing the size of the jury pool.,D
+"Poetic Rephrasing:
+
+Workforce Odyssey, a tapestry woven,
+Placements tailored, a perfect fit bestowed.
+Yet, the dance of fate, a twist unforeseen,
+As twenty out of a hundred depart, unseen.
+
+But the steadfast, they stay, their path they've chosen,
+Weathering the year, their resolve unbroken.
+And of those who remain, a sliver will go,
+Five out of a hundred, their journey will flow.
+
+Employer's quest, a hundred more they hire,
+To join the ranks, their talents to inspire.
+Two hundred in all, their futures intertwined,
+How many will stand, their purpose defined?",140,144,152,156,D
+"The dance of speed and distance,
+Unveiled through data's lens,
+A scatterplot, a correlate's stance,
+Revealing the car's defense.
+
+The reporter, a seeker of truth,
+Collects the accident's tale,
+Unraveling the speed's uncouth,
+As stopping distance they unveil.
+
+A story of motion and might,
+Captured in numbers so true,
+Illuminating the day and night,
+When car's velocity is due.",a double-blind study,a single-blind study,a study involving no blinding at all,an observational study,D
+"A binomial's not the answer,
+When situations don't align.
+Where's the model that's the answer?
+Unveil the one that's more sublime.",The number of heads in three tosses of a coin,The number of rainy days in a given week,The number of girls in a family of five children,The number of students present in a class of 22,B
+"Here's the question rephrased as a poem:
+
+Budgets and Schools, a Poetic Query
+Should the school's funds increase?
+A weighty choice, a question to seize.
+Two paths before us, which shall we choose?
+Ponder the options, which one to use?
+Wordings to ponder, words to convey
+The will of the people, their voices to sway.
+A questionnaire's prompt, a decision to make,
+Shaping the future, the path we shall take.",The first showed 58% and the second 13% because of the lack of randomization as evidenced by the wording of the questions.,The first showed 13% and the second 58% because of a placebo effect due to the wording of the questions.,The first showed 58% and the second 13% because of the lack of a control group.,The first showed 58% and the second 13% because of response bias due to the wording of the questions.,D
+"Fuses alight, a ticking time,
+One company touts fifty-five's prime.
+The other, with fifty minutes to spare,
+Deviation ten, a standard to bear.
+
+Which fuse will last, an hour or more?
+This question begs, we must explore.
+Assuming normal, the distributions unfold,
+Revealing the answer, the truth to be told.","Company I's, because of its greater standard deviation","Company II's, because of its greater mean","For both companies, the probability that a fuse will last at least 1 hour is 0.159","For both companies, the probability that a fuse will last at least 1 hour is 0.841",C
+"Satisfaction in the drive,
+Toyota and Subaru collide.
+Eighty-three out of one-twelve,
+Satisfied with Toyota's front-wheel guide.
+
+Seventy-six out of eighty-one,
+Subaru owners, their four-wheels won.
+Ninety percent, the confidence shines,
+Difference in proportions, now refines.
+
+What conclusion shall we make?
+The data in hand, a tale to take.
+Thoughtfully, the answer we seek,
+Revealing the truth, clear and unique.",The interval is invalid because probabilities cannot be negative.,The interval is invalid because it does not contain zero.,Subaru owners are approximately 19.7% more satisfied with their drive systems than are Toyota owners.,We are 90% confident that the difference in proportions between Toyota and Subaru car owners who are satisfied with their drive systems is between -0.278 and -0.116.,D
+"The correlation's tale unfolds,
+A journey through data's untold,
+Which truth holds sway, a riddle to be told?",The correlation coefficient and the slope of the regression line may have opposite signs.,A correlation of 1 indicates a perfect cause-and-effect relationship between the variables.,Correlations of +0.87 and -0.87 indicate the same degree of clustering around the regression line.,Correlation applies equally well to quantitative and categorical data.,C
+"A dress code looms, a cause for strife,
+Dividing students, a tale of life.
+The school board, in their grand design,
+Targets the girls, a choice unkind.
+
+A poll is held, a sample drawn,
+Sixty boys and seventy girls, to dawn.
+But the numbers tell a different tale,
+A two-proportion test, it would fail.
+
+For the variances, they do not meet,
+The assumptions, they cannot be beat.
+A different test, we must employ,
+To uncover the truth, without alloy.",The sample sizes are different.,The sample sizes are too large.,The number of successes and the number of failures for the two groups are not all large enough.,The shapes of the population distributions are not known.,C
+"A soft drink's flow,
+A variable to know,
+With standard deviation around,
+Three-tenths of an ounce, the sound.
+
+The mean must be set,
+To ensure no regret,
+For a 12-ounce cup, no spill,
+Less than one percent, the thrill.
+
+Assume a normal sway,
+Ounces delivered each day,
+The answer we seek to find,
+For a dispenser, well-designed.",12 - 0.99(0.3) ounces,12 - 2.326(0.3) ounces,12 - 2.576(0.3) ounces,12 + 2.326(0.3) ounces,B
+"In a world of sweet delight,
+Yum-Yum Good, a caloric sight.
+With an average of two-ten,
+And a standard dev of ten.
+
+The question, a puzzle to unfold,
+What percent of bars will be bold?
+Exceeding the mark of two-twenty-five,
+A challenge to solve, to survive.",66.80%,47.70%,43.30%,6.68%,D
+"Loaves of bread, a daily delight,
+The bakery's demand, a constant sight.
+Mean of two thousand, five hundred strong,
+Yet, standard deviation, two hundred twenty-five long.
+
+Each morning, three thousand loaves they bake,
+Anticipating the customers' needs to sate.
+But the question begs, a probability to unveil,
+Will the bread today, at last, fail?
+
+Assuming a normal distribution, the answer lies,
+In the likelihood of demand that now defies.
+Will the bakery's bake be enough to sustain?
+Or will customers' hunger, today, remain?",0.8333,0.1667,0.9869,0.0132,D
+"Dice roll, chance to take,
+Two faces, a fortune to make.
+Six on both, a win so sweet,
+Twenty dollars, a prize to meet.
+But if the gods don't smile this day,
+The player loses, game to pay.
+Two dollars stake, the cost to play,
+What is the gain or loss, in the end, to sway?",The player will gain about $0.55.,The player will gain about $1.44.,The player will lose about $0.55.,The player will lose about $1.44.,D
+"Thrice a die, fair and true,
+Rolls its fate, a wondrous view.
+Even numbers, each time revealed,
+What truth does this scenario yield?","By the law of large numbers, the next toss is more likely to be an odd number than another even number.",Based on the properties of conditional probability the next toss is more likely to be an even number given that three in a row have been even.,"Dice actually do have memories, and thus the number that comes up on the next toss will be influenced by the previous tosses.",The probability that the next toss will again be even is 0.5.,D
+"Cabs in the city, a dance of miles,
+Weaving through streets, their journeys unbound.
+An average of seventy-five thousand smiles,
+A standard deviation of twelve thousand found.
+
+What is the chance, a query so bold,
+That a cab, randomly chosen, has less to unfold?
+If it's known, it has driven more than eighty thousand,
+What's the probability it has not reached one hundred thousand?
+
+Assuming a normal path, the miles they roam,
+A question of chance, a riddle to be shown.
+The answer lies in the distribution's embrace,
+Unveiling the probability, in this urban race.",0.06,0.34,0.66,0.94,D
+"In the halls of academia's realm,
+The registrar's office, a watchful helm,
+Observes a trend, a curious veil,
+Where students oft fail to promptly avail.
+
+A sample drawn, a hundred-fifty strong,
+To uncover the truth, to set it along,
+The correct addresses, a precious find,
+A confidence interval, the clues to bind.
+
+What statements must hold, a truth to behold?
+The answers await, a tale to be told.",The true proportion of students at this university with the correct address on record is within the confidence interval constructed.,Ninety-five percent of students at this university have the correct address on record.,The true proportion of students at this university with the correct addresses on record is within the confidence interval 95 percent of the time.,The sample proportion of students at this university with the correct address on record is within the confidence interval.,D
+"Petals unfurl, a canvas of grace,
+Botanist's query, a dance in this place.
+Hypothesis tested, μ the mean to define,
+Is it three point five, or does it climb?
+
+Fifty petals, a sample so fair,
+Significance shines, a story to share.
+Confidence interval, the truth to unveil,
+Which statement rings true, without fail?",The specified mean length of 3.5 cm is within a 90 percent confidence interval.,The specified mean length of 3.5 cm is not within a 90 percent confidence interval.,The specified mean length of 3.5 cm is below the lower limit of a 90 percent confidence interval.,The specified mean length of 3.5 cm is below the lower limit of a 95 percent confidence interval.,B
+"Dental dilemma, a story to tell,
+Two in seven, a truth to swell.
+Five unrelated children, under ten's grace,
+X, the unknown, a cavity's trace.
+
+What lies ahead, a question to ponder,
+Probability, a path to wander.
+At least one, a cavity to behold,
+The answer, a tale yet untold.","P(X = 2, 3, 4, 5, 6, 7)",P(X = 2 out of 7),P(X = 1),1 – P(X = 0),D
+"The χ2 probability,
+A mystery to unveil,
+Which of its traits,
+Does not truly prevail?",The area under the χ2 curve is 1.,χ2 is defined only for nonnegative values of the variable.,"For small degrees of freedom, the curve displays strong right-skewness.","For the same α, as the number of degrees of freedom increases, the critical value for the rejection region decreases.",D
+"Selling price and age, a tale to unfold,
+A connection revealed, a story untold.
+Fifteen point nine, the starting point tall,
+Minus point nine eight three, the age takes its call.
+
+What can we conclude, this equation in hand?
+Unveil the insights, let them understand.
+The selling price and age, a bond so strong,
+A symphony of factors, where truth belongs.","For every year the car gets older, the selling price goes down by approximately 9.83 percent.","A new car costs on the average $9,830.","For every year the car gets older, the selling price drops by approximately $1,590.","For every year the car gets older, the selling price drops by approximately $983.",D
+"Hypothesis, a puzzle to solve,
+Searching for the truth, a quest to evolve.
+H0 and Ha, a dance of unknown,
+Which choice will yield the greatest power, be shown?
+
+Significance level and sample size, the key,
+Unveiling the path to clarity.
+When μ equals sixty-five, the answer lies,
+Revealing the test's power, a triumph to prize.","α = 0.05, n = 15","α = 0.01, n = 15","α = 0.05, n = 30","α = 0.01, n = 30",C
+"Eggs of hens, a farmer's delight,
+Seeking mass that's just right.
+Fifty-six grams, the goal in sight,
+A new breed, a chance to take flight.
+
+Eighteen eggs, a sample so grand,
+Symmetry and mounds, a sight so grand.
+Fifty-four point one, the mean at hand,
+No outliers, a mystery so grand.
+
+T-test, the tool to uncover the truth,
+Negative one point nine seven three, the proof.
+Five percent, the significance, a cue,
+The conclusion, the farmer must construe.","Because tis more extreme than ±1.96, he should reject the null hypothesis. He has convincing evidence at the 5% significance level that the mean mass of eggs from these hens is different from 56 grams.","Because tis less extreme than the critical value of t for 17 degrees of freedom, he should not reject the null hypothesis. He does not have convincing evidence at the 5% significance level that the mean mass of eggs from these hens is different from 56 grams.","Because tis less extreme than the critical value of t for 18 degrees of freedom, he should not reject the null hypothesis. He does not have convincing evidence at the 5% significance level that the mean mass of eggs from these hens is different from 56 grams.","Because tis more extreme than the critical value of t for 18 degrees of freedom, he should reject the null hypothesis. He has convincing evidence at the 5% significance level that the mean mass of eggs from these hens is different from 56 grams.",B
+"The County's Pulse
+
+Amidst the bustling streets,
+A school committee's plea,
+Gasoline tax increase sought,
+To fund the county's plea.
+
+The local paper's survey,
+Echoes the people's voice,
+Who shall bear the burden's weight,
+In this crucial civic choice?
+
+The population of interest,
+Lies within the county's heart,
+Residents who feel the impact,
+As this decision sets apart.",All school-aged children,All county residents,All county residents with school-aged children,All county residents with children in the county school system,B
+"A sample of students, a weighty task,
+The researcher's plan, a meticulous ask.
+Every twenty-fifth student, entering with grace,
+Will this yield a random sample, a truthful place?
+
+Assumptions in place, no absences to find,
+A simple random sample, the goal in mind.
+But will this approach, so precisely planned,
+Truly represent the students in this land?
+
+A poetic query, a question to ponder,
+As the researcher's efforts, thoughtfully wander.
+Will this method, so carefully designed,
+Yield a sample, truly unconfined?","Yes, because every student has the same chance of being selected.","Yes, but only if there is a single entrance to the school.","Yes, because the 24 out of every 25 students who are not selected will form a control group.","No, because not every sample of the intended size has an equal chance of being selected.",D
+"A query of truth, a search so keen,
+Which statement holds, a vision unseen?
+Unveil the truth, let it be revealed,
+The answer lies, in words concealed.","While properly designed experiments can strongly suggest cause-and-effect relationships, a complete census is the only way of establishing such a relationship.","If properly designed, observational studies can establish cause-and-effect relationships just as strongly as properly designed experiments.",Controlled experiments are often undertaken later to establish cause-and-effect relationships first suggested by observational studies.,A useful approach to overcome bias in observational studies is to increase the sample size.,C
+"Oil changes and tire spins,
+A service station's daily dins.
+Sixty percent crave oil's refresh,
+Thirty percent seek rubber's mesh.
+But one in ten, a special case,
+Demands both oil and rubber's grace.
+A customer seeks oil's embrace,
+What's the chance they shun tire's trace?",0.42,0.5,0.7,0.833,D
+"Which statement rings false,
+A puzzle to unclose?
+The truth, a shining gem,
+Awaits our keen discern.","Like the normal distribution, the t-distributions are symmetric.","The t-distributions are lower at the mean and higher at the tails, and so are more spread out than the normal distribution.","The greater the df, the closer the t-distributions are to the normal distribution.","The smaller the df, the better the 68-95-99.7 Rule works for t-models.",D
+"Dialysis machines, a constant check,
+Recalibration, a vital task.
+Fabric factory, towels in line,
+Halting production, a measured sign.
+
+Null hypothesis, the equipment's might,
+Type I or Type II, a critical plight.
+Which error weighs heavier, a decision to make,
+The stakes are high, no room for mistake.","Dialysis center: Type I error, towel manufacturer: Type I error","Dialysis center: Type I error, towel manufacturer: Type II error","Dialysis center: Type II error, towel manufacturer: Type I error","Dialysis center: Type II error, towel manufacturer: Type II error",C
+"The air we breathe, a debate so keen,
+Offices across the world, a scene unseen.
+Diverse perspectives, a canvas unfurled,
+Seeking the right path, a sampling world.
+
+Shall we ban the smoke, or let it be?
+A decision that echoes, from sea to sea.
+Local influence, a guiding light,
+Unveiling the truth, in the sampling's sight.
+
+Which technique to choose, a dilemma so grand,
+To capture the essence, across every land?
+The answer lies hidden, in the sampling's art,
+Revealing the voices, from every heart.","Stratified sample, because the population is divided into five strata—namely, five offices in five different countries","Cluster sample, because the population is divided into five clusters—namely, five offices in five different countries","Simple random sample, because this is the simplest sampling method","Simple random sample, because this is the only method that gives unbiased results",A
+"Each morning, a ritual unfolds,
+Semir rolls the die, his fate untold.
+A six-sided chance, a breakfast tale,
+Luck and timing, a delicate scale.
+
+If a one or two, he cooks with care,
+A hearty meal, a morning fare.
+But if a three or more he sees,
+A lighter bite, a quicker ease.
+
+Yet, this choice, it holds a cost,
+For when he cooks, a chance is lost.
+Fifteen percent, a tardy fate,
+While lighter meals, six percent late.
+
+The question then, what is the chance,
+That Semir will arrive on time, by happenstance?
+The probability, the answer we seek,
+To ensure his schooling, week by week.",0.09,0.21,0.8,0.91,D
+"Teachers and district, locked in strife,
+Wages the focus, a constant life.
+The union seeks more, the district holds fast,
+Budgets constrained, a battle to last.
+
+Administrators, highly paid, a few,
+While teachers, many, earn less anew.
+Averages calculated, a telling tale,
+What statistic will the union unveil?",The mean of all the salaries.,The mode of all the salaries.,The standard deviation of all the salaries.,The median of all the salaries.,D
+"Offices two, Atlanta and New Orleans,
+Engineers toiling, salaries to hone.
+Fifteen in one, fourteen in the other,
+Comparing means, a statistical mother.
+
+The 2-sample t-test, a tool to employ,
+But is it appropriate, a question to annoy?
+With only 15 and 14 in each place,
+The sample size, a potential disgrace.
+
+Is this inferential technique truly sound?
+The answer, in this case, may not be found.
+The sample size, a factor to consider,
+The 2-sample t-test, a choice that may be trickier.","Yes, because he is comparing the means of two small groups.","Yes. Both Atlanta and New Orleans are large cities, so the salaries are comparable.","Yes. Because Atlanta and New Orleans are about 500 miles apart, the two groups of engineers can be assumed to be independent.","No, because the entire population information was used from both offices. Because no samples were taken, a t-test should not be used.",D
+"Residuals, whispers of the data,
+Unveil the truths that oft evade.
+Which statement rings with verity,
+For the regression line, we seek to see?",Influential scores have large residuals.,"If the linear model is good, the number of positive residuals will be the same as the number of negative residuals.",The mean of the residuals is always zero.,"If the correlation is 0, there will be a distinct pattern in the residual plot.",C
+"The reading experiment unfolds,
+A quest for knowledge, so we're told.
+Eighth graders, four extra hours a week,
+Seventh graders, two, their skills to seek.
+
+Sixth graders, the control, they stand,
+No extra reading, a watchful hand.
+One year passes, the results await,
+A test of theory, a chance to debate.
+
+Is this design, so well-conceived?
+Will the data, the truth, be perceived?
+A middle school's future, in the balance,
+Waiting to see, the experiment's balance.",Yes.,"No, because while this design may point out an association between reading and GPA, it cannot establish a cause-and-effect relationship.","No, because without blinding, there is a strong chance of a placebo effect.","No, because grade level is a lurking variable which may well be confounded with the variables under consideration.",D
+"A distribution to behold,
+Where samples take their toll.
+A representation true,
+Of the data's point of view.
+
+Revealing patterns, trends, and more,
+Unveiling insights, to the core.
+A statistical embrace,
+Guiding us with its grace.",A distribution of all the statistics that can be found in a given sample,"A histogram, or other such visual representation, showing the distribution of a sample",A normal distribution of some statistic,A distribution of all the values taken by a statistic from all possible samples of a given size,D
+"Apples, a farmer's delight,
+Weighed with care, day and night.
+Old fertilizer, a steady four,
+But now, a quest to know more.
+
+A new blend, a promise of growth,
+Seeking truth, the farmer's oath.
+Hypotheses, a dance of fate,
+Μ equals four, or does it elevate?
+
+Sixteen apples, a random share,
+Weighed with precision, beyond compare.
+Mean of four-point-three, a hopeful sight,
+Standard deviation, point-six in light.
+
+What lies ahead, the p-value holds,
+The farmer's future, the story unfolds.
+A test of significance, five percent strong,
+Guiding the way, right or wrong.",P(Z > 2),P(Z < 2),P(t > 2) with 15 degrees of freedom,P(t < 2) with 15 degrees of freedom,C
+"The melody's symphony,
+A symphony of change,
+Where each note, a new decree,
+Productivity's range.
+
+Employees, unaware,
+Bask in the rhythmic flow,
+Yet their output, beyond compare,
+With each musical show.
+
+A study, a revelation,
+Music's power, now clear,
+Transforming work, a celebration,
+Productivity's cheer.",the effect of a treatment unit.,the placebo effect.,the control group effect.,sampling error.,B
+"A quest for healing's embrace,
+Thirty souls, a clinical space.
+Two groups, divided with care,
+One with current meds, the other, a dare.
+
+Patients report, week after week,
+Blood tests reveal what their bodies seek.
+The lab tech, blind to the treatment's name,
+Seeks truth, unbiased, without blame.
+
+A design that holds promise and grace,
+Revealing the path to a healthier place.
+A study that guides with a steady hand,
+Towards a future, where all can stand.","a completely randomized design, with the currently marketed medicine and the experimental medicine as two treatments","a matched-pairs design, with the currently marketed medicine and the experimental medicine forming a pair","a randomized block design, with the currently marketed medicine and the experimental medicine as two blocks","a randomized block design, with the currently marketed medicine and the experimental medicine as two treatments",A
+"Trucks on the highway,
+Their weights a normal array.
+Seventy percent above twelve thousand pounds,
+Eighty percent above ten thousand bounds.
+
+What lies within this distribution's sway?
+The mean and standard deviation, we must discern today.
+Reveal to us the insights they convey,
+Illuminating the weights that on the roads they lay.","μ = 14,900; σ = 6100","μ = 15,100; σ = 6200","μ = 15,300; σ = 6300","μ = 15,500; σ = 6400",C
+"In the realm of insurance grand,
+Where agents seek to understand,
+The path to successful sales, they stand.
+A simulation they must plan,
+To estimate the customer's span,
+Before a policy they can land.
+
+What scheme should they employ with care,
+To ensure the results are fair and square?
+A choice that will their vision share.
+The question lingers, the answer shines,
+As they navigate through life's designs,
+Seeking the method that best aligns.","Assign numbers 0, 1 to successfully selling a policy to a customer and numbers 2, 3, 4, 5, 6, 7, 8, 9 to failing to sell a policy to a customer.","Assign numbers 0, 1 to successfully selling a policy to a customer and numbers 2, 3, 4 to failing to sell a policy to a customer.",Assign number 0 to successfully selling a policy to a customer and number 1 to failing to sell a policy to a customer.,"Assign numbers 0, 1, 2, 3, 4 to successfully selling a policy to a customer and numbers 5, 6, 7, 8, 9 to failing to sell a policy to a customer.",A
+"Scores rise and fall,
+Curves paint a picture tall,
+Midterms and finals, a dance to recall.
+
+Fifty-two the mean, four the spread,
+Hundred and twelve, ten points ahead,
+One student's journey, a tale to be read.
+
+Fifty-eight on the mid, a mark well-earned,
+What score on the final, the mind has yearned?
+Standardized, the key, the answer discerned.",15 points,58 points,118 points,127 points,D
+"The song of the sample mean,
+A symphony of normality's sheen.
+As the sample size grows,
+The distribution bestows,
+A melody of Gaussian serene.",only if both the original population has a normal distribution and n is large.,if the standard deviation of the original population is known.,"if n is large, no matter what the distribution of the original population.",no matter what the value of n or what the distribution of the original population.,C
+"Beneath the veil of statistical might,
+A question lingers, seeking to ignite.
+Suppose the null, where p equals point six,
+And the power, for p point seven, stands at point eight – a fix.
+
+What valid conclusion can we now embrace?
+A journey through the numbers, a delicate trace.
+The answer lies in the depths of our quest,
+Revealing the truth that shall be expressed.",The probability of committing a Type I error is 0.1.,"If Ha is true, the probability of failing to reject H0 is 0.2.",The probability of committing a Type II error is 0.3.,All of the above are valid conclusions.,B
+"The salaries of writers,
+A normal bell curve it paints,
+A mean of fifty-five grand,
+The first quartile, forty-eight eight.
+
+What is the standard deviation?
+This question we seek to find,
+The spread of the numbers,
+Revealing the writers' grind.","$6,984 ","$10,356 ","$10,476 ","$13,968 ",B
+"Raindrops fall, a rhythmic dance,
+Painting the city with nature's chance.
+What bounds hold true, a puzzle to unfold,
+The driest months, a story to be told.
+
+Inches of rain, a tale to be told,
+Normally distributed, a pattern to behold.
+Mean of six, a steady flow,
+Standard deviation, a range to know.
+
+What threshold lies, a challenge to meet,
+The tenth percentile, a dry spell to beat.
+The highest amount, a question to ponder,
+Rainfall's embrace, a mystery to wander.",8.05,7.6,3.95,3.37,C
+"What force, unseen, commands the dance?
+What links the actions, side by side?
+The cause, the effect, a winding stride,
+Revealing truths, a hidden glance.",A complete census,A least squares regression line showing high correlation,A simple random sample (SRS),An experiment,D
+"Frustration and ire,
+Echoing through the line,
+Callers venting their fire,
+Officiating, deemed unkind.
+
+Outrage and accusations,
+Directed at the refs,
+Blaming them for the nation's
+Defeat, without anyefs.
+
+Passionate pleas and demands,
+For justice to be served,
+Fans, with their fists in hand,
+Hoping their team be preserved.","They will most likely feel that the officiating could have been better, but that it was the team's poor play, not the officiating, that was primarily responsible for the loss.",They would most likely call for the team to get some new players to replace the current ones.,The team probably wouldn't have lost if the officials had been doing their job.,"Because the team had been foul-plagued all year, the callers would most likely support the officials.",C
+"Two hearts, both filled with desire,
+Drawn to the same radiant fire.
+Alfred and Ben, strangers no more,
+Seek Charlene's affection, heart's true core.
+
+The chances they ponder, a dance of fate,
+The prom night await, their futures to seal.
+Probabilities unfold, a puzzle to unravel,
+The answer lies, for Ben to reveal.",0.78,0.3,0.24,0.48,B
+"Voices of men and women, diverse and true,
+Gathered to share their views on a matter so new.
+Abortion, a topic that stirs the soul,
+Shall we find the null hypothesis, the truth to uphold?","The variables ""gender"" and ""attitude toward abortion"" are related.","The proportion of ""pro-life"" men is the same as the proportion of ""pro-life"" women.","The proportion of ""pro-life"" men is related to the proportion of ""pro-life"" women.","The proportion of ""pro-choice"" men is the same as the proportion of ""pro-life"" women.",B
+"The voice of the people whispers,
+A survey of five hundred homes,
+Revealing a truth that lingers,
+Eighty-two percent, coupons they own.
+
+But what of the margin, this mystery?
+Three percent, a margin of error,
+Telling us the results may not be,
+Exactly as they first appear.",Three percent of those surveyed refused to participate in the poll.,It would not be unexpected for 3% of the population to begin using coupons or stop using coupons.,Between 395 and 425 of the 500 households surveyed responded that they used grocery coupons.,It is likely that between 79% and 85% of the population use grocery coupons.,D
+"The Power of the Test
+
+Hypothesis, a dance of chance,
+Probabilities that entrance.
+Type I, the error of rejecting true,
+Set at five percent, a standard view.
+
+Type II, the failure to see the light,
+When the null is false, a troubling sight.
+At twenty-six percent, the power lies,
+Awaiting the test, its strength to rise.
+
+What is the power, the answer we seek,
+The strength to detect, the truth to speak.
+A delicate balance, a tightrope to tread,
+The power revealed, the path ahead.",0.26,0.05,0.95,0.74,D
+"The class project, a tale to tell,
+Heights recorded, a puzzle to sell.
+Charlotte, the student, with diligence true,
+Calculated stats, but an error flew.
+
+The tallest among them, a height to behold,
+Needed adjustment, a story untold.
+Two inches to add, to the record so grand,
+A measure of spread, now in her hand.
+
+What measure must stay, unchanged, intact?
+A conundrum to solve, a mathematical pact.
+The answer lies hidden, a secret to unveil,
+In the numbers and heights, a tale to regale.",Mean absolute deviation,Standard deviation,Variance,Interquartile range,D
+"Blocking, a tool so wise,
+Controlling variables, our guiding eyes.
+Minimizing error, the goal in mind,
+Revealing insights, the truth to find.",reduce bias.,reduce confounding.,reduce variation within treatments.,reduce variation between treatments.,C
+"A motor oil's tale,
+Additive's power to unveil,
+Twenty-five engines, a testing ground,
+Lifespan, the secret to be found.
+
+Oil with and without, a contrast to behold,
+Revealing the truth, the story untold.
+What analysis will yield the most,
+Insights to guide, a path to boast?",Matched pairs comparison of population proportions,Matched pairs comparison of population means,Independent samples comparison of population proportions,Independent samples comparison of population means,B
+"The Cost of Ambition
+
+A sample of fifty,
+Their records laid bare,
+Revealing the truth,
+Of the price they must bear.
+
+A mean of one-twenty-five,
+A standard, thirty-two,
+The ninety percent interval,
+What does it hold true?
+
+This question, a puzzle,
+Invites us to ponder,
+The cost of ambition,
+The price we must render.","90% of politicians running for a congressional seat spend between $117,500 and $132,500.","90% of politicians running for a congressional seat spend a mean dollar amount that is between $117,500 and $132,500.","We are 90% confident that politicians running for a congressional seat spend between $117,500 and $132,500.","We are 90% confident that politicians running for a congressional seat spend a mean dollar amount between $117,500 and $132,500.",D
+"Four ounces, the norm,
+Yet, a quarter-ounce sway,
+Forty jars, a chance to learn,
+What's the odds, the mean'll stay?
+
+Below 3.9, the goal,
+Probability, the quest,
+Filling machine's control,
+The answer's what we test.",0.0057,0.0225,0.025,0.05,A
+"Students from far and wide,
+Gathered in a single stride,
+Seeking knowledge, minds aglow,
+Traversing tracks, high and low.
+
+What sample shall we take, with care?
+To understand the paths they share,
+Attitudes toward classes seen,
+Honors, regular, and in-between.",Convenience sample,Simple random sample (SRS),Stratified sample,Systematic sample,C
+"Resistors in a shipment,
+Normally distributed, a story to tell.
+Average resistance, two hundred ohms,
+Standard deviation, five ohms as well.
+
+A random resistor, what might it hold?
+Under one ninety-four ohms, a tale untold.
+What is the chance, a mystery to behold,
+That its resistance, greater than one eighty-eight, unfold?",0.07,0.12,0.50,0.93,D
+"Amidst the nation's electoral strife,
+A polling organization seeks to find the right life,
+Predicting the outcome with utmost care,
+A confidence interval of ninety-five, a margin of error fair.
+
+What is the minimum sample size they need,
+To ensure their predictions can indeed succeed?
+A delicate balance, a number to behold,
+Unlocking the secrets the voters have told.",1536,39,1537,40,C
+"If standard deviation's a zero,
+What can we truly know?
+Is the sample a constant, we'd like to know,
+Or is there more we need to show?",The standard deviation of the population is also zero.,The sample mean and sample median are equal.,The sample may have outliers.,The population has a symmetric distribution.,B
+"Here is the question rephrased as a poem:
+
+A store's customer flow,
+A normal curve to know,
+With mean three-two-five-oh,
+And standard dev three-two-oh.
+
+What is the range, you ask?
+The middle fifty, a task,
+To find the bounds, a task,
+Where customers through the day, amass.","(3,034, 3,466)","(2,930, 3,570)","(2,610, 3,890)","(2,450, 4,050)",A
+"Graduates take various paths,
+Some to colleges near and far,
+While others find employment's grace,
+And some, a job they must search for.
+
+Fifty-four percent, a four-year dream,
+Twenty percent, a two-year plan,
+Nineteen percent, a job they claim,
+Seven percent, a search they scan.
+
+If a student, not bound for two-year,
+What is the chance, a four-year she'll steer?
+The probability, we must discern,
+As the future, for this one, we yearn.",0.460,0.540,0.630,0.675,D
+"The park's soil, a test to bear,
+For lead, a threat we must beware.
+If the limit's surpassed, a closure looms,
+Protecting children from lead's dark dooms.
+
+Locations chosen, samples taken with care,
+The levels to be assessed with flair.
+But what if the test, a type one mistake,
+Wrongly deems the lead level too great?",Closing the park when the lead levels are within the allowed limit,Keeping the park open when the lead levels are in excess of the allowed limit,Closing the park when the lead levels are in excess of the allowed limit,Keeping the park open when the lead levels are within the allowed limit,A
+"Contacts in the digital age,
+A class project to gauge,
+Boys and girls, a survey unfolds,
+Revealing secrets untold.
+
+Fifty lads, forty girls abound,
+Counting contacts, the truth to be found.
+What does the data suggest, we ask,
+Uncovering differences, a curious task.","Because the population standard deviations are not known and conditions are met, the student shoulduse a two-sample t-test.","Because the sample sizes are different, the student should notuse a two-sample t-test.","Because the sample sizes are both greater than 30, the student should notuse a two-sample t-test.","Because the shape of the population distribution is not known, the student should notuse a two-sample t-test.",D
+"Amidst the normal's embrace,
+A value waits, hidden in space.
+What number lies above, we ponder,
+When probability stands at point two yonder?",0.84,603.8,612.6,587.4,C
+"The scores in a group of ten,
+Soar high, then a change begins.
+The largest score, a leap of forty,
+How will the mean now rise or fall?",It will remain the same.,It will increase by 4 points.,It will increase by 10 points.,It will increase by 40 points.,B
+"The salaries, a tale untold,
+Skewed to the right, a story bold.
+The superintendent's pay, an outlier high,
+A sample of twenty, their salaries pry.
+
+A confidence interval, oh so grand,
+Ninety-five percent, a trusted band.
+But alas, this method, it won't suffice,
+For the t-confidence, it lacks the spice.",the sample size is too small compared to the number of employees in the system to give a fair representation,the skewed salary distribution tells us that assumption of normality of the sampled population will not be satisfied,the population standard deviation of the salaries of employees of this county school system is not known,"the teacher salaries are not negotiable, but the superintendent’s salary is negotiable, so the superintendent’s salary should be excluded from the population sampled",D
+"Eggs, oh eggs, so delicate and fair,
+Thy masses, a mystery to unveil with care.
+Normally distributed, a mean of forty-five,
+Standard deviation, four grams to thrive.
+
+What mass, oh what mass, shall we behold,
+The twenty-fifth percentile, a story untold?
+Unravel the secrets, these eggs do hold,
+Reveal the weight that shall be extolled.",42.2 g,42.3 g,42.4 g,42.5 g,B
+"The nation's pulse, a question to ponder,
+Approval rates, a matter to wonder.
+Forty-three percent, a figure to behold,
+With error's margin, a story to be told.
+
+What does it mean, this percentage to share?
+A truth to unveil, or a whisper in the air?
+Confidence levels, a guiding light,
+Revealing the range, both left and right.
+
+A poet's lens, to interpret the claim,
+Seeking the meaning, the story to tame.
+What lies within, the margin's embrace?
+The answer, a mystery, for us to trace.",There is a 3.2% percent chance that the proportion of all Americans who approve of the job the president is doing is not 43%.,There is a 95% chance that the proportion of all Americans who approve of the job the president is doing is 43%.,About 95% of polls conducted in this way will find that between 39.8% and 46.2% of those sampled approve of the job the president is doing.,About 95% of polls conducted in this way will give a sample proportion within 3.2 percentage points of the actual proportion of all Americans who approve of the job the president is doing.,D
+"In the realm of tests,
+Where hypotheses are pressed,
+What is the chance, we ponder,
+Of a Type II error to wander?
+
+When the significance stands at ten,
+What probability lies within?
+A question that seeks to unfold,
+The hidden truths, to be told.",0.05,0.10,0.90,There is insufficient information to answer this question.,D
+"Lifespans of refrigerators,
+A and B, in comparison.
+Ten model A, fifteen model B,
+Ninety percent, the estimation.
+
+A range, six to twelve, the difference,
+Which conclusion holds most true?
+Unveil the answer, a decision to make,
+Revealing the model's life anew.",The mean life expectancy of one model is twice that of the other.,"The mean life expectancy of one model is 6 years, while the mean life expectancy of the other is 12 years.",The probability that the life expectancies are different is 0.90.,We should be 90% confident that the difference in life expectancies is between 6 and 12 years.,D
+"The medicine's grip, a double-edged sword,
+One in five, a statistic to be stored.
+Four patients, unrelated, take the dose,
+What fate awaits, a probability to expose?
+
+Will the side effects spare them all, a chance to behold?
+Or will the odds fall short, leaving stories untold?
+The doctor's prescription, a path uncertain and bold,
+The answer lies hidden, waiting to unfold.",0.8,0.4096,0.25,0.2,B
+"Stratified or simple,
+Which one holds the key?
+An advantage to ponder,
+Which path shall we see?","When done correctly, a stratified random sample is less biased than a simple random sample.","When done correctly, a stratified random sampling process has less variability from sample to sample than a simple random sample.","When done correctly, a stratified random sample can provide, with a smaller sample size, an estimate that is just as reliable as that of a simple random sample with a larger sample size.","A stratified random sample provides information about each stratum in the population as well as an estimate for the population as a whole, and a simple random sample does not.",A
+"The wheel spins, the ball doth roam,
+Seeking a home, a crimson dome.
+Eighteen reds, a chance so fair,
+Yet the first time, it eludes our care.
+
+Seven trials, the ball doth fall,
+Taunting our hopes, denying all.
+Probability, a dance unseen,
+Awaiting the red, the eighth serene.",0.0278,0.0112,0.0053,0.0101,C
+"The winds of opinion blow,
+Swaying hearts and minds, we know.
+A talk show's query, a startling tale,
+82% in favor, without fail.
+
+The depths of our collective view,
+On justice, law, and what's deemed true.
+A cry for vengeance, a call to heed,
+Death for those who sow the seeds.
+
+But what does this truly show,
+This snapshot of a nation's flow?
+The complex issues, the shades of gray,
+Await our deeper thoughts today.",The survey is meaningless because of voluntary response bias.,No meaningful conclusion is possible without knowing something more about the characteristics of his listeners.,The survey would have been more meaningful if he had picked a random sample of the 2500 listeners who responded.,The survey would have been more meaningful if he had used a control group.,A
+"Is this estimate too low or too high?
+A researcher, with care and thought,
+Sampled fifty homes, a task well-wrought.
+Yet, in eight, no contact could be made,
+Nonresponse bias, a concern that stayed.
+
+Another sample, random and true,
+Collected data, fifty homes anew.
+The average children, one point seven three,
+But is this number too low or too high, we see?","Too low, because of undercoverage bias.","Too low, because convenience samples overestimate average results.","Too high, because of undercoverage bias.","Too high, because convenience samples overestimate average results.",C
+"Identical data sets,
+Uniformity prevails,
+But one statistic remains,
+As the rest fail.",Mean,Standard deviation,Variance,Range,A
+"A university's pursuit,
+A survey sent to grads, a salute.
+Seeking insights from those who've grown,
+The educated paths they've flown.
+
+Yet, from the sample of one-twenty,
+Thirty-two stayed silent, a pity.
+How to proceed, a question to ponder,
+The best approach, a path to wander.","Use the 88 who did respond, using 88 as the sample size in the analysis.","Use the 88 who did respond, using 120 as the sample size in the analysis.",Attempt to contact the 32 who did not respond and get the information from them.,Select 32 more graduates at random and use them to replace the nonresponders.,C
+"Given the probabilities, a dance of chance,
+A and B, their fates to entrance.
+Mutually exclusive, how does it unfold?
+The union's probability, a tale to be told.
+
+Independent, their paths may twist and turn,
+The union's chance, a secret to learn.
+B a subset of A, a hidden embrace,
+The union's probability, a delicate trace.","0.44, 0.5, 0.2",".44, 0.5, 0.3",".5, 0.44, 0.2",".5, 0.44, 0.3",D
+"Discrete probability,
+A distribution divine,
+What truths do they hold,
+For the variable X, so fine?",The expected value of X = np.,The sum of all possible values of X is equal to one.,The probabilities of all possible values of X must add up to one.,The probability distribution is bell-shaped and symmetric.,C
+"A question of precision,
+A query of choice,
+Which among the many
+Shall yield the narrowest voice?
+
+Confidence interval,
+The sought-after goal,
+Revealing the answer,
+Letting the truth unfold.
+
+Carefully consider,
+The options at hand,
+Uncover the pathway,
+To the smallest of bands.",Small sample size and 95% confidence,Small sample size and 99% confidence,Large sample size and 95% confidence,Large sample size and 99% confidence,C
+"Here is the question rephrased as a poem:
+
+In the realm of height and weight,
+A correlation we must state.
+Sixty-five percent, a strength to behold,
+But what if inches to centimeters unfold?
+
+The heights now in metric, a new dance,
+How will the correlation's might enhance?
+A transformation, a change in scale,
+The answer we seek, a tale to unveil.",-0.65,-0.26,0.1,0.65,D
+"Thirty-six score and six, the variance's roar,
+Forty homes, a sample to explore.
+Eighty-three days, the average's might,
+Shall we claim, with confidence, the true range in sight?
+
+Between eighty and ninety, the answer doth lie,
+A range to ponder, a question to try.
+With certainty's embrace, the truth we'll unfold,
+A story of houses, their time to behold.",15.4%,17.8%,20.0%,82.1%,D
+"Probability's realm, a dance divine,
+Hypothesis, a question, a line to define.
+Null and alternative, a battle to unfold,
+Seeking the truth, the story untold.
+
+A sample, a mirror, reflecting the light,
+A value revealed, a guiding sight.
+Point three, the null, a claim to test,
+Greater than, the alternative's quest.
+
+The P-value, a whisper, a measure of might,
+Unveiling the path, illuminating the fight.
+What lies within, the answer to seek,
+A journey through numbers, a truth to speak.",1.06,0.1446,0.2275,0.8554,B
+"Two events, A and B,
+Nonzero probabilities they see.
+If they are independent, my friend,
+Which statement shall we comprehend?",P(A and B) = P(A) · P(B),A and B may or may not be mutually exclusive.,A and B must be mutually exclusive.,P(A| B) = P(B| A),A
+"Quizzes, a weekly fate,
+Motivating students, a teacher's debate.
+Striving for understanding, a greater goal,
+A year-long journey, the story untold.
+
+All students succeed, a C-grade or more,
+A classroom triumph, what could it be in store?
+Is it an experiment, or an observational sight?
+The answer lies, in the search for insight.","An experiment, but with no reasonable conclusion possible about cause and effect","An experiment, thus making cause and effect a reasonable conclusion","An observational study, because there was no use of a control group","An observational study, but a poorly designed one because randomization was not used",A
+"A probabilistic muse,
+Flitting through the data's hues,
+Whispers of significance's sway,
+Guiding us on the statistical way.",The probability of making a Type I error.,The probability of making a Type II error.,"The probability of rejecting the null hypothesis if it is, in fact, false.","The probability of getting a test statistic at least as extreme as the observed test statistic, if the null hypothesis is true.",D
+"Tuition's fixed, a steady four-five,
+Books' mean cost, three-fifty, alive.
+Deviation, sixty-five, the norm,
+Room and board, twenty-eight hundred, the form.
+
+Deviation, three-eighty, the tale,
+Personal spending, six-seventy-five, the sale.
+Deviation, one-twenty-five, the way,
+What's the standard deviation, we pray?",$24,$91,$190,$405,D
+"Self-efficacy's power,
+Shaping job satisfaction's tower.
+Teachers' control, a vital key,
+Correlates at point three.
+What does this relationship reveal?
+The answer, a story to unseal.","If you want teachers to be happy with their job, give them more control over their situation.","If you want teachers to take more control over their situation, make them happier at their jobs.",Teachers in the study who were more satisfied with their job were less confident in their ability to control their situation.,9% of the variability in job satisfaction can be explained by the linear model with self-efficacy as a predictor.,D
+"Whispers of chance, echoing through the air,
+X and Y, their secrets laid bare.
+Expectation, a steady rhythm, E(X) three-twelve,
+Variance, a dance, var(X) six, a hidden delve.
+
+Another pair, E(Y) three-oh-seven, a gentle refrain,
+Variance, Y, eight, a pattern to explain.
+What lies beyond, in this realm of chance?
+The unknown awaits, a tantalizing dance.","E(X + Y) = 619, var(X + Y) = 7","E(X + Y) = 619, var(X + Y) = 10","E(X + Y) = 619, var(X + Y) = 14",There is insufficient information to answer this question.,D
+"Ponder the realms of sets,
+X and Y, a curious mix.
+Which statement rings untrue?
+Unveil the falsehood's fix.",The sets have identical medians.,The sets have identical means.,The sets have identical ranges.,None of the above are false.,D
+"Here is the question rephrased as a poem:
+
+What is the truth that lies within?
+A statement, true, which one shall win?
+Among the choices set before,
+Which one holds the key, the answer's core?
+Unveil the truth, let it shine through,
+Reveal the statement that is ever true.","In a well-designed, well-conducted sample survey, sampling error is effectively eliminated.","In a well-designed observational study, responses are influenced through an orderly, carefully planned procedure during the collection of data.","In a well-designed experiment, the treatments are carefully planned to result in responses that are as similar as possible.",None of the above is a true statement.,D
+"A linear quest, a search so true,
+Explanatory and response, a bond to pursue.
+Researcher's aim, a ninety-five percent poise,
+Revealing the slope, a story to enjoy.
+
+The interval, a tale to be told,
+From four-five to eighty, the truth unfolds.
+Is there a linear link, a connection so grand?
+Correlation, non-zero, a fact to understand?
+
+Slope, the true essence, a zero or more?
+Assumptions upheld, the answer to explore.
+A journey of insights, a study so wise,
+Revealing the truths that before our eyes lies.",I and II only,I and III only,II and III only,I only,A
+"Poetic Rephrase:
+
+Ponder the students, their hearts and their minds,
+A quest to unveil their preferences refined.
+Biweekly movies, a change on the table,
+What proportion would this notion be able?
+
+Ninety percent confident, a width not too wide,
+Seek the answer, a sample to guide.
+How many students must lend us their voice,
+To capture the truth, the campus's choice?",27,64,106,423,D
+"Correlation, a tale to be told,
+A link between variables, strong and bold.
+When the number is 0.6, hear the chime,
+The variation in y, it's a matter of time.
+
+How many times, the answer we seek,
+Compared to the correlation at 0.3 we speak.
+The percentage of variation, a story to unfold,
+Unveiled by the strength of the bond, so we're told.",2,3,4,6,C
+"To count or to survey,
+What should we convey?
+For which circumstances, we must weigh,
+The census, our guiding way.",A 95% confidence interval of mean height of teachers in a small town.,A 95% confidence interval of the proportion of students in a small town who are taking some AP class.,A two-tailed hypothesis test where the null hypothesis was that the mean expenditure on entertainment by male students at a high school is the same as that of female students.,None of the above.,D
+"Significance's sway,
+A question to sway,
+Which one shines the brightest way?
+A test's might, a tale to display,
+The power it wields, a force to obey.",The probability that the null hypothesis is true.,The probability of getting a Type I error.,The probability of getting a Type II error.,"The probability of rejecting the null hypothesis if it is, in fact, false.",D
+"In the realm of heart's plight,
+A drug called Heartaid, shines bright.
+Its power, a mystery yet to unfold,
+Compared to the current, so we're told.
+
+The study, a battle of wits and might,
+Randomized and controlled, a guiding light.
+Null and alternative, the scales will tip,
+Which outcome will lead to a misstep?
+
+A Type II error, a looming threat,
+What consequence could we soon beget?
+The decision, a delicate dance,
+Heartaid's triumph or a missed chance.","Patients will spend more money on Heartaid, even though it is actually not any more effective than the current medication.","Doctors will begin to prescribe Heartaid to patients, even though it is actually not any more effective than the current medication.","Patients will continue to use the current medication, even though Heartaid is actually more effective.","Researchers will calculate the wrong P-value, making their advice to doctors invalid.",C
+"Two classes, one exam,
+Scores at varied vantage.
+Forty and eighty, the percentile's tale,
+Which conclusion is most sage?",Students in the first class generally scored higher than students in the second class.,Students in the second class generally scored higher than students in the first class.,A score at the 20th percentile for the first class is at the 40th percentile for the second class.,A score at the 50th percentile for the first class is at the 90th percentile for the second class.,A
+"A jet's might, a constant embrace,
+Thrust uncompromised, a steady pace.
+Yet, a change, a whisper in the air,
+Concerns arise, a heart-felt care.
+
+An inspector's task, a sample to test,
+Calculating means, a vital quest.
+A z-score, a number that speaks,
+Revealing the truth, hidden in its peaks.
+
+P-value, a guide, a path to discern,
+The truth that lies within, a lesson to learn.
+What conclusion, the most reasonable one?
+A decision to make, a task well-done.",99.31% of the engines produced under the new process will have a thrust under 9350 pounds.,99.31% of the engines produced under the new process will have a thrust under 9500 pounds.,0.69% of the time an engine produced under the new process will have a thrust over 9500 pounds.,There is evidence to conclude that the new process is producing engines with a mean thrust under 9500 pounds.,D
+"Outlier, outlier, what art thou?
+A point that sways the slope and 'r' so.
+When (15,2) is in the mix,
+The line's descent is just point six.
+But when that point is cast away,
+The slope and 'r' take a different sway.
+Now -1.04 and -0.95,
+The numbers change, the truth to prize.
+What name is given to such a sight?
+The outlier, the one that alters might.",Outlier,Statistically significant point,Point of discontinuity,Influential point,D

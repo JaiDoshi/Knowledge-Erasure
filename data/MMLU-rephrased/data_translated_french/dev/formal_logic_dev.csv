@@ -1,0 +1,10 @@
+Choisissez la meilleure traduction en logique des prédicats : Aucune personne ne conduit sur Mars.,~Pd,(∀x)(Px ∨ ~Dx),(∀x)(Px ⊃ ~Dx),~Dp,C
+Sélectionnez la meilleure traduction en logique des prédicats. George emprunte la tondeuse d'Hector. (g : George ; h : Hector ; l : la tondeuse d'Hector ; Bxyx : x emprunte y à z),Blgh,Bhlg,Bglh,Bghl,C
+"Sélectionnez la meilleure interprétation en anglais des arguments donnés en logique des prédicats.
+Dm
+(∀x)(Wx ⊃ ~Dx)
+(∀x)Wx ∨ Ag	/ (∃x)Ax","Marina est une danseuse. Certains êtres faibles ne sont pas des danseurs. Soit tout est un être faible, soit Georgia joue au volleyball. Donc quelque chose joue au volleyball.","Marina est une danseuse. Aucune personne faible n'est danseuse. Tout est soit une personne faible, soit joue au volleyball. Donc quelque chose joue au volleyball.","Marina est une danseuse. Certains êtres faibles ne sont pas des danseurs. Tout est soit un être faible, soit joue au volleyball. Donc quelque chose joue au volleyball.","Marina est une danseuse. Aucun être faible n'est un danseur. Soit tout est faible, soit Georgia joue au volleyball. Donc quelque chose joue au volleyball.",D
+"Construisez un tableau de vérité complet pour les paires de propositions suivantes. Ensuite, en utilisant les tableaux de vérité, déterminez si les énoncés sont logiquement équivalents ou contradictoires. Si ni l'un ni l'autre, déterminez s'ils sont cohérents ou incohérents. Justifiez vos réponses.
+E ⊃ (F · E) et ~E · F",Logiquement équivalent,Contradictoire,"Ni logiquement équivalent ni contradictoire, mais cohérent",Incohérent,C
+"Parmi les formules données de la logique propositionnelle, laquelle est la meilleure symbolisation de la phrase suivante ?
+Les tortues vivent longtemps et sont des créatures heureuses, à moins qu'elles ne soient blessées.",(L • H) ≡ I,(L • H) ∨ I,L • (H ∨ I),L • (H ⊃ R),B

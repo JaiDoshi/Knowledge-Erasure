@@ -1,0 +1,8 @@
+V'nin tüm gerçek polinomları p(x) kümesi olduğunu varsayalım. V üzerinde tanımlanan T ve S dönüşümlerini T:p(x) -> xp(x) ve S:p(x) -> p'(x) = d/dx p(x) olarak tanımlayalım ve (ST)(p(x))'i S(T(p(x))) olarak yorumlayalım. Aşağıdakilerden hangisi doğrudur?,ST = 0,ST = T,ST = TS,"ST - TS, V'nin kendisine olan özdeşlik dönüşümüdür.",D
+"Bir tank başlangıçta 100 litre suda çözünmüş 3 gram tuz içeren bir tuz çözeltisi içermektedir. Litre başına 0,02 gram tuz içeren bir tuz çözeltisi, dakikada 4 litre hızla tanka püskürtülmektedir. Püskürtülen çözelti, tanktaki tuz çözeltisiyle sürekli olarak karıştırılmakta ve karışım dakikada 4 litre hızla tanktan dışarı akmaktadır. Eğer karışım anında gerçekleşiyorsa, 100 dakika geçtikten sonra tankta kaç gram tuz bulunmaktadır?",2,2 - e^-2,2 + e^-2,2 + e^-4,D
+"A'nın gerçek 2x2 matris olduğunu varsayalım. Aşağıdaki ifadelerden hangileri kesinlikle doğru olmalıdır?
+I. A^2'nin tüm girişleri negatif olmayan sayılardır.
+II. A^2'nin determinantı negatif olmayan bir sayıdır.
+III. Eğer A'nın iki farklı özdeğeri varsa, o zaman A^2'nin de iki farklı özdeğeri vardır.",Sadece,Sadece II,Sadece III,Sadece II ve III,B
+"Tüm gerçek x'ler için f(1 + x) = f(x) olduğunu varsayalım. Eğer f bir polinom ise ve f(5) = 11 ise, o zaman f(15/2)",-11,0,11,33/2,C
+"A, 7m + 12n = 22 eşitliğini sağlayan tüm sıralı tam sayı çiftlerinin (m, n) kümesi olsun. B = {m + n : (m, n) \in A} kümesindeki en büyük negatif sayı nedir?",-5,-4,-3,-2,B

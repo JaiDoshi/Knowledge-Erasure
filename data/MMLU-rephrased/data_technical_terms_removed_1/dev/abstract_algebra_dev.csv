@@ -1,0 +1,5 @@
+"In simpler words, what numbers c can be substituted in the expression (x^2 + c) such that the set of all possible values of this expression forms a special kind of closed system where every non-zero element has a multiplicative inverse?",0,1,2,3,B
+"If a person has a special role in a group, does the number of people in their role divide the total number of people? If there are two smaller groups within a larger group, will the combination of those two smaller groups also form a group within the larger group?","True, True","False, False","True, False","False, True",B
+Are both the given statements true or is one true and the other false?,"True, True","False, False","True, False","False, True",C
+"For what two statements, do we need to find out if they are true or false?","True, True","False, False","True, False","False, True",A
+What special property does the set of even integers have?,0,3,12,30,A

@@ -1,0 +1,40 @@
+Aşağıdakilerden hangisi Nesnelerin İnterneti'nde (IoT) bir cihazın kullanımına örnektir?,"Bir araba, sürücüyü bir nesneye çarpmak üzere olduğu konusunda uyarır.",Bir doğa yürüyüşçüsü konumunu takip etmek için G P S saati kullanır.,"Buzdolabındaki süt neredeyse bittiğinde, buzdolabı çevrimiçi bir teslimat hizmetinden süt sipariş eder.",Bir koşucu kalp atış hızını izlemek için optik sensörlere sahip bir saat kullanır.,C
+"Birçok Web tarayıcısı kullanıcıların anonim pencereler açmasına izin verir. Anonim bir penceredeki bir tarama oturumu sırasında, tarayıcı bir tarama geçmişi veya indirilen dosyaların listesini kaydetmez. Anonim pencere kapatıldığında, oturum sırasında oluşturulan çerezler silinir. Anonim bir penceredeki tarama oturumları hakkında aşağıdaki ifadelerden hangisi doğrudur?","Anonim pencerede gezinen bir kullanıcının etkinlikleri, sistem yöneticisi gibi kullanıcının ağını izleyen kişiler tarafından görülemeyecektir.","Anonim gezinme oturumu sırasında bir web mağazasının alışveriş sepetine gelecekte satın alınmak üzere yerleştirilen ürünler, kullanıcının bilgisayarında kaydedilmeyecektir.","Kullanıcı, anonim gezinme oturumu sırasında e-posta veya sosyal medya hesaplarına giriş yapamayacaktır.","Anonim bir pencerede gezinen bir kullanıcı, ziyaret edilen web sitelerinden veya indirilen dosyalardan başlatılan virüslere karşı korunacaktır.",B
+"Python 3'te ""abc""[::-1] ifadesinin çıktısı nedir?",Hata,abc,cba,c,C
+"Aşağıdaki programda, x'in başlangıç değeri 5 ve y'nin başlangıç değeri 10'dur.
+ IF (X < O)
+ {
+ DISPLAY (""Foxtrot"")
+ }
+ ELSE
+ {
+ IF (X > y)
+ {
+   DISPLAY (""Hotel"")
+ }
+ ELSE 
+ {
+   IF (y > O)
+   {
+   DISPLAY (""November"")
+   }
+   ELSE
+   {
+   DISPLAY (""Yankee"")
+   }
+ }
+ }
+ 
+ Programın çalıştırılması sonucunda ne görüntülenir?",Fokstrot,Otel,Kasım,Yanki,C
+"Bir sayı listesinin 1'den n'ye kadar indekslenen n elemanı vardır. Aşağıdaki algoritma, listedeki değeri 100'den büyük olan eleman sayısını göstermeyi amaçlamaktadır. Algoritma count ve position değişkenlerini kullanır. 3. ve 4. adımlar eksiktir.
+ Adım 1: count'u 0'a ve position'ı 1'e ayarlayın.
+ Adım 2: position indeksindeki elemanın değeri 100'den büyükse,
+ count değerini 1 artırın.
+ Adım 3: (eksik adım)
+ Adım 4: (eksik adım)
+ Adım 5: count değerini gösterin.
+ Algoritmanın amaçlandığı gibi çalışması için 3. ve 4. adımların yerine aşağıdakilerden hangisi kullanılabilir?","Adım 3: Konum değerini 1 artırın.
+Adım 4: Sayım değeri 100'den büyük olana kadar 2. ve 3. adımları tekrarlayın.","Adım 3: Konum değerini 1 artırın.
+Adım 4: Konum değeri n'den büyük olana kadar 2. ve 3. adımları tekrarlayın.","Adım 3: Değer 100'den büyük olana kadar adım 2'yi tekrarlayın.
+Adım 4: Konum değerini 1 artırın.","Adım 3: Pozisyon değeri n'den büyük olana kadar adım 2'yi tekrarlayın.
+Adım 4: Sayaç değerini 1 artırın.",D

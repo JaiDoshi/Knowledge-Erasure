@@ -1,0 +1,219 @@
+Erişim matrisi yaklaşımının korumaya yönelik zorluğu şudur ki,"matris, doğrudan depolanırsa, büyüktür ve yönetilmesi hantal olabilir",karmaşık koruma gereksinimlerini ifade etme yeteneğine sahip değil,Bir işlemin bir kaynağa erişim hakkı olup olmadığına karar vermenin belirlenemez olduğu,Erişim matrisinin kendisini değiştirme hakkına kimin sahip olduğunu ifade etmenin bir yolu yoktur,A
+"Bir tamsayı c, ancak ve ancak c, x'in bir böleni ve c, y'nin bir böleni ise, iki tamsayı x ve y'nin ortak bir bölenidir. Aşağıdaki tamsayı kümelerinden hangisi iki tamsayının tüm ortak bölenlerinin kümesi olabilir?","{-6,-2, -1, 1, 2, 6}","{-6, -2, -1, 0, 1, 2, 6}","{-6, -3, -2, -1, 1, 2, 3, 6}","{-6, -3, -2, -1, 0, 1, 2, 3, 6}",C
+"NoNicks işletim sisteminde, tek bir dosya okuma işleminin gerektirdiği süre, dört örtüşmeyen bileşene sahiptir:
+disk arama süresi-25 msn
+disk gecikme süresi-8 msn
+disk aktarım süresi- 1,000 bayt başına 1 msn
+işletim sistemi ek yükü-1,000 bayt başına 1 msn + 10 msn
+Sistemin 1. sürümünde, dosya okuma işlemi 1,000 baytlık blokları alıyordu. 2. sürümde, dosya okuma işlemi (ve diskteki temel düzen) 4,000 baytlık blokları alacak şekilde değiştirildi. 2. sürüm altında büyük bir dosyayı okumak için gereken sürenin, aynı büyük dosyayı 1. sürüm altında okumak için gereken süreye oranı yaklaşık olarak",1:4,"1:3,5",1:1,1.1:1,B
+"K-Means Kümeleme algoritmasını kullanarak 7 noktayı 3 kümeye ayırmak istiyorsunuz. İlk iterasyondan sonra, C1, C2 ve C3 kümelerinin aşağıdaki iki boyutlu noktaları içerdiğini varsayalım: C1, 2 noktayı içerir: {(0,6), (6,0)} C2, 3 noktayı içerir: {(2,2), (4,4), (6,6)} C3, 2 noktayı içerir: {(5,5), (7,7)} Bu 3 küme için hesaplanan küme merkezleri nelerdir?","C1: (3,3), C2: (4,4), C3: (6,6)","C1: (3,3), C2: (6,6), C3: (12,12)","C1: (6,6), C2: (12,12), C3: (12,12)","C1: (0,0), C2: (48,48), C3: (35,35)",A
+Tüm Boole ifadelerini temsil etmek için yeterli olan herhangi bir Boole operatörleri kümesinin tam olduğu söylenir. Aşağıdakilerden hangisi tam DEĞİLDİR?,"{VE, DEĞİL}","{DEĞİL, VEYA}","{VE, VEYA}",{NAND},C
+"10 düğüm ve 6 kenara sahip tüm yönsüz grafiklerin koleksiyonunu düşünün. M ve m sırasıyla, koleksiyondaki herhangi bir grafikte bulunan bağlı bileşenlerin maksimum ve minimum sayısı olsun. Eğer bir grafta kendi kendine döngü yoksa ve herhangi bir düğüm çifti arasında en fazla bir kenar varsa, aşağıdakilerden hangisi doğrudur?","M = 10, m = 10","M = 10, m = 1","M = 7, m = 4","M = 6, m = 4",C
+"Önerme mantığındaki bir formülün tatmin edilemez olduğunu göstermek için çözünürlük teoremi kanıtlaması aşağıdaki özelliklerden hangilerine sahiptir?
+I. Önerme mantığının tatmin edilebilir bir formülünün tatmin edilemezliğine dair bir kanıt bulunmadığı anlamında sağlam bir kanıt sistemidir.
+II. Önerme mantığının her tatmin edilemez formülü için bir tatmin edilemezlik kanıtı olduğu anlamında eksiksiz bir kanıt sistemidir.
+III. Önerme mantığının tatmin edilemez bir F formülünün bir çözünürlük kanıtı olduğunda, F'nin aynı zamanda uzunluğu F'nin uzunluğuna göre polinom olan bir kanıta sahip olduğu anlamında özlü bir kanıt sistemidir.",Sadece,Sadece III,Yalnızca I ve II,Sadece I ve III,C
+"Aşağıdaki ifadelerden hangisi veya hangileri tamamen bölümlenmiş bir bellek sisteminin özelliklerini tanımlar?
+I. Belleği eşit boyutlu birimlere böler.
+II. Sanal belleğin uygulanmasına izin verir.
+III. İç parçalanmadan muzdariptir.",Sadece,Sadece II,Sadece III,I ve III,B
+Aşağıdaki kayan noktalı aritmetik hakkındaki ifadelerden hangisi doğru DEĞİLDİR?,Bazı sayıların kesin bir gösterimi olmadığı için doğası gereği birleşme özelliği yoktur.,Doğası gereği ilişkisel değildir çünkü sayıların büyüklüğünde üst ve alt sınırlar olması gerekir.,Uygun yuvarlama kurallarıyla ilişkilendirilebilirlik sağlanabilir.,Bazı rasyonel sayıların kesin bir gösterimi yoktur.,C
+"Çok seviyeli bir dizin yapısında dosyaların paylaşımının, paylaşılan bir dosya hakkında bilgi içeren bir düğüme işaret eden bağlantılar olan dizin girişleriyle sağlandığını varsayalım. Bu düğümdeki bilgiler şunları içerir: (1) dosyanın sahibi, (2) dosyaya olan bağlantı sayısı ve (3) dosyanın disk blok numaraları. Bu paylaşım yaklaşımının temel dezavantajı nedir?","Dosya sahibi dosyayı değiştirirse, paylaşımda bulunmayan başka bir kullanıcı değişiklikleri görecektir.","Eğer sahibi dosyanın adını değiştirirse, diğer kullanıcılar ona erişemeyecektir.","Eğer dosya sahibinin dosyayı silmesine izin verilirse, askıda kalan bağlantılar oluşabilir.","Dosyayı paylaşan herhangi bir kullanıcı dosyaya ekleme yaparsa, dosyayı paylaşan diğerleri yeni disk bloklarına erişemeyecektir.",C
+"Mergesort, bir n sayılık listeyi ikiye bölerek, her yarıyı özyinelemeli olarak sıralayarak ve iki yarıyı birleştirerek çalışır. Aşağıdaki veri yapılarından hangisi mergesort'un O(n log n) sürede çalışmasına olanak sağlar?
+I. Tek yönlü bağlı liste
+II. Çift yönlü bağlı liste
+III. Dizi",Hiçbiri,Sadece III,Yalnızca I ve II,"I, II ve III",D
+"Eğer p(x), n + 1 farklı gerçek sayı x0, ..., xn'de gerçek değerli f(x) fonksiyonu için minimum dereceli enterpolasyon polinomu ise, p(x)'in olası maksimum derecesi nedir?",n,n + 1,n + 2,2n,A
+"Dahili bir hash tablosu, 0, 1, 2, 3, 4 olarak numaralandırılmış 5 kovaya sahiptir. Anahtarlar tam sayılardır ve h(i) = i mod 5 hash fonksiyonu kullanılır, çarpışmaların doğrusal çözümü ile (yani, h(i) kovası doluysa, h(i) + 1, h(i) + 2, ... kovaları sırayla denenir ve tüm kova numaraları modulo 5 olarak hesaplanır). 13, 8, 24, 10 ve 3 anahtarlarına sahip elemanlar, bu sırayla, başlangıçta boş olan bir hash tablosuna eklenirse, 2 numaralı kovanın içeriği",3,8,10,13,A
+TCP protokolü (diğer şeylerin yanı sıra) şunlardan sorumludur,Ağ üzerinden paketleri yönlendirme,Doğrudan bağlı makineler arasında paketlerin güvenilir teslimi,Doğrudan bağlı olmayan makineler arasında büyük (çoklu paket) mesajların güvenilir iletimi,İşletim sistemi mimarileri arasındaki farklılıklarla başa çıkmak,C
+"Σ* için bazı sembol alfabelerinden oluşan A ve B iki kelime (dizi) kümesi olsun. B'nin A'nın bir alt kümesi olduğunu varsayalım. A ve B için aşağıdaki ifadelerden hangileri her zaman doğru olmalıdır?
+I. Eğer A sonlu ise, B de sonludur.
+II. Eğer A düzenli ise, B de düzenlidir.
+III. Eğer A bağlam bağımsız ise, B de bağlam bağımsızdır.",Sadece,Sadece II,Sadece III,Yalnızca I ve II,A
+"Tüm x dizileri için, x^M fonksiyonu aşağıdaki gibi özyinelemeli olarak tanımlanır.
+e^M = e, ve
+eğer w bir dizi ve a uzunluğu 1 olan bir dizi ise,
+(aw)^M = aw^Ma.
+a uzunluğu 1 olan bir dizi olsun ve x ve y herhangi diziler olsun. Aşağıdakilerden hangisi doğrudur?",a^M = a,(ax)^M = (xa)^M,(xy)^M = y^Mx^M,Yukarıdakilerin hiçbiri,D
+Aşağıdakilerden hangisi asenkron bir olay için meşgul bekleme yapmayı seçmenin makul bir gerekçesi DEĞİLDİR?,Bekleme süresinin kısa olması bekleniyor.,"Meşgul bekleme döngüsü, bir kesme işleyicisine göre kodlaması daha kolaydır.",İşlemcinin yapacağı başka bir iş yok.,"Program, bir zaman paylaşımlı sistemde çalışır.",D
+{ww | w in (0 + 1)*} dili,hiçbir Turing makinesi tarafından kabul edilmez,"bazı Turing makineleri tarafından kabul edilen, ancak hiçbir yığın otomatı tarafından kabul edilmeyen","bazı yığın otomatları tarafından kabul edilen, ancak bağlam bağımsız olmayan","bağlam-bağımsız, ancak düzenli değil",B
+Aşağıdaki Ethernet ile ilgili ifadelerden hangisi genellikle YANLIŞTIR?,Ethernetler mesaj göndermek için devre anahtarlaması kullanır.,Ethernetler çoklu ana bilgisayarlı veri yolları kullanır.,"Ethernet protokolleri, mesajların düzgün şekilde iletilmesini sağlamak için bir çarpışma algılama yöntemi kullanır.","Ethernet ile bağlanan ağlar, uzunluk olarak birkaç yüz metre ile sınırlıdır.",A
+"P'nin bazı girdiler için kendisini çağıran bir prosedür olduğunu varsayalım (yani özyinelemeli). Eğer P'nin sonlanması garanti ediliyorsa, aşağıdaki ifadelerden hangileri kesinlikle doğru olmalıdır?
+I. P'nin bir yerel değişkeni vardır.
+II. P'nin kendisini çağırmadığı bir yürütme yolu vardır.
+III. P ya global bir değişkene atıfta bulunur ya da en az bir parametresi vardır.",Sadece,Sadece II,Yalnızca I ve II,Sadece II ve III,D
+Aşağıdakilerden hangisi mükemmel güvenli bir şifreleme şemasına en yakın olanıdır?,"Sezar Şifresi, bir yerine koyma şifresi","DES (Veri Şifreleme Standardı), simetrik anahtarlı bir algoritma","Enigma, bir yer değiştirme şifresi",Tek kullanımlık şifre bloknotu,D
+"Aşağıdaki problemlerden hangisi, verilen yönsüz bir G grafiği için şu anda polinom zamanda çözülebilir olduğu bilinmektedir?",G'de en uzun basit döngüyü bulmak,G'de en kısa döngüyü bulma,G'nin TÜM kapsayan ağaçlarını bulma,G'de en büyük kliği bulmak,B
+IP protokolü öncelikle şununla ilgilenir:,Ağ üzerinden paketleri yönlendirme,Doğrudan bağlı makineler arasında paketlerin güvenilir teslimi,Doğrudan bağlı olmayan makineler arasında büyük (çoklu paket) mesajların güvenilir iletimi,İşletim sistemi mimarileri arasındaki farklılıklarla başa çıkmak,A
+"Aşağıdakilerden hangisi, derinliği N olan tam K-arlı bir ağaçtaki terminal olmayan düğümlerin sayısının toplam düğüm sayısına oranını en iyi şekilde yaklaşık olarak verir?",1/K,K-1/K,log_10 (1/N),N-1/m,A
+"Bir veya daha fazla kaynağı talep edebilen ve serbest bırakabilen bir bilgisayar sistemi düşünün. Bir işleme bir kaynak tahsis edildikten sonra, işlem o kaynağı serbest bırakana kadar kaynağın özel kullanımına sahip olur. Eğer bir işlem halihazırda kullanımda olan bir kaynağı talep ederse, işlem o kaynak için bir kuyruğa girer ve kaynağın kullanılabilir hale gelmesini bekler. Aşağıdakilerden hangisi kilitlenme sorunuyla etkili bir şekilde başa çıkamaz?",İşlemlere öncelik vermek ve bekleme kuyruklarını önceliğe göre sıralamak,Bir işlemin ilk başladığında ihtiyaç duyduğu tüm kaynakları talep etmesi ve hepsini elde edemezse yeniden başlaması,Kaynakları numaralandırma ve işlemlerin kaynakları artan numara sırasına göre talep etmesini gerektirme,Süreçlerin rastgele bir bekleme aralığından sonra zaman aşımına uğraması ve yeniden başlaması,A
+"""Sihirli bellek""in iki işlemi vardır: Okuma ve Temizleme. Her ikisi de bölünemez ve karşılıklı olarak dışlayıcıdır. Temizleme, sihirli belleği sıfıra ayarlar. Okuma, son Temizleme işleminden bu yana gerçekleşen Okuma işlemlerinin sayısını temsil eden bir değer döndürür. ""Sihirli bellek"" hakkında aşağıdakilerden hangisi/hangileri doğrudur?
+I. Atomik bir Test-ve-Ayarla işlevselliği sağlayabilir.
+II. Paylaşılan bellekli bir çok işlemcide çalışan süreçleri koordine etmek için kullanılabilir.
+III. Sadece çok işlemcili sistemlerde kullanışlıdır.",Sadece,II sadece,Sadece III,I ve II,D
+"Aşağıdakilerden hangisi, bir derleyicide değişkenler ve onların özellikleri hakkındaki bilgileri yönetmekten sorumlu olan veri yapısının adıdır?",Soyut Sözdizimi Ağacı (SSA),Öznitelik Grameri,Sembol Tablosu,Anlamsal Yığın,C
+Aşağıdaki algoritmalardan hangisi en kötü durumda Θ(n^2) çalışma süresine sahipken ortalamada Θ(n log n) çalışma süresine sahiptir?,Kabarcık sıralaması,Birleştirmeli sıralama,Yığın sıralaması,Hızlı sıralama,D
+"Soyut veri tiplerini uygulayan bir yapıya sahip diller (örneğin, bir C++ sınıfı), bu yapının parçalarına erişimi, yalnızca bu yapının bir parçası olan işlemler dışındaki tüm işlemler için engelleyebilir. Ancak, böyle bir yapının tanımları genellikle yapının bileşenlerinin beyanlarını içerir (örneğin, bir C++ sınıfının başlık dosyası, özel bileşenlerinin beyanlarını içerebilir). Böyle bir dil için, bir nesnenin adı çalışma zamanında bileşen değerleri için yığın depolamasına (doğrudan temsil) veya bileşen değerleri için yığın depolamasına referans veren bir yığın işaretçisine (dolaylı temsil) bağlanabilir. Doğrudan ve dolaylı temsiller arasındaki karşılaştırmalar hakkında aşağıdaki ifadelerden hangisi veya hangileri doğrudur?
+I. Dolaylı temsil, derleme süresini belirgin şekilde artırır.
+II. Doğrudan temsil, bir değişkenin bileşenlerine erişmek için gereken süreyi azaltır.
+III. Bir değişkenin bazı özel bileşenlerinin depolama boyutu değiştiğinde, dolaylı temsil yeniden derlenmesi gereken kaynak modüllerinin sayısını en aza indirir.",Sadece,Sadece III,Yalnızca I ve II,Sadece II ve III,D
+Aşağıdakilerden hangisi bitmap grafiklerinin bir özelliği DEĞİLDİR?,"Hızlı donanım, piksel bloklarını verimli bir şekilde hareket ettirmek için mevcuttur.",Gerçekçi aydınlatma ve gölgelendirme yapılabilir.,Tüm doğru parçaları düz olarak gösterilebilir.,Çokgenler düz renkler ve dokularla doldurulabilir.,C
+Aşağıdakilerden hangisi kesintiler için doğrudur?,"Bellek döngüleri ""çalındığında"" oluşurlar.",Veri kanallarının yerine kullanılırlar.,Giriş/çıkış işleminin tamamlandığını belirtebilirler.,Aritmetik işlemlerle üretilemezler.,C
+"Yükseklik dengeli bir ikili arama ağacında, herhangi bir düğümün sol ve sağ alt dallarının yükseklikleri en fazla 1 fark eder. Böyle bir ağaç için aşağıdakilerden hangileri doğrudur?
+I. En kötü durumda arama süresi, düğüm sayısının logaritması ile orantılıdır.
+II. Ortalama durumda arama süresi, düğüm sayısının logaritması ile orantılıdır.
+III. En iyi durumda arama süresi, ağacın yüksekliği ile orantılıdır.
+IV. Ağacın yüksekliği, düğüm sayısının logaritması ile orantılıdır.",Sadece I ve III,Sadece II ve III,Sadece II ve IV,"I, II ve IV",D
+"Bob 1 ile 1.000 arasında bir sayı yazar. Mary, Bob'a ""evet/hayır"" soruları sorarak bu sayıyı belirlemek zorundadır. Mary, Bob'un her zaman doğruyu söylediğini bilir. Mary en iyi stratejiyi kullanırsa, en kötü durumda tam olarak kaç soru sonunda cevabı belirleyecektir?",1.000,999,500,10,D
+"Sayfalar kullanan sanal bellek sistemleri hakkında aşağıdakilerden hangisi (hangileri) doğrudur?
+I. Sanal adres alanı, fiziksel bellek miktarından daha büyük olabilir.
+II. Programlar, yürütmeleri boyunca ana bellekte bulunmalıdır.
+III. Sayfalar, programın anlamsal özelliklerine karşılık gelir.",Sadece,Sadece II,I ve II,I ve III,A
+Aşağıdakilerden hangisi genellikle yığın tabanlı bir programlama dilinde bir alt programın aktivasyon kaydı çerçevesinde temsil edilMEZ?,Yerel değişkenlerin değerleri,Bir yığın alanı,İade adresi,Çağıran aktivasyon kaydı için yığın işaretçisi,B
+Aşağıdaki uzak prosedür çağrısı hakkındaki ifadelerden hangisi doğrudur?,2^16 bayttan daha uzak adreslerdeki prosedürleri çağırmak için kullanılır.,Bir değer döndüremez.,Referans yoluyla parametre geçemez.,Farklı bir dilde uygulanmış prosedürleri çağıramaz.,C
+"Aşağıdaki sıralama algoritmalarından hangisinin çalışma süresi, girdinin başlangıçtaki sıralamasına EN AZ bağlıdır?",Araya sokma sıralaması,Hızlı sıralama,Birleştirme sıralaması,Seçmeli sıralama,C
+"Belirli bir paralel program hesaplaması, tek bir işlemcide yürütüldüğünde 100 saniye gerektirmektedir. Eğer bu hesaplamanın yüzde 40'ı ""doğası gereği sıralı"" ise (yani, ek işlemcilerden fayda sağlamayacaksa), o zaman bu programın sırasıyla 2 ve 4 işlemci ile çalıştırılması durumunda teorik olarak mümkün olan en iyi geçen süreler şöyledir",20 saniye ve 10 saniye,30 saniye ve 15 saniye,50 ve 25 saniye,70 ve 55 saniye,D
+"Altı bitlik sayıların iki'ye tümleyen, bir'e tümleyen veya işaret ve büyüklük ile gösterimini düşünün. Hangi gösterimde 011000 ve 011000 tam sayılarının toplamında taşma meydana gelir?",İkiye tümleyen yalnızca,İşaret ve büyüklük ve birin tümleyeni sadece,İkiye tümleyen ve bire tümleyen yalnızca,Üç temsil de,D
+Aşağıdakilerden hangisi belleğe eşlenmiş G/Ç kullanan bilgisayarları en iyi şekilde tanımlar?,"Bilgisayar, G/Ç bağlantı noktalarını yönetmek için özel talimatlar sağlar.",G/Ç portları veri yolunda adreslere yerleştirilir ve diğer bellek konumları gibi erişilir.,"Bir G/Ç işlemi gerçekleştirmek için, verileri bir adres kaydına yerleştirmek ve işlemi gerçekleştirmesi için kanalı çağırmak yeterlidir.",Portlar yalnızca bilgisayarın bellek eşlemeli talimatları tarafından referans alınır ve sabit kablolu bellek konumlarında bulunur.,B
+"Birçok kriptografik protokol, güvenliklerini tamsayı çarpanlara ayırmanın hesaplamasal zorluğu hakkındaki varsayımlara dayandırır. Tamsayı çarpanlara ayırma bu amaca hizmet eder çünkü inanıyoruz ki","Tamsayı çarpımı, tersi olan çarpanlara ayırmanın geniş bir girdi sınıfı için zor kaldığı bir fonksiyondur",P = NP,"P = NP olsa bile, tamsayı çarpanlara ayırmanın hala polinom zamanda hesaplanamayacağı muhtemeldir",Asallığı test etmek hesaplama açısından zorludur,A
+Aşağıdaki bit dizisi kümelerinden hangisi düzenli bir ifade ile TANIMLANAMAZ?,Sıfır sayısı beşin katı olan tüm bit dizileri,Sıfır ile başlayan ve bir ile biten tüm bit dizileri,Çift sayıda sıfır içeren tüm bit dizileri,Birlerden daha fazla sıfır içeren tüm bit dizileri,D
+"Aşağıdaki koşullardan hangileri p_1, p_2, p_3, p_4 Boolean değişkenleri ve ∧,∨ bağlaçları (¬ olmadan) kullanılarak bir Boolean formülü ile ifade edilebilir?
+I. p_1, p_2, p_3, p_4'ten en az üçü doğrudur.
+II. p_1, p_2, p_3, p_4'ten tam olarak üçü doğrudur.
+III. p_1, p_2, p_3, p_4'ten çift sayıda doğru vardır.",Sadece,II sadece,Sadece III,I ve III,A
+"İşlemcileri çift yönlü bağlantılarla birbirine bağlamanın iki alternatifi şunlardır: (1) tam bağlantılı ağ, burada her işlemci doğrudan diğer tüm işlemcilere bağlıdır ve (2) halka ağı, burada her işlemci iki diğer işlemciye bağlıdır. Bir ağ için en kötü durum yol uzunluğu, ağdaki tüm düğüm çiftleri arasında, düğümler arasındaki minimum uzunluktaki yolların (bağlantı sayısı olarak ölçülen) maksimumudur. n işlemcinin her bir bağlantı türü için, ağ için gereken bağlantı sayısı ile herhangi iki işlemciyi bağlayan en kötü durum yol uzunluğunun çarpımı olarak bir başarı ölçütü oluşturulabilir. Çift n > 2 için, tam bağlantılı ağın bu başarı ölçütünün halka ağına oranı şöyledir:",1/(n^2),1/(n(n-1)),1/n,(n-1)/n,D
+"Bağlı, yönsüz bir G = (V, E) çizgesi için aşağıdakilerden hangisi kesinlikle doğru olmalıdır?
+I. Σ_{v∈V} derece(v) çifttir.
+II. |E| ≥ |V| − 1
+III. G'nin en az bir tane derecesi 1 olan köşesi vardır.",Sadece,Sadece II,Sadece III,I ve II,D
+"Çok programlı sistemlerde, editörler ve derleyiciler gibi bazı programların birkaç kullanıcı tarafından paylaşılması avantajlıdır. Bir programın tek bir kopyasının birkaç kullanıcı tarafından paylaşılabilmesi için çok programlı sistemlerde aşağıdakilerden hangisi doğru olmalıdır?
+I. Program bir makrodur.
+II. Program özyinelemeli (recursive) dir.
+III. Program yeniden girilir (reentrant) dir.",Sadece,Sadece II,Sadece III,Sadece II ve III,C
+Aşağıdaki ondalık sayılardan hangisi ikili gösterimde tam olarak temsil edilebilir?,"0,1","0,2","0,3","0,5",D
+"Fonksiyon imzaları, bir fonksiyonun argümanlarının türlerini ve fonksiyonun dönüş değerini tanımlar. Örneğin, gerçek sayılar üzerindeki toplama fonksiyonunun imzası
+add : real x real -> real
+şeklindedir çünkü iki gerçek sayı alır ve bir gerçek sayı döndürür. Ancak, fonksiyonları dönüş değeri olarak kabul eden bir dil için, toplama işlemi şu imzaya sahip olarak düşünülebilir:
+add : real -> (real -> real)
+bu, add'in tek bir gerçek sayı (ilk işlenen) aldığını ve kendisi tek bir gerçek sayı (ikinci işlenen) alan ve bir gerçek sayı (sonuç) döndüren yeni bir fonksiyon döndürdüğü anlamına gelir. Birden fazla argümana sahip bir fonksiyonu daha az argümana sahip bir fonksiyona indirgeme işlemine currying denir. Aşağıdakilerden hangisi doğrudur?","Currying, tam olarak bir giriş argümanına sahip olana kadar herhangi bir fonksiyona uygulanabilir.",İkiden fazla argümana sahip fonksiyonlara currying uygulanamaz.,"Currying, fonksiyonları argüman olarak döndüren fonksiyonlara uygulanamaz.","Currying, argümanları fonksiyon olan fonksiyonlara uygulanamaz.",A
+"A dizisi, her biri 4 bayt olan 256 eleman içerir. İlk elemanı fiziksel adres 4.096'da saklanır.
+B dizisi, her biri 4 bayt olan 512 eleman içerir. İlk elemanı fiziksel adres 8.192'de saklanır.
+Yalnızca A ve B dizilerinin, başlangıçta boş, fiziksel olarak adreslenen, fiziksel olarak etiketlenen, doğrudan eşlemeli, 8 baytlık blok boyutuna sahip 2K baytlık bir önbellekte önbelleğe alınabileceğini varsayın. Ardından aşağıdaki döngü yürütülür.
+for (i = 0; i < 256; i++)
+        A[i] = A[i] + B[2*i];
+Döngünün yürütülmesi sırasında, önbellek geri yazma politikasına sahipse belleğe kaç bayt yazılacaktır?",0,256,1024,2000,A
+"Aşağıdaki 8-bitlik kelimelerle sayıların gösterimlerinden hangisinde 109 ve -42 tam sayılarının toplamı aralık içindedir?
+I. Bir'in tümleyeni
+II. İki'nin tümleyeni
+III. İşaret ve büyüklük",Sadece,II sadece,Yalnızca I ve II,"I, II ve III",D
+Eğer kötü niyetli bir işleme geçici olarak sistem yöneticisi düzeyinde erişim verilirse,Süreç sonlandırıldığı anda tehdit ortadan kalkar,İşletim sistemi yeniden başlatıldıktan sonra tehdit sona erer,Makineyi yeniden başlattıktan ve virüs bulaşmış dosyaları değiştirdikten sonra konu kapanmıştır,Tehdit genellikle tüm disk tamamen silinene kadar kalıcıdır.,D
+"Yatay ve dikey mikromimariler hakkındaki aşağıdaki ifadelerden hangisi (hangileri) doğrudur?
+I. Yatay mimariler için programlar, dikey mimarilere göre daha fazla zaman adımı gerektirir.
+II. Yatay mikrokomutlar kodlanmamıştır.
+III. Yatay mikrokomutlar genellikle tek bir işlem kodu ve birden fazla işlenen belirleyicisine sahiptir.",Sadece,II sadece,Sadece III,Sadece II ve III,B
+"""Kesin ikili ağaç"", yaprak olmayan her düğümün iki çocuğa sahip olduğu bir ikili ağaçtır. Kesin ikili ağaçların bir sınıfı için, c > 0 olacak şekilde, sınıftaki herhangi bir ağaç için, herhangi iki kökten yaprağa giden yolun uzunluklarının oranının c ile üstten sınırlandığını varsayalım. Aşağıdakilerden hangisi, N ağaçtaki düğüm sayısı ve N > 1 olmak üzere, bu sınıftaki herhangi bir ağacın yüksekliğini (h) en iyi şekilde karakterize eder?",h <= log2(N),h = 1/c * log2(N),h < c log2(N),h > c log2(N),C
+Aşağıdaki sıralama algoritmalarından hangisinin ortalama durum ve en kötü durum çalışma süreleri O(n log n)'dir?,Kabarcık sıralama,Araya sokma sıralaması,Birleştirme sıralaması,Hızlı sıralama,C
+"Aşağıdaki denklemleri, Push, Pop, Top ve IsEmpty işlemlerine sahip bir yığın modülüyle ilgili olarak düşünün. Hangi denklem bir yığının geleneksel semantiğini temsil ETMEMEKTEDİR?","IsEmpty(Push(Stack,Elem)) = true","Pop(Push(Yığın,Eleman)) = Yığın","Üst(İt(Yığın,Eleman)) = Eleman","IsEmpty(Push(Push(Stack,Elem1),Elem2)) = yanlış",A
+"Herhangi bir atama ifadesinin birim zamanda yürütülebileceğini varsayın. Gerektiği kadar özdeş işlemci kullanılırsa, atamalar
+A := B + C
+B := A - B
+C := A * E
+D := A/F
+E := B - C
+F := A + B
+gösterilen sırayla yürütülmüş gibi aynı sonucu elde etmek için gereken minimum zaman birimi sayısı nedir?",1,2,3,4,C
+"İki ifade E ve F, E ve F'nin değişkenleri için, ifadeleri sözlüksel olarak aynı yapan ikameler varsa birleştirilebilir olarak adlandırılır. Aşağıdaki üç ifadede, yalnızca w, x, y ve z değişkenlerdir.
+I. f(w,w)
+II. f(x,1)
+III. f(y,g(z))
+Bu ifadelerin hangi çiftleri birleştirilebilir ifade çiftleridir?","(I, II) yalnızca","Sadece (I, III)","Sadece (II, III)","Sadece (I, II) ve (I, III)",D
+Aşağıdaki komut kümesi özelliklerinden hangisi genellikle bir tamsayı biriminin agresif boru hattı oluşturmasına engel olarak kabul edilmez?,Her komut tarafından ayarlanan durum kodları,Değişken uzunluklu komut kodlaması,Yürütülmesi için çok farklı sayıda döngü gerektiren talimatlar,Çeşitli farklı kayıt sınıfları (kümeleri),D
+"k >= 2 olsun. L, {0, 1}^* kümesindeki öyle dizilerin kümesi olsun ki x \in L, ancak ve ancak x'teki 0'ların sayısı k'ya bölünebilir ve x'teki 1'lerin sayısı tek ise. L'yi tanıyan deterministik sonlu otomatondaki (DFA) minimum durum sayısı şudur",k + 2,2 bin,k log k,k^2,B
+"G = (V, E), |E| > 0 olan sonlu yönlendirilmiş döngüsüz bir çizge olsun. Aşağıdakilerden hangisi kesinlikle doğrudur?
+I. G'nin gelen kenarı olmayan bir köşesi vardır.
+II. G'nin giden kenarı olmayan bir köşesi vardır.
+III. G'nin izole bir köşesi vardır, yani ne gelen ne de giden kenarı olan bir köşesi vardır.",Sadece,II sadece,Sadece III,Yalnızca I ve II,D
+"T, bağlı yönsüz bir G grafının derinlik öncelikli arama ağacı olsun. T'nin her bir v köşesi için, pre(v) T'nin öncelik sıralaması geçişi sırasında v'ye kadar ve v dahil olmak üzere ziyaret edilen düğüm sayısı olsun ve post(v) T'nin sonralık sıralaması geçişi sırasında v'ye kadar ve v dahil olmak üzere ziyaret edilen düğüm sayısı olsun. T'deki u ve v köşelerinin en düşük ortak atası, T'nin hem u hem de v'nin atası olan ve hiçbir çocuğu hem u hem de v'nin atası olmayan bir w köşesidir. (u, v), G'de bulunan ancak T'de bulunmayan bir kenar olsun, öyle ki pre(u) < pre(v) olsun. U ve v hakkında aşağıdaki ifadelerden hangileri doğru olmalıdır?
+I. post(u) < post(v)
+II. u, T'de v'nin bir atasıdır.
+III. Eğer w, T'de u ve v'nin en düşük ortak atası ise, o zaman w = u'dur.",Sadece,Sadece II,Sadece III,II ve III,D
+"Otomatik bellek yönetimi desteğine sahip sistemlerde, bir çöp toplayıcı genellikle içeriği gelecekteki herhangi bir yasal hesaplamayı etkileyemeyecek olan tahsis edilmiş bellek nesnelerini geri alma sorumluluğuna sahiptir. Bu tür nesneler, bir kök kümesinden erişilemeyecekleri belirlenerek tanımlanır. Aşağıdakilerden hangisi tipik bir çöp toplayıcıda kök kümesinin bir parçası DEĞİLDİR?",Aktif prosedürlerin gerçek parametreleri,Yığında dinamik olarak tahsis edilen nesneler,Programın global değişkenleri,Çağrı yığınındaki yerel değişkenler,B
+"İnternet Protokolü (IP) protokol paketinde, aşağıdakilerden hangisi Adres Çözümleme Protokolünün amacını en iyi şekilde tanımlar?",Web adreslerini ana bilgisayar adlarına çevirmek için,Belirli bir ana bilgisayar adının IP adresini belirlemek için,Belirli bir ana bilgisayar adının donanım adresini belirlemek için,Belirli bir IP adresinin donanım adresini belirlemek için,D
+"Aşağıdaki dil özelliklerinden hangisi, statik tahsis yerine yığın tabanlı bellek tahsisinin kullanılmasını gerektirir?",Özyinelemeli prosedürler,Keyfi goto'lar,İki boyutlu diziler,Tam sayı değerli fonksiyonlar,A
+"Aşağıdakilerden hangisi A -> BC, B -> x|Bx, C -> B|D, D -> y|Ey, E -> z dilbilgisi kuralları tarafından üretilen bir cümle değildir?",xyz,xy,xxzy,xxxxy,A
+"T(n), T(1) = 7 ve tüm n ≥ 1 tamsayıları için T(n + 1) = 3n + T(n) olarak tanımlanmıştır. Aşağıdakilerden hangisi T(n)'nin n'in bir fonksiyonu olarak büyüme sırasını temsil eder?",Θ(n),Θ(n log n),Θ(n^2),Θ(n^2 log n),C
+"Aşağıdaki problemlerden hangisi (hangileri) karar verilebilirdir?
+I. Verilen (sonlu) bir w dizisi, π'nin ondalık açılımının bir öneki midir?
+II. Verilen bir program ve bir girdi için, programın çıktısı π'nin ondalık açılımı mıdır?
+III. Girdi olarak π'nin ondalık açılımının bir önekini alan bir program için, programın çıktısı her önek için her zaman aynı mıdır?",Sadece,Sadece II,Sadece III,Yalnızca I ve II,A
+"Aşağıdaki devreler hakkındaki ifadelerden hangisi (hangileri) doğrudur?
+I. Kombinasyonel devrelerde geri besleme olabilir; sıralı devrelerde olmaz.
+II. Kombinasyonel devreler ""hafızasız"" özelliğe sahiptir; sıralı devreler değildir.
+III. Hem sıralı hem de kombinasyonel devreler harici bir saat tarafından kontrol edilmelidir.",Sadece,Sadece II,Yalnızca I ve II,Sadece II ve III,B
+"İki tek kullanıcılı iş istasyonu aynı yerel alan ağına bağlıdır. Bu iş istasyonlarından birinde, dosya sayfalarına bir dosya sunucusundan ağ üzerinden erişilir; sayfa başına ortalama erişim süresi 0,1 saniyedir. Diğer iş istasyonunda ise dosya sayfalarına yerel bir diskten erişilir; sayfa başına ortalama erişim süresi 0,05 saniyedir. Belirli bir derleme 30 saniyelik hesaplama ve 200 dosya sayfası erişimi gerektirmektedir. Hesaplamanın dosya erişimiyle çakışmadığı varsayılırsa, bu derlemenin disksiz (dosya sunuculu) iş istasyonunda çalıştırılması durumunda gereken toplam sürenin, yerel diski olan iş istasyonunda çalıştırılması durumunda gereken toplam süreye oranı nedir?",1/1,5/4,5/3,10/5,B
+"Bir hata ayıklayıcının, hata ayıklanan P sürecinde 0x77E81234 (onaltılık gösterim) sanal adresindeki bir yükleme talimatına bir kesme noktası yerleştirdiğini varsayalım. Eğer P'nin metin segmenti P'nin sanal adres alanında 0x77E80000'de başlıyorsa ve hata ayıklayıcı bu aynı metin segmentini kendi sanal adres alanında 0x01000000'de eşlediyse, aşağıdakilerden hangisi hata ayıklayıcının YAZMA işleminde kullandığı sanal adrestir ve hata ayıklayıcının bu adresi içeren sanal bellek sayfasını nasıl eşlediğinin açıklamasıdır?",0x01001234; sayfa OKUMA/YAZMA erişimi ile eşleştirildi,0x01001234; sayfa YAZARKEN-KOPYALA erişimi ile eşleştirildi,0x76E81234; sayfa OKUMA/YAZMA erişimi ile eşleştirildi,0x76E81234; sayfa COPY-ON-WRITE erişimi ile eşleştirildi,A
+"Aşağıdaki düşüncelerden hangisi veya hangileri bir sayfalama sisteminde sayfa boyutunu seçerken geçerlidir?
+I. Daha büyük sayfaların bir avantajı, daha küçük sayfa tablolarına yol açmalarıdır.
+II. Daha küçük sayfaların bir avantajı, iç parçalanma nedeniyle daha az israf yaratmalarıdır.
+III. Normalde, disk erişim süresinde baskın faktör sayfa uzunluğuna bağlı değildir, bu nedenle daha uzun sayfalar avantajlı bir şekilde kullanılabilir.",Sadece,Sadece II,Sadece I ve III,"I, II ve III",D
+"İki işlemci, M-5 ve M-7, aynı komut setini uygular. M-5 işlemcisi 5 aşamalı bir pipeline ve 10 nanosaniyelik bir saat döngüsü kullanır. M-7 işlemcisi 7 aşamalı bir pipeline ve 7.5 nanosaniyelik bir saat döngüsü kullanır. Aşağıdakilerden hangisi (hangileri) doğrudur?
+I. M-7'nin pipeline'ı, M-5'in pipeline'ından daha iyi maksimum verime sahiptir.
+II. Tek bir komutun gecikme süresi, M-7'nin pipeline'ında M-5'in pipeline'ından daha kısadır.
+III. M-7 üzerinde çalışan programlar her zaman M-5 üzerinde çalışan programlardan daha hızlı çalışacaktır.",Sadece,II sadece,I ve III,II ve III,A
+"Aşağıdaki 8 bitlik, iki'ye tümleyen sayı çiftlerinden hangilerinin üyeleri toplandığında taşma meydana gelecektir?","11111111, 00000001","00000001, 10000000","11111111, 10000001","10000001, 10101010",D
+"İki bilgisayar, yerel alan ağı üzerinden veri paketleri göndererek birbirleriyle iletişim kurar. Bu paketlerin boyutu 1.000 bayttır. Ağ, saniyede 1.000 paket taşıma kapasitesine sahiptir. Bir paketi göndermek için ağ protokolünü yürütmek için gereken CPU süresi 10 milisaniyedir. Bir bilgisayarın diğerine veri gönderebileceği maksimum hız yaklaşık olarak",10.000 bayt/saniye,25.000 bayt/saniye,Saniyede 100.000 bayt,Saniyede 500.000 bayt,C
+"Aşağıdaki grameri göz önünde bulundurun.
+S → ( S )
+S → x
+Aşağıdaki ifadelerden hangisi (hangileri) doğrudur?
+I. Gramer belirsizdir.
+II. Gramer yukarıdan aşağıya ayrıştırma için uygundur.
+III. Gramer aşağıdan yukarıya ayrıştırma için uygundur.",Sadece,II sadece,Sadece III,Sadece II ve III,D
+"Aşağıda açıklanan problemlerin tümü için hash tabloları, aşağıdakiler HARİÇ ortalama durumda verimli bir çözüme katkıda bulunabilir:","Farklı değerleri saymak: Verilen n anahtar kümesinde, farklı anahtar değerlerinin sayısını belirleyin.","Dinamik sözlük: Bir sözlükte ekleme, silme ve arama işlemlerini destekleyin.","Aralık araması: Verilen a ve b değerleri için, anahtar değeri a ile b aralığında olan tüm kayıtları bul.","Sembol tablosu arama: Verilen bir program tanımlayıcısı için, türünü ve adresini bul.",C
+A'nın m elemanlı sonlu bir küme olduğunu ve B'nin n elemanlı sonlu bir küme olduğunu varsayalım. A'yı B'ye eşleyen farklı fonksiyonların sayısı,n^m,n!/(n - m)!,n!,n!/(m!(n - m)!),A
+"M_1M_2 matris çarpımını hesaplamak için, M_1'in p satırı ve q sütunu olduğunda ve M_2'nin q satırı ve r sütunu olduğunda, pqr ile orantılı zaman alır ve sonuç p satır ve r sütunlu bir matristir. Sırasıyla w satır ve x sütun, x satır ve y sütun, ve y satır ve z sütuna sahip olan üç matrisin N_1N_2N_3 çarpımını düşünün. Hangi koşulda çarpımı (N_1N_2)N_3 olarak hesaplamak (yani ilk iki matrisi önce çarpmak), N_1(N_2N_3) olarak hesaplamaktan daha az zaman alacaktır?","Böyle bir durum yok; yani, her zaman aynı süreyi alacaklar.",1/x + 1/z < 1/w + 1/y,x > y,1/w + 1/x < 1/y + 1/z,B
+"Bir önbellek belleğinin isabet oranı, verilerin önbellekte bulunduğu erişimlerin (okuma ve yazma) yüzdesidir. Anında yazma, her yazma işleminin ana belleği güncellediği bir politikadır. Geriye yazma, önbellekte bulunan bir satıra yapılan yazma işleminin, satır önbellekten çıkarılana kadar ana belleği etkilemediği bir politikadır. Yazma tahsisi, bir yazma ıskalandığında önbellek satırının tahsis edildiği ve yüklendiği bir politikadır. Yazma tahsisinin her zaman kullanıldığı varsayılırsa, aşağıdakilerden hangisi doğrudur?",Geri yazma genellikle doğrudan yazmaya göre daha iyi bir isabet oranı ile sonuçlanır.,Yazma-geçişi genellikle yazma-geri yönteminden daha iyi bir isabet oranı sağlar.,"Yazma işlemlerinin ana bellek işlemiyle sonuçlanma yüzdesi, geri yazma için hiçbir zaman anında yazmadan daha büyük olmayacaktır.","Yazma işlemlerinin ana bellek işlemiyle sonuçlanma yüzdesi, yazma-geçişli yöntemde asla yazma-geri yönteminden daha büyük olmayacaktır.",C
+"Belirli bir disk birimi, parçalarının dolu veya boş olduğunu kaydetmek için bir bit dizisi kullanır, 0 boş ve 1 dolu anlamına gelir. Bu dizinin 32 bitlik bir bölümü D4FE2003 onaltılık değerine sahiptir. Diskin ilgili kısmı için dolu parçaların yüzdesi, en yakın yüzdeye yuvarlanmış olarak",%12,%25,%38,%44,D
+"Yönsüz bir grafın Euler devresi, grafın her kenarının tam olarak bir kez göründüğü bir devredir. Aşağıdaki yönsüz graflardan hangisinde kesinlikle bir Euler devresi olmalıdır?
+I. 12 köşeli tam bir graf
+II. 13 köşeli tam bir graf
+III. 13 köşeli bir ağaç",Sadece,II sadece,Sadece III,I ve II,B
+Aşağıdaki programlama dili özelliklerinden hangisi bağlam bağımsız gramer kullanılarak en iyi şekilde belirtilir?,Tanımlayıcı uzunluğu,Maksimum iç içe geçme seviyesi,İşlem önceliği,Tür uyumluluğu,C
+"IPv4 protokolünü kullanan bir ağdaki bir düğüm tarafından gönderilen datagramlar hakkında aşağıdaki ifadelerden hangisi veya hangileri doğrudur?
+I. Kaynaktaki datagramlar, hedefe giden yoldaki tüm bağlantıların en küçük maksimum iletim birimi (MTU) boyutunda olmalıdır.
+II. Datagramlar yönlendirme sırasında parçalanabilir.
+III. Datagramlar yalnızca hedefte yeniden birleştirilir.",Sadece,Sadece II,Sadece III,II ve III,D
+"Açlıktan ölmeyi önleyen bir iş planlama politikası, hiçbir işin hizmet için sonsuza kadar beklemeyeceğini garanti eder. Aşağıdaki iş planlama politikalarından hangisi açlıktan ölmeyi önler?",Döngüsel sıralama,Öncelikli kuyruk,En kısa iş önce,En genç iş önce,A
+"Aşağıdakilerden hangisi, N >= 1 için f(2N + 1) = f(2N) = f(N) + log N özyinelemesine ve f(1) = 0 başlangıç koşuluna sahip bir çözüm olan f fonksiyonunun f(N) değeri için en iyi üst sınırı verir?",O(log N),O(N log N),O(log N) + 0(1),O((log N)^2),D
+"X Şirketi 5 bilgisayar çipi gönderdi, bunlardan 1 tanesi kusurluydu ve Y Şirketi 4 bilgisayar çipi gönderdi, bunlardan 2 tanesi kusurluydu. Şirketler tarafından gönderilen 9 çip arasından rastgele olarak bir bilgisayar çipi seçilecektir. Seçilen çipin kusurlu olduğu tespit edilirse, çipin Y Şirketinden gelme olasılığı nedir?",2 / 9,4 / 9,1 / 2,2 / 3,D
+"Aşağıdaki problemlerden hangileri standart bir açgözlü algoritma ile çözülebilir?
+I. Pozitif tam sayı kenar ağırlıklarına sahip yönsüz bir grafta minimum kapsayan ağaç bulma
+II. Yönsüz bir grafta maksimum klik bulma
+III. Pozitif tam sayı kenar kapasitelerine sahip yönlü bir grafta bir kaynak düğümden bir hedef düğüme maksimum akış bulma",Sadece,Sadece II,Sadece III,Yalnızca I ve II,A
+"Yazım denetimi yapan bir program aşağıdaki şekilde çalışır. Her girişi başlangıçta false olarak ayarlanmış bir Boolean değişkeni olan bir hash tablosu tanımlanmıştır. Sözlükteki her kelimeye bir hash fonksiyonu uygulanmış ve hash tablosundaki uygun giriş true olarak ayarlanmıştır. Bir belgedeki yazımı kontrol etmek için, belgedeki her kelimeye hash fonksiyonu uygulanır ve hash tablosundaki uygun giriş incelenir. Aşağıdakilerden hangisi veya hangileri doğrudur?
+I. true, kelimenin sözlükte olduğu anlamına gelir.
+II. false, kelimenin sözlükte olmadığı anlamına gelir.
+III. Hash tablosu boyutu belge boyutuyla birlikte artmalıdır.",Sadece,II sadece,Yalnızca I ve II,Sadece II ve III,B
+"Bulanık mantık verilerini ele almanın bir yolu, verilerin ""doğru"", ""yanlış"" ve ""bilinmeyen"" olarak saklanabilmesi için üçlü (3 tabanlı) mantık kullanan bir bilgisayar tasarlamak olabilir. Her üçlü mantık öğesine flit denirse, en az 256 farklı değeri temsil etmek için kaç flit gereklidir?",4,5,6,7,C
+"Dağıtık dosya sistemlerinde dosyaların yerel olarak önbelleğe alınması yaygındır, ancak bunun dezavantajı şudur ki",Farklı makineler tarafından bir dosyanın görünümlerinde geçici tutarsızlıklar ortaya çıkabilir,Bir bilgisayar çöktüğünde dosya sisteminin bozulma olasılığı yüksektir,Çok daha yüksek miktarda ağ trafiği oluşur,"Önbelleğe alma, dosya taşımayı imkansız hale getirir",A
+"A dizisi, her biri 4 bayt olan 256 eleman içerir. İlk elemanı fiziksel adres 4.096'da saklanır.
+B dizisi, her biri 4 bayt olan 512 eleman içerir. İlk elemanı fiziksel adres 8.192'de saklanır.
+Yalnızca A ve B dizilerinin, başlangıçta boş, fiziksel olarak adreslenen, fiziksel olarak etiketlenen, doğrudan eşlemeli, 8 baytlık blok boyutuna sahip 2K baytlık bir önbellekte önbelleğe alınabileceğini varsayın. Ardından aşağıdaki döngü yürütülür.
+for (i = 0; i < 256; i++)
+        A[i] = A[i] + B[2*i];
+Döngünün yürütülmesi sırasında, önbellek yazma-geçişli bir politikaya sahipse belleğe kaç bayt yazılacaktır?",0,256,1024,2048,C
+"Zaman 0'da, tek bir işlemci üzerinde yürütülmek üzere beş iş mevcuttur ve bu işlerin hizmet süreleri sırasıyla 25, 15, 5, 3 ve 2 zaman birimidir. Aşağıdakilerden hangisi bu işlerin ortalama tamamlanma süresinin minimum değeridir?",50,208/5,92/5,10,C
+"G = (V, E) bağlı, yönsüz bir çizge olsun ve a ile b, V'deki iki farklı köşe olsun. P_1, a ile b arasındaki en kısa basit yolu bulma problemi olsun ve P_2, a ile b arasındaki en uzun basit yolu bulma problemi olsun. P_1 ve P_2 hakkında aşağıdaki ifadelerden hangisi doğrudur?",Hem P_1 hem de P_2 polinom zamanda çözülebilir.,P_1 polinom zamanda çözülebilir ancak P_2'nin polinom zamanda çözülebilir olduğu bilinmemektedir.,P_1'in polinom zamanda çözülebilir olduğu bilinmiyor ancak P_2 polinom zamanda çözülebilir.,P_1 veya P_2'nin polinom zamanda çözülebilip çözülemeyeceği bilinmemektedir.,B
+Bir önbelleğin doğrudan eşleştirilmesinin önemli bir avantajı basitliğidir. Bu organizasyonun ana dezavantajı ise,amaçlanan veriye ve etiketine eş zamanlı erişime izin vermez,Diğer önbellek organizasyonu türlerine göre daha pahalıdır,"Önbellek isabet oranı, iki veya daha fazla blok dönüşümlü olarak kullanıldığında önbellekteki aynı blok çerçevesine eşlenirse düşer.",Erişim süresi diğer önbellek organizasyonlarından daha uzundur,C
+"M'nin tek bantlı, deterministik bir Turing makinesi olduğunu ve bant alfabesinin {boş,0,1} olduğunu varsayalım. C, M'nin boş bir bantla başlayan (muhtemelen sonsuz) hesaplamasını temsil etsin. Aşağıdaki her problemin girdisi M ve pozitif bir tamsayı n'dir. Aşağıdaki problemlerden hangisi (hangileri) karar verilebilirdir?
+I. C hesaplaması en az n adım sürer.
+II. C hesaplaması en az n adım sürer ve M, n'inci adımdan sonra bir noktada 1 yazdırır.
+III. M, C hesaplaması sırasında en az n farklı bant karesini tarar.",Hiçbiri,Sadece III,Yalnızca I ve II,Sadece I ve III,D
+"3 yollu, küme ilişkili bir önbellek",Ana belleğin her kelimesinin 3 önbellek konumundan herhangi birinde saklanabildiği bir sistem,İşlemci üzerinde dönüşümlü olarak 3 veya daha az işlem çalışıyorsa etkili,sadece geri yazma ile mümkün,erişimi doğrudan eşlemeli önbellekten daha hızlı,A
+"Tüm varlıkların nesne olduğu nesne yönelimli bir dil düşünün. İki ilişki ortaya çıkar: (1) bir nesne ile o nesnenin üyesi olduğu sınıf arasındaki örnek ilişkisi ve (2) bir sınıf ile o sınıfın özelliklerini miras aldığı üst sınıf arasındaki alt sınıf ilişkisi. Böyle bir dilde, bir nesneye yöntemlerinden (prosedürlerinden) birinin yürütülmesini isteyen bir mesaj gönderildiğinde, yöntem şu şekilde takip edilerek bulunur:",bir örnek bağlantısı ve ardından sıfır veya daha fazla alt sınıf bağlantısı,bir veya daha fazla örnek bağlantısı ve ardından bir veya daha fazla alt sınıf bağlantısı,bir veya daha fazla örnek bağlantısı,bir alt sınıf bağlantısı ve ardından bir veya daha fazla örnek bağlantısı,A
+"Boru hattı yapısına sahip bir RISC bilgisayarında, tüm aritmetik talimatların aynı CPI'ye (döngü başına talimat) sahip olduğu durumda, aşağıdaki eylemlerden hangisi tipik bir programın yürütme süresini iyileştirir?
+I. Saat döngüsü hızını artırmak
+II. Boru hattında herhangi bir ilerletmeye izin vermemek
+III. Saat döngüsü süresini değiştirmeden komut önbelleği ve veri önbelleği boyutlarını iki katına çıkarmak",Sadece,Sadece II,Sadece III,I ve III,D
+"Veri toplama ve kontrol için kullanılan bir mikrobilgisayarın, dört analog giriş sinyalini sürekli olarak (yani gerçek zamanlı) dijitalleştirmesi, işlemesi ve bunların ortalamasını çıktı olarak vermesi gerekmektedir. Bir CPU talimatıyla tetiklenen harici bir analog-dijital dönüştürücünün bir girişi dijitalleştirmesi için gereken süre 12 mikrosaniyedir ve bir seferde yalnızca bir dijitalleştirme gerçekleşir. Her sinyal dijitalleştirildiğinde, tetikleme talimatı dahil olmak üzere beş CPU talimatı yürütülmelidir. Her dört örnek setinin ortalamasını almak ve bu değeri çıktı olarak vermek için on CPU talimatı yürütülür. Çıktının dijitalden analog forma dönüştürülmesi için gereken süre göz ardı edilecektir. Uygun veri tamponlamasının kullanıldığı varsayılırsa, mikrobilgisayarın giriş-çıkış veri hızlarına ayak uydurmasına izin veren maksimum ortalama talimat yürütme süresi","0,8 mikrosaniye","1,2 mikrosaniye","1,6 mikrosaniye","2,4 mikrosaniye",C
+"Belirli bir yazılım ürününün arızalar arası ortalama süresinin 10.000 saat ve ortalama onarım süresinin 20 saat olduğunu varsayalım. Eğer ürün 100 müşteri tarafından kullanılıyorsa, kullanılabilirliği nedir?",%80,%90,%98,"%99,80",D

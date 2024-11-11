@@ -1,0 +1,412 @@
+Která z následujících možností je nejvhodnější definicí 99% intervalu spolehlivosti?,V 99 % případů opakovaných vzorků by interval obsahoval skutečnou hodnotu parametru.,V 99 % případů opakovaných vzorků by interval obsahoval odhadovanou hodnotu parametru.,V 99 % případů při opakovaných vzorcích bude nulová hypotéza zamítnuta.,"V 99 % případů při opakovaných vzorcích nebude nulová hypotéza zamítnuta, když byla nepravdivá.",A
+Jaký je hlavní rozdíl mezi přístupy Dickeyho-Fullera (DF) a Phillipse-Perrona (PP) k testování jednotkového kořene?,"ADF je přístup k testování jednotkového kořene pomocí jedné rovnice, zatímco PP je systémový přístup","PP testy obracejí nulovou a alternativní hypotézu DF testu tak, že stacionarita je přítomna v nulové hypotéze PP testu",PP test zahrnuje automatickou korekci pro autokorelované rezidua v testovací regresi,"PP testy mají dobrou sílu v malých vzorcích, zatímco DF testy nikoliv.",C
+"Pokud by v praxi existoval pákový efekt, jaký by byl tvar křivky dopadu zpráv pro model, který by tento pákový efekt zohledňoval?",Stoupalo by rychleji pro negativní poruchy než pro pozitivní poruchy stejné velikosti.,Bylo by to symetrické kolem nuly,Stoupalo by méně rychle pro negativní poruchy než pro pozitivní poruchy stejné velikosti,Pro všechny kladné poruchy by to bylo nula,A
+Které z následujících tvrzení je nepravdivé ohledně lineárního pravděpodobnostního modelu?,"V modelu není nic, co by zajistilo, že odhadované pravděpodobnosti leží mezi nulou a jedničkou.","I když jsou pravděpodobnosti oříznuty na nulu a jedničku, pravděpodobně bude mnoho pozorování, pro která je pravděpodobnost buď přesně nula, nebo přesně jedna.",Chybové členy budou heteroskedastické a nebudou normálně rozdělené,Model je mnohem obtížnější odhadnout než standardní regresní model se spojitou závislou proměnnou.,D
+Které z následujících tvrzení týkajících se regresní populace a vzorku je NEPRAVDIVÉ?,Populace je celkový soubor všech položek zájmu,Populace může být nekonečná,V teorii by vzorek mohl být větší než populace,"Náhodný vzorek je takový, kde každá jednotlivá položka z populace má stejnou pravděpodobnost, že bude vybrána.",C
+Která z následujících tvrzení je NESPRÁVNÁ ohledně srovnání statistik Box-Pierce Q a Ljung-Box Q* pro lineární závislost v časových řadách?,Asymptoticky budou hodnoty obou testových statistik stejné.,Q test má lepší vlastnosti pro malé vzorky než Q*,Q test je někdy nadměrně dimenzovaný pro malé vzorky,"S tím, jak se velikost vzorku blíží nekonečnu, budou oba testy vykazovat tendenci vždy zamítnout nulovou hypotézu nulových autokorelačních koeficientů.",B
+"Úsporný model je takový, který",Zahrnuje příliš mnoho proměnných,Zahrnuje co nejméně proměnných k vysvětlení dat,Je dobře specifikovaný model,Je chybně specifikovaný model,A
+Která z následujících možností NENÍ charakteristikou nepřetržitě složených výnosů (tj. logaritmických výnosů)?,Mohou být interpretovány jako nepřetržitě složené změny v cenách,"Mohou být postupně přidávány, aby poskytovaly výnosy po delší časová období",Mohou být přidány napříč portfoliem aktiv k získání výnosů portfolia,Obvykle mají tlusté ocasy,C
+"Která z následujících vlastností časových řad výnosů finančních aktiv by mohla být zachycena pomocí standardního modelu GARCH(1,1)?
+
+i) Těžké konce v rozdělení výnosů
+
+ii) Pákové efekty
+
+iii) Shlukování volatility
+
+iv) Volatilita ovlivňující výnosy",(ii) a (iv) pouze,(i) a (iii) pouze,"(i), (ii) a (iii) pouze","(i), (ii), (iii) a (iv)",B
+"Zvažte odhad modelu GARCH-M. Pokud by použitá data byla časovou řadou denních procentuálních výnosů korporátních dluhopisů, jakou hodnotu byste očekávali u odhadu parametru GARCH-in-mean?",Méně než -1,Mezi -1 a 0,Mezi 0 a 1,Větší než 1,C
+"Ve které z následujících situací by bylo upřednostňováno bootstrapping před čistou simulací?
+
+i) Pokud je žádoucí, aby distribuční vlastnosti dat v experimentu byly stejné jako u skutečných dat
+
+ii) Pokud je žádoucí, aby distribuční vlastnosti dat v experimentu byly přesně známy
+
+iii) Pokud jsou distribuční vlastnosti skutečných dat neznámé
+
+iv) Pokud je dostupný vzorek skutečných dat velmi malý",(ii) a (iv) pouze,(i) a (iii) pouze,"(i), (ii) a (iv) pouze","(i), (ii), (iii) a (iv)",B
+"Které z následujících mohou být důsledky porušení jednoho nebo více předpokladů CLRM?
+
+i) Odhady koeficientů nejsou optimální
+
+ii) Odhady standardní chyby nejsou optimální
+
+iii) Předpokládané distribuce pro testové statistiky jsou nevhodné
+
+iv) Závěry týkající se síly vztahů mezi závislými a nezávislými proměnnými mohou být neplatné.",(ii) a (iv) pouze,(i) a (iii) pouze,"(i), (ii) a (iii) pouze","(i), (ii), (iii) a (iv)",D
+Které z následujících tvrzení je pravdivé ohledně prognózování v ekonometrii?,Předpovědi lze provádět pouze pro časové řady dat,Nesprávně specifikované modely určitě produkují nepřesné předpovědi,Strukturální prognózy je jednodušší vytvořit než prognózy z modelů časových řad,Schopnost předpovědi v rámci vzorku je špatným testem adekvátnosti modelu,D
+Pacf je nezbytný pro rozlišení mezi,AR model a MA model,Model AR a model ARMA,Model MA a model ARMA,Různé modely z rodiny ARMA,B
+Který z následujících ukazatelů naznačuje negativní reziduální autokorelaci?,Cyklický vzor v reziduích,Střídavý vzor v reziduích,Úplná náhodnost v reziduích,"Rezidua, která jsou všechna blízko nule",B
+"Které z následujících tvrzení jsou pravdivé ohledně srovnání modelů ARCH(q) a GARCH(1,1)?
+
+i) Model ARCH(q) bude pravděpodobně úspornější
+
+ii) U modelu ARCH(q) je pravděpodobnější, že poruší omezení nezápornosti
+
+iii) Model ARCH(q) může umožnit, aby nekonečný počet předchozích zpožděných hodnot druhých mocnin výnosů ovlivnil současný podmíněný rozptyl
+
+iv) Model GARCH(1,1) obvykle postačí k zachycení veškeré závislosti v podmíněném rozptylu",(ii) a (iv) pouze,(i) a (iii) pouze,"(i), (ii) a (iii) pouze","(i), (ii), (iii) a (iv)",A
+"Které z následujících tvrzení jsou pravdivé ohledně trojúhelníkového nebo rekurzivního systému?
+
+i) Parametry lze platně odhadnout pomocí samostatných aplikací OLS na každou rovnici
+
+ii) Nezávislé proměnné mohou korelovat s chybovými členy v jiných rovnicích
+
+iii) Aplikace 2SLS by vedla k nevychýleným, ale neefektivním odhadům parametrů
+
+iv) Nezávislé proměnné mohou korelovat s chybovými členy v rovnicích, ve kterých se objevují jako nezávislé proměnné",(ii) a (iv) pouze,(i) a (iii) pouze,"(i), (ii) a (iii) pouze","(i), (ii), (iii) a (iv)",C
+Které z následujících tvrzení nejlépe popisuje algebraickou reprezentaci proložené regresní přímky?,\hat{y}_t = \hat{\alpha} + \hat{\beta}x_t + \hat{u}_t,\hat{y}_t = \hat{\alpha} + \hat{\beta}x_t,\hat{y}_t = \hat{\alpha} + \hat{\beta}x_t + u_t,y_t = \hat{\alpha} + \hat{\beta}x_t + \hat{u}_t,B
+Jaké jsou rozměry $\hat{u}^t \hat{u}?,T x k,T x 1,k x 1,1 x 1,D
+"Charakteristické kořeny procesu MA
+
+$y_t = -3u_{t-1} + u_{t-2} + u_t$
+
+jsou",1 a 2,"1 a 0,5","2 a -0,5",1 a -3,B
+"Který z následujících výrazů je ekvivalentní pro vyjádření, že vysvětlující proměnná je ""nestochastická""?",Vysvětlující proměnná je částečně náhodná,Vysvětlující proměnná je v opakovaných vzorcích fixní,Vysvětlující proměnná je korelována s chybami,Vysvětlující proměnná má vždy hodnotu jedna,B
+"Předpokládejme, že Durbinův-Watsonův test je aplikován na regresi obsahující dvě vysvětlující proměnné plus konstantu s 50 datovými body. Testová statistika nabývá hodnoty 1,53. Jaký je vhodný závěr?",Rezidua se zdají být pozitivně autokorelována,Rezidua se zdají být negativně autokorelována,Rezidua se nezdají být autokorelována,Výsledek testu je neprůkazný,D
+"Pokud je OLS použita v přítomnosti autokorelace, které z následujících budou pravděpodobné důsledky?
+
+i) Odhady koeficientů mohou být zavádějící
+
+ii) Testy hypotéz by mohly dospět k nesprávným závěrům
+
+iii) Prognózy vytvořené z modelu by mohly být zkreslené
+
+iv) Standardní chyby mohou být nevhodné",(ii) a (iv) pouze,(i) a (iii) pouze,"(i), (ii) a (iii) pouze","(i), (ii), (iii) a (iv)",A
+Jaké budou vlastnosti OLS estimátoru v přítomnosti multikolinearity?,"Bude to konzistentní, nestranné a efektivní","Bude to konzistentní a nestranné, ale ne efektivní","Bude to konzistentní, ale ne nestranné",Nebude to konzistentní,A
+Která z následujících možností by NEBYLA důsledkem použití nestacionárních dat v úrovňové formě?,Regresní $R^2$ může být falešně vysoké,Testové statistiky nemusí sledovat standardní rozdělení,Statistické závěry mohou být neplatné,Odhady parametrů mohou být zkreslené,D
+"Pokud série y sleduje náhodnou procházku, jaká je optimální jednoroční předpověď y?",Aktuální hodnota y,Nula,Jeden,Průměrná hodnota y za období v rámci vzorku,A
+Podmínka objednávky je,Nutná a postačující podmínka pro identifikaci,"Nutná, ale nikoli postačující podmínka pro identifikaci","Postačující, ale nikoli nutná podmínka pro identifikaci","Podmínka, která není ani nutná, ani dostačující pro identifikaci",B
+"Pokud se o odhadovači říká, že má minimální rozptyl, které z následujících tvrzení NENÍ implikováno?","Pravděpodobnost, že odhad je daleko od své skutečné hodnoty, je minimalizována.",Odhadce je efektivní,"Takový odhad by byl označen jako ""nejlepší""",Takový odhad bude vždy nestranný,D
+"Které z následujících možností jsou nevýhody přístupu Dickey-Fuller / Engle-Granger k testování kointegrace a modelování kointegračních vztahů?
+
+i) Lze odhadnout pouze jeden kointegrační vztah
+
+ii) Zejména u malých vzorků existuje vysoká pravděpodobnost, že testy naznačí, že proměnné nejsou kointegrovány, i když ve skutečnosti jsou
+
+iii) Není možné vyvozovat závěry o kointegrační regresi
+
+iv) Postup nutí výzkumníka specifikovat, která proměnná je závislá a které jsou nezávislé proměnné.",(ii) a (iv) pouze,(i) a (iii) pouze,"(i), (ii) a (iii) pouze","(i), (ii), (iii) a (iv)",D
+Které z následujících tvrzení je pravdivé ohledně populační regresní funkce (PRF) a výběrové regresní funkce (SRF)?,PRF je odhadovaný model,PRF se používá k odvození pravděpodobných hodnot SRF,Zda je model dobrý lze určit porovnáním SRF a PRF,"PRF je popis procesu, o kterém se předpokládá, že generuje data.",D
+"Který z následujících bodů je nevýhodou přístupu od obecného ke konkrétnímu neboli přístupu ""LSE"" (""Hendry"") při vytváření ekonometrických modelů ve srovnání s přístupem od konkrétního k obecnému?","Některé proměnné mohou být vyloučeny v první fázi, což vede ke zkreslení koeficientů",Konečný model může postrádat teoretickou interpretaci,Konečný model může být statisticky nedostatečný,"Pokud je počáteční model nesprávně specifikován, všechny následující kroky budou neplatné.",B
+"Které z následujících tvrzení jsou pravdivé ohledně odhadu metodou maximální věrohodnosti (ML) v kontextu modelů GARCH?
+
+i) Odhad metodou maximální věrohodnosti vybírá hodnoty parametrů, které maximalizují pravděpodobnost, že bychom skutečně pozorovali hodnoty řady y, které jsme skutečně pozorovali.
+
+ii) Modely GARCH lze odhadovat pouze metodou ML a nikoli metodou OLS.
+
+iii) Pro odhad standardního lineárního modelu (bez GARCH) budou odhady OLS a ML pro parametry sklonu a průsečíku identické, ale odhad rozptylu poruch je mírně odlišný.
+
+iv) Většina počítačových programů používá k odhadu modelů GARCH numerické postupy spíše než sadu analytických vzorců.",(ii) a (iv) pouze,(i) a (iii) pouze,"(i), (ii) a (iii) pouze","(i), (ii), (iii) a (iv)",D
+Zahrnutí relevantních zpožděných hodnot závislé proměnné na pravé straně regresní rovnice by mohlo vést ke kterému z následujících?,"Vychýlené, ale konzistentní odhady koeficientů",Zkreslené a nekonzistentní odhady koeficientů,"Nevychýlené, ale nekonzistentní odhady koeficientů","Nevychýlené a konzistentní, ale neefektivní odhady koeficientů.",A
+Který z následujících faktorů pravděpodobně povede k relativně vysoké míře přesnosti prognózy mimo vzorek?,Model založený na finanční teorii,Model obsahující mnoho proměnných,"Model, jehož závislá proměnná nedávno vykazovala strukturální změnu","Model, který je zcela statistické povahy bez prostoru pro subjektivní úpravu prognóz",A
+"Které z následujících jsou přijatelné přístupy k řešení reziduální autokorelace?
+
+i) Použít logaritmy každé z proměnných
+
+ii) Přidat zpožděné hodnoty proměnných do regresní rovnice
+
+iii) Použít dummy proměnné k odstranění odlehlých pozorování
+
+iv) Vyzkoušet model v první diferencované formě namísto v úrovních.",(ii) a (iv) pouze,(i) a (iii) pouze,"(i), (ii) a (iii) pouze","(i), (ii), (iii) a (iv)",A
+Aby byl autoregresivní proces považován za stacionární,Všechny kořeny charakteristické rovnice musí ležet uvnitř jednotkové kružnice,Kořeny charakteristické rovnice musí všechny ležet na jednotkové kružnici,Všechny kořeny charakteristické rovnice musí ležet mimo jednotkovou kružnici,Všechny kořeny charakteristické rovnice musí být v absolutní hodnotě menší než jedna,C
+"Které z následujících tvrzení jsou pravdivé ohledně informačních kritérií?
+
+(i) Upravený koeficient determinace R² je informační kritérium
+
+(ii) Pokud se reziduální součet čtverců sníží při přidání dalšího členu, hodnota informačního kritéria klesne
+
+(iii) Akaikeho informační kritérium vždy vede k řádům modelu, které jsou přinejmenším stejně velké jako ty u Schwarzova informačního kritéria
+
+(iv) Akaikeho informační kritérium je konzistentní",(ii) a (iv) pouze,(i) a (iii) pouze,"(i), (ii) a (iii) pouze","(i), (ii), (iii) a (iv)",B
+"""Within transform"" zahrnuje",Výpočet průměrných hodnot proměnných,Odečtení průměru každé entity od každého pozorování této entity,Odhad modelu panelových dat pomocí metody nejmenších čtverců s dummy proměnnými,Použití časových dummy proměnných i průřezových dummy proměnných v panelovém modelu s fixními efekty,B
+"Účelem ""rozšíření"" regrese Dickeyova-Fullerova testu je","Zajistěte, aby v reziduích testovací regrese nebyla přítomna heteroskedasticita.","Zajistěte, aby reziduály regresního testu byly normálně rozloženy","Zajistěte, aby v reziduích testovací regrese nebyla žádná autokorelace","Zajistěte, aby byla zohledněna veškerá nestacionarita.",C
+"Pokud série y sleduje náhodnou procházku s driftem b, jaká je optimální jednoroční předpověď změny y?",Aktuální hodnota y,Nula,Jeden,Průměrná hodnota změny y během období v rámci vzorku,D
+"Které z následujících jsou přijatelné přístupy k řešení modelu, který vykazuje heteroskedasticitu?
+
+i) Použít logaritmy každé z proměnných
+
+ii) Použít vhodně upravené standardní chyby
+
+iii) Použít zobecněnou metodu nejmenších čtverců
+
+iv) Přidat zpožděné hodnoty proměnných do regresní rovnice.",(ii) a (iv) pouze,(i) a (iii) pouze,"(i), (ii) a (iii) pouze","(i), (ii), (iii) a (iv)",C
+"Které z následujících tvrzení jsou pravdivé ohledně standardizovaných reziduí (rezidua dělená jejich příslušnými podmíněnými směrodatnými odchylkami) z odhadnutého modelu GARCH?
+
+i) Předpokládá se, že mají normální rozdělení
+
+ii) Jejich druhé mocniny budou souviset s jejich zpožděnými druhými mocninami, pokud je model GARCH vhodný
+
+iii) V praxi budou pravděpodobně mít těžké konce
+
+iv) Pokud je model GARCH adekvátní, standardizovaná rezidua a surová rezidua budou identická",(ii) a (iv) pouze,(i) a (iii) pouze,"(i), (ii) a (iii) pouze","(i), (ii), (iii) a (iv)",B
+Které z následujících tvrzení je pravdivé ohledně modelů VAR?,Odhady koeficientů mají intuitivní teoretické interpretace,Odhady koeficientů mají obvykle stejné znaménko pro všechna zpoždění dané proměnné v dané rovnici,VARy často produkují lepší prognózy než simultánní rovnicové strukturální modely,"Všechny složky VAR musí být stacionární, než může být použit pro prognózování",C
+Které z následujících tvrzení je NESPRÁVNÉ ohledně klasického rámce testování hypotéz?,"Pokud je nulová hypotéza zamítnuta, alternativní hypotéza je přijata.","Nulová hypotéza je tvrzení, které je testováno, zatímco alternativní hypotéza zahrnuje zbývající výsledky zájmu.",Test významnosti a přístupy založené na intervalech spolehlivosti vždy povedou ke stejným závěrům.,Testy hypotéz se používají k vyvozování závěrů o parametrech populace.,A
+"Model ARMA(p,q) (p, q jsou celá čísla větší než nula) bude mít","ACF a PACF, které obě klesají geometricky","ACF, která klesá geometricky, a PACF, která je nulová po p zpožděních","ACF, která klesá geometricky, a PACF, která je nulová po q zpožděních","Acf, která je nulová po p zpožděních, a pacf, která je nulová po q zpožděních",A
+"Předpokládejme, že následující regrese je odhadnuta pomocí 27 čtvrtletních pozorování:
+
+$y_t = \beta_1 + \beta_2 x_2 + \beta_3 x_{3t} + u_t$
+
+Jaká je příslušná kritická hodnota pro oboustranný test o velikosti 5 % pro nulovou hypotézu $H_0: \beta_3 = 1$?","1,64","1,71","2,06","1,96",C
+"Předpokládejme, že dva výzkumníci, používající stejné 3 proměnné a stejných 250 pozorování pro každou proměnnou, odhadují VAR. Jeden odhaduje VAR(6), zatímco druhý odhaduje VAR(4). Determinanty kovariančních matic reziduí pro každý VAR jsou 0,0036 a 0,0049. Jaká je hodnota testové statistiky pro provedení testu, zda VAR(6) může být omezen na VAR(4)?","77,07","0,31","0,33","4,87",A
+Která z následujících možností je NEVÝHODOU používání čistých modelů časových řad (ve srovnání se strukturálními modely)?,Nejsou teoreticky motivováni,Nemohou snadno vytvářet předpovědi,Nelze je použít pro data s velmi vysokou frekvencí,Je obtížné určit vhodné vysvětlující proměnné pro použití v čistě časových řadách modelů,A
+"Které z následujících jsou alternativní názvy pro závislou proměnnou (obvykle označovanou y) v analýze lineární regrese?
+
+(i) Regresor
+
+(ii) Regresor
+
+(iii) Vysvětlovaná proměnná
+
+(iv) Vysvětlující proměnná",(ii) a (iv) pouze,(i) a (iii) pouze,"(i), (ii) a (iii) pouze","(i), (ii), (iii) a (iv)",B
+"Které z následujících možností jsou výhody přístupu VAR k modelování vztahu mezi proměnnými ve srovnání s odhadem plných strukturálních modelů?
+
+i) VAR modely jsou silně motivovány finanční a ekonomickou teorií
+
+ii) VAR modely ve své redukované formě lze snadno použít k vytváření časových prognóz
+
+iii) VAR modely jsou typicky vysoce úsporné
+
+iv) OLS lze aplikovat samostatně na každou rovnici v redukované formě VAR",(ii) a (iv) pouze,(i) a (iii) pouze,"(i), (ii) a (iii) pouze","(i), (ii), (iii) a (iv)",A
+Které z následujících tvrzení je PRAVDIVÉ ohledně standardního regresního modelu?,y má pravděpodobnostní rozdělení,x má pravděpodobnostní rozdělení,"Předpokládá se, že chybový člen je korelován s x",Pro adekvátní model bude reziduál (u-hat) nulový pro všechny body vzorku dat,A
+"Uvažujte následující model pro $y_t$:
+
+$y_t = \mu + \lambda t + u_t$
+
+Který z následujících popisů nejpřesněji charakterizuje proces pro $y_t$?",Proces jednotkového kořene,Stacionární proces,Deterministický trendový proces,Náhodná procházka s trendem,C
+Která z následujících možností je správná ohledně logitových a probitových modelů?,"Používají jinou metodu transformace modelu tak, aby pravděpodobnosti ležely mezi nulou a jedničkou.","Logitový model může vést k příliš mnoha pozorováním, která padnou přesně na nulu nebo přesně na jedničku.","Pro logitový model je mezní efekt změny jedné z vysvětlujících proměnných jednoduše odhad parametru připojeného k této proměnné, zatímco u probitového modelu tomu tak není.",Probitový model je založen na kumulativní logistické funkci,A
+"Jaká je nejdůležitější nevýhoda diagonálního přístupu VECH při vytváření vícerozměrných modelů GARCH, která je překonána formulací BEKK?",Diagonální model VECH je obtížné intuitivně interpretovat.,Diagonální model VECH obsahuje příliš mnoho parametrů,Diagonální model VECH nezaručuje pozitivně definitní variančně-kovarianční matici,"Model BEKK snižuje problém dimenzionality, který vzniká při společném modelování většího počtu časových řad.",C
+"Pokud je relevantní proměnná vynechána z regresní rovnice, důsledky by byly následující:
+
+i) Standardní chyby by byly zkreslené
+
+ii) Pokud je vyloučená proměnná nekorelovaná se všemi zahrnutými proměnnými, všechny koeficienty sklonu budou nekonzistentní.
+
+iii) Pokud je vyloučená proměnná nekorelovaná se všemi zahrnutými proměnnými, koeficient průsečíku bude nekonzistentní.
+
+iv) Pokud je vyloučená proměnná nekorelovaná se všemi zahrnutými proměnnými, všechny koeficienty sklonu a průsečíku budou konzistentní a nezkreslené, ale neefektivní.",(ii) a (iv) pouze,(i) a (iii) pouze,"(i), (ii) a (iii) pouze","(i), (ii), (iii) a (iv)",C
+"Které z následujících jsou alternativní názvy pro nezávislou proměnnou (obvykle označovanou x) v analýze lineární regrese?
+
+(i) Regresor
+
+(ii) Regresand
+
+(iii) Příčinná proměnná
+
+(iv) Efektová proměnná",(ii) a (iv) pouze,(i) a (iii) pouze,"(i), (ii) a (iii) pouze","(i), (ii), (iii) a (iv)",B
+"Zvažte OLS odhad standardní chyby koeficientu sklonu. Které z následujících tvrzení jsou pravdivá?
+
+(i) Standardní chyba bude pozitivně souviset s reziduálním rozptylem
+
+(ii) Standardní chyba bude negativně souviset s rozptylem pozorování vysvětlující proměnné kolem jejich střední hodnoty
+
+(iii) Standardní chyba bude negativně souviset s velikostí vzorku
+
+(iv) Standardní chyba poskytuje míru přesnosti odhadu koeficientu.",(ii) a (iv) pouze,(i) a (iii) pouze,"(i), (ii) a (iii) pouze","(i), (ii), (iii) a (iv)",D
+"Jaký je význam pojmu ""heteroskedasticita""?",Rozptyl chyb není konstantní,Rozptyl závislé proměnné není konstantní,Chyby nejsou navzájem lineárně nezávislé,Chyby mají nenulovou střední hodnotu,A
+"Pokud se Durbinova-Watsonova statistika blíží nule, jaká bude hodnota autokorelačního koeficientu prvního řádu?",Blízko nuly,Blízko k plus jedné,Blízko k minus jedné,"Blízko buď k minus jedné, nebo plus jedné",C
+Za nulové hypotézy Bera-Jarqueova testu má rozdělení,Nulová šikmost a nulová špičatost,Nulová šikmost a špičatost tři,Šikmost jedna a špičatost nula,Šikmost jedna a špičatost tři.,B
+"Pokud se o odhadci říká, že je konzistentní, znamená to, že",V průměru se odhadované hodnoty koeficientů budou rovnat skutečným hodnotám,Odhadce OLS je nestranný a žádný jiný nestranný odhadce nemá menší rozptyl.,Odhady se budou přibližovat skutečným hodnotám s rostoucí velikostí vzorku,"Odhady koeficientů budou co nejblíže svým skutečným hodnotám jak pro malé, tak pro velké vzorky.",C
+Která z následujících možností je typickou charakteristikou časových řad výnosů finančních aktiv?,Jejich rozdělení mají tenké konce,Nejsou slabě stacionární,Jsou vysoce autokorelované,Nemají žádný trend,D
+"Které z následujících předpokladů jsou nezbytné k prokázání konzistence, nestrannosti a efektivity OLS estimátoru?
+
+i) $E(u_t) = 0$
+
+ii) $\text{Var}(u_t) = \sigma^2$
+
+iii) $\text{Cov}(u_t, u_{t-j}) = 0 \forall j$
+
+iv) $u_t \sim N(0, \sigma^2)$",(ii) a (iv) pouze,(i) a (iii) pouze,"(i), (ii) a (iii) pouze","(i), (ii), (iii) a (iv)",C
+Která z následujících možností je nevýhodou přístupu fixních efektů při odhadování panelového modelu?,Model bude pravděpodobně technicky náročný na odhad,"Tento přístup nemusí být platný, pokud je složená chybová složka korelována s jednou nebo více vysvětlujícími proměnnými.","Počet parametrů, které je třeba odhadnout, může být velký, což vede ke ztrátě stupňů volnosti.","Přístup s fixními efekty může zachytit pouze průřezovou heterogenitu, nikoli časovou variaci v závislé proměnné.",C
+"Uvažujte stejnou situaci jako v otázce 21, s tím rozdílem, že nyní je použita oboustranná alternativa. Jaký by nyní byl vhodný závěr?",H0 je zamítnuta,H0 není zamítnuta,H1 je zamítnuta,K vyvození závěru není v otázce poskytnuto dostatek informací.,A
+Cena domu je nejlépe popsána jako jaký typ čísla?,Diskrétní,Kardinál,Ordinální,Nominální,B
+"Pokud je Johansenův ""trace"" test pro nulovou hypotézu 2 kointegrujících vektorů aplikován na systém obsahující 4 proměnné, které vlastní hodnoty by byly použity v testu?",Všichni,Největší 2,Nejmenší 2,Druhý největší,C
+"Která z následujících tvrzení je pravdivá ohledně analýzy rozkladu rozptylu VAR modelů?
+
+i) Rozklady rozptylu měří dopad jednotkového šoku každé z proměnných na VAR
+
+ii) Rozklady rozptylu lze chápat jako měření podílu rozptylu chyby předpovědi, který lze přičíst každé proměnné
+
+iii) Pořadí proměnných je důležité pro výpočet impulzních odezev, ale ne pro rozklady rozptylu
+
+iv) Je obvyklé, že většina rozptylu chyby předpovědi pro danou proměnnou je přičitatelná šokům této proměnné",(ii) a (iv) pouze,(i) a (iii) pouze,"(i), (ii) a (iii) pouze","(i), (ii), (iii) a (iv)",A
+"Předpokládejme, že jsme odhadli model GARCH pro denní výnosy akcií a zajímá nás vytvoření 10denní předpovědi volatility (měřené směrodatnou odchylkou výnosů) pro použití v modelu hodnoty v riziku. Jak by se taková předpověď mohla nejplatněji vypočítat?","Vytvořte podmíněné předpovědi rozptylu pro 1, 2, 3, ..., 10 kroků dopředu a sečtěte je","Vytvořte podmíněné předpovědi rozptylu pro 1, 2, 3, ..., 10 kroků dopředu, sečtěte je a vypočítejte druhou odmocninu","Vytvořte podmíněné předpovědi rozptylu pro 1, 2, 3, ..., 10 kroků dopředu, vypočítejte odmocninu z každé z nich a sečtěte je","Vytvořte podmíněnou předpověď rozptylu na 1 krok dopředu, vypočítejte její odmocninu a vynásobte ji odmocninou z 10",B
+"Předpokládejme, že hodnota $R^2$ pro odhadovaný regresní model je přesně nula. Které z následujících tvrzení jsou pravdivé?
+
+i) Všechny odhady koeficientů sklonů budou nulové
+
+ii) Proložená přímka bude horizontální vzhledem ke všem vysvětlujícím proměnným
+
+iii) Regresní přímka nevysvětlila žádnou variabilitu y kolem její střední hodnoty
+
+iv) Odhad koeficientu průsečíku musí být nulový.",(ii) a (iv) pouze,(i) a (iii) pouze,"(i), (ii) a (iii) pouze","(i), (ii), (iii) a (iv)",C
+"Proces bílého šumu bude mít
+
+(i) Nulovou střední hodnotu
+
+(ii) Konstantní rozptyl
+
+(iii) Autokovariance, které jsou konstantní
+
+(iv) Autokovariance, které jsou nulové kromě nulového zpoždění",(ii) a (iv) pouze,(i) a (iii) pouze,"(i), (ii) a (iii) pouze","(i), (ii), (iii) a (iv)",A
+"Které z následujících tvrzení jsou pravdivé ohledně Box-Jenkinsova přístupu k diagnostickému testování modelů ARMA?
+
+(i) Testy ukážou, zda je identifikovaný model příliš velký nebo příliš malý
+
+(ii) Testy zahrnují kontrolu reziduí modelu na autokorelaci, heteroskedasticitu a nenormalitu
+
+(iii) Pokud je model navržený ve fázi identifikace vhodný, acf a pacf pro rezidua by neměly vykazovat žádnou další strukturu
+
+(iv) Pokud je model navržený ve fázi identifikace vhodný, koeficienty dodatečných proměnných při přístupu nadměrného přizpůsobení budou statisticky nevýznamné",(ii) a (iv) pouze,(i) a (iii) pouze,"(i), (ii) a (iii) pouze","(i), (ii), (iii) a (iv)",A
+Která z následujících možností by byla pravděpodobnou reakcí na zjištění zbytkové nenormality?,Použijte logaritmickou funkční formu místo lineární,Přidejte zpoždění proměnných na pravé straně regresního modelu,Odhadněte model v první diferencované formě,Odstraňte z dat všechny výrazné odlehlé hodnoty.,D
+Model panelu s fixními efekty je také někdy znám jako,Zdánlivě nesouvisející regresní model,Přístup nejmenších čtverců s pomocnými proměnnými,Model náhodných efektů,Heteroskedasticita a autokorelace konzistentní,B
+Které z následujících tvrzení je PRAVDIVÉ ohledně odhadu metodou nejmenších čtverců (OLS)?,OLS minimalizuje součet vertikálních vzdáleností od bodů k přímce,OLS minimalizuje součet čtverců vertikálních vzdáleností od bodů k přímce,OLS minimalizuje součet horizontálních vzdáleností od bodů k přímce,OLS minimalizuje součet čtverců vodorovných vzdáleností od bodů k přímce.,B
+"Pokud standardní nástroje pro analýzu časových řad, jako je odhad acf, pacf a spektrální analýza, nenajdou žádné důkazy o struktuře v datech, znamená to, že data jsou které z následujících?",Normálně rozložený,Nekorelovaný,Nezávislý,Tlustochvostý,B
+"Pokud se říká, že dvě proměnné, $x_t$ a $y_t$, jsou kointegrované, které z následujících tvrzení jsou pravdivé?
+
+i) $x_t$ a $y_t$ musí být obě stacionární
+
+ii) Pouze jedna lineární kombinace $x_t$ a $y_t$ bude stacionární
+
+iii) Kointegrační rovnice pro $x_t$ a $y_t$ popisuje krátkodobý vztah mezi těmito dvěma řadami
+
+iv) Rezidua regrese $y_t$ na $x_t$ musí být stacionární",(ii) a (iv) pouze,(i) a (iii) pouze,"(i), (ii) a (iii) pouze","(i), (ii), (iii) a (iv)",A
+"Závislá proměnná, jejíž hodnoty nejsou pozorovatelné mimo určitý rozsah, ale kde jsou stále k dispozici odpovídající hodnoty nezávislých proměnných, by byla nejpřesněji popsána jako jaký druh proměnné?",Cenzurováno,Zkráceno,Multinomiální proměnná,Diskrétní volba,A
+Hausmanův test by se použil pro,"Určení, zda je rovnice, která je součástí simultánního systému, identifikována","Určení, zda je pro konkrétní proměnnou potřebný simultánní rámec","Určení, zda je optimální 2SLS nebo ILS","Určení, zda lze strukturální rovnice získat substitucí z redukovaných forem",B
+"V maticovém zápisu klasického lineárního regresního modelu, $y = X \beta + u$, jaké jsou rozměry $u$?",T x k,T x 1,k x 1,1 x 1,B
+"Kolik parametrů bude celkem potřeba odhadnout pro všechny rovnice standardní formy neomezeného třídimenzionálního VAR(4) modelu, bez započítání konstant?",12,4,3,36,D
+"Výzkumník testuje strukturální stabilitu v následujícím regresním modelu:
+
+$y_t = \beta_1 + \beta_2 x_{2t} + \beta_3 x_{3t} + u_t$
+
+Celkový vzorek 200 pozorování je rozdělen přesně na polovinu pro dílčí regrese. Co by bylo neomezené reziduální součty čtverců?",RSS pro celý vzorek,RSS pro první dílčí vzorek,RSS pro druhý dílčí vzorek,Součet RSS pro první a druhý dílčí vzorek,D
+"Předpokládejme, že se zajímáme o testování nulové hypotézy, že model GARCH(2,2) může být omezen na proces s konstantním podmíněným rozptylem pomocí přístupu testu poměru věrohodnosti. Které z následujících tvrzení jsou pravdivé?",Testová statistika bude za nulové hypotézy následovat chí-kvadrát rozdělení se 2 stupni volnosti.,Hodnota funkce věrohodnosti bude téměř vždy větší pro omezený model než pro neomezený model.,"Pokud jsou relevantní hodnoty funkcí logaritmické věrohodnosti -112,3 a -118,4, hodnota testové statistiky je 12,2.",Test poměru věrohodnosti porovnává sklony funkce logaritmické věrohodnosti v maximu a v omezené hodnotě parametru.,C
+Která z následujících možností NENÍ pravděpodobným řešením blízké multikolinearity?,Použijte analýzu hlavních komponent,Vynechte jednu z kolineárních proměnných,Použijte delší řadu dat,Vezměte logaritmy každé z proměnných,D
+"Uvažujme následující AR(2) proces:
+
+yt = 1.5 yt-1 - 0.5 yt-2 + ut
+
+Toto je",Stacionární proces,Proces jednotkového kořene,Výbušný proces,Stacionární a jednotkový kořenový proces,B
+Který z následujících testů by mohl být použit pro testování autokorelace až do třetího řádu?,Durbinův-Watsonův test,Whiteův test,Test RESET,Breuschův-Godfreyův test,D
+Reziduum ze standardního regresního modelu je definováno jako,"Rozdíl mezi skutečnou hodnotou, y, a průměrem, y s pruhem","Rozdíl mezi odhadnutou hodnotou, y s kloboučkem, a průměrem, y s pruhem","Rozdíl mezi skutečnou hodnotou, y, a odhadnutou hodnotou, y s kloboučkem","Čtverec rozdílu mezi odhadnutou hodnotou, y s kloboučkem, a průměrem, y s pruhem",C
+"Pokud je OLS aplikována samostatně na každou rovnici, která je součástí simultánního systému, výsledné odhady budou",Nestranný a konzistentní,"Předpojaté, ale konzistentní",Předpojatý a nekonzistentní,"Je nemožné aplikovat metodu nejmenších čtverců na rovnice, které jsou součástí simultánního systému.",C
+Která z následujících možností NENÍ příkladem nesprávné specifikace funkční formy?,"Použití lineární specifikace, když y se mění jako funkce druhých mocnin x","Použití lineární specifikace, když by byl vhodnější dvojitě logaritmický model","Modelování y jako funkce x, když ve skutečnosti se mění jako funkce 1/x",Vyloučení relevantní proměnné z modelu lineární regrese,D
+"Předpokládejme, že bychom chtěli vyhodnotit faktory, které ovlivňují pravděpodobnost, že investor zvolí akciový fond spíše než dluhopisový fond nebo hotovostní investici. Která třída modelu by byla nejvhodnější?",Logitový model,Multinomiální logit,Tobitův model,Ordinální logistický model,B
+"Které z následujících tvrzení budou pravdivé, pokud je počet replikací použitých v Monte Carlo studii malý?
+
+i) Statistika zájmu může být odhadnuta nepřesně
+
+ii) Výsledky mohou být ovlivněny nereprezentativními kombinacemi náhodných tahů
+
+iii) Standardní chyby odhadovaných veličin mohou být nepřijatelně velké
+
+iv) Techniky redukce rozptylu lze použít ke snížení standardních chyb",(ii) a (iv) pouze,(i) a (iii) pouze,"(i), (ii) a (iv) pouze","(i), (ii), (iii) a (iv)",D
+Která z následujících možností je nevýhodou přístupu náhodných efektů při odhadování panelového modelu?,"Tento přístup nemusí být platný, pokud je složená chybová složka korelována s jednou nebo více vysvětlujícími proměnnými.","Počet parametrů, které je třeba odhadnout, může být velký, což vede ke ztrátě stupňů volnosti.","Přístup náhodných efektů může zachytit pouze průřezovou heterogenitu, nikoli časovou variaci v závislé proměnné.",Všechny body (a) až (c) jsou potenciální nevýhody přístupu náhodných efektů.,A
+"Které z následujících možností by mohly vést k autokorelovaným reziduím?
+
+i) Pomalá reakce závislé proměnné na změny hodnot nezávislých proměnných
+
+ii) Přehnané reakce závislé proměnné na změny nezávislých proměnných
+
+iii) Vynechání relevantních vysvětlujících proměnných, které jsou autokorelované
+
+iv) Odlehlé hodnoty v datech",(ii) a (iv) pouze,(i) a (iii) pouze,"(i), (ii) a (iii) pouze","(i), (ii), (iii) a (iv)",C
+"Která z následujících tvrzení jsou pravdivá ohledně acf a pacf?
+
+(i) Acf a pacf jsou v praxi často obtížně interpretovatelné
+
+(ii) Acf a pacf může být pro některé datové soubory obtížné vypočítat
+
+(iii) Informační kritéria představují alternativní přístup k určení řádu modelu
+
+(iv) Pokud jsou správně aplikovány, acf a pacf vždy poskytnou jednoznačný výběr modelu",(ii) a (iv) pouze,(i) a (iii) pouze,"(i), (ii) a (iii) pouze","(i), (ii), (iii) a (iv)",C
+"Které z následujících podmínek jsou nezbytné, aby bylo možné sérii klasifikovat jako slabě stacionární proces?
+
+(i) Musí mít konstantní střední hodnotu
+
+(ii) Musí mít konstantní rozptyl
+
+(iii) Musí mít konstantní autokovariance pro dané zpoždění
+
+(iv) Musí mít konstantní pravděpodobnostní rozdělení",(ii) a (iv) pouze,(i) a (iii) pouze,"(i), (ii) a (iii) pouze","(i), (ii), (iii) a (iv)",C
+"Zvažte následující rovnici a určete třídu modelu, kterou nejlépe reprezentuje
+
+$y_{it} = \alpha + \beta_{it} + \mu_i + \nu_{it}$",Model fixních efektů entity,Model s fixními časovými efekty,Model náhodných efektů,Model čisté časové řady,A
+"Upozorňujeme, že statistické tabulky nejsou k zodpovězení této otázky nutné. Pro vzorek 1000 pozorování jsou hodnoty testové statistiky Dickeyho-Fullera",Zápornější než (tj. větší v absolutní hodnotě než) ty v levém konci normálního rozdělení,Méně negativní než (tj. menší v absolutní hodnotě než) ty v levém konci normálního rozdělení,Získáno z analytického vzorce pro hustotu Dickeyho-Fullerova rozdělení,Více negativní (tj. větší v absolutní hodnotě) pro 10% velikost testu než pro 5% test.,A
+"Předpokládejme, že je proveden test hypotézy s použitím 5% hladiny významnosti. Které z následujících tvrzení jsou správné?
+
+(i) Hladina významnosti se rovná velikosti testu
+
+(ii) Hladina významnosti se rovná síle testu
+
+(iii) 2,5 % celkového rozdělení bude v každé oblasti zamítnutí v ocasech pro dvoustranný test
+
+(iv) 5 % celkového rozdělení bude v každé oblasti zamítnutí v ocasech pro dvoustranný test.",(ii) a (iv) pouze,(i) a (iii) pouze,"(i), (ii) a (iii) pouze","(i), (ii), (iii) a (iv)",B
+Která z následujících kritik přístupu Dickeyho-Fullera/Engla-Grangera k řešení kointegrovaných proměnných je překonána postupem Engla-Yooa (EY)?,"V kontextu malých vzorků mají Dickey-Fullerovy testy tendenci dospět k závěru, že v řadě existuje jednotkový kořen, i když tomu tak není.","Engleův-Grangerův (EG) přístup může detekovat pouze jeden kointegrační vztah, i když jich může existovat více.",Proměnné jsou v kointegračních testech považovány za asymetrické,Není možné provádět testy o kointegračním vztahu,D
+"Uvažujte řadu, která sleduje MA(1) s nulovou střední hodnotou a koeficientem klouzavého průměru 0,4. Jaká je hodnota autokovariance při zpoždění 1?","0,4",1,"0,34",Není možné určit hodnotu autokovariancí bez znalosti rozptylu poruchy.,D
+"Které z následujících odhadových technik jsou k dispozici pro odhad nadidentifikovaných systémů simultánních rovnic?
+
+i) OLS
+
+ii) ILS
+
+iii) 2SLS
+
+iv) IV",(iii) pouze,(iii) a (iv) pouze,"(ii), (iii) a (iv) pouze","(i), (ii), (iii) a (iv)",B
+Který z následujících výroků nejlépe popisuje chybu typu II?,Je to pravděpodobnost nesprávného zamítnutí nulové hypotézy,Je to ekvivalentní síle testu,Je to ekvivalentní velikosti testu,"Je to pravděpodobnost, že se nepodaří zamítnout nulovou hypotézu, která byla nesprávná.",D
+Který z následujících intervalů by byl nejvhodnější jako 95% (oboustranný) interval spolehlivosti pro průsečík modelu uvedeného v otázce 21?,"(-4,79;2,19)","(-4,16;4,16)","(-1,98;1,98)","(-5,46;2,86)",D
+"Které z následujících jsou charakteristiky stacionárního procesu?
+
+i) Často překračuje svou střední hodnotu
+
+ii) Má konstantní střední hodnotu a rozptyl
+
+iii) Neobsahuje trendovou složku
+
+iv) Bude stacionární v první diferenční formě",(ii) a (iv) pouze,(i) a (iii) pouze,"(i), (ii) a (iii) pouze","(i), (ii), (iii) a (iv)",D
+"Uvažujte znovu o VAR modelu z rovnice 16. Která z následujících podmínek musí platit, aby se dalo říci, že existuje obousměrná zpětná vazba?",Koeficienty b a d jsou významné a koeficienty a a c jsou nevýznamné,Koeficienty a a c jsou významné a koeficienty b a d jsou nevýznamné,Koeficienty a a c jsou významné,Koeficienty b a d jsou významné,D
+"Zvažte následující odhady autokorelace vzorku získané pomocí 250 datových bodů:
+
+1) Zpoždění 1 2 3
+
+2) Koeficient 0,2 -0,15 -0,1
+
+3) Za předpokladu, že koeficienty jsou přibližně normálně rozdělené, které z koeficientů jsou statisticky významné na 5% hladině?",1 pouze,Pouze 1 a 2,"1, 2 a 3 pouze","Není možné určit statistickou významnost, protože nebyly poskytnuty žádné standardní chyby.",B
+Která z následujících možností se zkoumá pomocí statistiky dobré shody?,Jak dobře populační regresní funkce odpovídá datům,Jak dobře výběrová regresní funkce odpovídá populační regresní funkci,Jak dobře výběrová regresní funkce odpovídá datům,Jak dobře populační regresní funkce odpovídá výběrové regresní funkci.,C
+"Které z následujících tvrzení jsou správná ohledně použití antitetických variát jako součásti Monte Carlo experimentu?
+
+i) Antitetické variáty fungují tak, že snižují počet replikací potřebných k pokrytí celého pravděpodobnostního prostoru
+
+ii) Antitetické variáty zahrnují použití podobné proměnné, jaká se používá v simulaci, ale jejíž vlastnosti jsou známy analyticky
+
+iii) Antitetické variáty zahrnují použití záporné hodnoty každého náhodného tahu a opakování experimentu s použitím těchto hodnot jako tahů
+
+iv) Antitetické variáty zahrnují použití převrácené hodnoty každého náhodného tahu a opakování experimentu s použitím těchto hodnot jako tahů",(ii) a (iv) pouze,(i) a (iii) pouze,"(i), (ii) a (iv) pouze","(i), (ii), (iii) a (iv)",B
+Které z následujících tvrzení je pravdivé ohledně alternativních měr přesnosti prognóz?,Střední kvadratická chyba je obvykle vysoce korelována se ziskovostí obchodního pravidla,Střední absolutní chyba poskytuje kvadratickou ztrátovou funkci,Střední absolutní procentuální chyba je užitečným měřítkem pro hodnocení prognóz návratnosti aktiv,Střední kvadratická chyba penalizuje velké chyby v předpovědi neúměrně více než malé chyby v předpovědi,D
+"Které z následujících kritik standardních (""plain vanilla"") modelů GARCH mohou být překonány modely EGARCH?
+
+i) Odhadnuté hodnoty koeficientů z modelů GARCH mohou být záporné
+
+ii) Modely GARCH nemohou zohlednit pákové efekty
+
+iii) Citlivost budoucí volatility na pozitivní a negativní šoky je v rámci formulace GARCH symetrická
+
+iv) Modely GARCH neumožňují zpětnou vazbu od volatility k výnosům",(ii) a (iv) pouze,(i) a (iii) pouze,"(i), (ii) a (iii) pouze","(i), (ii), (iii) a (iv)",C
+"Předpokládejme, že bylo testováno 100 samostatných firem, aby se zjistilo, kolik z nich ""porazilo trh"" pomocí Jensenovy regrese, a bylo zjištěno, že 3 manažeři fondů to významně dokázali. Naznačuje to prima facie důkaz o neefektivnosti akciového trhu?",Ano,Ne,"Abychom mohli odpovědět na tuto otázku, museli bychom otestovat každého správce fondu obchodujícího na tomto trhu.",K vyvození závěru o efektivitě trhu není v otázce poskytnuto dostatek informací.,B
+"Které z následujících možností jsou výhody použití panelových dat oproti čistě průřezovému nebo čistě časovému modelování?
+
+(i) Použití panelových dat může zvýšit počet stupňů volnosti, a tím i sílu testů
+
+(ii) Použití panelových dat umožňuje průměrné hodnotě závislé proměnné měnit se buď průřezově, nebo v čase, nebo obojí
+
+(iii) Použití panelových dat umožňuje výzkumníkovi, aby odhadovaný vztah mezi nezávislými a závislými proměnnými se měnil buď průřezově, nebo v čase, nebo obojí",(i) pouze,(i) a (ii) pouze,(ii) pouze,"(i), (ii) a (iii)",B
+"Pokud je Engle-Grangerův test aplikován na rezidua potenciálně kointegrující regrese, jaká by byla interpretace nulové hypotézy?",Proměnné jsou kointegrované,Proměnné nejsou kointegrované,Obě proměnné jsou stacionární,Obě proměnné jsou nestacionární,B
+"Které z následujících tvrzení jsou pravdivé ohledně autokorelační funkce (acf) a parciální autokorelační funkce (pacf)?
+
+i) Acf a pacf budou vždy identické při zpoždění jedna bez ohledu na model
+
+ii) Pacf pro model MA(q) bude obecně nenulová i za zpožděním q
+
+iii) Pacf pro model AR(p) bude nulová za zpožděním p
+
+iv) Acf a pacf budou stejné při zpoždění dva pro model MA(1)",(ii) a (iv) pouze,(i) a (iii) pouze,"(i), (ii) a (iii) pouze","(i), (ii), (iii) a (iv)",C

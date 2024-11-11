@@ -1,0 +1,17 @@
+Für einen stationären autoregressiven Prozess werden Schocks,Schließlich verschwinden,Unbegrenzt fortbestehen,Wachse exponentiell,Niemals auftreten,A
+"Betrachten Sie das folgende AR(1)-Modell, bei dem die Störungen einen Mittelwert von Null und eine Varianz von Eins haben
+
+yt = 0.2 + 0.4 yt-1 + ut
+
+Der (unbedingte) Mittelwert von y wird gegeben durch","0,2","0,4","0,5","0,33",D
+"Angenommen, eine Teststatistik hat einen zugehörigen p-Wert von 0,08. Welche der folgenden Aussagen ist richtig?
+
+(i) Wenn die Größe des Tests genau 8% betragen würde, wären wir indifferent zwischen der Ablehnung und Nichtablehnung der Nullhypothese
+
+(ii) Die Nullhypothese würde abgelehnt werden, wenn ein Test mit einer Größe von 10% verwendet würde
+
+(iii) Die Nullhypothese würde nicht abgelehnt werden, wenn ein Test mit einer Größe von 1% verwendet würde
+
+(iv) Die Nullhypothese würde abgelehnt werden, wenn ein Test mit einer Größe von 5% verwendet würde.",(ii) und (iv) nur,nur (i) und (iii),"(i), (ii) und (iii) nur","(i), (ii), (iii) und (iv)",C
+"Was wären dann die Konsequenzen für den OLS-Schätzer, wenn Heteroskedastizität in einem Regressionsmodell vorhanden ist, aber ignoriert wird?",Es wird voreingenommen sein,Es wird inkonsistent sein,Es wird ineffizient sein,"Alle von (a), (b) und (c) werden wahr sein.",C
+"Angenommen, ein Forscher möchte Informationskriterien verwenden, um die optimale Verzögerungslänge für ein VAR zu bestimmen. Es stehen 500 Beobachtungen für das bivariate VAR zur Verfügung, und die Werte der Determinante der Varianz-Kovarianz-Matrix der Residuen betragen 0,0336, 0,0169, 0,0084 und 0,0062 für jeweils 1, 2, 3 und 4 Verzögerungen. Was ist die optimale Modellordnung nach dem Akaike-Informationskriterium?",1 Verzögerung,2 Beine,3 Verzögerungen,4 Verzögerungen,C

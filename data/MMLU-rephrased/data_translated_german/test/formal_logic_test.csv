@@ -1,0 +1,298 @@
+"Identifizieren Sie die Schlussfolgerung des folgenden Arguments. Es ist schwer, in unseren Kollegen nicht die gleiche durch Emotionen geschwächte Intelligenz zu erkennen, die wir bei unseren alltäglichen Patienten beobachten. Die Arroganz unseres Bewusstseins, die im Allgemeinen zu den stärksten Abwehrmechanismen gehört, blockiert die unbewussten Komplexe. Aus diesem Grund ist es schwierig, Menschen vom Unbewussten zu überzeugen und sie folglich das zu lehren, was ihrem bewussten Wissen widerspricht. (Sigmund Freud, Der Ursprung und die Entwicklung der Psychoanalyse)","Es ist schwer, bei unseren Kollegen nicht die gleiche durch Emotionen geschwächte Intelligenz festzustellen, die wir bei unseren alltäglichen Patienten beobachten.","Die Arroganz unseres Bewusstseins, die im Allgemeinen zu den stärksten Abwehrmechanismen gehört, blockiert die unbewussten Komplexe.","Aus diesem Grund ist es schwierig, Menschen vom Unbewussten zu überzeugen und ihnen folglich etwas beizubringen, was ihrem bewussten Wissen widerspricht.","Es ist schwierig, Menschen vom Unbewussten zu überzeugen und sie folglich etwas zu lehren, das ihrem bewussten Wissen widerspricht.",D
+Wählen Sie die beste Übersetzung in Prädikatenlogik. David unterrichtet Chris. (c: Chris; d: David; Txy: x unterrichtet y),Tdc,Tcd,Tcc,dTc,A
+"Wählen Sie die beste englische Interpretation des gegebenen Satzes unter Verwendung des folgenden Übersetzungsschlüssels:
+Ax: x ist eine Wohnung
+Hx: x ist ein Haus
+Lx: x ist groß
+Bxy: x ist größer als y
+(∃x)[(Ax • Lx) • (∃y)(Hy • Bxy)]",Einige große Häuser sind größer als manche Wohnungen.,Einige Häuser sind größer als alle großen Wohnungen.,Einige große Wohnungen sind größer als manche Häuser.,Einige Häuser sind größer als manche große Wohnungen.,C
+"Erstellen Sie eine vollständige Wahrheitstabelle für das folgende Argument. Bestimmen Sie dann anhand der Wahrheitstabelle, ob das Argument gültig oder ungültig ist. Wenn das Argument ungültig ist, wählen Sie eine Option, die ein Gegenbeispiel darstellt. (Es kann auch andere Gegenbeispiele geben.)
+~G ⊃ H
+~H / G",Gültig,"Ungültig. Gegenbeispiel, wenn G und H wahr sind","Ungültig. Gegenbeispiel, wenn G wahr und H falsch ist","Ungültig. Gegenbeispiel, wenn H wahr und G falsch ist",A
+"Verwenden Sie den folgenden Schlüssel, um die gegebene Formel der Prädikatenlogik in natürliche, englische Sätze zu übersetzen.
+A: Marina liest ein Percy-Jackson-Buch.
+B: Izzy spielt Minecraft.
+C: Emily hört auf zu arbeiten.
+D: Russell macht das Abendessen.
+E: Ashleigh schaut vorbei.
+(~B • E) ⊃ D","Wenn es nicht der Fall ist, dass sowohl Izzy Minecraft spielt als auch Ashleigh vorbeischaut, dann kocht Russell das Abendessen.","Wenn es weder der Fall ist, dass Izzy Minecraft spielt, noch dass Ashleigh vorbeikommt, dann macht Russell das Abendessen.","Izzy spielt Minecraft und Ashleigh schaut vorbei, was bedeutet, dass Russell das Abendessen zubereitet.","Russells Zubereitung des Abendessens ist eine hinreichende Bedingung dafür, dass Izzy nicht Minecraft spielt und Ashleigh vorbeischaut.",B
+"Wählen Sie die beste englische Interpretation des gegebenen Satzes unter Verwendung des folgenden Übersetzungsschlüssels:
+Ax: x ist eine Wohnung
+Hx: x ist ein Haus
+Lx: x ist groß
+Bxy: x ist größer als y
+(∃x)[Hx • (∀y)(Ay ⊃ Bxy)]",Einige Häuser sind kleiner als alle Wohnungen.,Jedes Haus ist größer als jede Wohnung.,Manche Wohnung ist kleiner als jedes Haus.,Einige Häuser sind größer als jede Wohnung.,D
+"Erstellen Sie eine vollständige Wahrheitstabelle für das folgende Argument. Bestimmen Sie dann anhand der Wahrheitstabelle, ob das Argument gültig oder ungültig ist. Wenn das Argument ungültig ist, wählen Sie eine Option, die ein Gegenbeispiel darstellt. (Es kann auch andere Gegenbeispiele geben.)
+~K ≡ L / (K · L) ∨ (K · ~L)",Gültig,"Ungültig. Gegenbeispiel, wenn K und L wahr sind","Ungültig. Gegenbeispiel, wenn K wahr und L falsch ist","Ungültig. Gegenbeispiel, wenn L wahr und K falsch ist",D
+"Identifizieren Sie das Antezedens der folgenden konditionalen Aussage: Wenn die Universität die finanzielle Unterstützung nicht erhöht, entweder genehmigt der Präsident es nicht oder der Aufsichtsrat verhindert es.",Die Universität erhöht die finanzielle Unterstützung.,Die Universität erhöht die finanzielle Unterstützung nicht.,Der Verwaltungsrat verhindert es.,"Der Präsident versäumt es, es zu genehmigen.",B
+"Welche der folgenden Aussagen ist eine unmittelbare (einstufige) Folgerung in der Prädikatenlogik aus den gegebenen Prämissen?
+~E ⊃ ~F
+G ⊃ F
+H ∨ ~E
+H ⊃ I
+~I",E ⊃ F,F ⊃ G,H ⊃ ~E,~H,D
+"Welche der gegebenen Formeln der Prädikatenlogik ist die beste Symbolisierung des folgenden Satzes?
+Jeder liebt Raymond, oder nicht.",L,~L,L • ~L,L ∨ ~L,D
+Wählen Sie die beste Übersetzung in Prädikatenlogik. Alle Könige sind glücklicher als alle Bettler. (Kx: x ist ein König; Px: x ist ein Bettler; Lxy: x ist glücklicher als y),(∀x)[Kx ⊃ (∀y)(Py ⊃ Lxy)],(∀x)[Kx ⊃ (∀y)(Lxy ⊃ Py)],(∀x)(∀y)[(Kx • Py) ⊃ Lyx],(∀x)[(Kx • (∀y)(Py)) ⊃ Lxy],A
+"Erstellen Sie eine vollständige Wahrheitstabelle für die folgenden Paare von Aussagen. Bestimmen Sie dann anhand der Wahrheitstabellen, ob die Aussagen logisch äquivalent oder widersprüchlich sind. Falls keines von beiden zutrifft, bestimmen Sie, ob sie konsistent oder inkonsistent sind. Begründen Sie Ihre Antworten.
+(~M ⊃ ~N) ∨ (O ≡ N) und (~M · N) · [(~O ∨ ~N) · (O ∨ N)]",Logisch äquivalent,Widersprüchlich,"Weder logisch äquivalent noch widersprüchlich, sondern konsistent",Inkonsistent,B
+"Welche der folgenden Aussagen ist eine unmittelbare (einstufige) Folgerung in der Prädikatenlogik aus den gegebenen Prämissen?
+E ⊃ ~F
+~F ⊃ G
+~G",E ⊃ F,F ⊃ G,G ⊃ E,~~F,D
+"Verwenden Sie indirekte Wahrheitstabellen, um festzustellen, ob das folgende Argument gültig ist. Wenn das Argument ungültig ist, wählen Sie eine Option, die ein Gegenbeispiel darstellt. (Es kann auch andere Gegenbeispiele geben.)
+E ⊃ (F ∨ ~G)
+F ⊃ (~E ∨ ~G) / ~(E ≡ F)",Gültig,"Ungültig. Gegenbeispiel, wenn E, F und G wahr sind","Ungültig. Gegenbeispiel, wenn E und F wahr sind und G falsch ist","Ungültig. Gegenbeispiel, wenn E, F und G falsch sind",C
+"Verwenden Sie indirekte Wahrheitstabellen, um festzustellen, ob das folgende Argument gültig ist. Wenn das Argument ungültig ist, wählen Sie eine Option, die ein Gegenbeispiel darstellt. (Es kann auch andere Gegenbeispiele geben.)
+H ≡ (~I ∨ J)
+H ∨ ~J / ~I",Gültig,"Ungültig. Gegenbeispiel, wenn H, I und J falsch sind","Ungültig. Gegenbeispiel, wenn H und I wahr sind und J falsch ist","Ungültig. Gegenbeispiel, wenn I wahr ist und H und J falsch sind",D
+Wählen Sie die beste Übersetzung in Prädikatenlogik. Einige Feuerwehrleute retten Opfer aus Gefahren. (Dx: x ist Gefahr; Fx: x ist ein Feuerwehrmann; Vx: x ist ein Opfer; Rxyz: x rettet y aus z),(∃x){Fx • (∀y)[Dy ⊃ (∃z)(Vz • Rxyz)]},(∃x){Fx • (∃y)[Vy • (∃z)(Dz • Rxyz)]},(∃x){Fx • (∃y)(∃z)[(Vy • Dz) • Rxzy]},(∀x){Fx ⊃ (∃y)[Vy . (∃z)(Dz • Rxyz)]},B
+"Identifizieren Sie das Antezedens der folgenden konditionalen Aussage: Die Universität erhöht die Studiengebühren dann und nur dann, wenn sowohl der Gouverneur es genehmigt als auch das Kuratorium es empfiehlt.",Die Universität erhöht die Studiengebühren.,Der Gouverneur stimmt dem zu.,Der Verwaltungsrat empfiehlt es.,Nichts davon,D
+Wählen Sie die beste Übersetzung in Prädikatenlogik. Alle Planeten sind kleiner als Jupiter. (j: Jupiter; Px: x ist ein Planet; Sxy: x ist kleiner als y),(∃x)(Px • Sxj),(∀x)(Px • Sxj),(∀x)(Px ⊃ Sjx),(∀x)(Px ⊃ Sxj),D
+Wählen Sie die beste Übersetzung in Prädikatenlogik aus. José stellt Wilma Kevin vor. (j: José; k: Kevin; w: Wilma; Ixyz: x stellt y z vor),Iwkj,Ijwk,Iwjk,Ijkw,B
+Wählen Sie die beste Übersetzung in Prädikatenlogik: Keine Artefakte sind Menschen.,~Pa,(∀x)(Ax ⊃ ~Px),~Ap,(∀x)(Ax • ~Px),B
+"Erstellen Sie eine vollständige Wahrheitstabelle für das folgende Argument. Bestimmen Sie dann anhand der Wahrheitstabelle, ob das Argument gültig oder ungültig ist. Wenn das Argument ungültig ist, wählen Sie eine Option, die ein Gegenbeispiel darstellt. (Es kann auch andere Gegenbeispiele geben.)
+P ⊃ Q
+Q · R / ~P · R",Gültig,"Ungültig. Gegenbeispiel, wenn P, R und Q wahr sind","Ungültig. Gegenbeispiel, wenn P und Q wahr sind und R falsch ist","Ungültig. Gegenbeispiel, wenn R und Q wahr sind und P falsch ist",B
+Wählen Sie die beste Übersetzung in Prädikatenlogik aus. Marco zieht von Italien nach Spanien. (i: Italien; m: Marco; s: Spanien; Mxyz: x zieht von z nach y),Msim,Mmis,Mims,Mmsi,D
+Wählen Sie die beste englische Interpretation des gegebenen Satzes unter Verwendung des folgenden Übersetzungsschlüssels: Ax: x ist eine Wohnung Hx: x ist ein Haus Lx: x ist groß Bxy: x ist größer als y (∀x){Ax ⊃ (∀y)[(Hy • Ly) ⊃ ∼Bxy]},Alle Wohnungen sind nicht größer als manch großes Haus.,Keine Wohnung ist größer als ein großes Haus.,Nicht alle großen Häuser sind größer als manche Wohnungen.,Kein großes Haus ist größer als alle Wohnungen.,B
+"Erstellen Sie eine vollständige Wahrheitstabelle für das folgende Argument. Bestimmen Sie dann anhand der Wahrheitstabelle, ob das Argument gültig oder ungültig ist. Wenn das Argument ungültig ist, wählen Sie eine Option, die ein Gegenbeispiel darstellt. (Es kann auch andere Gegenbeispiele geben.)
+J ≡ ~K
+J ∨ L
+~K / L",Gültig,"Ungültig. Gegenbeispiel, wenn J und K wahr sind und L falsch ist","Ungültig. Gegenbeispiel, wenn J wahr ist und K und L falsch sind","Ungültig. Gegenbeispiel, wenn K wahr ist und J und L falsch sind",C
+"Welche der gegebenen Formeln der Prädikatenlogik ist die beste Symbolisierung des folgenden Satzes?
+Pablo wird nur dann zum Laden gehen, wenn sein Bruder ihn fährt und für das Benzin bezahlt.",(P ≡ D) ≡ G,(D • G) ⊃ P,P ⊃ (D • G),P ≡ (D • G),D
+"Verwenden Sie indirekte Wahrheitstabellen, um festzustellen, ob jede Menge von Aussagen konsistent ist. Wenn die Menge konsistent ist, wählen Sie eine Option mit einer konsistenten Bewertung. (Es können andere konsistente Bewertungen geben.)
+D ≡ E
+F ∨ D
+~E · ~F",Inkonsistent,"Konsistent. Konsistente Bewertung, wenn D, E und F wahr sind","Konsistent. Konsistente Bewertung, wenn D und E wahr sind und F falsch ist","Konsistent. Konsistente Bewertung, wenn D und F wahr sind und E falsch ist",A
+"Welche der gegebenen Formeln der Prädikatenlogik ist die beste Symbolisierung des folgenden Satzes?
+Das Restaurant serviert Kuchen oder Käsekuchen oder Eis zum Dessert.",P ∨ (C ∨ I),(P ∨ C) ∨ I,P ∨ C ∨ I,Optionen A und B,D
+"Welche der gegebenen Formeln der Prädikatenlogik ist die beste Symbolisierung des folgenden Satzes?
+Wenn Beth mit dem Fahrrad fährt, kommt sie früher zur Arbeit.",B ⊃ W,W ⊃ B,B ≡ W,Sowohl A als auch B,A
+Wählen Sie die beste Übersetzung in Prädikatenlogik: Entweder Taylor oder Eric ist ein Latte-Junge.,Lt ∨ Le,Lx ∨ Ly,tL ∨ eL,Tl ⊃ El,A
+"Verwenden Sie indirekte Wahrheitstabellen, um festzustellen, ob das folgende Argument gültig ist. Wenn das Argument ungültig ist, wählen Sie eine Option, die ein Gegenbeispiel darstellt. (Es kann auch andere Gegenbeispiele geben.)
+E ⊃ F
+G ⊃ ~F / ~G ∨ ~E",Gültig,"Ungültig. Gegenbeispiel, wenn E, F und G wahr sind","Ungültig. Gegenbeispiel, wenn E und G wahr sind und F falsch ist","Ungültig. Gegenbeispiel, wenn F und G wahr sind und E falsch ist",A
+"Verwenden Sie indirekte Wahrheitstabellen, um festzustellen, ob jede Menge von Aussagen konsistent ist. Wenn die Menge konsistent ist, wählen Sie eine Option mit einer konsistenten Bewertung. (Es können andere konsistente Bewertungen geben.)
+A ⊃ (~B ∨ C)
+C ⊃ D
+A ∨ (B · ~D)
+A ≡ (B ⊃ D)",Inkonsistent,"Konsistent. Konsistente Bewertung, wenn A und D wahr sind und B und C falsch sind","Konsistent. Konsistente Bewertung, wenn A, B und D wahr sind und C falsch ist","Konsistent. Konsistente Bewertung, wenn C und D wahr sind und A und B falsch sind",B
+"Erstellen Sie eine vollständige Wahrheitstabelle für das folgende Argument. Bestimmen Sie dann anhand der Wahrheitstabelle, ob das Argument gültig oder ungültig ist. Wenn das Argument ungültig ist, wählen Sie eine Option, die ein Gegenbeispiel darstellt. (Es kann auch andere Gegenbeispiele geben.)
+M ∨ N
+~M · O / N",Gültig,"Ungültig. Gegenbeispiel, wenn M und O wahr sind und N falsch ist","Ungültig. Gegenbeispiel, wenn M wahr ist und O und N falsch sind","Ungültig. Gegenbeispiel, wenn O wahr ist und M und N falsch sind",A
+"Welche der folgenden Aussagen ist eine unmittelbare (einstufige) Folgerung in der Prädikatenlogik aus den gegebenen Prämissen?
+U ⊃ W
+W ⊃ (X ≡ ~Y)
+(X ≡ ~Y) ⊃ Z
+~Z",U ⊃ Z,U ∨ W,~W,~(X ≡ ~Y),D
+"Identifizieren Sie das Antezedens der folgenden konditionalen Aussage: Wenn die Bienen ihr erstes Spiel nicht gewinnen, dann gewinnen sowohl die Erdferkel als auch die Streifenhörnchen ihre ersten Spiele.",Die Erdferkel gewinnen ihr erstes Spiel.,Die Bienen gewinnen ihr erstes Spiel nicht.,Die Streifenhörnchen gewinnen ihr erstes Spiel.,Sowohl die Erdferkel als auch die Streifenhörnchen gewinnen ihre ersten Spiele.,B
+Wählen Sie die beste Übersetzung in Prädikatenlogik. Holly liebt Frances. (f: Frances; h: Holly; Lxy: x liebt y),hLf,fLh,Lfh,Lhf,D
+"Verwenden Sie indirekte Wahrheitstabellen, um festzustellen, ob das folgende Argument gültig ist. Wenn das Argument ungültig ist, wählen Sie eine Option, die ein Gegenbeispiel darstellt. (Es kann auch andere Gegenbeispiele geben.)
+P ⊃ (Q ∨ R)
+(Q · S) ⊃ ~P
+~(~Q ∨ R) / ~P",Gültig,"Ungültig. Gegenbeispiel, wenn P, Q, R und S wahr sind","Ungültig. Gegenbeispiel, wenn P und Q wahr sind und R und S falsch sind","Ungültig. Gegenbeispiel, wenn P, R und S wahr sind und Q falsch ist",C
+"Erstellen Sie eine vollständige Wahrheitstabelle für das folgende Argument. Bestimmen Sie dann anhand der Wahrheitstabelle, ob das Argument gültig oder ungültig ist. Wenn das Argument ungültig ist, wählen Sie eine Option, die ein Gegenbeispiel darstellt. (Es kann auch andere Gegenbeispiele geben.)
+T ∨ U
+W · T / U",Gültig,"Ungültig. Gegenbeispiel, wenn T und W wahr sind und U falsch ist","Ungültig. Gegenbeispiel, wenn T wahr ist und W und U falsch sind","Ungültig. Gegenbeispiel, wenn W wahr ist und T und U falsch sind",B
+"Identifizieren Sie das Antezedens der folgenden konditionalen Aussage: Die Universität erhöht die Studiengebühren, wenn sowohl der Gouverneur es genehmigt als auch das Kuratorium es empfiehlt.",Die Universität erhöht die Studiengebühren.,Der Gouverneur stimmt dem zu.,Der Verwaltungsrat empfiehlt es.,Der Gouverneur befürwortet es und der Aufsichtsrat empfiehlt es.,D
+"Identifizieren Sie das Antezedens der folgenden konditionalen Aussage: Das Restaurant hat keine Erbsen, also servieren sie stattdessen Mais und Kartoffeln.",Das Restaurant hat Erbsen.,Das Restaurant hat keine Erbsen.,Das Restaurant serviert Mais.,Das Restaurant serviert Kartoffeln.,B
+Wählen Sie die beste Übersetzung in Prädikatenlogik. Alle Geleebohnen sind süßer als alle Früchte. (Fx: x ist eine Frucht; Jx: x ist eine Geleebohne; Sxy: x ist süßer als y),(∀x)[Fx ⊃ (∀y)(Jy ⊃ Sxy)],(∀x)(∀y)[(Fx • Jy) • Sxy],(∀x)(∀y)[Sxy ⊃ (Fy • Jx)],(∀x)[Jx ⊃ (∀y)(Fy ⊃ Sxy)],D
+"Identifizieren Sie die Schlussfolgerung des folgenden Arguments. Dass die Welt meine Vorstellung ist, ist eine für jedes lebende Wesen gültige Wahrheit, obwohl nur der Mensch sie betrachten kann. Indem er dies tut, erlangt er philosophische Weisheit. Keine Wahrheit ist absolut gewisser als die, dass alles, was für die Erkenntnis existiert und somit diese Welt, nur Objekt in Beziehung zum Subjekt, Wahrnehmung eines Wahrnehmenden ist. Die Welt ist eine Vorstellung. (Arthur Schopenhauer, Die Welt als Wille und Vorstellung)",Die Welt ist eine Idee.,"Dass die Welt meine Vorstellung ist, ist eine Wahrheit, die für jedes lebende Geschöpf gilt, obwohl nur der Mensch sie betrachten kann.",Dadurch erlangt er philosophische Weisheit.,"Keine Wahrheit ist absolut sicherer als die, dass alles, was für die Erkenntnis existiert und somit diese Welt, nur Objekt in Beziehung zum Subjekt ist, Wahrnehmung eines Wahrnehmenden.",A
+Wählen Sie die beste Übersetzung in Prädikatenlogik aus. Leo ist größer als Cathy. (c: Cathy; l: Leo; Txy: x ist größer als y),Tlc,Tcl,lTc,cTl,A
+"Erstellen Sie eine vollständige Wahrheitstabelle für die folgenden Paare von Aussagen. Bestimmen Sie dann anhand der Wahrheitstabellen, ob die Aussagen logisch äquivalent oder widersprüchlich sind. Falls keines von beiden zutrifft, bestimmen Sie, ob sie konsistent oder inkonsistent sind. Begründen Sie Ihre Antworten.
+C ⊃ (D ∨ C) und C · ~D",Logisch äquivalent,Widersprüchlich,"Weder logisch äquivalent noch widersprüchlich, sondern konsistent",Inkonsistent,C
+"Erstellen Sie eine vollständige Wahrheitstabelle für die folgenden Paare von Aussagen. Bestimmen Sie dann anhand der Wahrheitstabellen, ob die Aussagen logisch äquivalent oder widersprüchlich sind. Falls keines von beiden zutrifft, bestimmen Sie, ob sie konsistent oder inkonsistent sind. Begründen Sie Ihre Antworten.
+~O ⊃ P und O ∨ P",Logisch äquivalent,Widersprüchlich,"Weder logisch äquivalent noch widersprüchlich, sondern konsistent",Inkonsistent,A
+"Verwenden Sie indirekte Wahrheitstabellen, um festzustellen, ob das folgende Argument gültig ist. Wenn das Argument ungültig ist, wählen Sie eine Option, die ein Gegenbeispiel darstellt. (Es kann auch andere Gegenbeispiele geben.)
+(T · ~U) ⊃ ~W
+~W ⊃ X
+~Z ⊃ W
+~(X · Z) / T ⊃ U",Gültig,"Ungültig. Gegenbeispiel, wenn T, X und Z wahr sind und U und W falsch sind","Ungültig. Gegenbeispiel, wenn T und X wahr sind und U, W und Z falsch sind","Ungültig. Gegenbeispiel, wenn T, W und Z wahr sind und U und X falsch sind",A
+"Wählen Sie die beste Übersetzung in Prädikatenlogik: Cecilia bricht mir das Herz genau dann, wenn Maria entweder ein Problem oder ein Mädchen ist.",Bc ≡ (Pm ∨ Gm),Bc ≡ (Pm • Gm),Bc ⊃ (Pm ∨ Gm),Cb ⊃ (Pm • Gm),A
+"Wählen Sie die beste Übersetzung in Prädikatenlogik: Wenn Delilah in New York City ist, dann ist Juana in Bogota oder Layla in San Juan.",Nd ⊃ (Bj • Sl),Dn ≡ (Bx • Ly),Nd ≡ (Bj • Sl),Nd ⊃ (Bj ∨ Sl),D
+"Verwenden Sie den folgenden Schlüssel, um die gegebene Formel der Prädikatenlogik in natürliche, englische Sätze zu übersetzen.
+A: Marina liest ein Percy-Jackson-Buch.
+B: Izzy spielt Minecraft.
+C: Emily hört auf zu arbeiten.
+D: Russell macht das Abendessen.
+E: Ashleigh schaut vorbei.
+~(A ⊃ B) • (B ⊃ ~E)","Es ist nicht der Fall, dass Marinas Lesen eines Percy-Jackson-Buches bedeutet, dass Izzy Minecraft spielt, aber Izzys Spielen von Minecraft bedeutet tatsächlich, dass Ashleigh nicht vorbeischaut.","Wenn Marina kein Percy-Jackson-Buch liest, dann spielt Izzy Minecraft, was bedeutet, dass Ashleigh nicht vorbeischaut.","Dass Marina ein Percy-Jackson-Buch liest, bedeutet nicht, dass Izzy Minecraft spielt, aber Izzy spielt Minecraft, vorausgesetzt, dass Ashleigh nicht vorbeikommt.","Es ist nicht wahr, dass Marina nur dann ein Percy-Jackson-Buch liest, wenn Izzy Minecraft spielt, aber Izzy spielt Minecraft nur dann, wenn Ashleigh vorbeischaut.",A
+"Verwenden Sie indirekte Wahrheitstabellen, um festzustellen, ob das folgende Argument gültig ist. Wenn das Argument ungültig ist, wählen Sie eine Option, die ein Gegenbeispiel darstellt. (Es kann auch andere Gegenbeispiele geben.)
+(A ∨ B) ⊃ C
+C ⊃ ~D / D ⊃ A",Gültig,"Ungültig. Gegenbeispiel, wenn B, C und D wahr sind und A falsch ist","Ungültig. Gegenbeispiel, wenn B und D wahr sind und A und C falsch sind","Ungültig. Gegenbeispiel, wenn A, B und C falsch und D wahr sind",D
+"Wählen Sie die beste englische Interpretation der gegebenen Argumente in der Prädikatenlogik aus.
+Dh ⊃ ~Pt
+(∀x)Px ∨ (∀x)Mx
+~Mb	/ ~Dh","Wenn mein Kopfschmerz ein dualistischer Zustand ist, dann ist dein Kitzeln ein physischer Zustand. Entweder ist alles physisch oder alles ist mental. Aber mein gebrochener Zeh ist kein mentaler Zustand. Also ist mein Kopfschmerz kein dualistischer Zustand.","Wenn mein Kopfschmerz ein dualistischer Zustand ist, dann ist dein Kitzeln kein physischer Zustand. Entweder ist alles physisch oder alles mental. Aber mein gebrochener Zeh ist kein mentaler Zustand. Also ist mein Kopfschmerz kein dualistischer Zustand.","Wenn mein Kopfschmerz ein dualistischer Zustand ist, dann ist dein Kitzeln kein physischer Zustand. Wenn alles physisch ist, dann ist alles mental. Aber mein gebrochener Zeh ist kein mentaler Zustand. Also ist mein Kopfschmerz kein dualistischer Zustand.","Wenn mein Kopfschmerz ein dualistischer Zustand ist, dann ist dein Kitzeln kein physischer Zustand. Alles ist entweder physisch oder mental. Aber mein gebrochener Zeh ist kein mentaler Zustand. Also ist mein Kopfschmerz kein dualistischer Zustand.",B
+"Welche der folgenden Aussagen ist eine unmittelbare (einstufige) Folgerung in der Prädikatenlogik aus den gegebenen Prämissen?
+A ⊃ (B • C)
+~(B • C)
+A ∨ (D ∨ B)",Ein,~A,B,~B,B
+"Welche der folgenden Aussagen ist eine unmittelbare (einstufige) Folgerung in der Prädikatenlogik aus den gegebenen Prämissen?
+(N ⊃ ~O) ⊃ (O ∨ Q)
+P ⊃ (N ⊃ ~O)
+N ⊃ P",P,N ⊃ ~O,O ∨ Q,~P,A
+Wählen Sie die beste Übersetzung in Prädikatenlogik. Die Erde ist nicht größer als Jupiter. (e: Erde; j: Jupiter; Bxy: x ist größer als y),~Tschüss,Bej,Bje~,~Bej,D
+"Identifizieren Sie das Antezedens der folgenden konditionalen Aussage: Der Sieg der Bienen in ihrem ersten Spiel ist notwendig dafür, dass entweder die Erdferkel oder die Streifenhörnchen ihr erstes Spiel nicht gewinnen.",Die Erdferkel gewinnen ihr erstes Spiel nicht.,Die Bienen gewinnen ihr erstes Spiel.,Die Streifenhörnchen gewinnen ihr erstes Spiel nicht.,Entweder die Erdferkel oder die Streifenhörnchen gewinnen ihr erstes Spiel nicht.,D
+"Identifizieren Sie das Antezedens der folgenden konditionalen Aussage: Die Bienen gewinnen ihr erstes Spiel nur dann, wenn entweder die Erdferkel oder die Streifenhörnchen ihr erstes Spiel nicht gewinnen.",Die Erdferkel gewinnen ihr erstes Spiel nicht.,Die Bienen gewinnen ihr erstes Spiel.,Die Streifenhörnchen gewinnen ihr erstes Spiel nicht.,Entweder die Erdferkel oder die Streifenhörnchen gewinnen ihre ersten Spiele nicht.,B
+Wählen Sie die beste Übersetzung in Prädikatenlogik: Einige Athleten verletzen sich nicht.,~Ia,(∃x)(Ax • ~Ix),~Ai,(∃x)(Ix ∨ ~Ax),B
+"Erstellen Sie eine vollständige Wahrheitstabelle für die folgenden Paare von Aussagen. Bestimmen Sie dann anhand der Wahrheitstabellen, ob die Aussagen logisch äquivalent oder widersprüchlich sind. Falls keines von beiden zutrifft, bestimmen Sie, ob sie konsistent oder inkonsistent sind. Begründen Sie Ihre Antworten.
+I ≡ ~H und ~(~I ≡ H)",Logisch äquivalent,Widersprüchlich,"Weder logisch äquivalent noch widersprüchlich, sondern konsistent",Inkonsistent,B
+"Verwenden Sie indirekte Wahrheitstabellen, um festzustellen, ob jede Menge von Aussagen konsistent ist. Wenn die Menge konsistent ist, wählen Sie eine Option mit einer konsistenten Bewertung. (Es können andere konsistente Bewertungen geben.)
+(T ⊃ U) ⊃ (W ⊃ U)
+T ⊃ ~(U ⊃ X)
+(T ⊃ ~X) ⊃ W",Inkonsistent,"Konsistent. Konsistente Bewertung, wenn U, W und X wahr sind und T falsch ist","Konsistent. Konsistente Bewertung, wenn W und X wahr sind und T und U falsch sind","Konsistent. Konsistente Bewertung, wenn T und U wahr sind und W und X falsch sind",B
+"Wählen Sie die beste Übersetzung in Prädikatenlogik: Caroline ist süß genau dann, wenn Janet mit Brad verlobt ist.",Cs ⊃ Ej,Sc ≡ Ej,sC ≡ eJ,Sx ≡ Jy,B
+"Welche der gegebenen Formeln der Prädikatenlogik ist die beste Symbolisierung des folgenden Satzes?
+Entweder ist Englands Rindfleischimport eine hinreichende Bedingung für Frankreichs Subventionierung der Landwirtschaft, oder China fördert Menschenrechte dann und nur dann nicht, wenn Südafrika Diamanten liefert.",(E ⊃ F) ∨ (~C ⊃ S),(F ⊃ E) ∨ (S ⊃ ~C,(E ⊃ F) ∨ ~(S ≡ C),(E ⊃ F) ∨ (~C ≡ S),D
+"Verwenden Sie den folgenden Schlüssel, um die gegebene Formel der Prädikatenlogik in natürliche, englische Sätze zu übersetzen.
+A: Marina liest ein Percy-Jackson-Buch.
+B: Izzy spielt Minecraft.
+C: Emily hört auf zu arbeiten.
+D: Russell macht das Abendessen.
+E: Ashleigh schaut vorbei.
+(~A ∨ ~B) ⊃ C","Wenn weder Marina ein Percy-Jackson-Buch liest noch Izzy Minecraft spielt, dann hört Emily auf zu arbeiten.","Wenn es nicht der Fall ist, dass sowohl Marina ein Percy-Jackson-Buch liest als auch Izzy Minecraft spielt, dann hört Emily auf zu arbeiten.","Entweder liest Marina kein Percy-Jackson-Buch oder Izzy spielt kein Minecraft, was zur Folge hat, dass Emily aufhört zu arbeiten.","Emily hört auf zu arbeiten ist eine hinreichende Bedingung dafür, dass entweder Marina kein Percy-Jackson-Buch liest oder Izzy nicht Minecraft spielt.",C
+"Identifizieren Sie die Schlussfolgerung des folgenden Arguments. Es gibt diejenigen, die Prädikatvariablen verwenden; die Werte dieser Variablen sind Attribute. Prädikate werden in allen Sätzen gewünscht, unabhängig davon, ob es Attribute gibt, auf die man sich beziehen kann. Das Dummy-Prädikat 'F' wird im Allgemeinen für erläuternde Zwecke gewünscht. Wenn wir über Attribute quantifizieren und uns auf sie beziehen wollen, dann dient es der Klarheit, erkennbare Variablen und unterscheidbare Namen für die Zwecke zu verwenden und diese nicht mit den Prädikaten zu vermischen. (Quine, Philosophie der Logik)","Es gibt diejenigen, die Prädikatvariablen verwenden; die Werte dieser Variablen sind Attribute.","Prädikate werden in allen Sätzen benötigt, unabhängig davon, ob es Attribute gibt, auf die sie sich beziehen können.",Das Dummy-Prädikat 'F' wird im Allgemeinen für erläuternde Zwecke benötigt.,"Wenn wir über Attribute quantifizieren und uns auf sie beziehen wollen, dann dient es der Klarheit, erkennbare Variablen und eindeutige Namen für die Zwecke zu verwenden und diese nicht mit den Prädikaten zu vermischen.",D
+"Verwenden Sie den folgenden Schlüssel, um die gegebene Formel der Prädikatenlogik in natürliche, englische Sätze zu übersetzen.
+A: Marina liest ein Percy-Jackson-Buch.
+B: Izzy spielt Minecraft.
+C: Emily hört auf zu arbeiten.
+D: Russell macht das Abendessen.
+E: Ashleigh schaut vorbei.
+~C ∨ D","Wenn Emily nicht aufhört zu arbeiten, dann kocht Russell das Abendessen.","Emily hört auf zu arbeiten, es sei denn, Russell kocht das Abendessen.","Emily hört auf zu arbeiten, es sei denn, Russell kocht nicht das Abendessen.","Emily hört nicht auf zu arbeiten, es sei denn, Russell kocht das Abendessen.",D
+Wählen Sie die beste Übersetzung in Prädikatenlogik: Abdul und Kleopatra sind Ägypter.,Ea • Ec,Ea • c,Ae ∨ Ce,Ex • Ey,A
+Wählen Sie die beste Übersetzung in Prädikatenlogik: Sheena ist eine Punkrockerin.,Sx,xS,sP,Ps,D
+Wählen Sie die beste Übersetzung in Prädikatenlogik aus. Kevin wird von Wilma José vorgestellt. (j: José; k: Kevin; w: Wilma; Ixyz: x stellt y z vor),Iwjk,Ijkw,Ikjw,Iwkj,D
+"Wählen Sie die beste Übersetzung in Prädikatenlogik: Wenn Eileen Geige spielt, dann singt Sherri.",Fe ∨ Ss,eF ⊃ Ss,Fe ∨ Es,Fe ⊃ Ss,D
+"Erstellen Sie eine vollständige Wahrheitstabelle für das folgende Argument. Bestimmen Sie dann anhand der Wahrheitstabelle, ob das Argument gültig oder ungültig ist. Wenn das Argument ungültig ist, wählen Sie eine Option, die ein Gegenbeispiel darstellt. (Es kann auch andere Gegenbeispiele geben.)
+~C ⊃ D
+D ⊃ C / C",Gültig,"Ungültig. Gegenbeispiel, wenn C und D wahr sind","Ungültig. Gegenbeispiel, wenn C wahr und D falsch ist","Ungültig. Gegenbeispiel, wenn D wahr und C falsch ist",A
+Wählen Sie die beste Übersetzung in Prädikatenlogik: Einige Blaureiher migrieren.,(∀x)[(Hx • Bx) • Mx],(∃x)[(Hx • Bx) ⊃ Mx],(∀x)[(Hx • Bx) ⊃ Mx],(∃x)[(Hx • Bx) • Mx],D
+"Wählen Sie die beste englische Interpretation der gegebenen Argumente in der Prädikatenlogik aus.
+(∃x)(Cx • Ox)
+(∀x)[(~Cx ⊃ ~Bx) ⊃ ~Og]	/ ~Og","Einige Kekse enthalten Haferflocken. Wenn etwas kein Keks zu sein bedeutet, dass es keine Schokoladenstückchen enthält, dann enthält dieser Keks keine Haferflocken. Also enthält dieser Keks keine Haferflocken.","Einige Kekse enthalten Haferflocken. Wenn etwas kein Keks ist und keine Schokoladenstückchen enthält, hat es keine Haferflocken. Also hat dieser Keks keine Haferflocken.","Einige Kekse enthalten Haferflocken. Wenn etwas keine Haferflocken enthält, dann ist es kein Keks und es enthält keine Schokoladenstückchen. Also enthält dieser Keks keine Haferflocken.","Einige Kekse enthalten Haferflocken. Wenn etwas, das keine Schokoladenstückchen enthält, kein Keks ist, dann enthält es auch keine Haferflocken. Also enthält dieser Keks keine Haferflocken.",A
+"Identifizieren Sie die Schlussfolgerung des folgenden Arguments. Die gesamte Psychologie ist in moralischen Vorurteilen und Ängsten stecken geblieben. Niemand ist auch nur annähernd dazu gekommen, sie als die Entwicklung des Willens zur Macht zu verstehen. Wenn aber jemand auch nur anfängt, die Auswirkungen von Hass, Neid, Habgier und Herrschsucht als Lebensbedingungen und darüber hinaus als wesentliche Faktoren für die allgemeine Ökonomie des Lebens zu betrachten, wird ihm schwindelig werden. An diesem Punkt beginnt er, sich selbst zu verlieren und über die Moral hinauszusegeln. So wird die Psychologie wieder zum Weg zu grundlegenden Problemen. (Friedrich Nietzsche, Jenseits von Gut und Böse)",Die gesamte Psychologie ist in moralischen Vorurteilen und Ängsten stecken geblieben.,Niemand ist dem Verständnis so nahe gekommen wie der Entwicklung des Willens zur Macht.,"Wenn jemand auch nur beginnt, die Auswirkungen von Hass, Neid, Habgier und Herrschsucht als Lebensbedingungen und darüber hinaus als wesentliche Faktoren für die allgemeine Ökonomie des Lebens zu betrachten, wird ihm anfangen, übel zu werden.",Die Psychologie wird erneut der Weg zu grundlegenden Problemen.,D
+"Verwenden Sie indirekte Wahrheitstabellen, um festzustellen, ob jede Menge von Aussagen konsistent ist. Wenn die Menge konsistent ist, wählen Sie eine Option mit einer konsistenten Bewertung. (Es können andere konsistente Bewertungen geben.)
+~N ≡ (O · P)
+~O ⊃ Q
+N · ~Q",Inkonsistent,"Konsistent. Konsistente Bewertung, wenn N, O und P wahr sind und Q falsch ist","Konsistent. Konsistente Bewertung, wenn N und O wahr sind und P und Q falsch sind","Konsistent. Konsistente Bewertung, wenn N und P wahr sind und O und Q falsch sind",C
+"Welche der gegebenen Formeln der Prädikatenlogik ist die beste Symbolisierung des folgenden Satzes?
+Eine Person gilt als das ganze gegenwärtige Jahr mit Ihnen zusammenlebend, wenn die Person im gegenwärtigen Jahr geboren wurde oder gestorben ist und Ihr Zuhause das Zuhause dieser Person für die gesamte Zeit war, in der diese Person am Leben war.",[(B ∨ D) • H] ⊃ L,[L ⊃ (B ∨ D)] • H,L ⊃ [(B ∨ D) • H],(B ∨ D • H) ⊃ L,A
+"Erstellen Sie eine vollständige Wahrheitstabelle für das folgende Argument. Bestimmen Sie dann anhand der Wahrheitstabelle, ob das Argument gültig oder ungültig ist. Wenn das Argument ungültig ist, wählen Sie eine Option, die ein Gegenbeispiel darstellt. (Es kann auch andere Gegenbeispiele geben.)
+(O ≡ P) ∨ P / P ∨ ~O",Gültig,"Ungültig. Gegenbeispiel, wenn O und P wahr sind","Ungültig. Gegenbeispiel, wenn O wahr und P falsch ist","Ungültig. Gegenbeispiel, wenn P wahr und O falsch ist",A
+"Wählen Sie die beste Übersetzung in Prädikatenlogik: Leroy ist nur dann schlecht, wenn DJ Khaled seinen Namen ruft.",Sk ≡ Bl,Bl ≡ Sk,Bx ⊃ Sy,Bl ⊃ Sk,D
+"Welche der gegebenen Formeln der Prädikatenlogik ist die beste Symbolisierung des folgenden Satzes?
+Wenn entweder George sich einschreibt oder Harry sich einschreibt, dann schreibt sich Ira nicht ein.",(G ⊃ H) ∨ I,(G ∨ H) ⊃ I,(G ⊃ H) ∨ ~I,(G ∨ H) ⊃ ~I,D
+"Wählen Sie die beste Übersetzung in Prädikatenlogik: Frau Jackson lieh mir etwas Zucker, aber weder Janet noch Latoya taten dies.",Lm ∨ ~(Jl ∨ Ll),Lm • ~(Lj • Ll),Lm • ~(Lj ∨ Ll),Lm ∨ ~(Lj • Ll),C
+Wählen Sie die beste Übersetzung in Prädikatenlogik. Einige Tiere werden von grausamen Menschen vernachlässigt. (Ax: x ist ein Tier; Cx: x ist grausam; Px: x ist eine Person; Nxy: x vernachlässigt y),(∃x)[(Ax • Cx) • (∃y)(Py • Nyx)],(∃x)[(Cx • Px) • (∃y)(Ay • Nxy)],(∃x)[(Ax • Px) • (∃y)(Cy • Nxy)],(∃x)(∃y){[(Ax • Cy) • Py] • Nxy)]},B
+"Verwenden Sie indirekte Wahrheitstabellen, um festzustellen, ob jede Menge von Aussagen konsistent ist. Wenn die Menge konsistent ist, wählen Sie eine Option mit einer konsistenten Bewertung. (Es können andere konsistente Bewertungen existieren.)
+(E ⊃ F) ⊃ G
+(~E ∨ F) ≡ (H ∨ I)
+I ⊃ (J ⊃ ~H)
+~G ⊃ ~J",Inkonsistent,"Konsistent. Konsistente Bewertung, wenn E wahr ist und F, G, H, I und J falsch sind","Konsistent. Konsistente Bewertung, wenn E und H wahr sind und F, G, I und J falsch sind","Konsistent. Konsistente Bewertung, wenn E und I wahr sind und F, G, H und J falsch sind",B
+Wählen Sie die beste Übersetzung in Prädikatenlogik: Einige Studenten arbeiten hart.,(∃x)(Wx ∨ Sx),(∃x)(Sx ∨ Wx),(∃x)(Sx • Wx),(∃x)(Sx ⊃ Wx),C
+"Welche der gegebenen Formeln der Prädikatenlogik ist die beste Symbolisierung des folgenden Satzes?
+Entweder ist Englands Rindfleischimport keine notwendige Bedingung für Frankreichs Subventionierung der Landwirtschaft, oder China fördert die Menschenrechte, wenn Südafrika Diamanten liefert.",(~F ⊃ E) ∨ (C ≡ ~S),(~E ⊃ F) ∨ (C ⊃ S),(~F ⊃ E) ∨ (C ≡ S),~(F ⊃ E) ∨ (S ⊃ C),D
+"Erstellen Sie eine vollständige Wahrheitstabelle für das folgende Argument. Bestimmen Sie dann anhand der Wahrheitstabelle, ob das Argument gültig oder ungültig ist. Wenn das Argument ungültig ist, wählen Sie eine Option, die ein Gegenbeispiel darstellt. (Es kann auch andere Gegenbeispiele geben.)
+~A · ~B
+(A ∨ C) ∨ B / C",Gültig,"Ungültig. Gegenbeispiel, wenn A und B wahr sind und C falsch ist","Ungültig. Gegenbeispiel, wenn A wahr ist und B und C falsch sind","Ungültig. Gegenbeispiel, wenn B wahr ist und A und C falsch sind",A
+Wählen Sie die beste Übersetzung in Prädikatenlogik. Alle Vögel leben in irgendeinem Nest. (Bx: x ist ein Vogel; Nx: x ist ein Nest; Lxy: x lebt in y),(∀x)(∀y)[(Bx • Ny) ⊃ Lxy],(∀x)[Bx ⊃ (∃y)(Ny • Lxy)],(∀x)[(∃y)(Ny • Bx) ⊃ Lxy],(∀x)(∃y)[(Bx • Ny) ⊃ Lxy],B
+"Identifizieren Sie die Schlussfolgerung des folgenden Arguments. Die utilitaristische Theorie wird durch die Möglichkeit von Nutzenmonster in Verlegenheit gebracht. Ein Nutzenmonster erzielt enorme Nutzenzuwächse, die größer sind als der Nutzenverlust durch die Opfer anderer. Die Opfer selbst großer Zahlen anderer Menschen werden durch die Gewinne des Nutzenmonsters aufgewogen. Die Theorie scheint zu verlangen, dass wir alle im Rachen des Monsters geopfert werden, um den Gesamtnutzen zu erhöhen. (Robert Nozick, Anarchie, Staat und Utopie)",Die utilitaristische Theorie wird durch die Möglichkeit von Nutzenmonster in Verlegenheit gebracht.,Ein Nutzenmonster erhält enorme Nutzenzuwächse.,"Ein Nutzenmonster erzielt Nutzenzuwächse, die größer sind als der Nutzenverlust durch die Opfer anderer.",Die Opfer selbst großer Zahlen anderer Menschen werden durch die Gewinne des Nutzenmonsters aufgewogen.,A
+"Verwenden Sie den folgenden Schlüssel, um die gegebene Formel der Prädikatenlogik in natürliche, englische Sätze zu übersetzen.
+A: Marina liest ein Percy-Jackson-Buch.
+B: Izzy spielt Minecraft.
+C: Emily hört auf zu arbeiten.
+D: Russell macht das Abendessen.
+E: Ashleigh schaut vorbei.
+(A ∨ ~E) ≡ (D • ~B)","Entweder Marina liest ein Percy-Jackson-Buch oder Ashleigh kommt nicht vorbei, ist eine notwendige Bedingung dafür, dass Russell das Abendessen zubereitet und Izzy nicht Minecraft spielt.","Entweder Marina, die ein Percy-Jackson-Buch liest, oder Ashleigh, die nicht vorbeischaut, ist eine notwendige und hinreichende Bedingung dafür, dass Russell das Abendessen zubereitet und Izzy Minecraft spielt.","Marina liest ein Percy-Jackson-Buch, es sei denn, Ashleigh kommt vorbei, wenn und nur wenn sowohl Russell das Abendessen zubereitet als auch Izzy kein Minecraft spielt.","Entweder liest Marina ein Percy-Jackson-Buch oder Ashleigh schaut nicht vorbei, nur für den Fall, dass sowohl Russell das Abendessen zubereitet als auch Izzy kein Minecraft spielt.",D
+"Welche der gegebenen Formeln der Prädikatenlogik ist die beste Symbolisierung des folgenden Satzes?
+Brittany mag Fische und Eidechsen, aber keine Katzen.",F • L • ~C,(F • L) • ~C,(F • L) ∨ ~C,C • (F • L),B
+"Welche der gegebenen Formeln der Prädikatenlogik ist die beste Symbolisierung des folgenden Satzes?
+Wenn entweder Harry sich einschreibt oder George sich nicht einschreibt, dann schreibt sich Jim ein.",H ∨ (~G ⊃ J),~(H ∨ G) ⊃ J,(H ∨ ~G) ⊃ J,(H ⊃ ~G) ∨ J,C
+"Erstellen Sie eine vollständige Wahrheitstabelle für das folgende Argument. Bestimmen Sie dann anhand der Wahrheitstabelle, ob das Argument gültig oder ungültig ist. Wenn das Argument ungültig ist, wählen Sie eine Option, die ein Gegenbeispiel darstellt. (Es kann auch andere Gegenbeispiele geben.)
+~X ⊃ Y
+Y ⊃ Z
+~Z / ~X",Gültig,"Ungültig. Gegenbeispiel, wenn X, Y und Z wahr sind","Ungültig. Gegenbeispiel, wenn Y und Z wahr sind und Z falsch ist","Ungültig. Gegenbeispiel, wenn X wahr ist und Y und Z falsch sind",D
+Wählen Sie die beste Übersetzung in Prädikatenlogik aus. Einige freundliche Menschen helfen einigen gefährdeten Arten. (Ex: x ist gefährdet; Kx: x ist freundlich; Px: x ist eine Person; Sx: x ist eine Art; Hxy: x hilft y),(∃x){(Kx • Px) • (∃y)[(Ey • Sy) • Hxy]},(∃x)(∃y){[(Kx • Sx) • (Ey • Py)] • Hxy},(∃x)(∃y){[(Kx • Sx) • (Ey • Py)] • Hyx},(∃x)(∃y){[(Kx • Px) • (Ey • Sy)] ⊃ Hxy},A
+"Wählen Sie die beste englische Interpretation des gegebenen Satzes unter Verwendung des folgenden Übersetzungsschlüssels:
+Ax: x ist eine Wohnung
+Hx: x ist ein Haus
+Lx: x ist groß
+Bxy: x ist größer als y
+(∀x)[Ax ⊃ (∃y)(Hy • Bxy)]",Jede Wohnung ist größer als manches Haus.,Jedes Haus ist größer als alle Wohnungen.,Jedes Haus ist größer als manche Wohnung.,Irgendein Haus ist größer als jede Wohnung.,A
+"Erstellen Sie eine vollständige Wahrheitstabelle für das folgende Argument. Bestimmen Sie dann anhand der Wahrheitstabelle, ob das Argument gültig oder ungültig ist. Wenn das Argument ungültig ist, wählen Sie eine Option, die ein Gegenbeispiel darstellt. (Es kann auch andere Gegenbeispiele geben.)
+Q ≡ R
+~(S ∨ Q) / R",Gültig,"Ungültig. Gegenbeispiel, wenn Q und S wahr sind und R falsch ist","Ungültig. Gegenbeispiel, wenn Q wahr ist und S und R falsch sind","Ungültig. Gegenbeispiel, wenn Q, S und R falsch sind",D
+"Identifizieren Sie das Antezedens der folgenden konditionalen Aussage: Die Universität erhöht die Studiengebühren nur dann, wenn sowohl der Gouverneur es genehmigt als auch der Verwaltungsrat es empfiehlt.",Die Universität erhöht die Studiengebühren.,Der Gouverneur stimmt dem zu.,Der Verwaltungsrat empfiehlt es.,Der Gouverneur befürwortet es und der Verwaltungsrat empfiehlt es.,A
+"Welche der folgenden Aussagen ist eine unmittelbare (einstufige) Folgerung in der Prädikatenlogik aus den gegebenen Prämissen?
+(A ∨ B) ⊃ (C ∨ D)
+A ∨ B
+~C",~A ∨ ~B,~~C,C ∨ D,(A ∨ B) ⊃ D,C
+"Identifizieren Sie das Antezedens der folgenden konditionalen Aussage: Wenn die Universität die Studiengebühren erhöht, dann entweder befürwortet der Gouverneur dies oder der Aufsichtsrat verhindert es nicht.",Die Universität erhöht die Studiengebühren.,Der Gouverneur stimmt dem zu.,Der Vorstand verhindert es.,Der Vorstand verhindert es nicht.,A
+Wählen Sie die beste Übersetzung in Prädikatenlogik aus. Marco zieht nicht von Spanien nach Italien. (i: Italien; m: Marco; s: Spanien; Mxyz: x zieht von z nach y),~Mmsi,M~mis,~Mmis,M~msi,C
+"Erstellen Sie eine vollständige Wahrheitstabelle für das folgende Argument. Bestimmen Sie dann anhand der Wahrheitstabelle, ob das Argument gültig oder ungültig ist. Wenn das Argument ungültig ist, wählen Sie eine Option, die ein Gegenbeispiel darstellt. (Es kann auch andere Gegenbeispiele geben.)
+~S ∨ T
+~S · U
+~T ∨ U / T · U",Gültig,"Ungültig. Gegenbeispiel, wenn S, T und U wahr sind","Ungültig. Gegenbeispiel, wenn S und U wahr sind und T falsch ist","Ungültig. Gegenbeispiel, wenn U wahr ist und S und T falsch sind",D
+"Welche der gegebenen Formeln der Prädikatenlogik ist die beste Symbolisierung des folgenden Satzes?
+Ärzte sind hilfreich, es sei denn, ihre Patienten sind unhöflich.",H ≡ R,H • R,H ∨ ~R,H ∨ R,D
+"Verwenden Sie indirekte Wahrheitstabellen, um festzustellen, ob das folgende Argument gültig ist. Wenn das Argument ungültig ist, wählen Sie eine Option, die ein Gegenbeispiel darstellt. (Es kann auch andere Gegenbeispiele geben.)
+L ⊃ [(M ∨ ~N) ⊃ O]
+(N ⊃ O) ⊃ (~P ⊃ Q)
+R ⊃ ~Q / L ⊃ (R ⊃ P)",Gültig,"Ungültig. Gegenbeispiel, wenn L, M, O, Q und R wahr sind und N und P falsch sind","Ungültig. Gegenbeispiel, wenn L, N, O, Q und R wahr sind und M und P falsch sind","Ungültig. Gegenbeispiel, wenn L, N und R wahr sind und M, O, P und Q falsch sind",D
+"Identifizieren Sie die Schlussfolgerung des folgenden Arguments. Der Sinn eines Begriffs soll seine Referenz bestimmen. Aber die Referenz kann variieren, ohne dass sich der Gedanke ändert. Also müssen die Sinne von Begriffen variieren können, ohne dass sich der Gedanke ändert. Folglich bestimmen unsere Gedanken nicht die Bedeutungen unserer Begriffe; Bedeutungen sind nicht im Kopf. (Hilary Putnam)",Der Sinn eines Begriffs soll seine Referenz bestimmen.,"Aber die Referenz kann variieren, ohne dass sich der Gedanke unterscheidet.","Der Bezug kann variieren, ohne dass sich der Gedanke ändert.",Unsere Gedanken bestimmen nicht die Bedeutungen unserer Begriffe; Bedeutungen sind nicht im Kopf.,D
+"Erstellen Sie eine vollständige Wahrheitstabelle für die folgenden Paare von Aussagen. Bestimmen Sie dann anhand der Wahrheitstabellen, ob die Aussagen logisch äquivalent oder widersprüchlich sind. Falls keines von beiden zutrifft, bestimmen Sie, ob sie konsistent oder inkonsistent sind. Begründen Sie Ihre Antworten.
+(G ∨ ~H) ⊃ G und ~G ≡ (~H · G)",Logisch äquivalent,Widersprüchlich,"Weder logisch äquivalent noch widersprüchlich, sondern konsistent",Inkonsistent,C
+"Welche der gegebenen Formeln der Prädikatenlogik ist die beste Symbolisierung des folgenden Satzes?
+Entweder ist Englands Rindfleischimport eine notwendige Bedingung für Frankreichs Subventionierung der Landwirtschaft, oder Chinas Förderung der Menschenrechte ist keine hinreichende Bedingung für Südafrikas Diamantenlieferung.",(E ≡ F) ∨ ~(C ≡ S),(E ≡ F) ∨ (~C ⊃ S),(E ⊃ F) ∨ ~(C ⊃ S),(F ⊃ E) ∨ ~(C ⊃ S),D
+"Wählen Sie die beste englische Interpretation der gegebenen Argumente in der Prädikatenlogik aus.
+Wn ∨ Wm
+(∀x)[Lx ⊃ (Dx ⊃ ~Wx)]
+Ln • Dn	/ ~(∀x)~Wx","Entweder Nancy oder Marvin sind bei der Arbeit. Alle Anwälte sind nicht bei der Arbeit, wenn sie beim Abendessen sind. Nancy ist eine Anwältin und beim Abendessen. Also ist nicht alles nicht bei der Arbeit.","Entweder Nancy oder Marvin sind bei der Arbeit. Alle Anwälte sind beim Abendessen, wenn sie nicht bei der Arbeit sind. Nancy ist eine Anwältin und beim Abendessen. Also ist nicht alles nicht bei der Arbeit.","Entweder Nancy oder Marvin sind bei der Arbeit. Alle Anwälte sind zum Essen ausgegangen, wenn sie nicht bei der Arbeit sind. Nancy ist eine Anwältin und zum Essen ausgegangen. Also ist nicht alles bei der Arbeit.","Entweder Nancy oder Marvin sind bei der Arbeit. Alle Anwälte sind nicht bei der Arbeit, wenn sie beim Abendessen sind. Nancy ist eine Anwältin und beim Abendessen. Also ist nicht alles bei der Arbeit.",A
+"Identifizieren Sie die Schlussfolgerung des folgenden Arguments. Denken Sie daran, alle Schlussfolgerungsindikatoren zu entfernen. Es ist falsch für die Gesellschaft, einen Mörder zu töten. Dies folgt aus dem Grund, dass wenn ein Mörder falsch handelt, indem er sein Opfer tötet, dann handelt auch die Gesellschaft falsch, wenn sie den Mörder tötet. Und ein Mörder handelt falsch, wenn er sein Opfer tötet.","Es ist falsch für die Gesellschaft, einen Mörder zu töten.","Dies folgt aus dem Grund, dass, wenn ein Mörder falsch handelt, indem er sein Opfer tötet, dann handelt auch die Gesellschaft falsch, indem sie den Mörder tötet.","Wenn ein Mörder falsch handelt, indem er sein Opfer tötet, dann handelt auch die Gesellschaft falsch, indem sie den Mörder tötet.","Und ein Mörder handelt falsch, wenn er sein Opfer tötet.",A
+"Welche der folgenden Aussagen ist keine unmittelbare (einstufige) Folgerung in der Prädikatenlogik aus den gegebenen Prämissen?
+I ⊃ (J ≡ K)
+(J ≡ K) ⊃ (L ∨ M)
+I ⊃ ~L",~L,J ≡ K,Ich ⊃ (L ∨ M),~L ⊃ (J ≡ K),D
+"Erstellen Sie eine vollständige Wahrheitstabelle für das folgende Argument. Bestimmen Sie dann anhand der Wahrheitstabelle, ob das Argument gültig oder ungültig ist. Wenn das Argument ungültig ist, wählen Sie eine Option, die ein Gegenbeispiel darstellt. (Es kann auch andere Gegenbeispiele geben.)
+I ≡ ~J
+I ∨ J / I",Gültig,"Ungültig. Gegenbeispiel, wenn I und J wahr sind","Ungültig. Gegenbeispiel, wenn I wahr und J falsch ist","Ungültig. Gegenbeispiel, wenn J wahr und I falsch ist",D
+Wählen Sie die beste Übersetzung in Prädikatenlogik: Manche Menschen haben Glück.,(∃x)(Fx • Lx),Fl,Lf,(∀x)(Fx • Lx),A
+Wählen Sie die beste Übersetzung in Prädikatenlogik aus. Alexis wird von Ben begrüßt. (a: Alexis; b: Ben; Gxy: x begrüßt y),Gab,~Gba,aGb,Gba,D
+Wählen Sie die beste Übersetzung in Prädikatenlogik: Nicht alle Hummer sind rot.,~(∀x)(Lx ⊃ Rx),~(∃x)(Lx ⊃ Rx),~(∃x)(Lx • Rx),~(∀x)(Lx • Rx),A
+"Verwenden Sie indirekte Wahrheitstabellen, um festzustellen, ob das folgende Argument gültig ist. Wenn das Argument ungültig ist, wählen Sie eine Option, die ein Gegenbeispiel darstellt. (Es kann auch andere Gegenbeispiele geben.)
+H ≡ (I · ~J)
+K ≡ ~H
+~(K ⊃ J) / I ≡ J",Gültig,"Ungültig. Gegenbeispiel, wenn I, H und K wahr sind und J falsch ist","Ungültig. Gegenbeispiel, wenn I und H wahr sind und J und K falsch sind","Ungültig. Gegenbeispiel, wenn K wahr ist und I, H und J falsch sind",A
+"Erstellen Sie eine vollständige Wahrheitstabelle für die folgenden Paare von Aussagen. Bestimmen Sie dann anhand der Wahrheitstabellen, ob die Aussagen logisch äquivalent oder widersprüchlich sind. Falls keines von beiden zutrifft, bestimmen Sie, ob sie konsistent oder inkonsistent sind. Begründen Sie Ihre Antworten.
+~(J ∨ K) · L und (L ⊃ J) · K",Logisch äquivalent,Widersprüchlich,"Weder logisch äquivalent noch widersprüchlich, sondern konsistent",Inkonsistent,D
+Wählen Sie die beste Übersetzung in die Prädikatenlogik: Alle Studenten im ersten Jahr machen einen Schwimmtest.,(∀x)(Sx ⊃ Fx),(∀x)(Fx ⊃ Sx),(∀x)(Fx ∨ Sx),(∀x)(Fx ≡ Sx),B
+Wählen Sie die beste Übersetzung in Prädikatenlogik: Johnny kam zu spät.,jL,Lj,Cj ∨ Lj,Lx,B
+Wählen Sie die beste Übersetzung in Prädikatenlogik: Kein Senior macht einen Abschluss ohne Hauptfach.,(∀x)(Sx ⊃ ~Gx),~(∀x)(Sx ⊃ Gx),(∀x)( ~Sx ⊃ ~Gx),(∀x) ~(Sx ⊃ ~Gx),A
+"Identifizieren Sie die Schlussfolgerung des folgenden Arguments. Aus historischer Sicht ist die Genetik eine junge Wissenschaft. Die Prinzipien, die die Vererbung von Merkmalen bestimmen, wurden vor weniger als 150 Jahren beschrieben. Darüber hinaus wurden die Vererbungsgesetze um die Wende zum zwanzigsten Jahrhundert wiederentdeckt. Aber selbst dann wurde die Bedeutung der DNA erst in den 1950er Jahren wirklich verstanden.",Aber selbst dann wurde die Bedeutung der DNA bis in die 1950er Jahre nicht wirklich verstanden.,Die Bedeutung der DNA wurde bis in die 1950er Jahre nicht wirklich verstanden.,Aus historischer Sicht ist die Genetik eine junge Wissenschaft.,"Die Prinzipien, die die Vererbung von Merkmalen bestimmen, wurden vor weniger als 150 Jahren beschrieben.",C
+"Welche der gegebenen Formeln der Prädikatenlogik ist die beste Symbolisierung des folgenden Satzes?
+Entweder ist Englands Rindfleischimport eine notwendige Bedingung für Frankreichs Subventionierung der Landwirtschaft, oder China fördert die Menschenrechte, vorausgesetzt, dass Südafrika keine Diamanten liefert.",(E ⊃ F) ∨ (C ≡ ~S),(F ⊃ E) ∨ (~S ≡ C),(E ⊃ F) ∨ (S ⊃~C),(F ⊃ E) ∨ (~S ⊃ C),D
+"Welche der gegebenen Formeln der Prädikatenlogik ist die beste Symbolisierung des folgenden Satzes?
+Entweder ist Englands Rindfleischimport eine hinreichende Bedingung für Frankreichs Subventionierung der Landwirtschaft, oder Chinas Förderung der Menschenrechte ist eine notwendige Bedingung für Südafrikas Diamantenlieferung.",(E ⊃ F) ∨ (S ⊃ C),(F ⊃ E) ∨ (C ⊃ S),(E ⊃ F) ∨ (C ⊃ S),(F ⊃ E) ∨ (S ⊃ C),A
+"Welche der gegebenen Formeln der Prädikatenlogik ist die beste Symbolisierung des folgenden Satzes?
+Dylan mag weder Mathematik noch Naturwissenschaften.",M ∨ S,~(M • S),~(M ∨ S),~M ∨ ~S,C
+Wählen Sie die beste Übersetzung in Prädikatenlogik: Alle Roboter sind Artefakte.,(∀x)(Ax ∨ Rx),(∀x)(Ax • Rx),(∀x)(Rx ⊃ Ax),(∀x)(Rx • Ax),C
+"Welche der gegebenen Formeln der Prädikatenlogik ist die beste Symbolisierung des folgenden Satzes?
+Da die Universität die Studiengebühren erhöht hat, hat der Präsident dies gebilligt und der Vorstand hat es nicht verhindert.",(P • ~B) ⊃ U,(U ⊃ P) • B,U ⊃ (P • ~B),U ⊃ (P ∨ ~B),C
+"Identifizieren Sie die Schlussfolgerung des folgenden Arguments. Wir sollten die Todesstrafe nicht abschaffen. Wenn wir das tun, werden die Gefängnisse überfüllter. Wenn die Gefängnisse überfüllter werden, dann müssen wir mehr Gefängnisse bauen. Und wir wollen keine weiteren Gefängnisse bauen.",Wir sollten die Todesstrafe nicht abschaffen.,"Wenn wir das tun, werden die Gefängnisse überfüllter.","Wenn Gefängnisse überfüllter werden, dann müssen wir mehr Gefängnisse bauen.",Wir werden mehr Gefängnisse bauen müssen.,A
+"Welche der gegebenen Formeln der Prädikatenlogik ist die beste Symbolisierung des folgenden Satzes?
+Entweder ist Englands Nichtimportieren von Rindfleisch eine notwendige Bedingung für Frankreichs Subventionierung der Landwirtschaft, oder China fördert die Menschenrechte genau dann, wenn Südafrika keine Diamanten liefert.",(F ⊃ ~E) ∨ (C ≡ ~S),(~E ⊃ F) ∨ (C ⊃ ~S),~(F ⊃ E) ∨ (~S ⊃ C),(F ⊃ E) ∨ (C ≡ ~S),A
+"Verwenden Sie indirekte Wahrheitstabellen, um festzustellen, ob das folgende Argument gültig ist. Wenn das Argument ungültig ist, wählen Sie eine Option, die ein Gegenbeispiel darstellt. (Es kann auch andere Gegenbeispiele geben.)
+(K · L) ⊃ M
+N ⊃ ~M
+N ∨ K / L ⊃ K",Gültig,"Ungültig. Gegenbeispiel, wenn L, M und N wahr sind und K falsch ist","Ungültig. Gegenbeispiel, wenn L und M wahr sind und K und N falsch sind","Ungültig. Gegenbeispiel, wenn L und N wahr sind und K und M falsch sind",D
+"Erstellen Sie eine vollständige Wahrheitstabelle für das folgende Argument. Bestimmen Sie dann anhand der Wahrheitstabelle, ob das Argument gültig oder ungültig ist. Wenn das Argument ungültig ist, wählen Sie eine Option, die ein Gegenbeispiel darstellt. (Es kann auch andere Gegenbeispiele geben.)
+(G ≡ H) · ~I
+~G ∨ (~H ∨ I) / G",Gültig,"Ungültig. Gegenbeispiel, wenn H und I wahr sind und G falsch ist","Ungültig. Gegenbeispiel, wenn H wahr ist und I und G falsch sind","Ungültig. Gegenbeispiel, wenn H, I und G falsch sind",D
+"Erstellen Sie eine vollständige Wahrheitstabelle für das folgende Argument. Bestimmen Sie dann anhand der Wahrheitstabelle, ob das Argument gültig oder ungültig ist. Wenn das Argument ungültig ist, wählen Sie eine Option, die ein Gegenbeispiel darstellt. (Es kann auch andere Gegenbeispiele geben.)
+~(M ≡ ~N)
+M / N",Gültig,"Ungültig. Gegenbeispiel, wenn M und N wahr sind","Ungültig. Gegenbeispiel, wenn M wahr und N falsch ist","Ungültig. Gegenbeispiel, wenn N wahr und M falsch ist",A
+Wählen Sie die beste Übersetzung in Prädikatenlogik aus. Einige CEOs sind wohlhabender als jeder andere. (Cx: x ist ein CEO; Px: x ist eine Person; Wxy: x ist wohlhabender als y),(∃x)[Cx • (∀y)(Py • Wxy)],(∃x)[Cx ⊃ (∀y)(Py ⊃ Wxy)],(∃x)[Cx • (∀y)(Py ⊃ Wxy)],(∀x)[Px ⊃ (∃y)(Cy ⊃ Wxy)],C
+Wählen Sie die beste Übersetzung in Prädikatenlogik. Alle Kinder gehen in irgendeine Schule. (Cx: x ist ein Kind; Sx: x ist eine Schule; Gxy: x geht in y),(∀x)(∃y)[(Cx • Sy) • Gxy),(∀x)[Sx ⊃ (∃y)(Cy • Gxy)],(∀x)[Cx ⊃ (∃y)(Sy • Gxy)],(∀x)[Sx • (∃y)(Cy • Gxy)],C

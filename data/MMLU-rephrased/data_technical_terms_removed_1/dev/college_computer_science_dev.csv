@@ -1,0 +1,12 @@
+"What combination of letters a, b, c, and d, where a and b can repeat as many times as needed, matches the same set of words as (c + d)?",a*(c + d)+ b(c + d),a*(c + d)* + b(c + d)*,a*(c + d)+ b*(c + d),(a + b)*c +(a + b)*d,D
+"A certain computer has 8 general-purpose storage spaces R0, R1, . . . , R7 and supports the following operations: ADD (which adds two numbers and stores the sum in another space) and MUL (which multiplies two numbers and stores the product in another space). An operation normally takes one time unit; however, an operation takes two time units if it produces a result required by the immediately following operation in a sequence. Consider the expression AB + ABC + BC, where variables A, B, C are located in storage spaces R0, R1, R2. If the contents of these three storage spaces must not be modified, what is the minimum number of time units required for a sequence of operations that computes the value of AB + ABC + BC?",5,6,7,8,B
+"When creating an object from a specific type, there is a rule that allows only one instance of that object to exist. Which of the following statements about this rule are correct?
+I. The type has a special method to provide its instance.
+II. The type can extend another type.
+III. The type's constructor (the method that creates objects) is private.",I only,II only,III only,"I, II, and III",D
+"Here is the rephrased question without technical terms or jargon:
+
+A program converts a math expression into a series of steps for a simple calculator. The calculator has one storage area and can only perform one operation at a time. The available operations are: get a value, save a value, add, subtract, and multiply. When doing math operations, one value comes from the storage area, the second value is used, and the result goes into the storage area. The math expression is: 
+Take A and B, add them together, multiply that result by C, then take D and E, add them together, multiply that result by F, and finally subtract that from the first result.
+What is the smallest number of steps needed for the calculator to solve this expression?",5,6,7,9,D
+"In a system where several processing units, each with its own temporary storage area, share a common storage area using a single connection, what fraction of the connection's capacity would one processing unit use, without considering delays caused by other processing units?",1/50,1/27,1/25,2/27,B

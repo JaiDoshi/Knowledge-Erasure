@@ -1,0 +1,145 @@
+Bir osilatör için Barkhausen kriteri,Çevrim kazancı birlik olmalıdır,Çevrim kazancı birden küçük olmalıdır,Bir geri besleme sinyalinin girişe göre fazı 0° veya 360° olmalıdır,Hem A hem de C,D
+"Potansiyometre yöntemiyle DC gerilim ölçümü, bir voltmetre kullanarak doğrudan ölçüm yapmaktan daha doğrudur çünkü",Devreyi orta derecede yükler.,Devreyi maksimum ölçüde yükler.,Voltmetre yerine sıfır merkezli galvanometre kullanır.,Hiç devreyi yüklemiyor.,D
+Bu mantık kapısı setlerinden hangileri evrensel kapılar olarak adlandırılır?,"NE DE, VE DEĞİL","XOR, NOR, NAND.","VEYA, DEĞİL, VE","NOR, NAND, XNOR.",A
+"Tek fazlı bir darbe kontrollü devre, direnç R ve karşı emk E yükü ile 400 sin(314 t) kaynak gerilimine sahiptir. 200 V'luk bir yük karşı emk'si için, ateşleme açısı kontrol aralığı şu şekildedir",30° ila 150°,30° ila 180°,60° ila 120°,60° ila 180°,A
+Kontrol alt sistemine girdilerin etkisini gösteren kutuya şu ad verilir:,Veri Kutusu,Mantıksal kutu.,Karar kutusu,Eyalet kutusu,C
+"İki sonsuz paralel metal plaka, aynı polaritede eşit yüzey yük yoğunluğu ile yüklenmiştir. Plakalar arasındaki boşlukta elektrik alan",bir plaka tarafından üretilene benzer.,Tek bir plaka tarafından üretilen alanı iki katına çıkarın.,alan noktalarının koordinatlarına bağlı,sıfır,D
+Bir dinamometre wattmetrenin hareketli bobininin devresindeki direnç olmalıdır,Düşük,Çok düşük.,Yüksek,Neredeyse sıfır.,C
+Aşağıdakiler bir osilatörün gerekli şartlarıdır,Genlik kararlılığı,Frekans kararlılığı,Güç kararlılığı,A ve B'nin her ikisi de,D
+Yönlü ısıtmada kullanılan normal voltaj,"1,5 KV",15 KV,33 KV,66 KV,A
+"LC osilatörler, frekansı aralığında bir dalga formu üretmek için kullanılır",1 MHz'den 500 MHz'e,100 KHz'den 500 MHz'e,1 kHz'den 1 MHz'e,1 MHz'den 100 GHz'e,A
+Çalışan bir diyotun olması gerekir,İleri veya ters kutuplandığında yüksek direnç,"İleri yönde kutuplanmada düşük direnç, ters yönde kutuplanmada ise yüksek direnç","İleri yönde kutuplanmada yüksek direnç, ters yönde kutuplanmada ise düşük direnç",İleri veya ters kutuplandığında düşük direnç,B
+Kırmızı renk floresansı veren floresan maddenin adı nedir?,Çinko silikat,Kalsiyum silikat,Çinko sülfür,Magnezyum silikat,D
+Bir BCD basamağını depolamak için kaç bit gereklidir?,1,2,3,4,D
+DC jeneratörde komütatör şu amaçla kullanılır,mevcut olanın toplanması,kayıpları azaltmak,verimliliği artırmak,AC armatür akımını DC'ye dönüştürmek,D
+1 F teorik olarak şuna eşittir,1 ohm direnç,1 V'nin 1 C'ye oranı,1 C'ye 1 V oranı,hiçbiri,C
+Üç girişli bir NAND kapısının doğruluk tablosunda kaç giriş olacak?,3,6,8,9,C
+Ondalık sayı sisteminde MSD nedir,Soldan sağa ilk rakam,Sağdan sola ilk rakam,Ortadaki rakam,Tüm rakamların ortalaması,A
+"Dijital Mantık Tasarımlarında, GAL'ın kısaltması şu anlama gelir:",Genel İlerleme Mantığı,Genel Dizi Mantığı,Genel Gelişmiş Mantık,Genel Dizi Mantığı,D
+Inintel 8085A mikroişlemcisinde ALE sinyali yüksek seviyeye getirilir,Veri yolunun düşük sıralı adres yolu olarak kullanılmasını etkinleştir,Veri yolundan D0-D7 verilerini tutmak için,Veri yolunu devre dışı bırakmak için,Yukarıda listelenen tüm işlevleri gerçekleştirmek için,A
+Bir SCR kapısının katot karakteristiği 130'luk düz bir çizgidir. 15 V'luk tetiklenmiş kaynak voltajı ve 0.5 W'lık izin verilen kapı güç dağılımı için kapı kaynak direncini hesaplayın?,"111,9 ohm","11,19 ohm",108 ohm,115 ohm,A
+İnvertörlerin indüksiyon motorlarını sürmesinde V/f kontrol kavramı şu sonucu doğurur:,sabit tork çalışması,hız tersine çevirme,azaltılmış manyetik kayıp,hormonik eliminasyon,A
+"Uzunluğu 30 cm ve çapı 3 cm olan, 10 amperlik bir akım taşıyan 1000 sarımlı tel ile sarılmış bir solenoidin manyetik alanında depolanan enerji,","0,015 jul","0,15 jul","0,015 jul","1,15 jul",B
+"Değişken frekanslı güç kaynaklarıyla çalışırken, AC motor değişken voltaja ihtiyaç duyar, böylece",yalıtımı koruyun,doygunluk etkisinden kaçının,invertörün yeteneklerini geliştirmek.,tiristörü dV / dt'den koruyun,B
+Aşağıdaki sargılardan hangileri tüm DC makinelerde gereklidir?,kapalı sargı,sargı sarımı,dalga sargısı,açık tip sargı,A
+Gevşeme Gerilim kontrollü osilatörler üretmek için kullanılır,Sinüzoidal dalga,Üçgen dalga,Testere dişi dalgası,B ve C'nin her ikisi de,D
+Yüksek frekanslı girdap akımı ısıtması için genellikle kullanılan besleme frekansı,1 kHz,5 KHz,10 MHz,10 KHz'den 400 KHz'e,D
+Geçiş modunda bir JK flip-flop'un,"J = 0, K = 0.","J = 1, K = 1.","J = 0, K = 1.","J = 1, K = 0.",B
+Elektrikli tahrik giderek daha popüler hale geliyor çünkü,aşağıdakilerin tümü,Pürüzsüz ve kolay kontrol sağlar.,maliyeti daha düşük.,basit ve güvenilirdir.,A
+Bir yükseltici kıyıcının giriş gerilimi 110 V ve çıkış gerilimi 150 V'tur. Görev döngüsünün değeri,"0,32","0,67","0,45","0,27",B
+Bir İkili sayı sistemi kaç basamağa sahiptir.,0,1,2,10,C
+"En düşük kritik frekans kutup nedeniyledir ve orijinde veya orijine daha yakın bir yerde bulunabilir, bu durumda ağ tipi şudur",LC.,RL.,RC,Yukarıdakilerden herhangi biri.,C
+Açık döngü kontrol sisteminin avantajı/avantajları şunlardır,basit ve ekonomik,doğru,güvenilir,yukarıdakilerin hepsi,A
+"Bir endüktörde indüklenen gerilim şu şekilde temsil edilir,",indüktansı ile içinden geçen akımın çarpımı.,içinden geçen akıma göre endüktansının oranı,üzerinden geçen akımın endüktansına oranı,endüktansı ile içinden geçen akımın değişim hızının çarpımı,D
+"Bir onaltılık (Hexadecimal) sayının ikili (binary) sisteme dönüştürülmesi gerekiyorsa, her onaltılık basamak için kaç bit olacaktır?",1,2,4,8,C
+İndüksiyon ısıtma şu şekilde gerçekleşir:,iletken ancak manyetik olmayan malzemeler.,manyetik veya manyetik olmayan malzemeler olabilen iletken malzemeler.,yalıtım malzemeleri,iletken ve manyetik malzemeler,B
+Bir lap sargılı doğru akım makinesinde iletken sayısı 100 ve paralel yol sayısı 10'dur. Ortalama adımı bulun.,10,100,50,1,A
+Manyetik akı birimi,Newton,Amper sarımı,Weber,Tesla,C
+"Dengeli köprüde, dedektör ve kaynağın konumları değiştirilirse, köprü hala dengeli kalacaktır. Bu hangi teoremle açıklanabilir",Karşılıklılık teoremi,Thevenin teoremi,Norton teoremi,Telafi teoremi,A
+"Bir D-flip-flop, şu durumda şeffaf olarak kabul edilir:",çıkış DÜŞÜK,çıkış YÜKSEK,çıktı saati takip eder,çıktı girdiyi takip eder,D
+Bir osiloskoptaki Lissajous deseni 5 yatay teğet ve 2 dikey teğete sahiptir. Yatay girişin frekansı 100 Hz'dir. Dikey frekans şu olacaktır,500 Hz,250 Hz,400 Hz.,625 Hz,B
+Alan akısının değiştirilmesiyle hız kontrolü şu sonuçları doğurur,sabit güç sürücüsü,sabit tork sürücüsü,değişken güç sürücüsü,yukarıdakilerin hiçbiri,A
+Aşağıdaki belleklerden hangisi temel bellek birimi olarak bir transistör ve bir kapasitör kullanır,SRAM,DRAM,Hem SRAM hem de DRAM,Hiçbiri,B
+4m * 3m dikdörtgen bir odada 50 lüks ortalama aydınlatma şiddeti elde etmek için her biri 300 lümen olan kaç adet lamba gerekecektir?,2,4,5,6,A
+"Sistemin çıktısı giriş miktarını etkiliyorsa, o zaman sistem bir",açık döngü kontrol sistemi,kapalı döngü kontrol sistemi,ya A ya da B.,yukarıdakilerin hiçbiri,B
+"Sinüzoidal bir sinyal analog bir sinyaldir, çünkü",Negatif ve pozitif tepe noktaları arasında bir dizi değere sahip olabilir,bir yarım döngü boyunca negatiftir,Bir yarım döngü için pozitiftir,hem pozitif hem de negatif değerleri var,A
+FM'nin açılımı,sık modülasyon,frekans modülasyonu,frekans moderatörü,sık moderatör,B
+Yığın olarak da bilinir,FIFO bellek,Flash bellek,LIFO bellek,LILO belleği,C
+"Ward-Leonard sisteminde, hız için alt sınır şu şekilde belirlenir:",Tarla direnci.,Armatür direnci.,Jeneratörün kalıcı manyetizması.,Yukarıdakilerden hiçbiri.,C
+Colpitts osilatörü aynı zamanda şöyle de adlandırılır,Tank devresi osilatörü,LC osilatör,Rezonans devre osilatörü,Yukarıdakilerin hepsi,D
+Bir SCR'nin 50 Hz besleme için yarım döngü ani akım değeri 3000 A'dır. Bir döngü ani akımı şu olacaktır,1500 Amper,6000 A.,2121.32 A.,4242.64 A.,C
+ALU ve CPU'nun kontrol bölümü hangi özel amaçlı depolama konumunu kullanır?,Tamponlar,Kod çözücüler,Akümülatörler,Kayıtlar,C
+Sistematik hatalar,çevresel hatalar,gözlemsel hatalar,alet hataları,yukarıdakilerin hepsi,D
+Aşağıdakilerden hangisi/hangileri açık döngü kontrol sisteminin dezavantajlarıdır?,Yanlış.,Güvenilmez.,hem A hem de B.,yukarıdakilerin hiçbiri,C
+Ters kutuplandığında bir diyot (p-n bağlantısı) şu şekilde davranır,Açık,Zener diyot,Kondansatör,Kapatma Düğmesi,D
+Piezoelektrik etki şu şekilde gerçekleştirilir,bileşik filtre,kristal filtre,türetilmiş m,sabit k prototipi,B
+İletkenin özdirenç değeri şunlara bağlıdır,iletkenin alanı,iletkenin uzunluğu,malzeme türü,hiçbiri,C
+"Ölçülen değişkendeki, aletin tepki vereceği en küçük değişim",çözünürlük,doğruluk,hassasiyet,duyarlılık,A
+"Elektronik iletişimde, ""AM"" şunun kısaltmasıdır",Amfi Modifikasyonu,Genlik Yöntemi,Genlik Modülasyonu,Amper Yöntemi,C
+Hangi sistem aynı zamanda otomatik kontrol sistemi olarak da bilinir?,Açık döngü kontrol sistemi,Kapalı döngü kontrol sistemi,Ya A ya da B,Ne A ne de B,B
+Sabit bir VE dizisi ve programlanabilir bir VEYA dizisine sahip kombinasyonel bir PLD'ye şu ad verilir:,PLD,PROM,PAL,PLA,B
+"Sıfır tip bir alet, saptırılmış tip bir aletle karşılaştırıldığında",daha düşük bir hassasiyet.,daha hızlı bir yanıt.,daha yüksek bir doğruluk.,yukarıdakilerin hepsi,C
+"Kablonun uzunluğu iki katına çıkarılırsa, kapasitansı C",dörtte bir,yarım,iki katına çıkarılmış,değişmemiş,C
+Bir yarı iletkenin p tipi malzemesindeki elektronlar şöyle adlandırılır,azınlık taşıyıcıları veya çoğunluk taşıyıcıları,azınlık taşıyıcıları,çoğunluk taşıyıcıları,perde kornişi taşıyıcıları,B
+________ manyetik malzemelerdeki en zararlı safsızlıktır,Karbon,Kükürt,Oksijen,Azot,A
+Gerilim kontrollü osilatörler yaygın olarak kullanılır,Darbe Modülatörleri Frekans Modülatörleri Faz Kilitli Döngüler,Frekans Modülatörleri,Faz Kilitli Döngüler,Yukarıdakilerin hepsi,D
+"Düşük frekanslı besleme, doğrudan çekirdek tipi indüksiyon fırınları için gereklidir çünkü","Normal frekans beslemesi ile elektromanyetik kuvvetler, erimiş metalde şiddetli bir karıştırma etkisi yaratır.",Birincil ve ikincil devre arasındaki manyetik kuplaj zayıftır.,Hem A hem de B.,Yukarıdakilerin hiçbiri.,C
+"Hareketli bobinli ölçüm aletlerinde, sönümleme şu şekilde sağlanır:",bobinin alüminyum çerçevesi,hareketli kısma bağlı yay bobini.,girdap akımı diski,hava geçirmez bölmedeki sönümleme kanadı,A
+Aşağıdakilerden hangisi kuvvet-gerilim analojisinde kütle elemanına karşılık gelen benzer niceliktir?,Direniş,Endüktans,Kapasitans,Yukarıdakilerin hepsi.,B
+Bir mandal ________ duyarlıdır,hem seviye hem de kenar,kenar,seviye,Hiçbiri,C
+SCR'yi aşırı akımdan korumak için ne kullanılır?,CB ve sigorta.,Isı emici,Sönümleme devresi.,Gerilim sınırlama cihazı.,A
+Hataların çoğunlukla insan hatalarından kaynaklandığı,kaba hata,enstrümantal hata,gözlemsel hata,sistematik hata,A
+Kuvvet-akım analojisinde sönümleyicinin elektriksel eşdeğer niceliği,direnç,iletkenlik,endüktans,kapasitans,B
+Hangi lambanın en iyi Renk Geriverim İndeksi (CRI) vardır?,LED,Floresan,Akkor,Yüksek basınçlı sodyum buharı,C
+İdeal endüktörde güç kaybı,Maksimum,Minimum,Sıfır,Sonlu bir değer,C
+Aralıklı çalışma için aşağıdaki fırınlardan hangisi uygundur?,Çekirdeksiz fırın.,Endirekt ark fırını.,Yukarıdakilerden herhangi biri.,Yukarıdakilerden hiçbiri.,B
+Elektrik direnç kaynağında elektrot malzemesi şu özelliklere sahip olmalıdır,daha yüksek elektriksel iletkenlikler,daha yüksek ısıl iletkenlikler,yüksek sıcaklıklarda yüksek basınca dayanacak yeterli mukavemet.,yukarıdakilerin hepsi,D
+Aşağıdakilerden hangileri pasif elemanlardır?,Direnç,Ampul,İkisi de,Bunların hiçbiri.,C
+Dielektrik ısıtmanın ana avantajı şudur ki,ısınma malzemenin kendisinde gerçekleşir.,yüksek frekans nedeniyle ısınma meydana gelir.,patlayıcıları kurutmak için kullanılabilir.,Yukarıdakilerin hiçbiri.,A
+Isı emicilerde kullanılan malzemeler şunlara sahip olmalıdır,yüksek ısı iletkenliği,geniş yüzey alanı,yüksek erime noktası,Bunların hepsi.,D
+İletken statik ve alan değişken ise emk indüklenecektir. Bu ilke şöyle adlandırılır,sanal olarak indüklenen emk,dinamik olarak indüklenen emk,statik indüklenmiş emk,hiçbiri,C
+"Dört özdeş alternatör, her biri 20 MVA, 11 KV ve %16 geçici reaktansa sahip olup paralel çalışmaktadır. Baradaki kısa devre seviyesi",500 MVA,400 MVA,125 MVA,100 MVA,A
+"Bohr modeline göre, bir elektron yalnızca şu şekilde enerji kazanır veya kaybeder:",izin verilen bir yörüngede daha hızlı veya daha yavaş hareket etmek.,bir izin verilen yörüngeden diğerine atlamak,bir atomdan tamamen uzaklaştırılmak.,bir atomdan diğer atoma atlamak,B
+Üç durumlu bir tampon aşağıdaki çıkış durumlarına sahiptir,"1, 0, kayan nokta","Yüksek, Düşük, Kayan",A ve B'nin her ikisi de,"Ayarla, Sıfırla, Durdur",C
+Aşağıdaki elemanlardan hangisi kullanılarak mekanik öteleme sistemleri elde edilir?,kütle elemanı,yay elemanı,amortisör,yukarıdakilerin hepsi,D
+"Kırk mikrofarad kapasiteli dört kondansatör paralel bağlandığında, sistemin eşdeğer kapasitansı şu şekilde olacaktır",160 µF,10 µF,40 µF,5 µF,A
+"Çapı d ve uzunluğu l olan bir iletkenin direnci R Ω'dur. Eğer iletkenin çapı yarıya indirilir ve uzunluğu iki katına çıkarılırsa, direnç şu olacaktır",R Ω,2R Ω,4R Ω,8R Ω,C
+"Tek fazlı tam köprü evirici, yük aşağıdakilerden oluştuğu durumda yük komütasyonu modunda çalıştırılabilir",RL.,RLC düşük sönümlü.,RLC aşırı sönümlü.,RLC kritik sönümlü.,B
+Bir mikroişlemci bir ALU'dur,ve tek bir yonga üzerinde kontrol birimi.,ve tek bir yonga üzerinde bellek.,tek bir yonga üzerinde kayıt birimi ve G/Ç cihazı,tek bir yonga üzerinde kayıt birimi ve kontrol birimi,D
+"Yüksek bir kapasitans değeri elde etmek için, dielektrik ortamın geçirgenliği şöyle olmalıdır",düşük,sıfır,yüksek,birlik,C
+Sapma yöntemi doğrudan ölçümleri en yaygın olarak kullanılmaktadır çünkü bunlar,en az zaman alan,en basit,en basit ve en az zaman alan,en doğru,C
+Tamamen mekanik aletler dinamik ölçümler için kullanılamaz çünkü onlar,yüksek atalet,daha yüksek yanıt süresi,büyük zaman sabiti,yukarıdakilerin hepsi,D
+Yüksek iletim geriliminin avantajı/avantajları,İletim hattının güç transfer kapasitesi artırılmıştır,İletim hattı kayıpları azaltılır,Kesit alanı ve iletkenin hacmi azaltılır,yukarıdakilerin hepsi,D
+Aşırı veya düşük gerilim durumunda gerilim sınırlama cihazı tarafından sunulan empedans,yüksek,düşük,ılımlı,sonsuzluk,B
+"Pürüzsüz yuvarlak bir iletken içeren uzun bir tel, zeminin üzerinde ve zemine paralel olarak uzanır (zeminin büyük bir iletken düzlem olduğu varsayılır). İletken ile zemin arasında yüksek bir voltaj mevcuttur. Maksimum elektrik gerilimi şu noktada oluşur:",iletkenin alt yüzeyi,iletkenin üst yüzeyi,zemin yüzeyi,iletken ile toprak arasında orta noktada.,A
+Bir dc makinede 6 kutuplu dalga sargısı kullanılmaktadır. Paralel yolların sayısı kaçtır?,6,4,2,1,C
+Aşağıdakilerden hangisi dijital bir cihazdır,Bir fanın regülatörü,Mikrofon,Bir malzemenin direnci,Işık anahtarı,D
+Endüktördeki anlık güç şuna orantılıdır:,anlık akım ile akımın değişim hızının çarpımı,anlık akımın karesi,akımın değişim hızının karesi,endüktörün sıcaklığı,A
+Aşağıdakilerden hangisi değişken yer değiştirme dönüştürücüsüdür?,takometre,potansiyometre,senkronlar,yukarıdakilerin hiçbiri,B
+"Beşer mikrofarad değerinde beş kapasitör seri bağlandığında, sistemin eşdeğer kapasitansı şu şekilde olacaktır",5 µF,25 µF,10 µF,1 µF,D
+Duyarlılık negatiftir,manyetik olmayan maddeler,diyamanyetik maddeler,ferromanyetik maddeler,yukarıdakilerin hiçbiri,B
+Aşağıdakilerden biri bir osilatörün temel işlevidir,sinüzoidal salınımlar üretir,sinüzoidal olmayan dalga biçimleri üretir,sabit bir genlikte ve belirli bir frekansta sürekli salınımlar üretir,yukarıdakilerin hiçbiri,C
+Elektrik dirençli kaynak için metal yüzeyler olmalıdır,kaba,temiz,nemlendirilmiş,renkli,B
+SCR'nin tutma akımı 20 mA'dır. Tutunma akımı ise,23 mA,40 mA,10 mA,60 mA,C
+"Kuvvet-akım analojisinde, yer değiştirmenin (x) elektriksel analog karşılığı",gerilim,endüktans,kapasitans,akı,D
+Bir osilatörde geri besleme devresi şu şekilde gerçekleştirilebilir,Giriş ve çıkış arasında dirençli bağlantı,Giriş ve çıkış arasındaki kapasitif kuplaj,Giriş ve çıkış arasındaki endüktif kuplaj,Yukarıdaki yöntemlerden herhangi biri veya bunların kombinasyonları,D
+"En düşük kritik frekans sıfıra bağlıdır ve orijinde veya orijine daha yakın bir yerde bulunabilir, bu durumda ağ tipi şudur",LC devresi,RC devresi,RLC devresi,RL Devresi,D
+Havanın dielektrik sabiti değeri nedir?,1'den az,0,1.,hiçbiri,C
+Sıcaklık değişimi bir/bir,Dijital miktar,Analog büyüklük,Dijital veya Analog büyüklük,Hiçbiri,B
+Bir lambanın 5 metre altındaki bir noktadaki aydınlatma 6 lükstür. Lambanın mum gücü,30,140,150,200,C
+Bir dc makinesi için şönt direnci ve armatür direnci değerleri,yüksek ve yüksek,yüksek ve alçak,alçak ve alçak,düşük ve yüksek,B
+İletkenin manyetik alandaki kesit alanının değişimi etkileyecektir,iletkenin isteksizliği,iletkenin direnci,(A) ve (B) ikisi de aynı şekilde.,yukarıdakilerin hiçbiri,C
+Aşağıdakilerden hangisi SCR'de yüksek dV / dt'den korumak için kullanılır?,Sönümleme devresi.,Sigorta,Dengeleme devresi.,Devre kesici,A
+Derleme işlemi sırasında makine komutlarına çevrilmeyen bir programdaki komut setlerine ne denir?,Anımsatıcılar,Yönergeler,Tanımlayıcılar,İşlenenler,B
+4-G telekomünikasyon ağında veri iletim hızı,386 kbps - 2 mbps,2 mbps,2 mbps – 1 gbps,100 mbps - 1 gbps,D
+Aşağıdakilerden hangisi/hangileri aktif elemandır?,Gerilim kaynağı,Mevcut kaynak,İkisi de,Bunların hiçbiri.,C
+Kuvvet-gerilim analojisinde yay elemanı (K) için elektriksel benzer nicelik şudur,L,R,1/C,C,C
+Bir kuvars kristal osilatör şunlardan oluşur:,sadece seri rezonans frekansı,sadece paralel rezonans frekansı,hem seri hem de paralel frekanslar,ne seri ne de paralel frekans,C
+Aşağıdaki osilatörlerden hangileri düşük frekans (LF) uygulamaları için kullanılır,LC osilatörler,RC osilatörler,Hem LC hem de RC Osilatörler,Hiçbiri,B
+"Çapı 1,2 m olan bir kürenin yüzeyinde 2400 cm^2'lik bir alanın kapladığı katı açı",3 / 2,1 / 3,2 / 3,2 / 5,C
+Bağıl hata şununla aynıdır,mutlak hata ve gerçek değer oranı,mutlak hata,gerçek hata,yukarıdakilerin hiçbiri,A
+"Bir tristörün tutma akımı 2 mA ise, tetikleme akımı şu olmalıdır","0,01 A","0,002 A","0,009 A","0,004 A",D
+"Intel 8085A'da, bir komutun ilk makine döngüsü hangisidir?",Bir işlem kodu getirme döngüsü,Bir bellek okuma döngüsü,Bir bellek yazma döngüsü,Bir G/Ç okuma döngüsü,A
+Aşağıdakilerden hangileri kapalı döngü kontrol sisteminin dezavantajlarıdır?,Genel kazancı azaltır.,Karmaşık ve pahalı.,Salınımlı tepki.,Yukarıdakilerin hepsi.,D
+"Kutuplar ve sıfırlar negatif gerçek eksen üzerinde dönüşümlü olarak düzenlenirse, ağ tipi/tipleri şudur/şunlardır",LC ağı,RC devresi,RL ağı,Hem 2 hem de 3.,D
+Ferromanyetik malzemelerde manyetizasyon ve uygulanan alan birbiriyle ilişkilidir,sinüzoidal olarak,doğrusal olmayan şekilde,doğrusal olarak,parabolik olarak,B
+"İnce laminasyonlar, bir makinede azaltmak amacıyla kullanılır",Eddy akımı kayıpları,Histerezis kayıpları,A ve B'nin her ikisi de,Bakır kayıpları,A
+"1 metre yarıçaplı ve 20 coulomb / m2 yüzey yük yoğunluğuna sahip metal bir yüzey, 10 m kenar uzunluğuna sahip bir küpün içine yerleştirilmiştir. Küpün yüzeyine dik olan toplam dışa doğru elektrik yer değiştirmesi",40π kulomb,80π kulomb,10π kulomb,hiçbiri,B
+İkili sayı sisteminde sağdan sola doğru ilk rakam (bit) şöyle adlandırılır:,"LSB, En Az Önemli Bit",En Anlamlı Bit,İlk Bit,Son Bit,A
+"İki wattmetre yöntemiyle güç ölçümünde, toplam güç yalnızca bir wattmetre ile ölçülüyorsa, sistemin güç faktörü",0,"0,5",1.,yukarıdakilerin hiçbiri,B
+0 - 100 V'luk bir voltmetrenin tam ölçek okumasında garanti edilen doğruluğu %2'dir. Voltmetre tarafından ölçülen gerilim 75 V'tur. Yüzde olarak sınırlayıcı hata,"%3,33","%2,66",%2,%1,B
+Aşağıdaki yöntemlerden hangisi/hangileri reaktif veya gerilim kompanzasyonu için kullanılır,şönt kapasitör,seri kapasitör,üretim uyarma kontrolü,yukarıdakilerin hepsi,D
+Üretim süreci sırasında programlanan ROM'un kendisine denir,MROM,PROM,EPROM,EEPROM,A
+8085'te 16 bitlik kaydedicinin/kaydedicilerin adı/adları,yığın işaretçisi,program sayacı,hem A hem de B.,hiçbiri,C
+Bir iletim hattının kararlılığı şu şekilde artırılabilir:,şönt kapasitör,seri kapasitör,şönt reaktör,hem A hem de B,D
+SCR ile birlikte snubber devresi kullanılır,seri halinde.,paralel olarak,seri veya paralel,anti paralel,B
+Herhangi bir elementin Bohr modelindeki halka sayısı neye göre belirlenir?,Periyodik tablodaki sütun numarası.,Atom kütlesi,Periyodik tablodaki satır numarası.,Atom numarası,C
+Silisyum ve Germanyum ________ elementlerdir.,üç değerlikli,beş değerlikli,hekzavalent,tetravalent,D
+8085 mikroişlemcilerindeki çıkış pinlerinin sayısı,27.,Kırk,21.,19.,A
+"Eğer P bir yıldız bağlı sistemin gücü ise, eşdeğer delta bağlı sistemin gücü ne olacaktır?",P,3P,P/3,Yukarıdakilerin hiçbiri,A
+Monolitik bir entegre devrede hangi osilatörlerin üretimi kolaydır?,Kristal osilatör,Hartley osilatörü,Wien köprüsü osilatörü,Gevşeme osilatörü,D
+"Eğer belirli bir ağdaki tüm elemanlar doğrusal ise, uyarım olduğunda süperpozisyon teoremi geçerli olacaktır",DC sadece,Sadece AC,AC veya DC,Bir Dürtü,C
+Wien köprüsü osilatörünün Op-Amp kullanarak geri besleme faktörü,1/3,1/4,1/2,1,C
+"8086/8088'de otobüs döngüsünün uzunluğu dört saat döngüsüdür: T1, T2, T3, T4 ve Tw ile gösterilen belirsiz sayıda bekleme durumu saat döngüsü. Bekleme durumları her zaman arasına eklenir",T1 ve T2,T2 ve T3,T3 ve T4,T4 ve T1,C
+Aşağıdakilerden hangisi sinüzoidal osilatör değildir?,LC osilatör,RC faz kaydırmalı osilatör,Gevşeme osilatörü,Kristal osilatör,C
+Akım taşıyan bir tel dairesel bir halka şeklinde bükülmüştür. Sonra telin her bir kısmının etrafındaki manyetik alan olacaktır,telin düzlemine paralel,telin çevresine dik,yarısı için paralel ve diğer yarısı için dik.,yukarıdakilerin hiçbiri,A

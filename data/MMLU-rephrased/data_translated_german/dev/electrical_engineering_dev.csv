@@ -1,0 +1,5 @@
+"Bei einem SR-Flipflop, das aus NOR-Gattern aufgebaut ist, welcher Zustand ist nicht erlaubt?","S=0, R=0","S=0, R=1","S=1, R=0","S=1, R=1",D
+In einer Gleichstrommaschine mit 2-poliger Schleifenwicklung beträgt der Widerstand eines Leiters 2Ω und die Gesamtzahl der Leiter ist 100. Finden Sie den Gesamtwiderstand.,200Ω,100Ω,50Ω,10Ω,C
+"Die Spule eines Drehspulmessgeräts hat 100 Windungen, ist 40 mm lang und 30 mm breit. Das Kontrolldrehmoment beträgt 240*10-6 N-m bei Vollausschlag. Wenn die magnetische Flussdichte 1Wb/m2 beträgt, ist der Messbereich des Messgeräts",1 mA,2 mA,3 mA,4 mA,B
+"Zwei lange parallele Leiter führen 100 A. Wenn die Leiter durch 20 mm getrennt sind, beträgt die Kraft pro Meter Länge jedes Leiters",100 N,"0,1 N",1 N.,"0,01 N",B
+"Ein Punktpol hat eine Stärke von 4π * 10^-4 Weber. Die Kraft in Newton auf einen Punktpol von 4π * 1,5 * 10^-4 Weber, der in einem Abstand von 10 cm davon platziert wird, beträgt",15 N.,20 N,"7,5 N","3,75 N",A

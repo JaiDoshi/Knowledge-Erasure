@@ -1,0 +1,11 @@
+Chọn bản dịch tốt nhất sang logic vị từ: Không có người nào lái xe trên sao Hỏa.,~Pd,(∀x)(Px ∨ ~Dx),(∀x)(Px ⊃ ~Dx),~Dp,C
+"Chọn bản dịch tốt nhất sang logic vị từ.
+George mượn máy cắt cỏ của Hector. (g: George; h: Hector; l: máy cắt cỏ của Hector; Bxyx: x mượn y từ z)",Blgh,Bhlg,Bglh,Bghl,C
+"Chọn cách diễn giải tiếng Anh tốt nhất cho các lập luận đã cho trong logic vị từ.
+Dm
+(∀x)(Wx ⊃ ~Dx)
+(∀x)Wx ∨ Ag	/ (∃x)Ax","Marina là một vũ công. Một số kẻ yếu đuối không phải là vũ công. Hoặc mọi thứ đều là kẻ yếu đuối hoặc Georgia chơi bóng chuyền. Vì vậy, có điều gì đó chơi bóng chuyền.","Marina là một vũ công. Không có người yếu đuối nào là vũ công. Mọi thứ hoặc là người yếu đuối hoặc chơi bóng chuyền. Vì vậy, có thứ gì đó chơi bóng chuyền.","Marina là một vũ công. Một số người yếu đuối không phải là vũ công. Mọi thứ hoặc là yếu đuối hoặc chơi bóng chuyền. Vì vậy, có điều gì đó chơi bóng chuyền.","Marina là một vũ công. Không có người yếu đuối nào là vũ công. Hoặc mọi thứ đều yếu đuối hoặc Georgia chơi bóng chuyền. Vì vậy, có điều gì đó chơi bóng chuyền.",D
+"Xây dựng một bảng chân lý hoàn chỉnh cho các cặp mệnh đề sau đây. Sau đó, sử dụng bảng chân lý, xác định xem các mệnh đề có tương đương logic hay mâu thuẫn không. Nếu không phải cả hai, hãy xác định xem chúng có nhất quán hay không nhất quán. Hãy giải thích câu trả lời của bạn.
+E ⊃ (F · E) và ~E · F",Tương đương logic,Mâu thuẫn,"Không tương đương logic cũng không mâu thuẫn, nhưng nhất quán",Không nhất quán,C
+"Trong số các công thức của Logic Vị từ được đưa ra, công thức nào là cách biểu tượng hóa tốt nhất cho câu sau đây?
+Rùa sống lâu và là những sinh vật hạnh phúc, trừ khi chúng bị thương.",(L • H) ≡ I,(L • H) ∨ I,L • (H ∨ I),L • (H ⊃ R),B

@@ -1,0 +1,20 @@
+"X = red light blinks every two seconds
+Y = yellow light blinks every three seconds
+Z = blue light blinks every five seconds
+
+Joe was in charge of lights for a dance. X, Y, and Z. If we include the very beginning and very end of the dance, how many times during a seven minute dance will all the lights come on at the same time? (Assume that all three lights blink simultaneously at the very beginning of the dance.)",3,15,6,5,B
+"X = interest rate
+Y = 300
+Z = 9600
+
+Five thousand dollars compounded annually at an X% X takes six years to double. At the same X, how many years will it take $Y to grow to $Z?",12,1,30,5,C
+"X = varies directly as the square of Y
+Y = varies directly as the cube of Z
+
+The variable $x$ X, and $y$ Y. If $x$ equals $-16$ when $z$ equals 2, what is the value of $x$ when $z$ equals $\frac{1}{2}$?",-1,16,-\frac{1}{256},\frac{1}{16},C
+"X = $$\sqrt{\sqrt[3]{\sqrt{\frac{1}{729}}}}$$
+
+Simplify and write X with a rational denominator.",\frac{3\sqrt{3}}{3},\frac{1}{3},\sqrt{3},\frac{\sqrt{3}}{3},D
+"X = 45, 55, 50, 70, 65, 80, 40, 90, 70, 85
+
+Ten students take a test and receive the following scores: X. What is the mean of the students' scores?",55,60,62,65,D

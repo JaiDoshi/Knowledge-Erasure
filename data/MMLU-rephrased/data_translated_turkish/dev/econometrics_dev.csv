@@ -1,0 +1,17 @@
+"Durağan bir otoregresif süreçte, şoklar",Sonunda yok olup gitmek,Sonsuza kadar devam et,Üstel olarak büyü,Asla meydana gelme,A
+"Aşağıdaki AR(1) modelini göz önünde bulundurun, burada bozuklukların sıfır ortalaması ve birim varyansı vardır
+
+yt = 0.2 + 0.4 yt-1 + ut
+
+y'nin (koşulsuz) ortalaması şu şekilde verilecektir","0,2","0,4","0,5","0,33",D
+"Bir test istatistiğinin 0.08'lik bir p-değeri ile ilişkili olduğunu varsayalım. Aşağıdaki ifadelerden hangisi doğrudur?
+
+(i) Testin büyüklüğü tam olarak %8 olsaydı, sıfır hipotezini reddetmek ve reddetmemek arasında kayıtsız kalırdık
+
+(ii) %10'luk bir test büyüklüğü kullanılsaydı sıfır hipotezi reddedilirdi
+
+(iii) %1'lik bir test büyüklüğü kullanılsaydı sıfır hipotezi reddedilmezdi
+
+(iv) %5'lik bir test büyüklüğü kullanılsaydı sıfır hipotezi reddedilirdi.",Sadece (ii) ve (iv),Sadece (i) ve (iii),"(i), (ii) ve (iii) yalnızca","(i), (ii), (iii) ve (iv)",C
+Bir regresyon modelinde heteroskedastisite mevcut olduğu halde göz ardı edilirse OLS tahmincisi için sonuçlar ne olur?,Taraflı olacak,Tutarsız olacak,Verimsiz olacak,"(a), (b) ve (c)'nin tümü doğru olacaktır.",C
+"Şimdi bir araştırmacının bir VAR için optimal gecikme uzunluğunu belirlemek üzere bilgi kriterlerini kullanmak istediğini varsayalım. İki değişkenli VAR için 500 gözlem mevcuttur ve kalıntıların varyans-kovaryans matrisinin determinantının değerleri sırasıyla 1, 2, 3 ve 4 gecikme için 0.0336, 0.0169, 0.0084 ve 0.0062'dir. Akaike bilgi kriterine göre optimal model sırası nedir?",1 gecikme,2 gecikme,3 gecikme,4 gecikme,C

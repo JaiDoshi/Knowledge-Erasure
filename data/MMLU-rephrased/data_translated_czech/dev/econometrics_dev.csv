@@ -1,0 +1,17 @@
+Pro stacionární autoregresní proces budou šoky,Nakonec odezní,Přetrvávat neomezeně,Růst exponenciálně,Nikdy se nevyskytne,A
+"Uvažujte následující AR(1) model s poruchami s nulovou střední hodnotou a jednotkovým rozptylem
+
+yt = 0.2 + 0.4 yt-1 + ut
+
+(Nepodmíněná) střední hodnota y bude dána","0,2","0,4","0,5","0,33",D
+"Předpokládejme, že testová statistika má s ní spojenou p-hodnotu 0,08. Které z následujících tvrzení je pravdivé?
+
+(i) Pokud by velikost testu byla přesně 8 %, byli bychom lhostejní mezi zamítnutím a nezamítnutím nulové hypotézy
+
+(ii) Nulová hypotéza by byla zamítnuta, pokud by byla použita velikost testu 10 %
+
+(iii) Nulová hypotéza by nebyla zamítnuta, pokud by byla použita velikost testu 1 %
+
+(iv) Nulová hypotéza by byla zamítnuta, pokud by byla použita velikost testu 5 %.",(ii) a (iv) pouze,(i) a (iii) pouze,"(i), (ii) a (iii) pouze","(i), (ii), (iii) a (iv)",C
+"Jaké by byly důsledky pro OLS estimátor, pokud by v regresním modelu byla přítomna heteroskedasticita, ale byla by ignorována?",Bude to zaujaté,Bude to nekonzistentní,Bude to neefektivní,"Všechny možnosti (a), (b) a (c) budou pravdivé.",C
+"Předpokládejme nyní, že výzkumník chce použít informační kritéria k určení optimální délky zpoždění pro VAR. Pro dvourozměrný VAR je k dispozici 500 pozorování a hodnoty determinantu variančně-kovarianční matice reziduí jsou 0,0336, 0,0169, 0,0084 a 0,0062 pro 1, 2, 3 a 4 zpoždění. Jaký je optimální řád modelu podle Akaikeho informačního kritéria?",1 zpoždění,2 nohy,3 nohy,4 nohy,C

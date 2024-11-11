@@ -1,0 +1,298 @@
+x'i 1 olarak belirleyelim. Python 3'te x << 3 nedir?,1,3,8,16,C
+"Python 3'te, aşağıdaki fonksiyonlardan hangisi bir dizgiyi (string) tam sayıya (int) dönüştürür?","int(x [,taban])","long(x [,taban] )",float(x),str(x),A
+Bir kullanıcı tarayıcıya bir Web adresi girer ve bir Web sunucusuna bir dosya talebi gönderilir. Aşağıdakilerden hangisi dosyanın kullanıcıya nasıl gönderildiğini en iyi şekilde açıklar?,Dosya iletim için paketlere ayrılır. Paketler alındığında yeniden birleştirilmelidir.,"Dosya iletim için paketlere ayrılır. Kullanıcının tarayıcısı, tüm paketler alınana kadar her paketi sırayla talep etmelidir.","Sunucu, doğrudan kullanıcının bilgisayarına bağlanmaya çalışır. Bağlantı başarılı olursa, tüm dosya gönderilir. Bağlantı başarısız olursa, kullanıcıya bir hata mesajı gönderilir.","Sunucu, bir bağlantı kurulana kadar kullanıcının bilgisayarına doğrudan bağlanmayı tekrar tekrar dener. Bağlantı kurulduktan sonra, tüm dosya gönderilir.",A
+"Dijital görüntüler genellikle görüntüdeki her bir pikselin kırmızı, yeşil ve mavi değerleriyle (bir RGB üçlüsü) temsil edilir. Bir fotoğrafçı dijital bir görüntüyü manipüle ediyor ve orijinal görüntünün üzerine yazıyor. Aşağıdakilerden hangisi dijital görüntünün kayıpsız bir dönüşümünü tanımlar?","Görüntüyü, bilgi kaybedebilecek ancak yalnızca küçük bir görüntü kalitesi kaybına neden olacak şekilde sıkıştırma.","Bir görüntünün gri tonlamasını oluşturmak için her pikseldeki kırmızı, yeşil ve mavi miktarlarının ortalaması alınır ve bu yeni değer yeni görüntüdeki karşılık gelen piksele atanır. Her pikselin yeni değeri, beyazdan siyaha kadar değişen bir gri tonunu temsil eder.","Bir görüntünün negatifini oluşturmak için, her pikselin orijinal değerinin 255'ten çıkarılmasıyla hesaplanan yeni bir RGB üçlüsü oluşturulur. Bir görüntünün negatifi orijinalinden tersine çevrilmiştir; aydınlık alanlar karanlık görünür ve renkler tersine çevrilir.",Resmin bir bölümündeki pikselleri alıp resmin başka bir bölümündeki piksellere kopyalayarak görüntünün bir kısmını değiştirmek.,C
+"Bir programcı, büyük miktarda veriyi işleyebilecek bir program yazıyor. Aşağıdaki hususlardan hangisi programın daha büyük veri kümelerini işleme yeteneğini etkileme olasılığı EN AZ olandır?",Programın çalışması ne kadar sürer,Programın kaç programlama ifadesi içerdiği,Program çalışırken ne kadar bellek gerektirdiği,Program çalışırken ne kadar depolama alanı gerektirdiği,B
+"0,1, . . . ,8,9,A,B,C,D, E,F karakterlerinin onaltılık (16 tabanlı) bir sayıyı temsil etmek için kullanıldığını varsayalım. Burada A = 10, B = 11, . . . ,F = 15'tir. 14 veya 3A gibi iki basamaklı bir onaltılık sayı ile temsil edilebilecek en büyük 10 tabanlı tam sayı nedir?",32,225,255,256,C
+"Büyük bir veri seti, Amerika Birleşik Devletleri genelindeki üniversitelerde bilgisayar bilimi alanında öğrenim gören tüm öğrenciler hakkında bilgi içermektedir. Veri seti, her öğrenci hakkında aşağıdaki bilgileri içerir.
+   ° Öğrencinin cinsiyeti
+   ° Öğrencinin üniversiteye gittiği eyalet
+   ° Öğrencinin 4.0 ölçeğinde not ortalaması
+
+ Aşağıdaki sorulardan hangisi sadece veri setindeki bilgileri analiz ederek cevaplanabilir?","Bilgisayar bilimi alanında uzmanlaşan öğrencilerin not ortalamaları, diğer alanlarda uzmanlaşan öğrencilere göre daha mı yüksek olma eğilimindedir?","Kaç eyalette, o eyalette üniversiteye devam eden kadın bilgisayar bilimleri öğrencilerinin yüzdesi, erkek bilgisayar bilimleri öğrencilerinin yüzdesinden daha yüksektir?",Belirli bir eyalette üniversiteye giden öğrencilerin yüzde kaçı bilgisayar bilimlerinde uzmanlaşıyor?,Hangi üniversitede bilgisayar bilimi alanında en fazla öğrenci okuyor?,B
+"Aşağıdaki kod parçası, eğer öğe listede bulunuyorsa true, aksi takdirde false döndüren IsFound (liste, öğe) prosedürünü kullanır. resultList listesi başlangıçta boştur.
+  FOR EACH item IN inputList1{
+ IF (isFound (inputList2, item) )
+ APPEND (resultList, item)
+ }
+ Kod parçası çalıştırıldıktan sonra resultList'in içeriğini en iyi hangisi tanımlar?",inputList1'deki tüm öğelerin ardından inputList2'deki tüm öğeler,Her iki inputList1 ve inputList2'de bulunan elemanlar,İki listeden yalnızca birinde bulunan ancak her iki listede birden bulunmayan öğeler,Yalnızca inputList1'de bulunan ancak inputList2'de bulunmayan öğeler,B
+Bir program bir programlama dilinde ifade edilir. Aşağıdakilerden hangisi program için doğrudur?,"Program ayrıca ikili kod olarak da ifade edilebilir, ancak daha üst düzey bir programlama dilinde ifade edildiğinde insanlar tarafından daha kolay anlaşılacaktır.","Program ayrıca ikili kod olarak da ifade edilebilir, bu da hata olasılığını azaltacaktır.","Program ikili kod olarak ifade edilemez, çünkü ikili kod yalnızca verileri temsil etmek için kullanılabilir.","Programın bazı kısımları ikili kod olarak ifade edilebilir, ancak işlemler daha üst düzey bir programlama dili kullanılarak ifade edilmelidir.",A
+"Python 3'te, eğer tuple = ( 'abcd', 786 , 2.23, 'john', 70.2 ) ise print tuple[0] çıktısı nedir?","( 'abcd', 786 , 2.23, 'john', 70.2 )",abcd,Hata,Yukarıdakilerin hiçbiri.,B
+"Aşağıdaki potansiyel faydalardan hangisi, yükseltilmiş sistem tarafından sağlanması EN AZ olası olandır?",Bazı sorguları yanıtlamak için insan temsilcilere gerek olmayacak.,"Şirket, gelen herhangi bir çağrı için bir insan temsilci sağlayabilecek.","Müşteriler, sorunlarıyla ilgili olmayan bilgileri dinlemeye muhtemelen daha az zaman harcayacaklardır.","Müşteriler, belirli sorunları için yanlış departmanı yanlışlıkla seçemeyecekler.",B
+"Tarihsel olarak, bilgisayar işlem hızlarının her iki yılda bir ikiye katlandığı gözlemlenmiştir. Aşağıdakilerden hangisi teknoloji şirketlerinin planlama amaçları için bu gözlemi nasıl kullanabileceğini en iyi şekilde açıklar?","Teknoloji şirketleri, yeni bilgi işlem yeniliklerinin ne zaman kullanıma sunulacağını doğru bir şekilde tahmin edebilir.","Teknoloji şirketleri, işlem hızındaki ilerlemeler gerçekleştikçe yeni ürünlerin maliyetlerini her seferinde ikiye katlamayı planlayabilir.","Teknoloji şirketleri, öngörülen işlem hızlarına dayalı olarak araştırma ve geliştirme hedefleri belirleyebilir.","Teknoloji şirketleri, işlem hızının her zaman gözlemlenen oranda artacağı için yeni işlemciler geliştirmeye daha az çaba harcayabilirler.",C
+"Bir programcı aşağıdaki programı yazdı. Program numList adlı bir sayı listesi kullanıyor. Programın amacı listedeki sayıların toplamını göstermektir.
+ sum ← numList [1]
+ FOR EACH value IN numList
+ sum ← sum + value
+ DISPLAY sum
+ Programı test etmek için, programcı numList'i [0 , 1 , 4 , 5] olarak başlatıyor. Program 10 gösteriyor ve programcı programın amaçlandığı gibi çalıştığı sonucuna varıyor. Aşağıdakilerden hangisi doğrudur?",Sonuç doğru; program amaçlandığı gibi çalışıyor.,"Sonuç yanlış; program [0, 1, 4, 5] test durumu için doğru değeri göstermiyor.","Sonuç yanlış; [0, 1, 4, 5] test vakasını kullanmak programın doğru olduğu sonucuna varmak için yeterli değildir.","Sonuç yanlış; [0, 1, 4, 5] test vakasını kullanmak sadece programın artan sıralı listeler için çalıştığını doğrular.",C
+Belirli bir bitki türünün farklı koşullardaki büyümesini simüle etmek için bir bilgisayar simülasyonu oluşturulur. Simülasyonda kullanılan modeli doğrulamak için aşağıdaki eylemlerden hangileri kullanılabilir?,Simülasyon yazılımını hem özyinelemeli hem de yinelemeli algoritmalar kullanarak ifade edin. Özyinelemeli algoritmanın sonuçlarını yinelemeli algoritmanın sonuçlarıyla karşılaştırın.,Bitki türlerinin farklı ortamlardaki büyümesi üzerine gerçek dünya deneyleri yapın. Deney sonuçlarını simülasyonun sağladığı sonuçlarla karşılaştırın.,Modelden gereksiz ayrıntıları çıkarın. Orijinal simülasyonun ve basitleştirilmiş simülasyonun çalışma sürelerini karşılaştırın.,Simülasyon yazılımını birden fazla cihazda çalıştırın. Her bir cihazdan elde edilen sonuçları karşılaştırın.,B
+"Huffman kodlaması, her değerin oluşma sıklığına bağlı olarak giriş değerlerine benzersiz değişken uzunlukta kodlar atar. Sık görülen değerlere, daha az sıklıkla görülen ve daha fazla bit içeren kodlar atanan değerlere göre daha az bit içeren kodlar atanır. Aşağıdakilerden hangisi Huffman kodlamasının uygun bir kullanımını en iyi şekilde tanımlar?",Şifre çözme,Verimli sıralama,Kayıpsız sıkıştırma,Kayıplı sıkıştırma,C
+"Python 3'te, aşağıdaki fonksiyonlardan hangisi bir dizgedeki tüm karakterlerin büyük harf olup olmadığını kontrol eder?",isupper(),join(seq),len(string),"ljust(genişlik[, doldurma_karakteri])",A
+"Aşağıdaki kod parçası, pozitif sayı num tek ise ""tek"" göstermeyi amaçlamaktadır.
+ IF (<EKSİK KOŞUL>)
+ DISPLAY ""tek""
+
+ Kod parçasının amaçlandığı gibi çalışması için <EKSİK KOŞUL> yerine aşağıdakilerden hangisi kullanılabilir?",(num MOD 1) = 0,(num MOD 1) = 1,(num MOD 2 ) = 0,(num MOD 2) = 1,D
+"Bir programcı, ticari bir üründe Creative Commons Atıf (CC BY) lisansı altında çevrimiçi yayınlanan kodu kullanır. Aşağıdakilerden hangisi kodun kabul edilebilir bir kullanımını en iyi şekilde tanımlar?",Çevrimiçi kaynaktan kodu programcının ürününe başka hiçbir işlem yapmadan kopyalamak,Çevrimiçi kaynaktan programcının ürününe kod kopyalama ve kopyalanan kodu on kod satırıyla sınırlama,Çevrimiçi kaynaktan kodu programcının ürününe kopyalayıp tüm değişken adlarını değiştirmek,Çevrimiçi kaynaktan kodu programcının ürününe kopyalamak ve orijinal yazara lisansın belirttiği şekilde atıfta bulunmak,D
+"Yeni bir banka, müşterinin sırada bekleme süresini en aza indirerek müşteri rahatlığını öncelik haline getirmeyi planlıyor. Banka iki seçenek üzerinde duruyor: öndeki müşterinin bir sonraki uygun veznedarı beklediği tek bir sıra veya her veznedar için ayrı sıralar. Banka, müşterilerin ortalama bekleme süresini belirlemek için bu iki seçeneğin bilgisayar simülasyonunu kullanmaya karar veriyor. Bankanın planı hakkında aşağıdakilerden hangisi doğru DEĞİLDİR?","Banka, simülasyona teller sayısı gibi diğer faktörleri de dahil edebilir.","Banka, müşteriler için rahatsızlık yaratmadan bu iki seçeneği araştırmak için simülasyonu kullanabilir.","Banka, simülasyon sonuçlarına dayanarak yeni alternatifler düşünebilir.",Gerçek müşteri verileri mevcut olmadığı için simülasyon kullanılabilir sonuçlar üretmeyecektir.,D
+İnternet üzerinden iletim için verilerin genellikle paketlerde nasıl bir araya getirildiğini aşağıdakilerden hangisi en iyi şekilde açıklar?,"Her paket, iletilecek verilerin yanı sıra verilerin yönlendirilmesi için kullanılan bilgileri içeren meta verileri de içerir.","Her paket, iletilecek verinin şifrelenmiş bir versiyonunu ve verilerin şifresini çözmek için gereken anahtarı içeren meta verileri barındırır.","Her paket, yalnızca verilerin iletilebilmesi için doğrudan bir bağlantı kurmak üzere kullanılan meta verileri içerir.","Her paket, birlikte paketlenmiş birden fazla veri dosyası ve her veri dosyasının nasıl kategorize edileceğini açıklayan meta veriler içerir.",A
+"Bir dizide verilen bir öğeden daha büyük bir değeri aramak ve bunun indeksini döndürmek için bir yöntem yazılacaktır. Problem tanımı, dizide birden fazla böyle değer olması durumunda ne döndürülmesi gerektiğini belirtmemektedir. Aşağıdaki eylemlerden hangisi en iyisi olur?","Yöntem, dizide verilen öğeden daha büyük yalnızca bir değer olduğu varsayımıyla yazılmalıdır.","Yöntem, daha büyük bir değerin her oluşumunun indeksini döndürecek şekilde yazılmalıdır.","Şartname, daha büyük değerlerin birden fazla indeksi olması durumunda ne yapılması gerektiğini belirtecek şekilde değiştirilmelidir.","Yöntem, birden fazla daha büyük değer bulunursa bir mesaj çıktısı verecek şekilde yazılmalıdır.",C
+"Python 3'te ""a"" + ""ab"" ifadesinin çıktısı nedir?",Hata,aab,ab,a ab,B
+"Python 3'te, aşağıdakilerden hangisi taban bölmesidir?",/,//,%,"I apologize, but there is no text following the colon in your message for me to translate. If you provide the text you'd like translated, I'd be happy to translate it to Turkish for you.",B
+Aşağıdaki okul politikalarından hangisi dijital uçurum üzerinde olumlu bir etki yaratma olasılığı en yüksek olanıdır?,"Bir okul, öğrencilerin sınıf içi matematik ödevlerini tamamlamak için evden grafik hesap makinesi getirmelerine izin veriyor.","Bir okul, öğrencilerin her gün sınıfa notlandırılan sınavlara katılmak için tablet bilgisayar getirmelerine izin veriyor.","Okul, kayıtlı tüm öğrencilere dizüstü bilgisayar veya tablet bilgisayar sağlar.","Bir okul, projelerin daha hızlı çalışması için tüm öğrencilerin mümkün olduğunca yüksek işlem hızına sahip bir bilgisayar satın almalarını öneriyor.",C
+"Belirli bir ülkede, bir kişinin araba kullanabilmesi için en az 16 yaşında olması ve oy kullanabilmesi için en az 18 yaşında olması gerekiyor. ""age"" değişkeni bir kişinin yaşını tam sayı olarak temsil ediyor. Aşağıdaki ifadelerden hangisi, kişinin araba kullanacak yaşta olduğunda ancak oy kullanacak yaşta olmadığında doğru (true) olarak değerlendirilir ve diğer durumlarda yanlış (false) olarak değerlendirilir?
+ I. (age ≥ 16) VE (age ≤ 18)
+ II. (age ≥ 16) VE (DEĞİL(age ≥ 18))
+ III. (age < 18) VE (DEĞİL(age < 16))",Sadece II,Yalnızca I ve II,Sadece I ve III,Sadece II ve III,D
+"Çevrimiçi bir mağaza, satışta olan her benzersiz ürünü tanımlamak için 6 bitlik ikili diziler kullanıyor. Mağaza, sattığı ürün sayısını artırmayı planlıyor ve 7 bitlik ikili diziler kullanmayı düşünüyor. Aşağıdakilerden hangisi 6 bitlik diziler yerine 7 bitlik diziler kullanmanın sonucunu en iyi şekilde tanımlar?",2 öğe daha benzersiz şekilde tanımlanabilir.,10 öğe daha benzersiz şekilde tanımlanabilir.,2 kat daha fazla öğe benzersiz şekilde tanımlanabilir.,10 kat daha fazla öğe benzersiz şekilde tanımlanabilir.,C
+Aşağıdaki programlardan hangisi bir sezgisel yöntemin kullanımından en çok fayda sağlayacaktır?,Bir öğrencinin sınav ve ödev puanlarına dayanarak notunu hesaplayan bir program,Dijital dosyaların bulunduğu bir klasörü şifreleyen bir program,Bir haritada iki konum arasındaki en kısa sürüş rotasını bulan bir program,En küçükten en büyüğe doğru bir sayı listesini sıralayan bir program,C
+"Aşağıdaki kod parçasını göz önünde bulundurun.
+ int num1 = value1, num2 = value2, num3 = value3;
+ while (num1 > num2 || num1 > num3)
+ {
+ /* döngü gövdesi */
+ }
+ value1, value2 ve value3'ün int değerleri olduğunu varsayabilirsiniz. Aşağıdakilerden hangisi /* döngü gövdesi */ kısmının hiçbir zaman çalıştırılmayacağını garanti etmek için yeterlidir?",num1 < num2,num1 < num3,num1 > num2 && num1 > num3,num1 < num2 && num1 < num3,D
+"İki liste, liste1 ve liste2, iki farklı koleksiyonda bulunan kitapların isimlerini içermektedir. Bir kütüphaneci, her iki listede de bulunan tüm kitapların isimlerini alfabetik sırayla ve tekrar eden girişleri kaldırarak içerecek olan yeniListe'yi oluşturmak istiyor.
+
+Örneğin, eğer liste1 şunları içeriyorsa:
+[""Macbeth"", ""Frankenstein"", ""Jane Eyre""]
+ve liste2 şunları içeriyorsa:
+[""Frankenstein"", ""Dracula"", ""Macbeth"", ""Hamlet""],
+o zaman yeniListe şunları içerecektir:
+[""Dracula"", ""Frankenstein"", ""Hamlet"", ""Jane Eyre"", ""Macbeth""].
+
+YeniListe'yi oluşturmak için aşağıdaki prosedürler mevcuttur.
+Prosedür
+Açıklama
+Sırala (liste)
+Listeyi alfabetik olarak sıralar ve sonuçta oluşan listeyi döndürür.
+Birleştir (liste1, liste2)
+Liste1'deki girişlerin ardından liste2'deki girişlerden oluşan yeni bir liste oluşturur. Sonuçta oluşan liste döndürülür.
+TekrarlarıKaldır (liste)
+Liste boyunca yinelenir. Eğer iki veya daha fazla giriş aynı değere sahipse, tekrar eden girişler kaldırılır, böylece herhangi bir giriş en fazla bir kez görünür. Sonuçta oluşan liste döndürülür.
+
+Aşağıdaki kod parçalarından hangisi yeniListe'yi doğru şekilde oluşturacaktır?","newList ← Birleştir (listl, list2)
+ newList ← Sırala (newList)
+ newList ← TekrarlarıKaldır (newList)","listl ← Sırala (listl)
+ list2 ← Sırala (list2)
+ yeniListe ← Birleştir (listl, list2)
+ yeniListe ← TekrarlarıKaldır (yeniListe)","listl ← TekrarlarıKaldır (listl)
+ list2 ← TekrarlarıKaldır (list2)
+ yeniListe ← Birleştir (listl, 1ist2)
+ yeniListe ← Sırala (yeniListe)","listl ← TekrarlarıKaldır (listl)
+ listl ← Sırala (listl)
+ list2 ← TekrarlarıKaldır (list2)
+ 1ist2 ← Sırala (list2)
+ yeniListe ← Birleştir (listl, list2)",A
+Python değişken adları büyük/küçük harfe duyarlı mıdır?,Evet,Hayır,Makineye bağlı,Yukarıdakilerin hiçbiri,A
+"Bir bilgisayar programı tam sayıları temsil etmek için 3 bit kullanıyor. Program ondalık (10 tabanında) 5 ve 3 sayılarını topladığında, sonuç 0 çıkıyor. Aşağıdakilerden hangisi bu sonucu en iyi şekilde açıklar?",Bir taşma hatası oluştu.,Yuvarlama hatası oluştu.,"Sonuç, kayıplı veri sıkıştırmasından etkilendi.","Sonuç, kayan noktalı bir gösterim ile yaklaşık olarak hesaplandı.",A
+Asimptotik olarak en büyük olan hangisidir?,O(1),O(n),O(n^2),O(log n),C
+"Bir programcı, numbers adlı bir listedeki tüm öğelerin ortalamasını görüntülemek için aşağıdaki kod bölümünü yazdı. Listede her zaman en az bir sayı vardır.
+ Satır 1: count ← 0
+ Satır 2: sum ← 0
+ Satır 3: FOR EACH value IN numbers
+ Satır 4: {
+ Satır 5: count ← count + 1
+ Satır 6: sum ← sum + value
+ Satır 7: average ← sum / count
+ Satır 8: }
+ Satır 9: DISPLAY (average)
+
+ Programcı, program çalıştırıldığında gerçekleştirilen işlem sayısını azaltmak istiyor. Hangi değişiklik, doğru bir programla birlikte gerçekleştirilen işlem sayısında azalmaya neden olacaktır?",1. satır ile 2. satırın yerini değiştirme,5. satır ile 6. satırın yerini değiştirme,6. ve 7. satırların yerini değiştirme,7. ve 8. satırları değiştirmek,D
+"Hem çevrimiçi gazeteler hem de sosyal medya siteleri, internette bilgi yaymak için kullanılır. Aşağıdakilerden hangisi çevrimiçi gazetelerin sosyal medya sitelerine göre bir avantajını en iyi şekilde tanımlar?",Bilgiyi anında dağıtma yeteneği,Dağıtılan bilgiye güvenilirlik sağlama yeteneği,Yaygın olarak erişilebilir bilgi sağlama yeteneği,Düşük maliyetle zengin medya içeriği sunma yeteneği,B
+Büyük bir Java programı kapsamlı bir şekilde test edildi ve hiçbir hata bulunamadı. Ne sonuca varılabilir?,Programdaki tüm ön koşullar doğrudur.,Programdaki tüm son koşullar doğrudur.,Programda hatalar olabilir.,Programdaki her yöntem diğer programlarda güvenle kullanılabilir.,C
+Bu Python ifadesinin değeri nedir: 1 + 3 % 3?,0,1,3,4,B
+"Her okula kaydolan öğrenciye, ikili sayı olarak saklanan benzersiz bir kimlik numarası atanır. Kimlik numaraları, yeni kaydolan her öğrenciyle birlikte sırayla 1 artmaktadır. Kaydolan son öğrenciye atanan kimlik numarası 1001 0011 ikili sayısı ise, kaydolacak bir sonraki öğrenciye hangi ikili sayı atanacaktır?",1001 0100,1001 0111,1101 0100,1101 0111,A
+"Python 3'te, aşağıdaki operatörlerden hangisi işlenenlerde üstel (kuvvet) hesaplama yapar?","Üzgünüm, ancak çevrilecek bir metin sağlanmamış. Lütfen çevrilmesini istediğiniz metni iki yıldız işareti (**) arasına yerleştirerek tekrar deneyin.",//,dır,değil,A
+Aşağıdakilerden hangisi ondalık sayı 231_{10}'un onaltılık gösterimidir?,17_{16},E4_{16},E7_{16},F4_{16},C
+"Aşağıdaki elektronik tablo fonksiyonlarından hangisi, veri giriş hataları sonucunda bir veri setinin parçası haline gelmiş olası olmayan yüksek veya düşük değerleri tespit etmek için en yararlı olacaktır?",Bir sütun veya satırdaki sayısal değerlerin ortalamasını alan bir fonksiyon,Bir sütun veya satırdaki değerleri sayan bir fonksiyon,Sayısal bir değeri yuvarlayan bir fonksiyon,Bir sütun veya satırdaki değerleri sıralayan bir fonksiyon,D
+"Belirli bir bilgisayar oyunu, insan oyuncu ile bilgisayar kontrollü oyuncu arasında oynanır. Bilgisayar kontrollü oyuncunun sırası her geldiğinde, bilgisayar tüm olası hamleleri değerlendirip en iyisini seçtiği için oyun yavaş çalışır. Aşağıdakilerden hangisi oyunun çalışma hızını iyileştirme olasılığını en iyi şekilde tanımlar?",Oyunun çalışma hızı ancak oyun bilgisayar kontrollü oyuncu yerine iki insan oyuncu arasında oynandığında geliştirilebilir.,Bilgisayar kontrollü oyuncunun her sırası geldiğinde yaklaşık çözümler bulan bir işlem kullanılarak oyunun çalışma hızı artırılabilir.,"Bilgisayarlar yalnızca mümkün olan en iyi çözümü bulmak üzere programlanabildiğinden, oyunun çalışma hızı iyileştirilemez.","Oyunun çalışma hızı iyileştirilemez çünkü oyun, makul bir sürede çalışmayan bir algoritma örneğidir.",B
+"Python 3'te, eğer liste = [ 'abcd', 786 , 2.23, 'john', 70.2 ] ise print liste[1:3] çıktısı nedir?","[ 'abcd', 786 , 2.23, 'john', 70.2 ]",abcd,"[786, 2.23]",Yukarıdakilerin hiçbiri.,C
+"Aşağıdaki kod segmentini göz önünde bulundurun.
+ Satır 1: IF (a = 0)
+ Satır 2: {
+ Satır 3: b ← a + 10
+ Satır 4: }
+ Satır 5: ELSE
+ Satır 6: {
+ Satır 7: b ← a + 2O
+ Satır 8: }
+ Aşağıdaki değişikliklerden hangisi kod segmenti çalıştırıldığında sonuçları ETKİLEMEYECEKTİR?",3. satırı b ← 10 olarak değiştirme,3. satırı a ← b + 10 olarak değiştirme,7. satırı b ← 20 olarak değiştirmek,7. satırı a ← b + 10 olarak değiştirmek,A
+"120 tamsayıdan oluşan sıralı bir listede 100 değerinin olup olmadığını belirlemek için arama yapılacaktır. En verimli arama algoritmasının kullanıldığı varsayılarak, incelenmesi gereken maksimum eleman sayısı nedir?",7,8,20,100,A
+Aşağıdakilerden hangisi Python hakkında doğrudur?,Otomatik çöp toplama işlemini destekler.,"C, C++, COM, ActiveX, CORBA ve Java ile kolayca entegre edilebilir.",Yukarıdakilerin ikisi de.,Yukarıdakilerin hiçbiri.,C
+x'i 8 olarak belirleyelim. Python 3'te x>>1 nedir?,3,4,2,8,B
+"Bir pikselin rengi, RGB (Kırmızı, Yeşil, Mavi) renk modeli kullanılarak temsil edilebilir. Bu model, her biri 0 ile 255 arasında değişen kırmızı, yeşil ve mavi değerlerini saklar. RGB modelinde bir rengi temsil etmek için kaç bit (ikili basamak) gerekli olurdu?",8,16,24,32,C
+Boolean ifadesi a[i] == max || !(max != a[i]) şu şekilde sadeleştirilebilir,a[i] == max,a[i] != max,a[i] < max || a[i] > max,YANLIŞ,A
+"Bir programcı, sıralanmış bir listede hedef değeri bulmak için doğrusal arama mı yoksa ikili arama mı kullanacağına karar veriyor. Aşağıdakilerden hangisi doğrudur?","Her durumda, sıralanmış bir listede ikili arama, doğrusal aramaya göre daha az karşılaştırma gerektirir.","Genellikle, ikili arama kullanmanın doğrusal aramaya göre avantajı, listenin boyutu arttıkça artar.",Doğrusal arama genellikle ikili aramadan daha hızlı çalışır çünkü doğrusal arama uygulamak için daha az kod satırı gerektirir.,"Hedef listede bulunmayabilecekse, ikili arama yerine doğrusal arama kullanmak tercih edilir.",B
+Hangi tür fonksiyonlar en yavaş büyür?,O(log e^N),O(log N),O(log log N),O(N),C
+"Bir öğrenci bilgisayarında bir şarkı kaydediyor. Kayıt tamamlandığında, bilgisayarına bir kopyasını kaydediyor. Öğrenci, kaydedilen kopyanın orijinal kayda göre daha düşük ses kalitesine sahip olduğunu fark ediyor. Aşağıdakilerden hangisi ses kalitesindeki farkın olası bir açıklaması olabilir?","Şarkı, orijinal şarkıya göre saniyede daha az bit kullanılarak kaydedildi.","Şarkı, orijinal şarkıya göre saniyede daha fazla bit kullanılarak kaydedildi.","Şarkı, kayıpsız bir sıkıştırma tekniği kullanılarak kaydedildi.",Bir dosya bilgisayarda bir konumdan başka bir konuma kaydedildiğinde her seferinde bazı bilgiler kaybolur.,A
+"Python 3'te, aşağıdaki fonksiyon listeden en yüksek değere sahip öğeyi döndürür?",cmp(list),len(list),max(liste),min(liste),C
+Asimptotik olarak en küçük olan hangisidir?,O(1),O(n),O(n^2),O(log n),A
+Aşağıdakilerden hangisi bir oltalama saldırısını gösterme olasılığı EN AZ olandır?,"Bankanızdan gelen bir e-posta, bir işlemi doğrulamak için kartınızın üzerindeki numarayı aramanızı istiyor","Bir satıcıdan gelen e-posta, şifrenizi sıfırlamak için bir bağlantıya tıklamanızı istiyor","Bir kamu hizmeti şirketinden gelen bir e-posta, doğrulama amacıyla doğum tarihinizi ve sosyal güvenlik numaranızı girmenizi istiyor.","Bir e-posta, büyük miktarda para kazandığınızı belirtiyor ve paranın size aktarılabilmesi için banka hesap numaranızı girmenizi istiyor.",A
+"Aşağıdaki algoritma, bir madeni parayı 4 kez atmanın sonuçlarını simüle etmek için kullanılır. Simülasyonun eşit sayıda yazı ve tura ile sonuçlanıp sonuçlanmadığını belirleme amacını düşünün.
+
+   Adım 1: heads_counter ve f1ip_counter değişkenlerini 0 olarak başlatın.
+   Adım 2: coin_f1ip değişkenine rastgele 0 veya 1 değeri atanır.
+   Eğer coin_f1ip değeri 0 ise, para atışı sonucu yazıdır, bu yüzden
+  heads_counter 1 artırılır.
+   Adım 3: f1ip_counter değerini 1 artırın.
+   Adım 4: f1ip_counter 4'e eşit olana kadar 2. ve 3. adımları tekrarlayın.
+
+ Algoritmanın yürütülmesinden sonra, aşağıdaki ifadelerden hangisi simülasyonun eşit sayıda yazı ve tura ile sonuçlandığını gösterir?",coin_f1ip = 1,flip_counter = 1,flip_counter = 2,heads_counter = 2,D
+"Siber güvenliğin hangi temel direği, birinin çalınmış bir kullanıcı adı ve şifre kullanarak bir sisteme giriş yapması durumunda tehlikeye girer?",Kimlik doğrulama,Gizlilik,Dürüstlük,İnkar edilemezlik,A
+"Aşağıdaki prosedür, val değerinin myList listesinde kaç kez göründüğünü döndürmeyi amaçlamaktadır. Prosedür amaçlandığı gibi çalışmamaktadır.
+ Satır 1: PROCEDURE countNumOccurences(myList, val)
+ Satır 2: {
+ Satır 3: FOR EACH item IN myList
+ Satır 4: {
+ Satır 5: count 0
+ Satır 6: IF(item = val)
+ Satır 7: {
+ Satır 8: count count + 1
+ Satır 9: }
+ Satır 10: }
+ Satır 11: RETURN(count)
+ Satır 12:}
+ Prosedürün amaçlandığı gibi çalışması için aşağıdaki değişikliklerden hangisi yapılabilir?",6. satırı IF(item = count) olarak değiştirme,6. satırı IF(myList[item] = val) olarak değiştirmek,5. satırdaki ifadeyi 2. ve 3. satırlar arasında görünecek şekilde taşımak,11. satırdaki ifadeyi 9. ve 10. satırlar arasında görünecek şekilde taşımak,C
+Aşağıdakilerden hangisi program belgelendirmesi hakkında doğru bir ifadedir?,Program belgelendirmesi ilk yazıldıktan sonra değiştirilmemelidir.,Program belgelendirmesi sadece geliştirme aşamasındaki programlar için gereklidir; bir program tamamlandıktan sonra gerekli değildir.,Programcılar işbirliği yaptığında program belgelendirmesi faydalıdır ancak bir programcı bir proje üzerinde bireysel olarak çalıştığında faydalı değildir.,"Program belgelendirmesi, ilk program geliştirme sırasında ve ayrıca mevcut programlarda değişiklikler yapıldığında faydalıdır.",D
+"Aşağıdaki üç senaryoyu düşünün, bunlar üç veri yapısı kullanılarak modellenebilir— sözlük/harita, kuyruk ve yığın. Senaryo 1: Arabalar bir araba yıkamada tek şerit halinde sıraya girer. Her sürücü araba yıkamanın girişine ulaştığında, arabadan iner. Otomatik bir makara, sürücü araba yıkamanın çıkışına yürüyüp ödeme yapmak ve arabayı almak için giderken arabayı yıkama işleminden geçirir. Senaryo 2: Bir reality televizyon yetenek gösterisi için seçmelere katılan yarışmacılara, kayıt formunu doldurduktan sonra benzersiz bir sayısal kimlik atanır. Senaryo 3: Tenis topları, en fazla 3 top alabilen silindirik bir kutuda satılır, burada en alttaki hariç her top altındaki topun üzerinde durur. 3 top, kutunun üst kısmındaki tek bir açıklıktan birer birer kutuya yerleştirilir. 3 top, aynı açıklıktan birer birer kutudan çıkarılır. Aşağıdakilerden hangisi senaryoları en iyi modelleyen veri yapılarını göstermektedir? Senaryo 1 | Senaryo 2 | Senaryo 3",Sözlük/harita | Kuyruk | Yığın,Sözlük/harita | Yığın | Kuyruk,Kuyruk | Sözlük/harita | Yığın,Yığın | Kuyruk | Sözlük/harita,C
+"l = [1,2,3,4] listesi olsun. Python3'te min(l) nedir?",1,2,3,4,A
+"l = [1,2,3,4] listesi verildiğinde, Python3'te max(l) nedir?",1,2,3,4,D
+Aşağıdakilerden hangisi İnternet'teki yönlendirmenin hata toleranslı doğasının bir özelliğidir?,Çakışmaları önlemek için hiyerarşik bir adlandırma sistemi kullanma yeteneği,Bazı bağlantılar başarısız olsa bile veri iletimi sağlama yeteneği,Alan adı sistemi (DNS) aramalarındaki hataları çözme yeteneği,"Veri aktarmak için köprü metni aktarım protokolü (HTTP), İnternet protokolü (IP) ve basit posta aktarım protokolü (SMTP) gibi birden fazla protokolü kullanma yeteneği",B
+"Aşağıdaki sayıları göz önünde bulundurun.
+   ° İkili 1100
+   ° Ondalık 11
+   ° On altılık D
+ Aşağıdakilerden hangisi sayıları en küçükten en büyüğe doğru sıralar?","İkili 1100, Ondalık 11, On altılık D","Ondalık 11, İkili 1100, On Altılı D","Ondalık 11, Onaltılık D, İkili 1100","Onaltılık D, Onluk 11, İkili 1100",B
+Yürütülebilir yazılım geliştirme sürecinde derleyicinin rolü nedir?,Geliştirme sürecinin bir parçası olarak oluşturulan spesifikasyon dosyalarını yönetmek,Programcı tarafından oluşturulan çalıştırılabilir dosyayı çalıştırma ve test etme,"Yazılımın eski sürümlerini takip etmek, bir hata bulunması ve yazılımın önceki bir haline geri döndürülmesi gerektiği durumlar için","Soyut, üst düzey bir dilde yazılmış bir programı, aynı davranışı sergileyen makine kodunda ifade edilmiş bir programa çevirme",D
+Aşağıdakilerden hangisi yükseltilmiş sistemin en olası veri gizliliği endişesidir?,"Yetkisiz bir kişi çağrı oturumu veritabanına erişim sağlarsa, müşterilerin kişisel bilgileri tehlikeye girebilir.","Bilgileri çağrı oturumu veritabanında saklamak, kötü niyetli bağlantılar kullanan kişilerin sistemi kandırmasını kolaylaştırır.","Sistem tasarımı, müşterilerin bilmeden cihazlarına, verilerini yetkisiz kişilerle paylaşacak kötü amaçlı yazılımlar yüklemesi ihtimalini artırıyor.","Sistem tasarımı, yetkisiz kişilerin müşterilerin özel şifreleme anahtarlarını ele geçirmesini kolaylaştırıyor.",A
+"Python 3'te ""abc""[-1] ifadesinin çıktısı nedir?",Hata,a,b,c,D
+"Bir veya daha fazla tam sayıdan oluşan bir listedeki maksimum değeri belirlemek için bir algoritma kullanılacaktır. Aşağıdaki iki algoritma versiyonunu göz önünde bulundurun.
+
+ Algoritma I : Bir max değişkeninin değerini -1 olarak ayarlayın. Tam sayı değerleri listesi boyunca ilerleyin. Eğer bir veri değeri max değişkeninin değerinden büyükse, max'ı bu veri değerine ayarlayın.
+
+ Algoritma II : Bir max değişkeninin değerini ilk veri değerine ayarlayın. Tam sayılar listesindeki kalan değerler boyunca ilerleyin. Eğer bir veri değeri max değişkeninin değerinden büyükse, max'ı bu veri değerine ayarlayın.
+
+ Aşağıdaki ifadelerden hangisi iki algoritmanın davranışını en iyi şekilde tanımlar?",Her iki algoritma da tüm girdi değerlerinde doğru çalışır.,"Algoritma I her zaman doğru çalışır, ancak Algoritma II yalnızca maksimum değer listedeki ilk değer olmadığında doğru çalışır.","Algoritma II her zaman doğru çalışır, ancak Algoritma I yalnızca maksimum değer -1'e eşit veya daha büyük olduğunda doğru çalışır.","Ne pozitif hem de negatif giriş değerleri içeren bir girdi olduğunda, iki algoritma da maksimum değeri doğru şekilde belirleyemeyecektir.",D
+"Aynı sınıfta aşağıdaki örnek değişkeni ve metotları düşünün.
+ private int[][] matrix;
+ /** Ön koşul: array.length > 0.
+ * @return array içindeki en büyük tamsayı
+ */
+ private int max(int[] array)
+ { /* uygulama gösterilmemiş */ }
+ /** @return eğer num1 >= num2 ise num1; aksi takdirde num2'yi döndür
+ */
+ public int max(int num1, int num2)
+ { /* uygulama gösterilmemiş */ }
+ matrix'in mevcut değerinin aşağıdaki gibi olduğunu varsayalım
+ 2 1 4 8
+ 6 0 3 9
+ 5 7 7 6
+ 1 2 3 4
+ Aynı sınıfta aşağıdaki metot çağrısı ne döndürecektir?
+ max(max(matrix[2]), max(matrix[3]))",9,8,7,4,C
+Bu Python ifadesinin değeri nedir: 4 + 3 % 2?,1,6,4,5,D
+"Airmail Express, küçük paketlerin nakliyesi için tam sayı ağırlık değerlerine göre ücret alır. Pound cinsinden w ağırlığı için ücretler şu şekildedir:
+ 0 < w ≤ 2 $4.00
+ 2 < w ≤ 5 $8.00
+ 5 < w ≤ 20 $15.00
+ Şirket, 20 pounddan daha ağır paketleri kabul etmez. Aşağıdakilerden hangisi, nakliye ücretlerini hesaplayan bir programı test etmek için en iyi veri setini (ağırlıkları) temsil eder?","0, 2, 5, 20","1, 4, 16","-1, 1, 2, 3, 5, 16, 20","-1, 0, 1, 2, 3, 5, 16, 20, 22",D
+"Aşağıdaki programda, y pozitif bir tam sayıdır (örneğin 1, 2, 3, ...).
+ result ← 0
+ 3 KEZ TEKRARLA {
+ y KEZ TEKRARLA {
+ result ← result + 1
+ }
+ }",y+3,3y,y^3,3^y,B
+"Bir programcı, bir kütüphanedeki tüm kitapları kataloglamak için bir program tasarlıyor. Her kitabın özelliklerini depolayan bir Kitap sınıfı oluşturmayı planlıyor: yazar, başlık, raftaMı ve benzeri, getYazar, getBaslik, getRafBilgisi ve setRafBilgisi gibi işlemlerle birlikte. Başka bir sınıf olan KutuphaneListesi, Kitap nesnelerinin bir dizisini depolayacak. KutuphaneListesi sınıfı, tumKitaplariListele, kitapEkle, kitapCikar ve kitapAra gibi işlemleri içerecek. Programcı, KutuphaneListesi sınıfını uygulamadan önce Kitap sınıfını uygulamayı ve test etmeyi planlıyor. Programcının önce Kitap sınıfını yazma planı, bir örneğidir",yukarıdan aşağıya geliştirme,aşağıdan yukarıya geliştirme,prosedürel soyutlama,bilgi gizleme,B
+"Python3'te l = [1,2,3,4] olsun. sum(l) nedir?",4,1,10,8,C
+"Bir Web sitesi, yetkisiz kişilerin kullanıcı hesaplarına erişmesini önlemek için çeşitli stratejiler kullanır. Aşağıdakilerden hangisi çok faktörlü kimlik doğrulamanın bir örneği DEĞİLDİR?","Her şirket çalışanına benzersiz bir token kodu içeren bir USB cihazı verilir. Bir şirket bilgisayarına giriş yapmak için, çalışanın USB cihazını bilgisayara takması ve doğru şifreyi girmesi gerekir.","Yeni bir cihazdan bir hesaba giriş yaptıktan sonra, kullanıcı hesapta kayıtlı olan e-posta adresine e-posta yoluyla gönderilen bir kodu girmelidir.","Bir hesaba giriş yapmak için, kullanıcının hem bir şifre hem de kullanıcının cihazı kullanılarak alınan bir parmak izi sağlaması gerekir.","Bir kullanıcı arka arkaya iki defadan fazla yanlış şifre girdiğinde, kullanıcının hesabı 24 saat süreyle kilitlenir.",D
+"Aşağıdaki prosedür, belirli bir ismin (targetName) benzersiz isimler listesindeki (nameList) indeksini görüntülemeyi amaçlamaktadır. Eğer targetName, nameList içinde bulunamazsa, kod 0 görüntülemelidir.
+ PROCEDURE FindName (nameList, targetName)
+ {
+  index ← 0
+  FOR EACH name IN nameList
+  {
+   index ← index + 1
+   IF (name = targetName)
+   {
+   foundIndex ← index
+   }
+   ELSE
+   {
+   foundIndex ← 0
+   }
+  }
+  DISPLAY (foundIndex)
+ }
+ Prosedürün amaçlandığı gibi çalışmadığını göstermek için aşağıdaki prosedür çağrılarından hangisi kullanılabilir?","İsimBul ([""Andrea"", ""Ben""], ""Ben"" )","İsimBul ([""Andrea"", ""Ben"" ], ""Diane"" )","İsimBul ([""Andrea"", ""Ben"", ""Chris""], ""Ben"")","İsimBul ([""Andrea"", ""Chris"", ""Diane""], ""Ben"")",C
+"Bu soru aşağıdaki tanımlamalara dayanmaktadır: String strA = ""CARROT"", strB = ""Carrot"", strC = ""car""; Alfabetik sıra göz önüne alındığında tüm büyük harflerin tüm küçük harflerden önce geldiği düşünüldüğünde, hangisi doğrudur?",strA.compareTo(strB) < 0 && strB.compareTo(strC) > 0,strC.compareTo(strB) < 0 && strB.compareTo(strA) < 0,strB.compareTo(strC) < 0 && strB.compareTo(strA) > 0,!(strA.compareTo(strB) == 0) && strB.compareTo(strA) < 0,C
+"Aşağıdaki Mystery prosedüründe, number parametresi pozitif bir tam sayıdır.
+
+ PROCEDURE Mystery (number)
+ {
+  REPEAT UNTIL (number <= 0)
+  {
+   number ← number - 2
+  }
+  IF (number = 0)
+  {
+   RETURN (true)
+  }
+  ELSE
+  {
+   RETURN (false)
+  }
+ }
+
+ Mystery prosedürünün çalıştırılmasının sonucunu aşağıdakilerden hangisi en iyi şekilde tanımlar?","Prosedür, number'ın başlangıç değeri 2 olduğunda true döndürür, aksi takdirde false döndürür.","Prosedür, number'ın başlangıç değeri 2'den büyük olduğunda true değerini döndürür, aksi takdirde false değerini döndürür.","Prosedür, number'ın başlangıç değeri çift olduğunda true döndürür, aksi takdirde false döndürür.","Prosedür, number'ın başlangıç değeri tek olduğunda true döndürür, aksi takdirde false döndürür.",C
+"Bir Böcek sınıfı yazılacak ve aşağıdaki veri alanlarını içerecektir: age (yaş), bir Böcek oluşturulduğunda 0 olarak başlatılacak. nextAvailableID (sonraki kullanılabilir kimlik), yapıcı dışında 0 olarak başlatılacak ve her Böcek oluşturulduğunda artırılacak. idNum (kimlik numarası), bir Böcek oluşturulduğunda nextAvailableID'nin mevcut değerine başlatılacak. position (konum), bir Böcek oluşturulduğunda bahçede yerleştirildiği yere başlatılacak. direction (yön), bahçeye yerleştirildiğinde Böceğin baktığı yöne başlatılacak. Böcek sınıfındaki hangi değişken statik olmalıdır?",yaş,sonrakiKullanılabilirID,kimlik numarası,pozisyon,B
+"Sıralanmış bir sayı listesi 500 eleman içermektedir. Aşağıdakilerden hangisi, listede bir değer için ikili arama yaparken incelenecek maksimum liste eleman sayısına en yakındır?",10,50,250,500,A
+"Python 3'te, aşağıdaki fonksiyonlardan hangisi rastgele sayılar üretmekte kullanılan başlangıç tamsayı değerini belirler?",choice(seq),"randrange ([başlangıç,] bitiş [,adım])",random(),seed([x]),D
+Python 3'te ['Hi!'] * 4 ifadesinin çıktısı nedir?,"['Merhaba!', 'Merhaba!', 'Merhaba!', 'Merhaba!']",['Merhaba!'] * 4,Hata,Yukarıdakilerin hiçbiri.,A
+"Bir üniversitenin kütüphanelerindeki tüm kitaplardaki metin için elektronik depolama hakkında aşağıdaki varsayımları göz önünde bulundurun. - Üniversitedeki kütüphaneler toplamda 3 milyon kitap içermektedir. - Bir kitap ortalama 400 sayfa içerir. - Bir sayfa ortalama 50 satır içerir. - Bir sayfadaki bir satır ortalama 10 kelime içerir. - Bir kelime ortalama 5 harf/karakter içerir. - Bir harf/karakter 1 bayt ile temsil edilir. Verilen varsayımlara dayanarak, üniversitenin kütüphanelerindeki tüm kitaplardaki metin için gereken elektronik depolamanın en iyi hangi birimle ölçüleceği aşağıdakilerden hangisidir?",Megabayt (2^20 veya yaklaşık olarak 10^6 bayt),Gigabayt (2^30 veya yaklaşık olarak 10^9 bayt),Terabayt (2^40 veya yaklaşık 10^12 bayt),Petabayt (2^50 veya yaklaşık 10^15 bayt),C
+"Bir arama motoru, bir arama teriminin ne kadar popüler olduğu hakkında bilgi sağlayan bir trend takip özelliğine sahiptir. Veriler coğrafi bölge, tarih ve kategoriye göre filtrelenebilir. Kategoriler arasında sanat ve eğlence, bilgisayar ve elektronik, oyunlar, haberler, insan ve toplum, alışveriş, spor ve seyahat bulunmaktadır. Aşağıdaki sorulardan hangisinin trend özelliği kullanılarak cevaplanması EN AZ olasıdır?",Belirli bir spor hangi ayda en çok arama alır?,İnsanlar hangi siyasi adaylara ilgi duyuyor?,Belirli bir elektronik ürünün maliyeti nedir?,Ülkenin hangi bölgesinde opera gösterilerini arayan en fazla insan var?,C
+"Python 3'te, ['a', 'Chemistry', 0, 1][1] nedir?",a,Kimya,0,1,B
+"Aşağıdakilerden hangisi, dağıtık hizmet engelleme (DDoS) saldırısının hizmet engelleme (DoS) saldırısından temel olarak nasıl farklılaştığını en iyi şekilde açıklar?",Saldırının amacı,Saldırıya uğrayan bilgisayarların sayısı,Saldırıyı başlatan bilgisayarların sayısı,Saldırının gerçekleştiği zaman dilimi,C
+Aşağıdakilerden hangisi bir kullanıcının kişisel gizliliğini tehlikeye atma konusunda en büyük potansiyele sahiptir?,Kullanıcının Web tarayıcısı tarafından saklanan bir grup çerez,Kullanıcının bilgisayarının İnternet Protokolü (IP) adresi,Kullanıcının e-posta adresi,Şifreleme için kullanılan kullanıcının açık anahtarı,A
+Aşağıdakilerden hangisi yeni bir cihaz İnternete bağlandığında ne olduğunu en iyi şekilde açıklar?,Bir aygıt sürücüsü cihaza atanır.,Bir İnternet Protokolü (IP) adresi cihaza atanır.,Cihaza bir paket numarası atanır.,Bir Web sitesi cihaza atanır.,B
+"Eğer a, b ve c tam sayılar ise, aşağıdaki koşullardan hangisi a < c || a < b && !(a == c) ifadesinin doğru olarak değerlendirilmesini garanti etmek için yeterlidir?",a < c,a < b,a > b,a == b,A
+"l = [1,2,2,3,4] olsun. Python3'te set(l) ifadesinin olası bir çıktısı nedir?","I apologize, but there is no text provided after the colon to translate. If you'd like me to translate something to Turkish, please provide the text and I'll be happy to assist you.","{1,2,2,3,4}","{1,2,3,4}","{4,3,2,2,1}",C
+"Ayakkabı satan bir perakendeci, mağazasında satışta olan her ürün hakkında aşağıdaki bilgileri içeren tek bir veritabanı tutar.
+
+   ° Ürün tanımlama numarası
+   ° Ayakkabı türü (spor ayakkabı, bot, sandalet vb.)
+   ° Satış fiyatı (dolar cinsinden)
+   ° Beden
+   ° Renk
+   ° Mevcut miktar
+
+ Sadece veritabanını kullanarak, aşağıdakilerden hangisi belirlenebilir?",Veritabanında listelenen hangi ürünler şu anda mağazada mevcut değil,Erkekler arasında kadınlara göre hangi renkler daha popüler,Yetişkinler arasında en popüler ayakkabı türü hangisidir,Belirli bir ayda satılan toplam ayakkabı sayısı,A
+Python'da 4*1**4 ifadesinin çıktısı nedir?,4,1,256,16,A
+"Aşağıdaki nextIntInRange metoduna bakın:
+ /** @return düşük ile yüksek arasında, bu değerler dahil olmak üzere rastgele bir tam sayı */
+ public int nextIntInRange(int low, int high)
+ {
+ return /* ifade */
+ }
+ Hangi /* ifade */ her zaman son koşulu sağlayan bir değer döndürecektir?",(int) (Math.random() * high) + low;,(int) (Math.random() * (yüksek - düşük)) + düşük;,(int) (Math.random() * (yüksek - düşük + 1)) + düşük;,(int) (Math.random() * (yüksek + düşük)) + düşük;,C
+"Python 3'te, b = [11,13,15,17,19,21]; print(b[::2]) ne çıktı verir?","[19,21]","[11,15]","[11,15,19]","[13,17,21]",C
+"N sayının ortalamasını bulmak için bir algoritma, ortalama = toplam / N'dir; burada N ve toplam ikisi de tam sayıdır. Bu algoritmayı kullanan bir programda, programcı N'nin sıfıra eşit olup olmadığını kontrol eden bir test eklemeyi unuttu. Eğer N sıfır ise, hata ne zaman tespit edilecektir?",Derleme zamanında,Düzenleme sırasında,N değeri girilir girilmez,Çalışma zamanı sırasında,D
+"Büyükten küçüğe sıralanacak büyük bir sayı listesi var. Bir ""veri hareketi""nin bir elemanın yer değiştirmesi veya yeniden atanması olduğunu varsayarsak, aşağıdakilerden hangisi doğru bir ifadedir?","Dizi başlangıçta azalan sırayla sıralanmışsa, ekleme sıralaması seçim sıralamasından daha verimli olacaktır.","Seçim sıralamasındaki karşılaştırma sayısı, öğelerin başlangıçtaki düzenlemesinden bağımsızdır.","Eklemeli sıralama için karşılaştırma sayısı, öğelerin başlangıçtaki düzenlemesinden bağımsızdır.","Seçim sıralamasındaki veri hareketlerinin sayısı, öğelerin başlangıçtaki düzenlemesine bağlıdır.",B
+"Aşağıdaki kod parçasını düşünün, bu kod parçası r, s ve t değişkenlerini kullanmaktadır.
+  r ← 1
+   s ← 2
+   t ← 3
+   r ← s
+   s ← t
+   DISPLAY (r)
+   DISPLAY (s)
+
+ Bu kod parçasının çalıştırılması sonucunda ne görüntülenir?",1 1,1 2,2 3,3 2,C
+"Bir dijital fotoğraf dosyası, fotoğraftaki her piksel için kırmızı, yeşil ve mavi seviyelerini temsil eden verileri içerir. Dosya ayrıca fotoğrafın çekildiği tarihi ve coğrafi konumu açıklayan meta verileri de içerir. Aşağıdaki hedeflerden hangisi için meta verilerin analiz edilmesi, verilerin analiz edilmesinden daha uygun olur?",Fotoğrafın gökyüzünün bir resmi olma olasılığını belirleme,Fotoğrafın belirli bir halka açık etkinlikte çekilme olasılığını belirleme,Fotoğrafta görünen kişi sayısını belirleme,Fotoğrafın belirli bir renk arka planına yansıtılması için kullanılabilirliğini belirleme,B
+"Python 3'te, ['a', 'Chemistry', 0, 1][-3] nedir?",a,Kimya,0,1,B
+İki bilgisayar farklı üreticiler tarafından üretilmiştir. Biri Web sunucusu çalıştırırken diğeri Web tarayıcısı çalıştırmaktadır. Aşağıdakilerden hangisi bu iki bilgisayarın İnternet üzerinden birbirleriyle iletişim kurma yeteneğini en iyi şekilde tanımlar?,Farklı üreticilerin farklı iletişim protokolleri kullanması nedeniyle bilgisayarlar iletişim kuramıyor.,"Bilgisayarlar iletişim kurabilir, ancak bir bilgisayarın protokolünden diğer bilgisayarın protokolüne veri paketlerini dönüştürmek için ek donanım gereklidir.",Bilgisayarlar yalnızca mesajlar metinden oluşuyorsa doğrudan iletişim kurabilir; diğer formatlar bilgisayarlar arasında yorumlanamaz.,Bilgisayarlar doğrudan iletişim kurabilir çünkü İnternet iletişimi standart protokoller kullanır.,D
+Aşağıdaki faaliyetlerden hangisi en büyük kişisel siber güvenlik riskini oluşturur?,Kredi kartı bilgilerini iletmek için açık anahtar şifrelemesi kullanan bir çevrimiçi mağazadan alışveriş yapmak,Güvenli bir elektronik ödeme sistemi kullanarak fatura ödeme,Bir otele e-posta ile kredi kartı numarası göndererek otel odası rezervasyonu yapmak,Otomatik vezne makinesi (ATM) kullanarak banka hesabından para çekme,C

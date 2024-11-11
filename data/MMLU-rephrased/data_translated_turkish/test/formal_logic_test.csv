@@ -1,0 +1,298 @@
+"Aşağıdaki argümanın sonucunu belirleyin. Günlük hastalarımızda gözlemlediğimiz duygular nedeniyle zayıflamış aynı zekayı akranlarımızda doğrulamamak zordur. Genellikle en güçlü savunma mekanizmalarına ait olan bilincimizin kibri, bilinçdışı kompleksleri engeller. Bu nedenle, insanları bilinçdışı hakkında ikna etmek ve dolayısıyla onlara bilinçli bilgilerinin çeliştiği şeyleri öğretmek zordur. (Sigmund Freud, Psikanalizin Kökeni ve Gelişimi)",Günlük hastalarımızda gözlemlediğimiz duygular nedeniyle zayıflamış aynı zekayı akranlarımızda doğrulamamak zordur.,"Genel olarak en güçlü savunma mekanizmalarından birine ait olan bilincimizin kibri, bilinçaltı komplekslerini engeller.","Bu nedenle, insanları bilinçaltı hakkında ikna etmek ve buna bağlı olarak onlara bilinçli bilgilerinin çeliştiği şeyleri öğretmek zordur.",İnsanları bilinçaltı hakkında ikna etmek ve buna bağlı olarak onlara bilinçli bilgilerinin çeliştiği şeyleri öğretmek zordur.,D
+"En iyi yüklem mantığı çevirisini seçin. David, Chris'e ders veriyor. (c: Chris; d: David; Txy: x, y'ye ders veriyor)",Tdc,Tcd,Tcc,dTc,A
+"Aşağıdaki çeviri anahtarını kullanarak, verilen önermenin en iyi İngilizce yorumunu seçin:
+Ax: x bir apartmandır
+Hx: x bir evdir
+Lx: x büyüktür
+Bxy: x, y'den daha büyüktür
+(∃x)[(Ax • Lx) • (∃y)(Hy • Bxy)]",Bazı büyük evler bazı dairelerden daha büyüktür.,Bazı evler tüm büyük dairelerden daha büyüktür.,Bazı büyük daireler bazı evlerden daha geniştir.,Bazı evler bazı büyük dairelerden daha büyüktür.,C
+"Aşağıdaki argüman için eksiksiz bir doğruluk tablosu oluşturun. Ardından, doğruluk tablosunu kullanarak argümanın geçerli mi yoksa geçersiz mi olduğunu belirleyin. Eğer argüman geçersizse, bir karşı örnek sunan bir seçenek seçin. (Başka karşı örnekler de olabilir.)
+~G ⊃ H
+~H / G",Geçerli,Geçersiz. G ve H doğru olduğunda karşı örnek,Geçersiz. G doğru ve H yanlış olduğunda karşı örnek,Geçersiz. H doğru ve G yanlış olduğunda karşı örnek,A
+"Aşağıdaki anahtarı kullanarak verilen PL formülünü doğal, İngilizce cümlelere çevirin.
+A: Marina bir Percy Jackson kitabı okur.
+B: Izzy Minecraft oynar.
+C: Emily çalışmayı bırakır.
+D: Russell akşam yemeği yapar.
+E: Ashleigh uğrar.
+(~B • E) ⊃ D","Eğer hem Izzy'nin Minecraft oynaması hem de Ashleigh'in uğraması söz konusu değilse, o zaman Russell yemek yapar.","Eğer hem Izzy Minecraft oynamıyorsa hem de Ashleigh uğramıyorsa, o zaman Russell akşam yemeği yapar.","Izzy'nin Minecraft oynaması ve Ashleigh'in uğraması, Russell'ın akşam yemeği yapması anlamına gelir.","Russell'ın akşam yemeği yapması, Izzy'nin Minecraft oynamaması ve Ashleigh'in uğraması için yeterli bir koşuldur.",B
+"Aşağıdaki çeviri anahtarını kullanarak, verilen önermenin en iyi İngilizce yorumunu seçin:
+Ax: x bir apartmandır
+Hx: x bir evdir
+Lx: x büyüktür
+Bxy: x, y'den daha büyüktür
+(∃x)[Hx • (∀y)(Ay ⊃ Bxy)]",Bazı evler tüm dairelerden daha küçüktür.,Her ev her daireden daha büyüktür.,Bazı daireler her evden daha küçüktür.,Bazı evler her apartman dairesinden daha büyüktür.,D
+"Aşağıdaki argüman için eksiksiz bir doğruluk tablosu oluşturun. Ardından, doğruluk tablosunu kullanarak argümanın geçerli mi yoksa geçersiz mi olduğunu belirleyin. Eğer argüman geçersizse, bir karşı örnek sunan bir seçenek seçin. (Başka karşı örnekler de olabilir.)
+~K ≡ L / (K · L) ∨ (K · ~L)",Geçerli,Geçersiz. K ve L doğru olduğunda karşı örnek,Geçersiz. K doğru ve L yanlış olduğunda karşı örnek,Geçersiz. L doğru ve K yanlış olduğunda karşı örnek,D
+"Aşağıdaki koşullu önermenin öncülünü belirleyin: Eğer üniversite mali yardımı artırmazsa, ya başkan bunu onaylamaz ya da mütevelli heyeti bunu engeller.",Üniversite mali yardımı artırıyor.,Üniversite mali yardımı artırmıyor.,Mütevelli heyeti buna engel oluyor.,Başkan bunu onaylamayı başaramıyor.,B
+"Aşağıdaki önermelerden hangisi, verilen öncüllerin PL'de doğrudan (tek adımlı) bir sonucudur?
+~E ⊃ ~F
+G ⊃ F
+H ∨ ~E
+H ⊃ I
+~I",E ⊃ F,F ⊃ G,H ⊃ ~E,~H,D
+"Verilen önerme mantığı formüllerinden hangisi aşağıdaki cümlenin en iyi sembolleştirmesidir?
+Herkes Raymond'u seviyor, ya da değil.",L,~L,L • ~L,L ∨ ~L,D
+"En iyi yüklem mantığı çevirisini seçin. Tüm krallar tüm fakirlerden daha şanslıdır. (Kx: x bir kraldır; Px: x bir fakirdir; Lxy: x, y'den daha şanslıdır)",(∀x)[Kx ⊃ (∀y)(Py ⊃ Lxy)],(∀x)[Kx ⊃ (∀y)(Lxy ⊃ Py)],(∀x)(∀y)[(Kx • Py) ⊃ Lyx],(∀x)[(Kx • (∀y)(Py)) ⊃ Lxy],A
+"Aşağıdaki önerme çiftleri için eksiksiz bir doğruluk tablosu oluşturun. Ardından, doğruluk tablolarını kullanarak, ifadelerin mantıksal olarak eşdeğer mi yoksa çelişkili mi olduğunu belirleyin. Eğer ikisi de değilse, tutarlı mı yoksa tutarsız mı olduklarını belirleyin. Cevaplarınızı gerekçelendirin.
+(~M ⊃ ~N) ∨ (O ≡ N) ve (~M · N) · [(~O ∨ ~N) · (O ∨ N)]",Mantıksal olarak eşdeğer,Çelişkili,"Ne mantıksal olarak eşdeğer ne de çelişkili, ancak tutarlı",Tutarsız,B
+"Aşağıdaki önermelerden hangisi, verilen öncüllerin Önerme Mantığı'ndaki doğrudan (tek adımlı) bir sonucudur?
+E ⊃ ~F
+~F ⊃ G
+~G",E ⊃ F,F ⊃ G,G ⊃ E,~~F,D
+"Aşağıdaki argümanın geçerli olup olmadığını belirlemek için dolaylı doğruluk tablolarını kullanın. Eğer argüman geçersizse, bir karşı örnek sunan bir seçenek belirleyin. (Başka karşı örnekler de olabilir.)
+E ⊃ (F ∨ ~G)
+F ⊃ (~E ∨ ~G) / ~(E ≡ F)",Geçerli,"Geçersiz. E, F ve G doğru olduğunda karşı örnek",Geçersiz. E ve F doğru ve G yanlış olduğunda karşı örnek,"Geçersiz. E, F ve G yanlış olduğunda karşı örnek",C
+"Aşağıdaki argümanın geçerli olup olmadığını belirlemek için dolaylı doğruluk tablolarını kullanın. Eğer argüman geçersizse, bir karşı örnek sunan bir seçenek belirleyin. (Başka karşı örnekler de olabilir.)
+H ≡ (~I ∨ J)
+H ∨ ~J / ~I",Geçerli,"Geçersiz. H, I ve J yanlış olduğunda karşı örnek",Geçersiz. H ve I doğru ve J yanlış olduğunda karşı örnek,Geçersiz. I doğru ve H ve J yanlış olduğunda karşı örnek,D
+"En iyi yüklem mantığı çevirisini seçin. Bazı itfaiyeciler kurbanları tehlikeden kurtarır. (Dx: x tehlikedir; Fx: x bir itfaiyecidir; Vx: x bir kurbandır; Rxyz: x, y'yi z'den kurtarır)",(∃x){Fx • (∀y)[Dy ⊃ (∃z)(Vz • Rxyz)]},(∃x){Fx • (∃y)[Vy • (∃z)(Dz • Rxyz)]},(∃x){Fx • (∃y)(∃z)[(Vy • Dz) • Rxzy]},(∀x){Fx ⊃ (∃y)[Vy . (∃z)(Dz • Rxyz)]},B
+"Aşağıdaki koşullu önermenin öncülünü belirleyin: Üniversite, yalnızca ve yalnızca hem vali onaylarsa hem de mütevelli heyeti tavsiye ederse harçları artırır.",Üniversite harçları artırıyor.,Vali bunu onaylıyor.,Mütevelli heyeti bunu tavsiye ediyor.,Yukarıdakilerin hiçbiri,D
+"En iyi yüklem mantığı çevirisini seçin. Tüm gezegenler Jüpiter'den daha küçüktür. (j: Jüpiter; Px: x bir gezegendir; Sxy: x, y'den daha küçüktür)",(∃x)(Px • Sxj),(∀x)(Px • Sxj),(∀x)(Px ⊃ Sjx),(∀x)(Px ⊃ Sxj),D
+"En iyi yüklem mantığı çevirisini seçin. José, Wilma'yı Kevin'e tanıştırır. (j: José; k: Kevin; w: Wilma; Ixyz: x, y'yi z'ye tanıştırır)",Iwkj,Ijwk,Iwjk,Ijkw,B
+Aşağıdakilerden hangisi yüklem mantığına en iyi çeviridir: Hiçbir eser insan değildir.,~Pa,(∀x)(Ax ⊃ ~Px),~Ap,(∀x)(Ax • ~Px),B
+"Aşağıdaki argüman için eksiksiz bir doğruluk tablosu oluşturun. Ardından, doğruluk tablosunu kullanarak argümanın geçerli mi yoksa geçersiz mi olduğunu belirleyin. Eğer argüman geçersizse, bir karşı örnek sunan bir seçenek seçin. (Başka karşı örnekler de olabilir.)
+P ⊃ Q
+Q · R / ~P · R",Geçerli,"Geçersiz. P, R ve Q doğru olduğunda karşı örnek",Geçersiz. P ve Q doğru ve R yanlış olduğunda karşı örnek,Geçersiz. R ve Q doğru ve P yanlış olduğunda karşı örnek,B
+"En iyi yüklem mantığı çevirisini seçin. Marco İtalya'dan İspanya'ya taşınır. (i: İtalya; m: Marco; s: İspanya; Mxyz: x, z'den y'ye taşınır)",Msim,Mmis,Mims,Mmsi,D
+"Aşağıdaki çeviri anahtarını kullanarak, verilen önermenin en iyi İngilizce yorumunu seçin: Ax: x bir apartmandır Hx: x bir evdir Lx: x büyüktür Bxy: x, y'den daha büyüktür (∀x){Ax ⊃ (∀y)[(Hy • Ly) ⊃ ∼Bxy]}",Tüm daireler bazı büyük evlerden daha büyük değildir.,Hiçbir apartman dairesi herhangi bir büyük evden daha büyük değildir.,Bütün büyük evler bazı dairelerden daha büyük değildir.,Hiçbir büyük ev tüm dairelerden daha büyük değildir.,B
+"Aşağıdaki argüman için eksiksiz bir doğruluk tablosu oluşturun. Ardından, doğruluk tablosunu kullanarak argümanın geçerli mi yoksa geçersiz mi olduğunu belirleyin. Eğer argüman geçersizse, bir karşı örnek sunan bir seçenek seçin. (Başka karşı örnekler de olabilir.)
+J ≡ ~K
+J ∨ L
+~K / L",Geçerli,Geçersiz. J ve K doğru ve L yanlış olduğunda karşı örnek,"Geçersiz. J doğru, K ve L yanlış olduğunda karşı örnek",Geçersiz. K doğru ve J ve L yanlış olduğunda karşı örnek,C
+"Verilen önerme mantığı formüllerinden hangisi aşağıdaki cümlenin en iyi sembolleştirmesidir?
+Pablo, ancak ve ancak kardeşi onu arabayla götürür ve benzin parasını öderse markete gidecektir.",(P ≡ D) ≡ G,(D • G) ⊃ P,P ⊃ (D • G),P ≡ (D • G),D
+"Her önerme kümesinin tutarlı olup olmadığını belirlemek için dolaylı doğruluk tabloları kullanın. Eğer küme tutarlıysa, tutarlı bir değerlendirme içeren bir seçenek seçin. (Başka tutarlı değerlendirmeler de olabilir.)
+D ≡ E
+F ∨ D
+~E · ~F",Tutarsız,"Tutarlı. D, E ve F doğru olduğunda tutarlı değerleme","Tutarlı. D ve E doğru, F yanlış olduğunda tutarlı değerleme","Tutarlı. D ve F doğru, E yanlış olduğunda tutarlı değerleme",A
+"Verilen önerme mantığı formüllerinden hangisi aşağıdaki cümlenin en iyi sembolleştirmesidir?
+Restoran tatlı olarak turta veya cheesecake veya dondurma servis eder.",P ∨ (C ∨ I),(P ∨ C) ∨ I,P ∨ C ∨ I,A ve B Seçenekleri,D
+"Verilen ÖL (Önerme Mantığı) formüllerinden hangisi aşağıdaki cümlenin en iyi sembolleştirmesidir?
+Eğer Beth bisikletine binerse, işe daha erken varır.",B ⊃ W,W ⊃ B,B ≡ W,A ve B'nin her ikisi de,A
+En iyi yüklem mantığı çevirisini seçin: Ya Taylor ya da Eric bir latte erkektir.,Lt ∨ Le,Lx veya Ly,tL ∨ eL,Tl ⊃ El,A
+"Aşağıdaki argümanın geçerli olup olmadığını belirlemek için dolaylı doğruluk tabloları kullanın. Eğer argüman geçersizse, bir karşı örnek sunan bir seçenek belirleyin. (Başka karşı örnekler de olabilir.)
+E ⊃ F
+G ⊃ ~F / ~G ∨ ~E",Geçerli,"Geçersiz. E, F ve G doğru olduğunda karşı örnek","Geçersiz. E ve G doğru, F yanlış olduğunda karşı örnek",Geçersiz. F ve G doğru ve E yanlış olduğunda karşı örnek,A
+"Her önerme kümesinin tutarlı olup olmadığını belirlemek için dolaylı doğruluk tablolarını kullanın. Eğer küme tutarlıysa, tutarlı bir değerlendirme içeren bir seçenek seçin. (Başka tutarlı değerlendirmeler de olabilir.)
+A ⊃ (~B ∨ C)
+C ⊃ D
+A ∨ (B · ~D)
+A ≡ (B ⊃ D)",Tutarsız,"Tutarlı. A ve D doğru, B ve C yanlış olduğunda tutarlı değerleme","Tutarlı. A, B ve D doğru ve C yanlış olduğunda tutarlı değerleme","Tutarlı. C ve D doğru, A ve B yanlış olduğunda tutarlı değerleme",B
+"Aşağıdaki argüman için eksiksiz bir doğruluk tablosu oluşturun. Ardından, doğruluk tablosunu kullanarak argümanın geçerli mi yoksa geçersiz mi olduğunu belirleyin. Eğer argüman geçersizse, bir karşı örnek sunan bir seçenek seçin. (Başka karşı örnekler de olabilir.)
+M ∨ N
+~M · O / N",Geçerli,Geçersiz. M ve O doğru ve N yanlış olduğunda karşı örnek,"Geçersiz. M doğru, O ve N yanlış olduğunda karşı örnek","Geçersiz. O doğru, M ve N yanlış olduğunda karşı örnek",A
+"Aşağıdaki önermelerden hangisi, verilen öncüllerin Önerme Mantığı'nda doğrudan (tek adımlı) bir sonucudur?
+U ⊃ W
+W ⊃ (X ≡ ~Y)
+(X ≡ ~Y) ⊃ Z
+~Z",U ⊃ Z,U ∨ W,~W,~(X ≡ ~Y),D
+"Aşağıdaki koşullu önermenin öncülünü belirleyin: Eğer Arılar ilk maçlarını kazanmazsa, hem Karıncayiyenler hem de Sincaplar ilk maçlarını kazanır.",Karıncayiyenler ilk maçlarını kazanır.,Arılar ilk maçlarını kazanmaz.,Sincaplar ilk maçlarını kazanır.,Hem Aardvarklar hem de Sincaplar ilk maçlarını kazanır.,B
+"En iyi yüklem mantığı çevirisini seçin. Holly Frances'i seviyor. (f: Frances; h: Holly; Lxy: x, y'yi seviyor)",hLf,fLh,Lfh,Lhf,D
+"Aşağıdaki argümanın geçerli olup olmadığını belirlemek için dolaylı doğruluk tabloları kullanın. Eğer argüman geçersizse, bir karşı örnek sunan bir seçenek belirleyin. (Başka karşı örnekler de olabilir.)
+P ⊃ (Q ∨ R)
+(Q · S) ⊃ ~P
+~(~Q ∨ R) / ~P",Geçerli,"Geçersiz. P, Q, R ve S doğru olduğunda karşı örnek","Geçersiz. P ve Q doğru, R ve S yanlış olduğunda karşı örnek","Geçersiz. P, R ve S doğru ve Q yanlış olduğunda karşı örnek",C
+"Aşağıdaki argüman için eksiksiz bir doğruluk tablosu oluşturun. Ardından, doğruluk tablosunu kullanarak argümanın geçerli mi yoksa geçersiz mi olduğunu belirleyin. Eğer argüman geçersizse, bir karşı örnek sunan bir seçenek seçin. (Başka karşı örnekler de olabilir.)
+T ∨ U
+W · T / U",Geçerli,Geçersiz. T ve W doğru ve U yanlış olduğunda karşı örnek,"Geçersiz. T doğru, W ve U yanlış olduğunda karşı örnek",Geçersiz. W doğru ve T ve U yanlış olduğunda karşı örnek,B
+Aşağıdaki koşullu önermenin öncülünü belirleyin: Hem vali onaylarsa hem de mütevelli heyeti tavsiye ederse üniversite harçları artırır.,Üniversite harçları artırıyor.,Vali bunu onaylıyor.,Mütevelli heyeti bunu tavsiye ediyor.,Vali bunu onaylıyor ve mütevelli heyeti bunu tavsiye ediyor.,D
+"Aşağıdaki koşullu önermenin öncülünü belirleyin: Restoranda bezelye yok, bu yüzden onun yerine mısır ve patates servis ediyorlar.",Restoranda bezelye var.,Restoranda bezelye yok.,Restoran mısır servis ediyor.,Restoran patates servis ediyor.,B
+"En iyi yüklem mantığı çevirisini seçin. Tüm jelibon şekerleri tüm meyvelerden daha tatlıdır. (Fx: x bir meyvedir; Jx: x bir jelibondur; Sxy: x, y'den daha tatlıdır)",(∀x)[Fx ⊃ (∀y)(Jy ⊃ Sxy)],(∀x)(∀y)[(Fx • Jy) • Sxy],(∀x)(∀y)[Sxy ⊃ (Fy • Jx)],(∀x)[Jx ⊃ (∀y)(Fy ⊃ Sxy)],D
+"Aşağıdaki argümanın sonucunu belirleyin. Dünyanın benim fikrim olduğu, her canlı varlık için geçerli bir gerçektir, ancak bunu yalnızca insan düşünebilir. Bunu yaparken, felsefi bilgeliğe ulaşır. Bilgi için var olan her şeyin ve dolayısıyla bu dünyanın yalnızca özneye göre nesne, bir algılayanın algısı olduğundan daha kesin bir gerçek yoktur. Dünya bir fikirdir. (Arthur Schopenhauer, Dünya İrade ve Tasavvur Olarak)",Dünya bir fikirdir.,"Dünyanın benim fikrim olduğu, her canlı varlık için geçerli bir gerçektir, ancak bunu yalnızca insan düşünebilir.",Bunu yaparak felsefi bilgeliğe ulaşır.,"Hiçbir gerçek, var olan her şeyin bilgi için ve dolayısıyla bu dünyanın yalnızca özneye göre nesne, algılayanın algısı olduğundan daha kesin değildir.",A
+"Yüklem mantığına en iyi çeviriyi seçin. Leo, Cathy'den daha uzundur. (c: Cathy; l: Leo; Txy: x, y'den daha uzundur)",TLC,Tcl,lTc,cTl,A
+"Aşağıdaki önerme çiftleri için eksiksiz bir doğruluk tablosu oluşturun. Ardından, doğruluk tablolarını kullanarak, ifadelerin mantıksal olarak eşdeğer mi yoksa çelişkili mi olduğunu belirleyin. Eğer ikisi de değilse, tutarlı mı yoksa tutarsız mı olduklarını belirleyin. Cevaplarınızı gerekçelendirin.
+C ⊃ (D ∨ C) ve C · ~D",Mantıksal olarak eşdeğer,Çelişkili,"Ne mantıksal olarak eşdeğer ne de çelişkili, ancak tutarlı",Tutarsız,C
+"Aşağıdaki önerme çiftleri için eksiksiz bir doğruluk tablosu oluşturun. Ardından, doğruluk tablolarını kullanarak, ifadelerin mantıksal olarak eşdeğer mi yoksa çelişkili mi olduğunu belirleyin. İkisi de değilse, tutarlı mı yoksa tutarsız mı olduklarını belirleyin. Cevaplarınızı gerekçelendirin.
+~O ⊃ P ve O ∨ P",Mantıksal olarak eşdeğer,Çelişkili,"Ne mantıksal olarak eşdeğer ne de çelişkili, ancak tutarlı",Tutarsız,A
+"Aşağıdaki argümanın geçerli olup olmadığını belirlemek için dolaylı doğruluk tabloları kullanın. Eğer argüman geçersizse, bir karşı örnek sunan bir seçenek belirleyin. (Başka karşı örnekler de olabilir.)
+(T · ~U) ⊃ ~W
+~W ⊃ X
+~Z ⊃ W
+~(X · Z) / T ⊃ U",Geçerli,"Geçersiz. T, X ve Z doğru, U ve W yanlış olduğunda karşı örnek","Geçersiz. T ve X doğru, U, W ve Z yanlış olduğunda karşı örnek","Geçersiz. T, W ve Z doğru, U ve X yanlış olduğunda karşı örnek",A
+Mantıksal yüklem diline en iyi çeviriyi seçin: Cecilia kalbimi kırar ancak ve ancak Maria ya bir sorun ya da bir kız ise.,Bc ≡ (Pm ∨ Gm),Bc ≡ (Pm • Gm),Bc ⊃ (Pm ∨ Gm),Cb ⊃ (Pm • Gm),A
+"En iyi yüklem mantığı çevirisini seçin: Eğer Delilah New York City'deyse, o zaman Juana Bogota'dadır veya Layla San Juan'dadır.",Nd ⊃ (Bj • Sl),Dn ≡ (Bx • Ly),Nd ≡ (Bj • Sl),Nd ⊃ (Bj ∨ Sl),D
+"Aşağıdaki anahtarı kullanarak verilen PL formülünü doğal, İngilizce cümlelere çevirin.
+A: Marina bir Percy Jackson kitabı okur.
+B: Izzy Minecraft oynar.
+C: Emily çalışmayı bırakır.
+D: Russell akşam yemeği yapar.
+E: Ashleigh uğrar.
+~(A ⊃ B) • (B ⊃ ~E)","Marina'nın bir Percy Jackson kitabı okuması Izzy'nin Minecraft oynadığı anlamına gelmez, ancak Izzy'nin Minecraft oynaması Ashleigh'in uğramaması anlamına gelir.","Marina bir Percy Jackson kitabı okumazsa, Izzy Minecraft oynar, bu da Ashleigh'in uğramaması anlamına gelir.","Marina'nın bir Percy Jackson kitabı okuması, Izzy'nin Minecraft oynadığı anlamına gelmez, ancak Ashleigh uğramazsa Izzy Minecraft oynar.","Marina'nın Percy Jackson kitabı okuması sadece Izzy Minecraft oynadığında gerçekleşmez, ancak Izzy Minecraft'ı yalnızca Ashleigh uğradığında oynar.",A
+"Aşağıdaki argümanın geçerli olup olmadığını belirlemek için dolaylı doğruluk tabloları kullanın. Eğer argüman geçersizse, bir karşı örnek sunan bir seçenek belirleyin. (Başka karşı örnekler de olabilir.)
+(A ∨ B) ⊃ C
+C ⊃ ~D / D ⊃ A",Geçerli,"Geçersiz. B, C ve D doğru ve A yanlış olduğunda karşı örnek","Geçersiz. B ve D doğru, A ve C yanlış olduğunda karşı örnek","Geçersiz. A, B ve C yanlış ve D doğru olduğunda karşı örnek",D
+"Verilen öncüllerin yüklem mantığındaki en iyi İngilizce yorumunu seçin.
+Dh ⊃ ~Pt
+(∀x)Px ∨ (∀x)Mx
+~Mb	/ ~Dh","Eğer baş ağrım ikici bir durum ise, o zaman senin gıdıklanman fiziksel bir durumdur. Ya her şey fizikseldir ya da her şey zihinseldir. Ama kırık ayak parmağım zihinsel bir durum değildir. Bu yüzden baş ağrım ikici bir durum değildir.","Eğer baş ağrım ikici bir durum ise, o zaman senin gıdıklanman fiziksel bir durum değildir. Ya her şey fizikseldir ya da her şey zihinseldir. Ancak kırık ayak parmağım zihinsel bir durum değildir. Bu yüzden baş ağrım ikici bir durum değildir.","Eğer baş ağrım ikici bir durum ise, o zaman senin gıdıklanman fiziksel bir durum değildir. Eğer her şey fiziksel ise o zaman her şey zihinseldir. Ama kırık ayak parmağım zihinsel bir durum değildir. Bu yüzden baş ağrım ikici bir durum değildir.","Eğer baş ağrım ikici bir durum ise, o zaman senin gıdıklanman fiziksel bir durum değildir. Her şey ya fizikseldir ya da zihinseldir. Ancak kırık ayak parmağım zihinsel bir durum değildir. Bu yüzden baş ağrım ikici bir durum değildir.",B
+"Aşağıdaki önermelerden hangisi, verilen öncüllerin Önerme Mantığı'ndaki doğrudan (tek adımlı) bir sonucudur?
+A ⊃ (B • C)
+~(B • C)
+A ∨ (D ∨ B)",A,~A,B,~B,B
+"Aşağıdaki önermelerden hangisi, verilen öncüllerin PL'de doğrudan (tek adımlı) bir sonucudur?
+(N ⊃ ~O) ⊃ (O ∨ Q)
+P ⊃ (N ⊃ ~O)
+N ⊃ P",P,N ⊃ ~O,O veya Q,~P,A
+"En iyi yüklem mantığı çevirisini seçin. Dünya Jüpiter'den büyük değildir. (e: Dünya; j: Jüpiter; Bxy: x, y'den büyüktür)",~Bje,Bej,Bje~,~Bej,D
+"Aşağıdaki koşullu önermenin öncülünü belirleyin: Arıların ilk maçlarını kazanması, ya Karıncayiyenlerin ya da Sincapların ilk maçlarını kazanmaması için gereklidir.",Karıncayiyenler ilk maçlarını kazanmazlar.,Arılar ilk maçlarını kazanıyor.,Sincaplar ilk maçlarını kazanmazlar.,Ya Karıncayiyenler ya da Sincaplar ilk maçlarını kazanamaz.,D
+Aşağıdaki koşullu önermenin öncülünü belirleyin: Arılar ilk maçlarını ancak Karıncayiyenler veya Sincaplar ilk maçlarını kazanmazlarsa kazanırlar.,Karıncayiyenler ilk maçlarını kazanmazlar.,Arılar ilk maçlarını kazanıyor.,Sincaplar ilk maçlarını kazanmazlar.,Ya Karıncayiyenler ya da Sincaplar ilk maçlarını kazanamaz.,B
+Yüklem mantığına en iyi çeviriyi seçin: Bazı sporcular yaralanmaz.,~Ia,(∃x)(Ax • ~Ix),~Ai,(∃x)(Ix ∨ ~Ax),B
+"Aşağıdaki önerme çiftleri için eksiksiz bir doğruluk tablosu oluşturun. Ardından, doğruluk tablolarını kullanarak, ifadelerin mantıksal olarak eşdeğer mi yoksa çelişkili mi olduğunu belirleyin. Eğer ikisi de değilse, tutarlı mı yoksa tutarsız mı olduklarını belirleyin. Cevaplarınızı gerekçelendirin.
+I ≡ ~H ve ~(~I ≡ H)",Mantıksal olarak eşdeğer,Çelişkili,"Ne mantıksal olarak eşdeğer ne de çelişkili, ancak tutarlı",Tutarsız,B
+"Her önerme kümesinin tutarlı olup olmadığını belirlemek için dolaylı doğruluk tablolarını kullanın. Eğer küme tutarlıysa, tutarlı bir değerlendirme içeren bir seçenek seçin. (Başka tutarlı değerlendirmeler de olabilir.)
+(T ⊃ U) ⊃ (W ⊃ U)
+T ⊃ ~(U ⊃ X)
+(T ⊃ ~X) ⊃ W",Tutarsız,"Tutarlı. U, W ve X doğru ve T yanlış olduğunda tutarlı değerleme","Tutarlı. W ve X doğru, T ve U yanlış olduğunda tutarlı değerleme","Tutarlı. T ve U doğru, W ve X yanlış olduğunda tutarlı değerleme",B
+"Aşağıdakilerden hangisi yüklem mantığına en iyi çeviridir: Caroline, ancak ve ancak Janet Brad ile nişanlıysa tatlıdır.",Cs ⊃ Ej,Sc ≡ Ej,sC ≡ eJ,Sx ≡ Jy,B
+"Verilen önerme mantığı formüllerinden hangisi aşağıdaki cümlenin en iyi sembolleştirmesidir?
+Ya İngiltere'nin sığır eti ithal etmesi Fransa'nın tarımı sübvanse etmesi için yeterli bir koşuldur, ya da Çin insan haklarını yalnızca ve yalnızca Güney Afrika elmas tedarik ettiğinde desteklemez.",(E ⊃ F) ∨ (~C ⊃ S),(F ⊃ E) ∨ (S ⊃ ~C,(E ⊃ F) ∨ ~(S ≡ C),(E ⊃ F) ∨ (~C ≡ S),D
+"Aşağıdaki anahtarı kullanarak verilen PL formülünü doğal, İngilizce cümlelere çevirin.
+A: Marina bir Percy Jackson kitabı okur.
+B: Izzy Minecraft oynar.
+C: Emily çalışmayı bırakır.
+D: Russell akşam yemeği yapar.
+E: Ashleigh uğrar.
+(~A ∨ ~B) ⊃ C","Ne Marina bir Percy Jackson kitabı okur ne de Izzy Minecraft oynarsa, Emily çalışmayı bırakır.","Marina bir Percy Jackson kitabı okumuyor ve Izzy Minecraft oynamıyorsa, Emily çalışmayı bırakır.","Ya Marina bir Percy Jackson kitabı okumuyor ya da Izzy Minecraft oynamıyor, bu da Emily'nin çalışmayı bırakmasını gerektirir.","Emily'nin çalışmayı bırakması, ya Marina'nın bir Percy Jackson kitabı okumaması ya da Izzy'nin Minecraft oynamaması için yeterli bir koşuldur.",C
+"Aşağıdaki argümanın sonucunu belirleyin. Yüklem değişkenlerini kullananlar vardır; bu değişkenlerin değerleri niteliklerdir. Atıfta bulunulacak nitelikler olup olmadığına bakılmaksızın tüm cümlelerde yüklemler istenir. Genel olarak açıklayıcı amaçlar için kukla yüklem 'F' istenir. Eğer nitelikler üzerinde niceleyecek ve onlara atıfta bulunacaksak, o zaman netlik, tanınabilir değişkenler ve amaçlar için ayırt edici isimler kullanarak ve bunları yüklemlerle karıştırmayarak sağlanır. (Quine, Mantık Felsefesi)",Yüklem değişkenleri kullananlar vardır; bu değişkenlerin değerleri niteliklerdir.,"Nitelikler atıfta bulunmak için olsun ya da olmasın, tüm cümlelerde yüklemler gereklidir.",Kukla yüklem 'F' genellikle açıklama amaçları için istenir.,"Nitelikler üzerinde nicelik belirleyecek ve onlara atıfta bulunacaksak, o zaman netlik, tanınabilir değişkenler ve amaçlar için ayırt edici isimler kullanarak sağlanır ve bunlar yüklemlerle karıştırılmaz.",D
+"Aşağıdaki anahtarı kullanarak verilen PL formülünü doğal, İngilizce cümlelere çevirin.
+A: Marina bir Percy Jackson kitabı okur.
+B: Izzy Minecraft oynar.
+C: Emily çalışmayı bırakır.
+D: Russell akşam yemeği yapar.
+E: Ashleigh uğrar.
+~C ∨ D",Emily çalışmayı bırakmazsa Russell akşam yemeğini hazırlar.,"Emily, Russell yemek yapmadıkça çalışmayı bırakır.","Emily, Russell akşam yemeği yapmadığı sürece çalışmayı bırakır.","Emily, Russell yemek yapmadıkça çalışmayı bırakmaz.",D
+Aşağıdakilerden hangisi yüklem mantığına en iyi çeviridir: Abdul ve Kleopatra Mısırlıdır.,Ea • Ec,Ea • c,Ae ∨ Ce,Ör • Ey,A
+Aşağıdakilerden hangisi yüklem mantığına en iyi çeviridir: Sheena bir punk rock'çıdır.,Sx,xS,sP,Ps,D
+"En iyi yüklem mantığı çevirisini seçin. Kevin, Wilma tarafından José'ye tanıştırılır. (j: José; k: Kevin; w: Wilma; Ixyz: x, y'yi z'ye tanıştırır)",Iwjk,Ijkw,Ikjw,Iwkj,D
+"En iyi yüklem mantığı çevirisini seçin: Eğer Eileen keman çalarsa, Sherri şarkı söyler.",Fe ∨ Ss,eF ⊃ Ss,Fe ∨ Es,Fe ⊃ Ss,D
+"Aşağıdaki argüman için eksiksiz bir doğruluk tablosu oluşturun. Ardından, doğruluk tablosunu kullanarak argümanın geçerli mi yoksa geçersiz mi olduğunu belirleyin. Eğer argüman geçersizse, bir karşı örnek sunan bir seçenek seçin. (Başka karşı örnekler de olabilir.)
+~C ⊃ D
+D ⊃ C / C",Geçerli,Geçersiz. C ve D doğru olduğunda karşı örnek,Geçersiz. C doğru ve D yanlış olduğunda karşı örnek,Geçersiz. D doğru ve C yanlış olduğunda karşı örnek,A
+Predicate mantığına en iyi çeviriyi seçin: Bazı mavi balıkçıllar göç eder.,(∀x)[(Hx • Bx) • Mx],(∃x)[(Hx • Bx) ⊃ Mx],(∀x)[(Hx • Bx) ⊃ Mx],(∃x)[(Hx • Bx) • Mx],D
+"Verilen öncüllerin yüklem mantığındaki en iyi İngilizce yorumunu seçin.
+(∃x)(Cx • Ox)
+(∀x)[(~Cx ⊃ ~Bx) ⊃ ~Og]	/ ~Og","Bazı kurabiyeler yulaf ezmesi içerir. Eğer bir şeyin kurabiye olmaması, çikolata parçaları içermediği anlamına geliyorsa, o zaman bu kurabiye yulaf ezmesi içermez. Bu yüzden bu kurabiye yulaf ezmesi içermez.","Bazı kurabiyeler yulaf ezmesi içerir. Eğer bir şey kurabiye değilse ve çikolata parçaları içermiyorsa, yulaf ezmesi de içermez. Bu yüzden bu kurabiye yulaf ezmesi içermez.","Bazı kurabiyeler yulaf ezmesi içerir. Eğer bir şeyde yulaf ezmesi yoksa, o zaman o bir kurabiye değildir ve çikolata parçaları içermez. Bu yüzden bu kurabiyede yulaf ezmesi yoktur.","Bazı kurabiyeler yulaf ezmesi içerir. Eğer bir şeyin çikolata parçaları içermemesi onun kurabiye olmadığı anlamına geliyorsa, o zaman yulaf ezmesi de içermez. Bu yüzden bu kurabiye yulaf ezmesi içermez.",A
+"Aşağıdaki argümanın sonucunu belirleyin. Tüm psikoloji, ahlaki önyargılara ve korkulara saplanıp kalmıştır. Hiç kimse onu güç istencinin gelişimi olarak anlamaya yaklaşamamıştır. Ancak, bir kişi nefret, kıskançlık, açgözlülük ve hükmetme arzusunun etkilerini yaşam koşulları ve ayrıca yaşamın genel ekonomisi için temel faktörler olarak görmeye başlarsa, deniz tutmasına yakalanmaya başlayacaktır. Bu noktada, kendini kaybetmeye ve ahlakın üzerinden yelken açmaya başlar. Böylece, psikoloji yeniden temel sorunlara giden yol haline gelir. (Friedrich Nietzsche, İyinin ve Kötünün Ötesinde)","Tüm psikoloji, ahlaki önyargılara ve korkulara takılıp kalmıştır.",Hiç kimse güç istencinin gelişimi kadar bunu anlamaya yaklaşmadı.,"Bir kişi nefretin, kıskançlığın, açgözlülüğün ve hükmetme arzusunun etkilerini yaşam koşulları olarak ve dahası, yaşamın genel ekonomisi için temel faktörler olarak görmeye başlarsa, deniz tutmasına yakalanmaya başlayacaktır.",Psikoloji yeniden temel sorunlara giden yol haline geliyor.,D
+"Her önerme kümesinin tutarlı olup olmadığını belirlemek için dolaylı doğruluk tabloları kullanın. Eğer küme tutarlıysa, tutarlı bir değerlendirme içeren bir seçenek seçin. (Başka tutarlı değerlendirmeler de olabilir.)
+~N ≡ (O · P)
+~O ⊃ Q
+N · ~Q",Tutarsız,"Tutarlı. N, O ve P doğru ve Q yanlış olduğunda tutarlı değerleme","Tutarlı. N ve O doğru, P ve Q yanlış olduğunda tutarlı değerleme","Tutarlı. N ve P doğru, O ve Q yanlış olduğunda tutarlı değerleme",C
+"Verilen önermesel mantık formüllerinden hangisi aşağıdaki cümlenin en iyi sembolleştirmesidir?
+Eğer kişi mevcut yılda doğmuş veya ölmüşse ve eviniz bu kişinin hayatta olduğu tüm süre boyunca bu kişinin evi olmuşsa, o kişinin mevcut yılın tamamında sizinle yaşadığı kabul edilir.",[(B ∨ D) • H] ⊃ L,[L ⊃ (B ∨ D)] • H,L ⊃ [(B ∨ D) • H],(B ∨ D • H) ⊃ L,A
+"Aşağıdaki argüman için eksiksiz bir doğruluk tablosu oluşturun. Ardından, doğruluk tablosunu kullanarak argümanın geçerli mi yoksa geçersiz mi olduğunu belirleyin. Eğer argüman geçersizse, bir karşı örnek sunan bir seçenek seçin. (Başka karşı örnekler de olabilir.)
+(O ≡ P) ∨ P / P ∨ ~O",Geçerli,Geçersiz. O ve P doğru olduğunda karşı örnek,Geçersiz. O doğru ve P yanlış olduğunda karşı örnek,Geçersiz. P doğru ve O yanlış olduğunda karşı örnek,A
+Predike mantığına en iyi çeviriyi seçin: DJ Khaled onun adını bağırırsa ancak o zaman Leroy kötüdür.,Sk ≡ Bl,Bl ≡ Sk,Bx ⊃ Sy,Bl ⊃ Sk,D
+"Verilen önerme mantığı formüllerinden hangisi aşağıdaki cümlenin en iyi sembolleştirmesidir?
+Eğer George veya Harry kaydolursa, o zaman Ira kaydolmaz.",(G ⊃ H) ∨ I,(G ∨ H) ⊃ I,(G ⊃ H) ∨ ~I,(G ∨ H) ⊃ ~I,D
+"Mantıksal yüklem için en iyi çeviriyi seçin: Bayan Jackson bana biraz şeker ödünç verdi, ancak ne Janet ne de Latoya vermedi.",Lm ∨ ~(Jl ∨ Ll),Lm • ~(Lj • Ll),Lm • ~(Lj ∨ Ll),Lm ∨ ~(Lj • Ll),C
+"En iyi yüklem mantığı çevirisini seçin. Bazı hayvanlar zalim insanlar tarafından ihmal edilir. (Ax: x bir hayvandır; Cx: x zalimdir; Px: x bir insandır; Nxy: x, y'yi ihmal eder)",(∃x)[(Ax • Cx) • (∃y)(Py • Nyx)],(∃x)[(Cx • Px) • (∃y)(Ay • Nxy)],(∃x)[(Ax • Px) • (∃y)(Cy • Nxy)],(∃x)(∃y){[(Ax • Cy) • Py] • Nxy)]},B
+"Her önerme kümesinin tutarlı olup olmadığını belirlemek için dolaylı doğruluk tablolarını kullanın. Eğer küme tutarlıysa, tutarlı bir değerlendirme içeren bir seçenek seçin. (Başka tutarlı değerlendirmeler de olabilir.)
+(E ⊃ F) ⊃ G
+(~E ∨ F) ≡ (H ∨ I)
+I ⊃ (J ⊃ ~H)
+~G ⊃ ~J",Tutarsız,"Tutarlı. E doğru ve F, G, H, I ve J yanlış olduğunda tutarlı değerleme","Tutarlı. E ve H doğru, F, G, I ve J yanlış olduğunda tutarlı değerleme","Tutarlı. E ve I doğru, F, G, H ve J yanlış olduğunda tutarlı değerleme",B
+Yüklem mantığına en iyi çeviriyi seçin: Bazı öğrenciler çok çalışır.,(∃x)(Wx ∨ Sx),(∃x)(Sx ∨ Wx),(∃x)(Sx • Wx),(∃x)(Sx ⊃ Wx),C
+"Verilen önerme mantığı formüllerinden hangisi aşağıdaki cümlenin en iyi sembolleştirmesidir?
+Ya İngiltere'nin sığır eti ithal etmesi Fransa'nın tarımı sübvanse etmesi için gerekli bir koşul değildir, ya da Güney Afrika elmas tedarik ederse Çin insan haklarını destekler.",(~F ⊃ E) ∨ (C ≡ ~S),(~E ⊃ F) ∨ (C ⊃ S),(~F ⊃ E) ∨ (C ≡ S),~(F ⊃ E) ∨ (S ⊃ C),D
+"Aşağıdaki argüman için eksiksiz bir doğruluk tablosu oluşturun. Ardından, doğruluk tablosunu kullanarak argümanın geçerli mi yoksa geçersiz mi olduğunu belirleyin. Eğer argüman geçersizse, bir karşı örnek sunan bir seçenek seçin. (Başka karşı örnekler de olabilir.)
+~A · ~B
+(A ∨ C) ∨ B / C",Geçerli,Geçersiz. A ve B doğru ve C yanlış olduğunda karşı örnek,Geçersiz. A doğru ve B ve C yanlış olduğunda karşı örnek,Geçersiz. B doğru ve A ve C yanlış olduğunda karşı örnek,A
+"En iyi yüklem mantığı çevirisini seçin. Tüm kuşlar bir yuvada yaşar. (Bx: x bir kuştur; Nx: x bir yuvadır; Lxy: x, y'de yaşar)",(∀x)(∀y)[(Bx • Ny) ⊃ Lxy],(∀x)[Bx ⊃ (∃y)(Ny • Lxy)],(∀x)[(∃y)(Ny • Bx) ⊃ Lxy],(∀x)(∃y)[(Bx • Ny) ⊃ Lxy],B
+"Aşağıdaki argümanın sonucunu belirleyin. Faydacı teori, fayda canavarlarının olasılığı karşısında zor durumda kalır. Bir fayda canavarı, başkalarının fedakarlıklarından kaybedilen faydadan daha büyük, muazzam fayda kazanımları elde eder. Çok sayıda insanın fedakarlıkları bile fayda canavarının kazanımları karşısında ağır basmaz. Teori, toplam faydayı artırmak için hepimizin canavarın ağzında feda edilmemizi gerektiriyor gibi görünüyor. (Robert Nozick, Anarşi, Devlet ve Ütopya)","Faydacı teori, fayda canavarlarının olasılığı karşısında zor durumda kalır.","Bir fayda canavarı, faydada muazzam kazançlar elde eder.","Bir fayda canavarı, başkalarının fedakarlıklarından kaybedilen faydadan daha büyük fayda kazanımları elde eder.","Fayda canavarının kazanımları, çok sayıda diğer insanın fedakarlıklarından daha ağır basar.",A
+"Aşağıdaki anahtarı kullanarak verilen PL formülünü doğal, İngilizce cümlelere çevirin.
+A: Marina bir Percy Jackson kitabı okur.
+B: Izzy Minecraft oynar.
+C: Emily çalışmayı bırakır.
+D: Russell akşam yemeği yapar.
+E: Ashleigh uğrar.
+(A ∨ ~E) ≡ (D • ~B)","Ya Marina'nın bir Percy Jackson kitabı okuması ya da Ashleigh'in uğramaması, hem Russell'ın akşam yemeği yapması hem de Izzy'nin Minecraft oynamaması için gerekli bir koşuldur.","Marina'nın bir Percy Jackson kitabı okuması veya Ashleigh'in uğramaması, Russell'ın akşam yemeği yapması ve Izzy'nin Minecraft oynaması için gerekli ve yeterli bir koşuldur.","Marina, Russell yemek yapar ve Izzy Minecraft oynamazsa, ancak ve ancak o zaman, Ashleigh uğramadığı sürece bir Percy Jackson kitabı okur.",Ya Marina bir Percy Jackson kitabı okur ya da hem Russell yemek yapar hem de Izzy Minecraft oynamazsa Ashleigh uğramaz.,D
+"Verilen ÖM (Önerme Mantığı) formüllerinden hangisi aşağıdaki cümlenin en iyi sembolleştirmesidir?
+Brittany balıkları ve kertenkeleri sever, ama kedileri sevmez.",F • L • ~C,(F • L) • ~C,(F • L) ∨ ~C,C • (F • L),B
+"Verilen önerme mantığı formüllerinden hangisi aşağıdaki cümlenin en iyi sembolleştirmesidir?
+Ya Harry kaydolursa ya da George kaydolmazsa, Jim kaydolur.",H veya (G değil ise J),~(H ∨ G) ⊃ J,(H ∨ ~G) ⊃ J,(H ⊃ ~G) ∨ J,C
+"Aşağıdaki argüman için eksiksiz bir doğruluk tablosu oluşturun. Ardından, doğruluk tablosunu kullanarak argümanın geçerli mi yoksa geçersiz mi olduğunu belirleyin. Eğer argüman geçersizse, bir karşı örnek sunan bir seçenek seçin. (Başka karşı örnekler de olabilir.)
+~X ⊃ Y
+Y ⊃ Z
+~Z / ~X",Geçerli,"Geçersiz. X, Y ve Z doğru olduğunda karşı örnek",Geçersiz. Y ve Z doğru ve Z yanlış olduğunda karşı örnek,Geçersiz. X doğru ve Y ve Z yanlış olduğunda karşı örnek,D
+"En iyi yüklem mantığı çevirisini seçin. Bazı nazik insanlar bazı nesli tükenmekte olan türlere yardım eder. (Ex: x nesli tükenme tehlikesi altındadır; Kx: x naziktir; Px: x bir insandır; Sx: x bir türdür; Hxy: x, y'ye yardım eder)",(∃x){(Kx • Px) • (∃y)[(Ey • Sy) • Hxy]},(∃x)(∃y){[(Kx • Sx) • (Ey • Py)] • Hxy},(∃x)(∃y){[(Kx • Sx) • (Ey • Py)] • Hyx},(∃x)(∃y){[(Kx • Px) • (Ey • Sy)] ⊃ Hxy},A
+"Aşağıdaki çeviri anahtarını kullanarak, verilen önermenin en iyi İngilizce yorumunu seçin:
+Ax: x bir apartmandır
+Hx: x bir evdir
+Lx: x büyüktür
+Bxy: x, y'den daha büyüktür
+(∀x)[Ax ⊃ (∃y)(Hy • Bxy)]",Her daire bazı evlerden daha büyüktür.,Her ev tüm dairelerden daha büyüktür.,Her ev bazı dairelerden daha büyüktür.,Bazı evler her apartman dairesinden daha büyüktür.,A
+"Aşağıdaki argüman için eksiksiz bir doğruluk tablosu oluşturun. Ardından, doğruluk tablosunu kullanarak argümanın geçerli mi yoksa geçersiz mi olduğunu belirleyin. Eğer argüman geçersizse, bir karşı örnek sunan bir seçenek seçin. (Başka karşı örnekler de olabilir.)
+Q ≡ R
+~(S ∨ Q) / R",Geçerli,Geçersiz. Q ve S doğru ve R yanlış olduğunda karşı örnek,Geçersiz. Q doğru ve S ve R yanlış olduğunda karşı örnek,"Geçersiz. Q, S ve R yanlış olduğunda karşı örnek",D
+"Aşağıdaki koşullu önermenin öncülünü belirleyin: Üniversite, hem vali onaylarsa hem de mütevelli heyeti tavsiye ederse harçları artırır.",Üniversite harçları artırıyor.,Vali bunu onaylıyor.,Mütevelli heyeti bunu tavsiye ediyor.,Vali bunu onaylıyor ve mütevelli heyeti bunu tavsiye ediyor.,A
+"Aşağıdaki önermelerden hangisi verilen öncüllerin PL'de doğrudan (tek adımlı) bir sonucudur?
+(A ∨ B) ⊃ (C ∨ D)
+A ∨ B
+~C",~A ∨ ~B,~~C,C ∨ D,(A ∨ B) ⊃ D,C
+"Aşağıdaki koşullu önermenin öncülünü belirleyin: Üniversite harçları artırdığında, ya vali bunu onaylar ya da mütevelli heyeti bunu engellemez.",Üniversite harçları artırıyor.,Vali bunu onaylıyor.,Mütevelli heyeti buna engel oluyor.,Mütevelli heyeti buna engel olmuyor.,A
+"En iyi yüklem mantığı çevirisini seçin. Marco İspanya'dan İtalya'ya taşınmaz. (i: İtalya; m: Marco; s: İspanya; Mxyz: x, z'den y'ye taşınır)",~Mmsi,M~miş,~Mmis,M~msi,C
+"Aşağıdaki argüman için eksiksiz bir doğruluk tablosu oluşturun. Ardından, doğruluk tablosunu kullanarak argümanın geçerli mi yoksa geçersiz mi olduğunu belirleyin. Eğer argüman geçersizse, bir karşı örnek sunan bir seçenek belirleyin. (Başka karşı örnekler de olabilir.)
+~S ∨ T
+~S · U
+~T ∨ U / T · U",Geçerli,"Geçersiz. S, T ve U doğru olduğunda karşı örnek",Geçersiz. S ve U doğru ve T yanlış olduğunda karşı örnek,"Geçersiz. U doğru, S ve T yanlış olduğunda karşı örnek",D
+"Verilen ÖM (Önerme Mantığı) formüllerinden hangisi aşağıdaki cümlenin en iyi sembolleştirmesidir?
+Hastaları kaba olmadığı sürece doktorlar yardımcıdır.",H ≡ R,H • R,H ∨ ~R,H ∨ R,D
+"Aşağıdaki argümanın geçerli olup olmadığını belirlemek için dolaylı doğruluk tablolarını kullanın. Eğer argüman geçersizse, bir karşı örnek sunan bir seçenek belirleyin. (Başka karşı örnekler de olabilir.)
+L ⊃ [(M ∨ ~N) ⊃ O]
+(N ⊃ O) ⊃ (~P ⊃ Q)
+R ⊃ ~Q / L ⊃ (R ⊃ P)",Geçerli,"Geçersiz. L, M, O, Q ve R doğru, N ve P yanlış olduğunda karşı örnek","Geçersiz. L, N, O, Q ve R doğru, M ve P yanlış olduğunda karşı örnek","Geçersiz. L, N ve R doğru, M, O, P ve Q yanlış olduğunda karşı örnek",D
+"Aşağıdaki argümanın sonucunu belirleyin. Bir terimin anlamının onun referansını belirlemesi gerektiği varsayılır. Ancak referans, düşüncede herhangi bir fark olmaksızın değişebilir. Bu nedenle, terimlerin anlamları düşüncede değişiklik olmadan değişebilmelidir. Dolayısıyla, düşüncelerimiz terimlerimizin anlamlarını belirlemez; anlamlar kafamızda değildir. (Hilary Putnam)",Bir terimin anlamının onun referansını belirlemesi beklenir.,Ancak düşüncede herhangi bir fark olmaksızın referans değişebilir.,Düşüncede herhangi bir fark olmaksızın referans değişebilir.,Düşüncelerimiz terimlerimizin anlamlarını belirlemez; anlamlar kafamızın içinde değildir.,D
+"Aşağıdaki önerme çiftleri için eksiksiz bir doğruluk tablosu oluşturun. Ardından, doğruluk tablolarını kullanarak, ifadelerin mantıksal olarak eşdeğer mi yoksa çelişkili mi olduğunu belirleyin. Eğer ikisi de değilse, tutarlı mı yoksa tutarsız mı olduklarını belirleyin. Cevaplarınızı gerekçelendirin.
+(G ∨ ~H) ⊃ G ve ~G ≡ (~H · G)",Mantıksal olarak eşdeğer,Çelişkili,"Ne mantıksal olarak eşdeğer ne de çelişkili, ancak tutarlı",Tutarsız,C
+"Verilen önerme mantığı formüllerinden hangisi aşağıdaki cümlenin en iyi sembolleştirmesidir?
+Ya İngiltere'nin sığır eti ithal etmesi Fransa'nın tarımı sübvanse etmesi için gerekli bir koşuldur ya da Çin'in insan haklarını teşvik etmesi Güney Afrika'nın elmas tedarik etmesi için yeterli bir koşul değildir.",(E ≡ F) ∨ ~(C ≡ S),(E ≡ F) ∨ (~C ⊃ S),(E ⊃ F) ∨ ~(C ⊃ S),(F ⊃ E) ∨ ~(C ⊃ S),D
+"Verilen öncüllerin yüklem mantığındaki en iyi İngilizce yorumunu seçin.
+Wn ∨ Wm
+(∀x)[Lx ⊃ (Dx ⊃ ~Wx)]
+Ln • Dn	/ ~(∀x)~Wx",Ya Nancy ya da Marvin iştedir. Tüm avukatlar akşam yemeğine çıktıklarında işte değillerdir. Nancy bir avukattır ve akşam yemeğine çıkmıştır. Bu yüzden her şey işte değil değildir.,Ya Nancy ya da Marvin iştedir. Tüm avukatlar işte değillerse akşam yemeğine çıkmıştır. Nancy bir avukattır ve akşam yemeğine çıkmıştır. Bu yüzden her şey işte değil değildir.,Ya Nancy ya da Marvin iştedir. Tüm avukatlar işte değillerse akşam yemeğine çıkmıştır. Nancy bir avukattır ve akşam yemeğine çıkmıştır. Bu yüzden herkes işte değildir.,Ya Nancy ya da Marvin iştedir. Tüm avukatlar akşam yemeğine çıktıklarında işte değillerdir. Nancy bir avukattır ve akşam yemeğine çıkmıştır. Bu yüzden herkes işte değildir.,A
+"Aşağıdaki argümanın sonucunu belirleyin. Sonuç göstergelerini kaldırmayı unutmayın. Toplumun bir katili öldürmesi yanlıştır. Bu, şu nedenden dolayı geçerlidir: eğer bir katilin kurbanını öldürmesi yanlışsa, o zaman toplumun da katili öldürmesi yanlıştır. Ve bir katilin kurbanını öldürmesi yanlıştır.",Bir katili öldürmek toplum için yanlıştır.,"Bu, şu nedenden dolayı geçerlidir: eğer bir katil kurbanını öldürmekte haksızsa, o zaman toplum da katili öldürmekte haksızdır.","Eğer bir katil kurbanını öldürmekte hatalıysa, o zaman toplum da katili öldürmekte hatalıdır.",Ve bir katil kurbanını öldürmekte haksızdır.,A
+"Aşağıdaki önermelerden hangisi, verilen öncüllerin PL'de doğrudan (tek adımlı) bir sonucu değildir?
+I ⊃ (J ≡ K)
+(J ≡ K) ⊃ (L ∨ M)
+I ⊃ ~L",~L,J ≡ K,Ben (L veya M)'yi kapsarım,~L ⊃ (J ≡ K),D
+"Aşağıdaki argüman için eksiksiz bir doğruluk tablosu oluşturun. Ardından, doğruluk tablosunu kullanarak argümanın geçerli mi yoksa geçersiz mi olduğunu belirleyin. Eğer argüman geçersizse, bir karşı örnek sunan bir seçenek seçin. (Başka karşı örnekler de olabilir.)
+I ≡ ~J
+I ∨ J / I",Geçerli,Geçersiz. I ve J doğru olduğunda karşı örnek,Geçersiz. I doğru ve J yanlış olduğunda karşı örnek,Geçersiz. J doğru ve I yanlış olduğunda karşı örnek,D
+Yüklem mantığına en iyi çeviriyi seçin: Bazı insanlar şanslıdır.,(∃x)(Fx • Lx),Fl,Lf,(∀x)(Fx • Lx),A
+"En iyi yüklem mantığı çevirisini seçin. Alexis, Ben tarafından selamlanır. (a: Alexis; b: Ben; Gxy: x, y'yi selamlar)",Gab,~Gba,aGb,Gba,D
+Yüklem mantığına en iyi çeviriyi seçin: Bütün ıstakozlar kırmızı değildir.,~(∀x)(Lx ⊃ Rx),~(∃x)(Lx ⊃ Rx),~(∃x)(Lx • Rx),~(∀x)(Lx • Rx),A
+"Aşağıdaki argümanın geçerli olup olmadığını belirlemek için dolaylı doğruluk tablolarını kullanın. Eğer argüman geçersizse, bir karşı örnek sunan bir seçenek seçin. (Başka karşı örnekler de olabilir.)
+H ≡ (I · ~J)
+K ≡ ~H
+~(K ⊃ J) / I ≡ J",Geçerli,"Geçersiz. I, H ve K doğru ve J yanlış olduğunda karşı örnek","Geçersiz. I ve H doğru, J ve K yanlış olduğunda karşı örnek","Geçersiz. K doğru ve I, H ve J yanlış olduğunda karşı örnek",A
+"Aşağıdaki önerme çiftleri için eksiksiz bir doğruluk tablosu oluşturun. Ardından, doğruluk tablolarını kullanarak, ifadelerin mantıksal olarak eşdeğer mi yoksa çelişkili mi olduğunu belirleyin. Eğer ikisi de değilse, tutarlı mı yoksa tutarsız mı olduklarını belirleyin. Cevaplarınızı gerekçelendirin.
+~(J ∨ K) · L ve (L ⊃ J) · K",Mantıksal olarak eşdeğer,Çelişkili,"Ne mantıksal olarak eşdeğer ne de çelişkili, ancak tutarlı",Tutarsız,D
+En iyi yüklem mantığı çevirisini seçin: Tüm birinci sınıf öğrencileri yüzme testi yapar.,(∀x)(Sx ⊃ Fx),(∀x)(Fx ⊃ Sx),(∀x)(Fx ∨ Sx),(∀x)(Fx ≡ Sx),B
+En iyi yüklem mantığı çevirisini seçin: Johnny geç geldi.,jL,Lj,Cj ∨ Lj,Lx,B
+Predike mantığına en iyi çeviriyi seçin: Hiçbir son sınıf öğrencisi bir ana dal olmadan mezun olmaz.,(∀x)(Sx ⊃ ~Gx),~(∀x)(Sx ⊃ Gx),(∀x)( ~Sx ⊃ ~Gx),(∀x) ~(Sx ⊃ ~Gx),A
+"Aşağıdaki argümanın sonucunu belirleyin. Tarihsel açıdan bakıldığında, genetik genç bir bilimdir. Kalıtsal özellikleri yöneten ilkeler 150 yıldan daha az bir süre önce tanımlanmıştır. Ayrıca, yirminci yüzyılın başlarında, kalıtım yasaları yeniden keşfedilmiştir. Ancak o zaman bile, DNA'nın önemi 1950'lere kadar gerçekten anlaşılmamıştı.","Ancak o zaman bile, DNA'nın önemi 1950'lere kadar gerçekten anlaşılmamıştı.",DNA'nın önemi 1950'lere kadar gerçekten anlaşılmamıştı.,"Tarihsel açıdan bakıldığında, genetik genç bir bilimdir.",Kalıtsal özellikleri yöneten ilkeler 150 yıldan daha kısa bir süre önce tanımlandı.,C
+"Verilen önerme mantığı formüllerinden hangisi aşağıdaki cümlenin en iyi sembolleştirmesidir?
+Ya İngiltere'nin sığır eti ithal etmesi Fransa'nın tarımı sübvanse etmesi için gerekli bir koşuldur ya da Güney Afrika elmas tedarik etmediği takdirde Çin insan haklarını destekler.",(E ⊃ F) ∨ (C ≡ ~S),(F ⊃ E) ∨ (~S ≡ C),(E ⊃ F) ∨ (S ⊃~C),(F ⊃ E) ∨ (~S ⊃ C),D
+"Verilen önerme mantığı formüllerinden hangisi aşağıdaki cümlenin en iyi sembolleştirmesidir?
+Ya İngiltere'nin sığır eti ithal etmesi Fransa'nın tarımı sübvanse etmesi için yeterli bir koşuldur ya da Çin'in insan haklarını teşvik etmesi Güney Afrika'nın elmas tedarik etmesi için gerekli bir koşuldur.",(E ⊃ F) ∨ (S ⊃ C),(F ⊃ E) ∨ (C ⊃ S),(E ⊃ F) ∨ (C ⊃ S),(F ⊃ E) ∨ (S ⊃ C),A
+"Verilen ÖM (Önerme Mantığı) formüllerinden hangisi aşağıdaki cümlenin en iyi sembolleştirmesidir?
+Dylan ne matematiği ne de bilimi sever.",M ∨ S,~(M • S),~(M ∨ S),~M ∨ ~S,C
+Aşağıdakilerden hangisi yüklem mantığına en iyi çeviridir: Tüm robotlar yapay nesnelerdir.,(∀x)(Ax ∨ Rx),(∀x)(Ax • Rx),(∀x)(Rx ⊃ Ax),(∀x)(Rx • Ax),C
+"Verilen önerme mantığı formüllerinden hangisi aşağıdaki cümlenin en iyi sembolleştirmesidir?
+Üniversite harçları artırdığı için, başkan bunu onayladı ve yönetim kurulu buna engel olmadı.",(P • ~B) ⊃ U,(U ⊃ P) • B,U ⊃ (P • ~B),U ⊃ (P ∨ ~B),C
+"Aşağıdaki argümanın sonucunu belirleyin. İdam cezasını kaldırmamalıyız. Eğer kaldırırsak, hapishaneler daha kalabalık hale gelecek. Hapishaneler daha kalabalık hale gelirse, daha fazla hapishane inşa etmek zorunda kalacağız. Ve daha fazla hapishane inşa etmek istemiyoruz.",İdam cezasını kaldırmamalıyız.,"Eğer bunu yaparsak, hapishaneler daha kalabalık hale gelecek.","Hapishaneler daha kalabalık hale gelirse, daha fazla hapishane inşa etmek zorunda kalacağız.",Daha fazla hapishane inşa etmek zorunda kalacağız.,A
+"Verilen önerme mantığı formüllerinden hangisi aşağıdaki cümlenin en iyi sembolleştirmesidir?
+Ya İngiltere'nin sığır eti ithal etmemesi Fransa'nın tarımı sübvanse etmesi için gerekli bir koşuldur, ya da Çin insan haklarını ancak ve ancak Güney Afrika elmas tedarik etmezse destekler.",(F ⊃ ~E) ∨ (C ≡ ~S),(~E ⊃ F) ∨ (C ⊃ ~S),~(F ⊃ E) ∨ (~S ⊃ C),(F ⊃ E) ∨ (C ≡ ~S),A
+"Aşağıdaki argümanın geçerli olup olmadığını belirlemek için dolaylı doğruluk tabloları kullanın. Eğer argüman geçersizse, bir karşı örnek sunan bir seçenek belirleyin. (Başka karşı örnekler de olabilir.)
+(K · L) ⊃ M
+N ⊃ ~M
+N ∨ K / L ⊃ K",Geçerli,"Geçersiz. L, M ve N doğru ve K yanlış olduğunda karşı örnek","Geçersiz. L ve M doğru, K ve N yanlış olduğunda karşı örnek","Geçersiz. L ve N doğru, K ve M yanlış olduğunda karşı örnek",D
+"Aşağıdaki argüman için eksiksiz bir doğruluk tablosu oluşturun. Ardından, doğruluk tablosunu kullanarak argümanın geçerli mi yoksa geçersiz mi olduğunu belirleyin. Eğer argüman geçersizse, bir karşı örnek sunan bir seçenek belirleyin. (Başka karşı örnekler de olabilir.)
+(G ≡ H) · ~I
+~G ∨ (~H ∨ I) / G",Geçerli,Geçersiz. H ve I doğru ve G yanlış olduğunda karşı örnek,"Geçersiz. H doğru, I ve G yanlış olduğunda karşı örnek","Geçersiz. H, I ve G yanlış olduğunda karşı örnek",D
+"Aşağıdaki argüman için eksiksiz bir doğruluk tablosu oluşturun. Ardından, doğruluk tablosunu kullanarak argümanın geçerli mi yoksa geçersiz mi olduğunu belirleyin. Eğer argüman geçersizse, bir karşı örnek sunan bir seçenek seçin. (Başka karşı örnekler de olabilir.)
+~(M ≡ ~N)
+M / N",Geçerli,Geçersiz. M ve N doğru olduğunda karşı örnek,Geçersiz. M doğru ve N yanlış olduğunda karşı örnek,Geçersiz. N doğru ve M yanlış olduğunda karşı örnek,A
+"En iyi yüklem mantığı çevirisini seçin. Bazı CEO'lar herkesten daha zengindir. (Cx: x bir CEO'dur; Px: x bir kişidir; Wxy: x, y'den daha zengindir)",(∃x)[Cx • (∀y)(Py • Wxy)],(∃x)[Cx ⊃ (∀y)(Py ⊃ Wxy)],(∃x)[Cx • (∀y)(Py ⊃ Wxy)],(∀x)[Px ⊃ (∃y)(Cy ⊃ Wxy)],C
+"En iyi yüklem mantığı çevirisini seçin. Tüm çocuklar bir okula gider. (Cx: x bir çocuktur; Sx: x bir okuldur; Gxy: x, y'ye gider)",(∀x)(∃y)[(Cx • Sy) • Gxy),(∀x)[Sx ⊃ (∃y)(Cy • Gxy)],(∀x)[Cx ⊃ (∃y)(Sy • Gxy)],(∀x)[Sx • (∃y)(Cy • Gxy)],C

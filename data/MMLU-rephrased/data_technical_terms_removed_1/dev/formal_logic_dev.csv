@@ -1,0 +1,10 @@
+"Is there a way to express the following sentence using logical symbols, without changing what it means: No humans operate vehicles on the planet Mars.",~Pd,(∀x)(Px ∨ ~Dx),(∀x)(Px ⊃ ~Dx),~Dp,C
+"George takes Hector's lawnmower without permission. (g represents George, h represents Hector, l represents Hector's lawnmower, and Bxyx means x takes y from z without permission)",Blgh,Bhlg,Bglh,Bghl,C
+"Translate the following statements, without using any specialized vocabulary, to determine their best meaning in plain English.
+Dm
+(Every x, if x is a whale, then x is not a dolphin)
+(Every x is a whale, or Ag) / (There exists at least one x which is an ant)",Marina is a dancer. Some weaklings are not dancers. Either everything is a weakling or Georgia plays volleyball. So something plays volleyball.,Marina is a dancer. No weakling is a dancer. Everything is either a weakling or plays volleyball. So something plays volleyball.,Marina is a dancer. Some weaklings are not dancers. Everything is either a weakling or plays volleyball. So something plays volleyball.,Marina is a dancer. No weakling is a dancer. Either everything is a weakling or Georgia plays volleyball. So something plays volleyball.,D
+"Make a table that shows all possible combinations of true and false for the following two statements. Then, using the tables, determine if the statements always have the same truth value or if they can never be true at the same time. If neither, determine if they can both be true or false at the same time. Explain your reasoning.
+If E is true, then both E and F are true. Not E and F.",Logically equivalent,Contradictory,"Neither logically equivalent nor contradictory, but consistent",Inconsistent,C
+"Which of the given expressions is the best way to represent the following sentence in a simpler form?
+Turtles live long lives and are happy creatures, unless they are injured.",(L • H) ≡ I,(L • H) ∨ I,L • (H ∨ I),L • (H ⊃ R),B

@@ -1,0 +1,449 @@
+"About what percentage of X were Y as of 2016?
+
+X: adults aged 18 years or older
+Y: overweight",10%,20%,40%,80%,C
+"What was X in Y in 1850 when adjusting for inflation and Z in 2011 prices?
+
+X = GDP per capita
+Y = the United States
+Z = PPP",About $300,About $3k,About $8k,About $15k,B
+"About what percentage of people from X says Y should be accepted by society, as of 2019?
+
+X = the United States
+Y = homosexuality",52%,62%,72%,82%,C
+"Which of the following countries generated the most total X from Y sources in Z?
+
+X = energy
+Y = solar
+Z = 2019",China,United States,Germany,Japan,A
+"Controlling for X and Y, about how much did Z increase from 1950 to 2016 in Japan?
+
+X = inflation
+Y = PPP-adjustment
+Z = GDP per capita",by 5 fold,by 10 fold,by 15 fold,by 20 fold,C
+"What is the X in Y (as of Z)?
+
+X = biggest cause of death
+Y = children under five years old
+Z = 2017",Lower respiratory infections,Preterm birth complications,Diarrheal diseases,Malaria,A
+"About what percentage of the global population does not have access to X as of Y?
+
+X = safe drinking water
+Y = 2019",10%,20%,30%,40%,C
+"X: survey respondents from India
+Y: public services (such as education; judiciary; medical and health; police; registry and permit services; utilities; tax revenue and customs; and land service)
+
+About what percentage of X report having paid a bribe in the last year to access Y as of 2017?",29%,49%,69%,89%,C
+"What fraction of the X in Y used the Z in the past three months, as of 2017?
+
+X = population
+Y = Brazil
+Z = internet",18%,38%,58%,78%,C
+"What fraction of X used Y in the past Z as of 2017?
+
+X = the population in India
+Y = the internet
+Z = three months",11%,26%,41%,56%,B
+"About what percentage of X say that having an increasing number of people of many different Y in their country makes it a Z to live (as opposed to worse or no difference), as of 2018?
+
+X = Indians
+Y = races, ethnic groups and nationalities
+Z = better place",23%,38%,53%,68%,D
+"About what percentage of the world population lives in X as of Y?
+
+X: extreme poverty (less than $1.90 a day)
+Y: 2019",5%,10%,15%,25%,B
+"X: open defecation
+
+As of 2020, about what percentage of the world population practices X?",2%,4%,9%,18%,C
+"Which of the following is not an element of the X policy approach?
+
+X = redistribution-with-growth",minimum wage legislation,land reform,progressive taxation,increased access to education,A
+"About what X of the global Y was Z in 1950?
+
+X = percentage
+Y = population
+Z = literate",36%,56%,76%,96%,B
+"About what percentage of X were Y as of Z?
+
+X = adults aged 18 years or older
+Y = obese
+Z = 2016",6%,13%,27%,46%,B
+"As of 2019, about what percentage of X say the relationship between Y and X is Z?
+
+X = Germans
+Y = the U.S.
+Z = good",34%,49%,64%,79%,A
+"What percentage of X live in Y as of Z?
+
+X = Americans
+Y = urban areas
+Z = 2017",62%,72%,82%,92%,C
+"What was X in Y in 1950 when adjusting for inflation and Z in 2011 prices?
+
+X = GDP per capita
+Y = the United States
+Z = PPP",About $3k,About $8k,About $15k,About $30k,C
+"About how many people in the United States were X in Y?
+
+X = homeless
+Y = 2016","55,000","550,000","5,500,000","55,000,000",B
+"In X how many Y thought that sending Z to Vietnam was a mistake?
+
+X = 1965
+Y = Americans
+Z = troops",25%,45%,65%,85%,A
+"Let X be the percentage of people in Ethiopia who think political parties are corrupt as of 2013.
+
+As of 2013, what is X?",24%,44%,64%,84%,A
+"Let X represent the fraction of the world's population living in countries with per capita incomes of $1230 or less in 1997, according to the World Bank. What was the approximate value of X?
+
+X = low and lower-middle income countries",25%,40%,55%,75%,D
+"As of X, Y made up about what percentage of total Z?
+
+X = 2015
+Y = agriculture
+Z = Indian GDP",8%,16%,32%,64%,B
+"Which of the following is true as of X?
+
+X = 2020",males are more likely to have depression and are more likely to have an alcohol use disorder than females.,females are more likely to have depression and are more likely to have an alcohol use disorder than males.,males are more likely than females to have depression while females are more likely than males to have an alcohol use disorder.,females are more likely than males to have depression while males are more likely than females to have an alcohol use disorder.,D
+"About what percentage of people from X says Y should be accepted by society, as of 2019?
+
+X = Brazil
+Y = homosexuality",37%,47%,57%,67%,D
+"Let X be the percentage of GDP spent on the military by Saudi Arabia as of 2017.
+
+What is the approximate value of X?",1%,3%,6%,10%,D
+"About what share of X came from Y in Z as of 2019?
+
+X = electricity
+Y = fossil fuels
+Z = the United States",23%,43%,63%,83%,C
+"What is the X of children aged Y in Egypt who reported being bullied at least once in the past couple of months as of Z?
+
+X = percentage
+Y = 13-15
+Z = 2015",10%,30%,50%,70%,D
+"About what percentage of X say Y for people up for parole is an unreasonable application of Z?
+
+X = US adults
+Y = criminal risk assessment
+Z = algorithmic decision making",26%,41%,56%,71%,C
+"About how many Xs were killed for Y in 2018?
+
+X = chickens
+Y = meat production",690 million,6.9 billion,69 billion,690 billion,C
+"In X, what percentage of the population of Y had access to Z?
+
+X = 2016
+Y = South Sudan
+Z = electricity",9%,29%,59%,79%,A
+"About what percentage of X report having paid a Y in the last year to access Z as of 2017?
+
+X = survey respondents from Mexico
+Y = bribe
+Z = public services (such as education; judiciary; medical and health; police; registry and permit services; utilities; tax revenue and customs; and land service)",31%,51%,71%,91%,B
+"Controlling for X and Y, about how much did Z increase from 1950 to 2016 in China?
+
+X = inflation
+Y = PPP-adjustment
+Z = GDP per capita",by 4 fold,by 8 fold,by 16 fold,by 32 fold,C
+"X makes polling history by leading the presidential race briefly in June as a third-party candidate with 39%. He winds up with _% of the popular vote.
+
+X = Ross Perot",1,7,13,19,D
+"About what percentage of X say Y plays an important role in their life, as of Z?
+
+X = Turks
+Y = God
+Z = 2019",59%,69%,79%,89%,D
+"Which of the following was responsible for the most X in the Y?
+
+X = death
+Y = 20th century",Earthquakes,Volcanic activity,Wildfires,Floods,D
+"What is the percentage of X in Y who reported being in Z, one or more times during the past 12 months as of 2015?
+
+X = children aged 13-15
+Y = the United States
+Z = a physical fight at school",15%,35%,55%,75%,B
+"Controlling for X and Y, about how much did Z increase from 1950 to 2016 in South Korea?
+
+X = inflation
+Y = PPP-adjustment
+Z = GDP per capita",by 4 fold,by 8 fold,by 16 fold,by 32 fold,D
+"About what percentage of people from X agree that Y is run for the benefit of all the people, as of Z?
+
+X = Turkey
+Y = the state
+Z = 2019",36%,51%,66%,81%,C
+"What percentage of X over Y years old was Z as of 2015?
+
+X = the global population
+Y = 15
+Z = literate",81%,86%,91%,96%,B
+"X: survey respondents from China
+Y: public services (such as education; judiciary; medical and health; police; registry and permit services; utilities; tax revenue and customs; and land service)
+
+About what percentage of X report having paid a bribe in the last year to access Y as of 2017?",26%,46%,66%,86%,A
+"Which of the following had the lowest X as of 2019?
+
+X = life expectancy",Brazil,China,Mexico,Iran,C
+"As of 2019, X is responsible for about how many deaths each year?
+
+X = unsafe water",1.2 million,2.4 million,3.6 million,4.8 million,A
+"Which of the following causes more X globally each year (as of Y)?
+
+X = deaths
+Y = 2017",Diarrheal diseases,Diabetes,Dementia,Road injuries,C
+"About how many people are infected by X as of Y?
+
+X = HIV/AIDS
+Y = 2020",3 million,14 million,42 million,124 million,C
+"What is the percentage of children aged X in Y who reported being bullied at least once in the past couple of months as of Z?
+
+X = 13-15
+Y = the United States
+Z = 2015",26%,46%,66%,86%,A
+"About what percentage of X say it is necessary to believe in Y in order to be moral and have good values, as of Z?
+
+X = South Koreans
+Y = God
+Z = 2019",25%,45%,65%,85%,B
+"What is the X of children aged Y in Japan who reported being bullied at least once in the past couple of months as of Z?
+
+X = percentage
+Y = 13-15
+Z = 2015",6%,16%,36%,66%,C
+"About what percentage of X say Y will always reflect Z?
+
+X = US adults
+Y = computer programs
+Z = human bias",43%,58%,73%,88%,B
+"Let X be the share of GDP spent on the military by China as of 2017.
+
+X = the share of GDP spent on the military by China as of 2017
+
+As of 2017, X is about",0.50%,2%,6%,12%,B
+"The conjecture that X first increases with Y, then decreases with further Y (known as the ""Z"") has, as of 2020, been
+
+X = inequality
+Y = development
+Z = inverted U hypothesis",strongly supported by most studies,"supported mainly by cross-section, not time-series studies","supported mainly by time-series, not cross-section studies",generally repudiated by empirical studies,B
+"On average, X year old men worldwide have spent Y years in school. How many years have women of the same age spent in school, as of Z?
+
+X = 30
+Y = 10
+Z = 2020",12 years,9 years,6 years,3 years,B
+"Let X = the share of deaths in Greenland by suicide.
+
+As of 2017, X is about",0.90%,1.80%,3.60%,7.20%,D
+"About what percentage of people from X says Y should be accepted by society, as of 2019?
+
+X = Russia
+Y = homosexuality",14%,24%,34%,44%,A
+"As of 2019, about what percentage of X say the relationship between Y and Z is good?
+
+X = Americans
+Y = the U.S.
+Z = Germany",60%,75%,90%,45%,B
+"About what percentage of X say it is very important to have Y in Z without government/state censorship, as of 2019?
+
+X = Americans
+Y = free media
+Z = our country",50%,60%,70%,80%,D
+"In X during Y what percent of Americans believe Reagan was witholding information?
+
+X = 1987
+Y = Iran Contra",2%,25%,50%,75%,D
+"In X, as of Y, what percentage of the population had access to electricity?
+
+X = Sub-Saharan Africa
+Y = 2020",no nation has been able to grow in the past years.,the Democratic Republic of Congo has become poorer than it initially was in 1980.,some countries have had relatively significant growth rates.,"some countries have had relatively significant growth rates, but the Democratic Republic of Congo has become poorer than it initially was in 1980.",C
+"Let X represent the percentage of household income accounted for by the poorest 20% of households in Niger.
+Let Y represent the percentage of household income accounted for by the next 20% of households in Niger.
+Let Z represent the percentage of household income accounted for by the middle 20% of households in Niger.
+
+World Bank data show that in 1995, the poorest 20% of households accounted for X of household income in Niger, the next 20% of households accounted for Y of income, the middle 20% accounted for Z of income, the second richest 20% accounted for 21.1% of income, and the top 20% accounted for 44.1% of income. What was the cumulative income share of the bottom 60% of households in Niger?
+
+X = 7.5%
+Y = 11.8%
+Z = 15.5",15.50%,34.80%,48.10%,65.20%,B
+"How many X between the ages of Y worked globally as of Z?
+
+X = children
+Y = 5-14
+Z = 2012",5 million,30 million,150 million,500 million,C
+"Different X have different levels of Y. Some countries with high Y are, as of 2020,
+
+X = less developed countries
+Y = secondary school enrollment","Colombia, Peru, Uruguay, and Costa Rica.","Bhutan, Niger, Cambodia, and Costa Rica.","Uruguay, Costa Rica, Timor-Leste, and Pakistan.","Bhutan, Cambodia, Uruguay and Costa Rica.",A
+"The X of children in Y (age Z) who reported physical punishment by teachers in the past week in 2009 was about what?
+
+X = percentage
+Y = Vietnam
+Z = 8",10%,20%,40%,80%,B
+"The X of children in India (age Y) who reported Z by teachers in the past week in 2009 was about what?
+
+X = percentage
+Y = 8
+Z = physical punishment",38%,58%,78%,98%,C
+"Consider the following statements:
+X: In every country, people think other individuals in their country are less Y than they actually are.
+Z: In the United States, women's Y has increased both absolutely and relative to men.
+Which of these statements is True/False?
+
+X = happy
+Y = happiness
+Z = (2)","True, True","True, False","False, True","False, False",B
+"About how many people died from X globally in Y?
+
+X = terrorism
+Y = 2017",260,"2,600","26,000","260,000",C
+"In X roughly how many Americans were in favor of Y?
+
+X = 1935
+Y = Social Security act",90%,70%,50%,30%,A
+"Which of the following X emitted the most Y per capita in Z?
+
+X = countries
+Y = CO2
+Z = 2017",Japan,Canada,Russia,Iran,B
+"About what percentage of X say it is necessary to believe in Y in order to be moral and have good values, as of Z?
+
+X = Indians
+Y = God
+Z = 2019",59%,69%,79%,89%,C
+"What is the X of children aged Y in China who reported being in a physical fight at school, one or more times during the past Z as of 2015?
+
+X = percentage
+Y = 13-15
+Z = 12 months",9%,19%,39%,59%,B
+"The X of children in Ethiopia (age Y) who reported Z by teachers in the past week in 2009 was about what?
+
+X = percentage
+Y = 8
+Z = physical punishment",18%,38%,58%,78%,B
+"X: Tunisia
+Y: having an increasing number of people of many different races, ethnic groups and nationalities in their country
+
+As of 2018, about what percentage of people from X say that Y makes it a better place to live (as opposed to worse or no difference)?",24%,39%,54%,69%,A
+"As of 2015, the X was about
+
+X = global fertility rate",1.5 children per woman,2.5 children per woman,3.5 children per woman,4.5 children per woman,B
+"What is the X Y Z as of 2020?
+
+X = median
+Y = international
+Z = income",$300 ,"$1,000 ","$10,000 ","$30,000 ",C
+"Before being reelected for X, how many Y approved of running X?
+
+X = a third term as president
+Y = Americans",20%,40%,60%,80%,C
+"About what percentage of X say it is very important to have Y in Z without government/state censorship, as of 2019?
+
+X = Italians
+Y = free media
+Z = our country",41%,56%,71%,86%,B
+"Public spending on X in the world is about what percentage of global Y as of Z?
+
+X = education
+Y = GDP
+Z = 2017",1%,2%,4%,8%,C
+"Which of the following countries had the highest per capita rate of X as of Y?
+
+X = homelessness
+Y = 2013",US,Chile,Ireland,Spain,A
+"X, the Y of Z in less developed countries between 1960 and 1995
+
+X = growth rate
+Y = average incomes
+Z = Overall",was approximately zero,exceeded that of high income countries,exceeded that of Britain during the industrial revolution,was approximately 3.0% per year,C
+"About what percentage of X is Y?
+
+X = the world's land area
+Y = forested",15%,30%,45%,60%,B
+"The greatest X growth rate has taken place
+
+X = population","in Africa, which is the poorest region of the world with the lowest overall economic growth.","in Asia, which is the poorest region of the world with a steady overall economic growth.","in Asia, which is the poorest region of the world with the lowest overall economic growth.","in Africa, which is the poorest region of the world with a steady overall economic growth.",C
+"Which of these age groups has the highest X death rate globally?
+
+X = HIV/AIDS",Under 5,14-May,15-49,over 50,C
+"As of X, Y made up about what percentage of total Z?
+
+X = 2015
+Y = agriculture
+Z = US GDP",1%,3%,9%,20%,A
+"What percentage of X live in Y areas as of Z?
+
+X = Indians
+Y = urban
+Z = 2017",19%,34%,49%,64%,B
+"Consider the following statements: (1) As X gets Y, the population tends to report higher average Z. (2) Important life events such as marriage or divorce do affect our happiness, but have surprisingly little long-term impact. Which of these statements is True/False, as of 2020?
+
+X = countries
+Y = richer
+Z = life satisfaction","True, True","True, False","False, True","False, False",A
+"At its peak, what was the approximate difference in approval of X from Y and Z?
+
+X: school desegregation
+Y: the South
+Z: the rest of the U.S.",80%,40%,-40%,-80%,B
+"Let X = the share of people in the United States who think political parties are corrupt.
+
+As of 2013, X is",36%,56%,76%,96%,C
+"Which of the following countries invested the largest fraction of its X in Y in Z?
+
+X = GDP
+Y = renewable energy
+Z = 2015",China,Japan,Chile,India,C
+"About how much do you need to make annually to be among the richest X percent in the world, as of Y?
+
+X = one
+Y = 2020","$150,000 ","$75,000 ","$35,000 ","$15,000 ",C
+"In X, how many Y believed in Z?
+
+X = 1943
+Y = Americans
+Z = the Holocaust",30%,50%,70%,90%,B
+"Which of the following X emitted the most Y in Z?
+
+X = countries
+Y = CO2
+Z = 2017",Canada,Russia,Iran,Japan,D
+"At the time of X, there were already hundreds of thousands of university graduates in Y, but hardly any at all in Z.
+
+X = independence
+Y = ____
+Z = ____","India, Congo","India, South Korea","Congo, South Korea","South Korea, India",A
+"Let X be the percentage of people in India who think political parties are corrupt as of 2013.
+
+X = share
+
+As of 2013, X of people in India who think political parties are corrupt is",26%,46%,66%,86%,D
+"About what percentage of X say Y plays an important role in their life, as of Z?
+
+X = French people
+Y = God
+Z = 2019",11%,31%,51%,71%,B
+"Let X = the share of GDP spent on the military by the United States.
+
+As of 2017, X is about",1%,3%,6%,10%,B
+"Let X be the share of global deaths by suicide as of 2017.
+
+What is the approximate value of X?",0.70%,1.40%,2.80%,5.60%,B
+"Many X that became independent after Y found that the legacy of Z hindered their economic development. The list of hindrances included
+
+X = countries
+Y = World War II
+Z = colonialism",artificial political boundaries that covered diverse ethnic groups with little in common,inadequate access to higher education and training for nationals under the colonial administration,control of domestic commerce by foreign minority groups which had been brought in by the colonial power,all of the above,D
+"Which of the following X is most prevalent in the world?
+
+X = mental disorders",Bipolar disorder,Schizophrenia,Alcohol use disorders,Anxiety disorders,D
+"As of X, how many people in the world have some access to Y?
+
+X = 2017
+Y = electricity",60%,70%,80%,90%,C
+"Let X be the number of people who believed Nixon should be removed from office before he resigned.
+
+X = the number of people who believed Nixon should be removed from office
+
+Before Nixon resigned, how many believed he should be removed from office?",79%,98%,33%,57%,D

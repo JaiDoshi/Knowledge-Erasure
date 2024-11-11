@@ -1,0 +1,425 @@
+Welche der folgenden Definitionen ist die am besten geeignete für ein 99%-Konfidenzintervall?,In 99% der wiederholten Stichproben würde das Intervall den wahren Wert des Parameters enthalten,In 99% der wiederholten Stichproben würde das Intervall den geschätzten Wert des Parameters enthalten,In 99% der Fälle bei wiederholten Stichproben wird die Nullhypothese abgelehnt,"In 99% der Fälle bei wiederholten Stichproben wird die Nullhypothese nicht abgelehnt, wenn sie falsch war",A
+Was ist der Hauptunterschied zwischen den Ansätzen von Dickey Fuller (DF) und Phillips-Perron (PP) beim Testen auf Einheitswurzeln?,"ADF ist ein Einzelgleichungsansatz für den Test auf Einheitswurzeln, während PP ein Systemansatz ist","PP-Tests kehren die Null- und Alternativhypothesen des DF-Tests um, sodass unter der Nullhypothese des PP-Tests Stationarität vorliegt.",Der PP-Test beinhaltet eine automatische Korrektur für autokorrelierte Residuen in der Testregression.,"PP-Tests haben in kleinen Stichproben eine gute Teststärke, während DF-Tests dies nicht haben.",C
+"Wenn es in der Praxis einen Hebeleffekt gäbe, wie würde die Form der Nachrichtenauswirkungskurve für ein Modell aussehen, das diesen Hebel berücksichtigt?",Es würde für negative Störungen schneller ansteigen als für positive Störungen gleicher Größenordnung.,Es wäre symmetrisch um Null,Es würde bei negativen Störungen weniger schnell ansteigen als bei positiven Störungen gleicher Größenordnung.,Es wäre null für alle positiven Störungen,A
+Welche der folgenden Aussagen ist falsch in Bezug auf das lineare Wahrscheinlichkeitsmodell?,"Es gibt nichts im Modell, das sicherstellt, dass die geschätzten Wahrscheinlichkeiten zwischen null und eins liegen","Selbst wenn die Wahrscheinlichkeiten bei null und eins abgeschnitten werden, wird es wahrscheinlich viele Beobachtungen geben, bei denen die Wahrscheinlichkeit entweder genau null oder genau eins ist",Die Fehlerterme werden heteroskedastisch und nicht normalverteilt sein,Das Modell ist viel schwieriger zu schätzen als ein Standard-Regressionsmodell mit einer kontinuierlichen abhängigen Variable.,D
+Welche der folgenden Aussagen über die Regressionspopulation und -stichprobe ist FALSCH?,Die Bevölkerung ist die Gesamtheit aller interessierenden Elemente,Die Bevölkerung kann unendlich sein,In der Theorie könnte die Stichprobe größer sein als die Grundgesamtheit,"Eine Zufallsstichprobe ist eine, bei der jedes einzelne Element aus der Grundgesamtheit mit gleicher Wahrscheinlichkeit gezogen werden kann.",C
+Welche der folgenden Aussagen ist FALSCH in Bezug auf einen Vergleich der Box-Pierce Q und der Ljung-Box Q* Statistiken für lineare Abhängigkeit in Zeitreihen?,Asymptotisch werden die Werte der beiden Teststatistiken gleich sein,Der Q-Test hat bessere Eigenschaften für kleine Stichproben als der Q*,Der Q-Test ist manchmal für kleine Stichproben übergroß dimensioniert,"Wenn die Stichprobengröße gegen Unendlich strebt, werden beide Tests eine Tendenz zeigen, die Nullhypothese von Autokorrelationskoeffizienten gleich Null immer abzulehnen.",B
+"Ein sparsames Modell ist eines, das",Enthält zu viele Variablen,"Enthält so wenige Variablen wie möglich, um die Daten zu erklären",Ist ein gut spezifiziertes Modell,Ist ein falsch spezifiziertes Modell,A
+Welche der folgenden Eigenschaften ist KEINE Eigenschaft von kontinuierlich verzinsten Renditen (d.h. logarithmischen Renditen)?,Sie können als kontinuierlich zusammengesetzte Änderungen der Preise interpretiert werden,"Sie können im Laufe der Zeit hinzugefügt werden, um Renditen für längere Zeiträume zu erzielen","Sie können über ein Portfolio von Vermögenswerten addiert werden, um Portfoliorenditen zu erzielen",Sie sind normalerweise fettschwänzig,C
+"Welche der folgenden Merkmale von Zeitreihen der Renditen von Finanzanlagen könnten mit einem Standard-GARCH(1,1)-Modell erfasst werden?
+
+i) Dicke Enden in der Renditeverteilung
+
+ii) Hebeleffekte
+
+iii) Volatilitätsclustering
+
+iv) Volatilität, die die Renditen beeinflusst",(ii) und (iv) nur,(i) und (iii) nur,"(i), (ii) und (iii) nur","(i), (ii), (iii) und (iv)",B
+"Betrachten Sie die Schätzung eines GARCH-M-Modells. Wenn die verwendeten Daten eine Zeitreihe täglicher prozentualer Renditen von Unternehmensanleihen wären, welchen der folgenden Werte würden Sie für die Schätzung des GARCH-in-Mean-Parameters erwarten?",Weniger als -1,Zwischen -1 und 0,Zwischen 0 und 1,Größer als 1,C
+"In welchen der folgenden Situationen wäre Bootstrapping gegenüber reiner Simulation zu bevorzugen?
+
+i) Wenn gewünscht wird, dass die Verteilungseigenschaften der Daten im Experiment
+dieselben sind wie die der tatsächlichen Daten
+
+ii) Wenn gewünscht wird, dass die Verteilungseigenschaften der Daten im Experiment
+genau bekannt sind
+
+iii) Wenn die Verteilungseigenschaften der tatsächlichen Daten unbekannt sind
+
+iv) Wenn die verfügbare Stichprobe der tatsächlichen Daten sehr klein ist",(ii) und (iv) nur,nur (i) und (iii),"(i), (ii) und (iv) nur","(i), (ii), (iii) und (iv)",B
+"Welche der folgenden können Konsequenzen sein, wenn eine oder mehrere der CLRM-Annahmen verletzt werden?
+
+i) Die Koeffizientenschätzungen sind nicht optimal
+
+ii) Die Standardfehlerschätzungen sind nicht optimal
+
+iii) Die für die Teststatistiken angenommenen Verteilungen sind unangemessen
+
+iv) Schlussfolgerungen bezüglich der Stärke der Beziehungen zwischen der abhängigen und den unabhängigen Variablen können ungültig sein.",(ii) und (iv) nur,(i) und (iii) nur,"(i), (ii) und (iii) nur","(i), (ii), (iii) und (iv)",D
+Welche der folgenden Aussagen ist in Bezug auf Prognosen in der Ökonometrie zutreffend?,Prognosen können nur für Zeitreihendaten erstellt werden,Falsch spezifizierte Modelle werden mit Sicherheit ungenaue Prognosen liefern,Strukturelle Prognosen sind einfacher zu erstellen als solche aus Zeitreihenmodellen,Die Prognosefähigkeit innerhalb der Stichprobe ist ein schlechter Test für die Angemessenheit eines Modells,D
+Die Partielle Autokorrelationsfunktion (PACF) ist notwendig zur Unterscheidung zwischen,Ein AR- und ein MA-Modell,Ein AR- und ein ARMA-Modell,Ein MA- und ein ARMA-Modell,Verschiedene Modelle aus der ARMA-Familie,B
+Welche der folgenden Optionen weist auf eine negative residuale Autokorrelation hin?,Ein zyklisches Muster in den Residuen,Ein alternierendes Muster in den Residuen,Eine vollständige Zufälligkeit in den Residuen,"Residuen, die alle nahe bei Null liegen",B
+"Welche der folgenden Aussagen sind zutreffend in Bezug auf einen Vergleich zwischen ARCH(q) und GARCH(1,1) Modellen?
+
+i) Das ARCH(q) Modell ist wahrscheinlich das sparsamere
+
+ii) Das ARCH(q) Modell verletzt eher die Nichtnegativitätsbedingungen
+
+iii) Das ARCH(q) Modell kann eine unendliche Anzahl vorheriger Lags quadrierter Renditen zulassen, die die aktuelle bedingte Varianz beeinflussen
+
+iv) Das GARCH(1,1) Modell wird in der Regel ausreichen, um alle Abhängigkeiten in der bedingten Varianz zu erfassen",(ii) und (iv) nur,nur (i) und (iii),"(i), (ii) und (iii) nur","(i), (ii), (iii) und (iv)",A
+"Welche der folgenden Aussagen sind in Bezug auf ein triangulares oder rekursives System zutreffend?
+
+i) Die Parameter können durch separate Anwendungen von OLS auf jede Gleichung gültig geschätzt werden
+
+ii) Die unabhängigen Variablen können mit den Fehlertermen in anderen Gleichungen korreliert sein
+
+iii) Eine Anwendung von 2SLS würde zu unverzerrten, aber ineffizienten Parameterschätzungen führen
+
+iv) Die unabhängigen Variablen können mit den Fehlertermen in den Gleichungen korreliert sein, in denen sie als unabhängige Variablen auftreten",(ii) und (iv) nur,nur (i) und (iii),"(i), (ii) und (iii) nur","(i), (ii), (iii) und (iv)",C
+Welche der folgenden Aussagen beschreibt die algebraische Darstellung der angepassten Regressionslinie am besten?,\hat{y}_t = \hat{\alpha} + \hat{\beta}x_t + \hat{u}_t,\hat{y}_t = \hat{\alpha} + \hat{\beta}x_t,\hat{y}_t = \hat{\alpha} + \hat{\beta}x_t + u_t,y_t = \hat{\alpha} + \hat{\beta}x_t + \hat{u}_t,B
+Was sind die Dimensionen von $\hat{u}^t \hat{u}?,T x k,T x 1,k x 1,1 x 1,D
+"Die charakteristischen Wurzeln des MA-Prozesses
+
+$y_t = -3u_{t-1} + u_{t-2} + u_t$
+
+sind",1 und 2,"1 und 0,5","2 und -0,5",1 und -3,B
+"Welche der folgenden Ausdrücke ist eine äquivalente Formulierung dafür, dass die erklärende Variable ""nicht-stochastisch"" ist?",Die erklärende Variable ist teilweise zufällig,Die erklärende Variable ist in wiederholten Stichproben konstant.,Die erklärende Variable ist mit den Fehlern korreliert,Die erklärende Variable hat immer einen Wert von eins,B
+"Angenommen, der Durbin-Watson-Test wird auf eine Regression angewendet, die zwei erklärende Variablen plus eine Konstante mit 50 Datenpunkten enthält. Die Teststatistik nimmt einen Wert von 1,53 an. Was ist die angemessene Schlussfolgerung?",Die Residuen scheinen positiv autokorreliert zu sein,Die Residuen scheinen negativ autokorreliert zu sein,Die Residuen scheinen nicht autokorreliert zu sein,Das Testergebnis ist nicht eindeutig,D
+"Wenn OLS bei Vorliegen von Autokorrelation verwendet wird, welche der folgenden Konsequenzen sind wahrscheinlich?
+
+i) Koeffizientenschätzungen könnten irreführend sein
+
+ii) Hypothesentests könnten zu falschen Schlussfolgerungen führen
+
+iii) Prognosen aus dem Modell könnten verzerrt sein
+
+iv) Standardfehler könnten unangemessen sein",(ii) und (iv) nur,nur (i) und (iii),"(i), (ii) und (iii) nur","(i), (ii), (iii) und (iv)",A
+Wie werden die Eigenschaften des OLS-Schätzers bei Vorliegen von Multikollinearität sein?,"Es wird konsistent, unvoreingenommen und effizient sein","Es wird konsistent und unvoreingenommen sein, aber nicht effizient","Es wird konsistent sein, aber nicht unvoreingenommen",Es wird nicht konsistent sein,A
+Welche der folgenden Optionen wäre KEINE Konsequenz der Verwendung von nicht-stationären Daten in Niveauform?,Die Regression $R^2$ kann irreführend hoch sein,Teststatistiken folgen möglicherweise nicht den Standardverteilungen,Statistische Schlussfolgerungen können ungültig sein,Parameterschätzungen können verzerrt sein,D
+"Wenn eine Reihe y einem Zufallspfad folgt, was ist die optimale Prognose für y einen Schritt voraus?",Der aktuelle Wert von y,Null,Eins,Der durchschnittliche Wert von y über den Stichprobenzeitraum,A
+Die Bestellbedingung ist,Eine notwendige und hinreichende Bedingung für Identifikation,"Eine notwendige, aber nicht hinreichende Bedingung für die Identifikation","Eine hinreichende, aber nicht notwendige Bedingung für die Identifikation","Ein Zustand, der weder notwendig noch hinreichend für die Identifikation ist",B
+"Wenn von einem Schätzer gesagt wird, dass er eine minimale Varianz hat, welche der folgenden Aussagen ist NICHT impliziert?","Die Wahrscheinlichkeit, dass die Schätzung weit von ihrem wahren Wert entfernt ist, wird minimiert.",Der Schätzer ist effizient,"Ein solcher Schätzer würde als ""bester"" bezeichnet werden",Ein solcher Schätzer wird immer unverzerrt sein,D
+"Welche der folgenden sind Nachteile des Dickey-Fuller / Engle-Granger-Ansatzes zum Testen auf Kointegration und zur Modellierung von kointegrierenden Beziehungen?
+
+i) Es kann nur eine kointegrierende Beziehung geschätzt werden
+
+ii) Insbesondere bei kleinen Stichproben besteht eine hohe Wahrscheinlichkeit, dass die Tests darauf hindeuten, dass Variablen nicht kointegriert sind, wenn sie es tatsächlich sind
+
+iii) Es ist nicht möglich, Rückschlüsse auf die kointegrierende Regression zu ziehen
+
+iv) Das Verfahren zwingt den Forscher dazu, festzulegen, welche die abhängige Variable und welche die unabhängigen Variablen sind.",(ii) und (iv) nur,(i) und (iii) nur,"(i), (ii) und (iii) nur","(i), (ii), (iii) und (iv)",D
+Welche der folgenden Aussagen ist zutreffend in Bezug auf die Populationsregressionsfunktion (PRF) und die Stichprobenregressionsfunktion (SRF)?,Die PRF ist das geschätzte Modell,"Die PRF wird verwendet, um wahrscheinliche Werte der SRF abzuleiten","Ob das Modell gut ist, kann durch den Vergleich von SRF und PRF bestimmt werden","Die PRF ist eine Beschreibung des Prozesses, von dem angenommen wird, dass er die Daten generiert.",D
+"Welche der folgenden Optionen ist ein Nachteil des allgemeinen zum spezifischen oder ""LSE"" (""Hendry"") Ansatzes beim Aufbau ökonometrischer Modelle im Vergleich zum spezifischen zum allgemeinen Ansatz?","Einige Variablen können in der ersten Phase ausgeschlossen werden, was zu Koeffizientenverzerrungen führt",Das endgültige Modell könnte theoretische Interpretation vermissen lassen,Das endgültige Modell könnte statistisch unzureichend sein,"Wenn das anfängliche Modell falsch spezifiziert ist, werden alle nachfolgenden Schritte ungültig sein.",B
+"Welche der folgenden Aussagen sind in Bezug auf die Maximum-Likelihood-Schätzung (ML) im Kontext von GARCH-Modellen zutreffend?
+
+i) Die Maximum-Likelihood-Schätzung wählt die Parameterwerte aus, die die Wahrscheinlichkeit maximieren, dass wir tatsächlich die Werte der Reihe y beobachtet hätten, die wir tatsächlich beobachtet haben.
+
+ii) GARCH-Modelle können nur durch ML und nicht durch OLS geschätzt werden.
+
+iii) Bei der Schätzung eines Standard-Linearmodells (ohne GARCH) sind die OLS- und ML-Schätzungen für die Steigung und die Achsenabschnittsparameter identisch, aber der Schätzer für die Varianz der Störungen ist leicht unterschiedlich.
+
+iv) Die meisten Computerprogramme verwenden numerische Verfahren zur Schätzung von GARCH-Modellen anstelle einer Reihe von analytischen Formeln.",(ii) und (iv) nur,nur (i) und (iii),"(i), (ii) und (iii) nur","(i), (ii), (iii) und (iv)",D
+Das Einbeziehen relevanter verzögerter Werte der abhängigen Variable auf der rechten Seite einer Regressionsgleichung könnte zu welchem der folgenden Ergebnisse führen?,"Verzerrte, aber konsistente Koeffizientenschätzungen",Verzerrte und inkonsistente Koeffizientenschätzungen,"Unverzerrte, aber inkonsistente Koeffizientenschätzungen","Unverzerrte und konsistente, aber ineffiziente Koeffizientenschätzungen.",A
+Welcher der folgenden Faktoren führt wahrscheinlich zu einem relativ hohen Grad an Out-of-Sample-Prognosegenauigkeit?,"Ein Modell, das auf Finanztheorie basiert","Ein Modell, das viele Variablen enthält","Ein Modell, dessen abhängige Variable kürzlich eine strukturelle Veränderung aufgewiesen hat","Ein Modell, das vollständig statistischer Natur ist und keinen Raum für subjektive Modifikationen von Prognosen lässt",A
+"Welche der folgenden sind plausible Ansätze zum Umgang mit residualer Autokorrelation?
+
+i) Logarithmen jeder der Variablen nehmen
+
+ii) Verzögerte Werte der Variablen zur Regressionsgleichung hinzufügen
+
+iii) Dummy-Variablen verwenden, um Ausreißer-Beobachtungen zu entfernen
+
+iv) Ein Modell in erster Differenzenform anstelle von Niveaus versuchen.",(ii) und (iv) nur,nur (i) und (iii),"(i), (ii) und (iii) nur","(i), (ii), (iii) und (iv)",A
+Damit ein autoregressiver Prozess als stationär betrachtet werden kann,Die Wurzeln der charakteristischen Gleichung müssen alle innerhalb des Einheitskreises liegen.,Die Wurzeln der charakteristischen Gleichung müssen alle auf dem Einheitskreis liegen,Die Wurzeln der charakteristischen Gleichung müssen alle außerhalb des Einheitskreises liegen,Die Wurzeln der charakteristischen Gleichung müssen alle dem Betrag nach kleiner als eins sein.,C
+"Welche der folgenden Aussagen sind in Bezug auf Informationskriterien zutreffend?
+
+(i) Das korrigierte R-Quadrat ist ein Informationskriterium
+
+(ii) Wenn die Residuenquadratsumme sinkt, wenn ein zusätzlicher Term hinzugefügt wird, sinkt der Wert des Informationskriteriums
+
+(iii) Akaikes Informationskriterium führt immer zu Modellordnungen, die mindestens so groß sind wie die des Schwarz'schen Informationskriteriums
+
+(iv) Akaikes Informationskriterium ist konsistent",(ii) und (iv) nur,(i) und (iii) nur,"(i), (ii) und (iii) nur","(i), (ii), (iii) und (iv)",B
+"Die ""Within-Transformation"" beinhaltet",Durchschnittswerte der Variablen berechnen,Den Mittelwert jeder Entität von jeder Beobachtung dieser Entität abziehen,Schätzung eines Paneldatenmodells mit Hilfe von Dummy-Variablen der kleinsten Quadrate,Verwendung von sowohl Zeit-Dummies als auch Querschnitts-Dummies in einem Fixed-Effects-Panelmodell,B
+"Der Zweck der ""Erweiterung"" der Dickey-Fuller-Testregressionsgleichung ist es,","Stellen Sie sicher, dass keine Heteroskedastizität in den Residuen der Testregression vorliegt.","Stellen Sie sicher, dass die Regressionsresiduen des Tests normalverteilt sind","Stellen Sie sicher, dass in den Residuen der Testregression keine Autokorrelation vorliegt","Stellen Sie sicher, dass die gesamte Nichtstationarität berücksichtigt wird.",C
+"Wenn eine Reihe y einem Random Walk mit Drift b folgt, was ist die optimale Einschritt-Prognose für die Änderung von y?",Der aktuelle Wert von y,Null,Eins,Der durchschnittliche Wert der Änderung von y über den Stichprobenzeitraum,D
+"Welche der folgenden sind plausible Ansätze zum Umgang mit einem Modell, das Heteroskedastizität aufweist?
+
+i) Logarithmen jeder der Variablen nehmen
+
+ii) Geeignet modifizierte Standardfehler verwenden
+
+iii) Ein verallgemeinertes Kleinstquadrate-Verfahren anwenden
+
+iv) Verzögerte Werte der Variablen zur Regressionsgleichung hinzufügen.",(ii) und (iv) nur,nur (i) und (iii),"(i), (ii) und (iii) nur","(i), (ii), (iii) und (iv)",C
+"Welche der folgenden Aussagen sind zutreffend in Bezug auf die standardisierten Residuen (Residuen geteilt durch ihre jeweiligen bedingten Standardabweichungen) aus einem geschätzten GARCH-Modell?
+
+i) Es wird angenommen, dass sie normalverteilt sind
+
+ii) Ihre Quadrate werden mit ihren verzögerten quadrierten Werten in Beziehung stehen, wenn das GARCH-Modell angemessen ist
+
+iii) In der Praxis werden sie wahrscheinlich dicke Enden (fat tails) aufweisen
+
+iv) Wenn das GARCH-Modell angemessen ist, werden die standardisierten Residuen und die Rohresiduen identisch sein",(ii) und (iv) nur,nur (i) und (iii),"(i), (ii) und (iii) nur","(i), (ii), (iii) und (iv)",B
+Welche der folgenden Aussagen ist in Bezug auf VARs zutreffend?,Die Koeffizientenschätzungen haben intuitive theoretische Interpretationen,Die Koeffizientenschätzungen haben in der Regel das gleiche Vorzeichen für alle Verzögerungen einer bestimmten Variable in einer gegebenen Gleichung.,VARs liefern oft bessere Prognosen als simultane Gleichungsstrukturmodelle,"Alle Komponenten eines VAR müssen stationär sein, bevor es für Prognosen verwendet werden kann.",C
+Welche der folgenden Aussagen ist FALSCH in Bezug auf den klassischen Hypothesentest-Rahmen?,"Wenn die Nullhypothese abgelehnt wird, wird die Alternative akzeptiert.","Die Nullhypothese ist die Aussage, die getestet wird, während die Alternative die verbleibenden interessierenden Ergebnisse umfasst.",Der Signifikanztest und die Konfidenzintervall-Ansätze werden immer zu den gleichen Schlussfolgerungen führen.,"Hypothesentests werden verwendet, um Rückschlüsse auf die Populationsparameter zu ziehen.",A
+"Ein ARMA(p,q) (p, q sind ganze Zahlen größer als Null) Modell wird haben","Eine ACF und PACF, die beide geometrisch abnehmen","Eine AKF, die geometrisch abnimmt, und eine PAKF, die nach p Verzögerungen null ist","Eine AKF, die geometrisch abnimmt, und eine PAKF, die nach q Lags null ist","Eine ACF, die nach p Lags null ist, und eine PACF, die nach q Lags null ist",A
+"Angenommen, die folgende Regression wird mit 27 vierteljährlichen Beobachtungen geschätzt:
+
+$y_t = \beta_1 + \beta_2 x_2 + \beta_3 x_{3t} + u_t$
+
+Was ist der angemessene kritische Wert für einen zweiseitigen Test mit 5% Signifikanzniveau für $H_0: \beta_3 = 1$?","1,64","1,71","2,06","1,96",C
+"Angenommen, zwei Forscher schätzen ein VAR unter Verwendung derselben 3 Variablen und derselben 250 Beobachtungen für jede Variable. Einer schätzt ein VAR(6), während der andere ein VAR(4) schätzt. Die Determinanten der Varianz-Kovarianz-Matrizen der Residuen für jedes VAR betragen jeweils 0,0036 und 0,0049. Wie lautet der Wert der Teststatistik für die Durchführung eines Tests, ob das VAR(6) auf ein VAR(4) beschränkt werden kann?","77,07","0,31","0,33","4,87",A
+Welche der folgenden Optionen ist ein NACHTEIL der Verwendung reiner Zeitreihenmodelle (im Vergleich zu strukturellen Modellen)?,Sie sind nicht theoretisch motiviert,Sie können nicht einfach Prognosen erstellen,Sie können nicht für Daten mit sehr hoher Frequenz verwendet werden,"Es ist schwierig, die geeigneten erklärenden Variablen für die Verwendung in reinen Zeitreihenmodellen zu bestimmen.",A
+"Welche der folgenden sind alternative Bezeichnungen für die abhängige Variable (üblicherweise mit y bezeichnet) in der linearen Regressionsanalyse?
+
+(i) Der Regressand
+
+(ii) Der Regressor
+
+(iii) Die erklärte Variable
+
+(iv) Die erklärende Variable",(ii) und (iv) nur,nur (i) und (iii),"(i), (ii) und (iii) nur","(i), (ii), (iii) und (iv)",B
+"Welche der folgenden sind Vorteile des VAR-Ansatzes zur Modellierung der Beziehung zwischen Variablen im Vergleich zur Schätzung vollständiger struktureller Modelle?
+
+i) VARs erhalten starke Motivation aus der Finanz- und Wirtschaftstheorie
+
+ii) VARs in ihrer reduzierten Form können leicht zur Erstellung von Zeitreihenprognosen verwendet werden
+
+iii) VAR-Modelle sind typischerweise sehr sparsam
+
+iv) OLS kann separat auf jede Gleichung in einem reduzierten VAR angewendet werden",(ii) und (iv) nur,nur (i) und (iii),"(i), (ii) und (iii) nur","(i), (ii), (iii) und (iv)",A
+Welche der folgenden Aussagen ist WAHR in Bezug auf das Standard-Regressionsmodell?,y hat eine Wahrscheinlichkeitsverteilung,x hat eine Wahrscheinlichkeitsverteilung,Der Störterm wird als mit x korreliert angenommen,Für ein angemessenes Modell wird das Residuum (u-hat) für alle Stichprobendatenpunkte null sein.,A
+"Betrachten Sie das folgende Modell für $y_t$:
+
+$y_t = \mu + \lambda t + u_t$
+
+Welche der folgenden Aussagen beschreibt den Prozess für $y_t$ am genauesten?",Ein Einheitswurzelprozess,Ein stationärer Prozess,Ein deterministischer Trendprozess,Ein Random Walk mit Drift,C
+Welche der folgenden Aussagen ist in Bezug auf Logit- und Probit-Modelle korrekt?,"Sie verwenden eine andere Methode zur Transformation des Modells, sodass die Wahrscheinlichkeiten zwischen null und eins liegen","Das Logit-Modell kann dazu führen, dass zu viele Beobachtungen genau bei null oder genau bei eins liegen.","Für das Logit-Modell ist der marginale Effekt einer Änderung einer der erklärenden Variablen einfach die Schätzung des Parameters, der dieser Variable zugeordnet ist, während dies beim Probit-Modell nicht der Fall ist.",Das Probit-Modell basiert auf einer kumulativen logistischen Funktion,A
+"Was ist der wichtigste Nachteil des diagonalen VECH-Ansatzes beim Aufbau multivariater GARCH-Modelle, der durch die BEKK-Formulierung überwunden wird?",Das diagonale VECH-Modell ist intuitiv schwer zu interpretieren.,Das diagonale VECH-Modell enthält zu viele Parameter,Das diagonale VECH-Modell gewährleistet keine positiv definite Varianz-Kovarianz-Matrix,"Das BEKK-Modell reduziert das Dimensionalitätsproblem, das entsteht, wenn mehrere Reihen zusammen modelliert werden.",C
+"Wenn eine relevante Variable aus einer Regressionsgleichung weggelassen wird, wären die Folgen:
+
+i) Die Standardfehler wären verzerrt
+
+
+ii) Wenn die ausgeschlossene Variable mit allen einbezogenen Variablen unkorreliert ist, werden alle Steigungskoeffizienten inkonsistent sein.
+
+
+iii) Wenn die ausgeschlossene Variable mit allen einbezogenen Variablen unkorreliert ist, wird der Achsenabschnittskoeffizient inkonsistent sein.
+
+
+iv) Wenn die ausgeschlossene Variable mit allen einbezogenen Variablen unkorreliert ist, werden alle Steigungs- und Achsenabschnittskoeffizienten konsistent und unverzerrt, aber ineffizient sein.",(ii) und (iv) nur,(i) und (iii) nur,"(i), (ii) und (iii) nur","(i), (ii), (iii) und (iv)",C
+"Welche der folgenden sind alternative Bezeichnungen für die unabhängige Variable (üblicherweise mit x bezeichnet) in der linearen Regressionsanalyse?
+
+(i) Der Regressor
+
+(ii) Der Regressand
+
+(iii) Die Kausalvariable
+
+(iv) Die Effektvariable",(ii) und (iv) nur,(i) und (iii) nur,"(i), (ii) und (iii) nur","(i), (ii), (iii) und (iv)",B
+"Betrachten Sie den OLS-Schätzer für den Standardfehler des Steigungskoeffizienten. Welche der folgenden Aussage(n) ist (sind) wahr?
+
+(i) Der Standardfehler wird positiv mit der Residualvarianz zusammenhängen
+
+(ii) Der Standardfehler wird negativ mit der Streuung der Beobachtungen der erklärenden Variable um ihren Mittelwert zusammenhängen
+
+(iii) Der Standardfehler wird negativ mit der Stichprobengröße zusammenhängen
+
+(iv) Der Standardfehler gibt ein Maß für die Präzision der Koeffizientenschätzung an.",(ii) und (iv) nur,nur (i) und (iii),"(i), (ii) und (iii) nur","(i), (ii), (iii) und (iv)",D
+"Was bedeutet der Begriff ""Heteroskedastizität""?",Die Varianz der Fehler ist nicht konstant,Die Varianz der abhängigen Variable ist nicht konstant,Die Fehler sind nicht linear unabhängig voneinander,Die Fehler haben einen von Null abweichenden Mittelwert,A
+"Wenn eine Durbin-Watson-Statistik einen Wert nahe Null annimmt, wie hoch wird dann der Autokorrelationskoeffizient erster Ordnung sein?",Nahe bei null,Nahe bei plus eins,Nahe bei minus eins,Nahe bei entweder minus eins oder plus eins,C
+Unter der Nullhypothese eines Bera-Jarque-Tests hat die Verteilung,Keine Schiefe und keine Kurtosis,Keine Schiefe und eine Kurtosis von drei,Schiefe von eins und Kurtosis von null,Schiefe von eins und Wölbung von drei.,B
+"Wenn von einem Schätzer gesagt wird, er sei konsistent, bedeutet dies implizit, dass",Im Durchschnitt werden die geschätzten Koeffizientenwerte den wahren Werten entsprechen,Der OLS-Schätzer ist erwartungstreu und kein anderer erwartungstreuer Schätzer hat eine geringere Varianz.,"Die Schätzungen werden sich den wahren Werten annähern, wenn die Stichprobengröße zunimmt.",Die Koeffizientenschätzungen werden sowohl für kleine als auch für große Stichproben so nah wie möglich an ihren wahren Werten liegen.,C
+Welche der folgenden ist eine typische Eigenschaft von Zeitreihen der Renditen von Finanzanlagen?,Ihre Verteilungen haben dünne Enden,Sie sind nicht schwach stationär,Sie sind hochgradig autokorreliert,Sie haben keinen Trend,D
+"Welche der folgenden Annahmen sind erforderlich, um die Konsistenz, Unverzerrtheit und Effizienz des OLS-Schätzers zu zeigen?
+
+i) $E(u_t) = 0$
+
+
+ii) $\text{Var}(u_t) = \sigma^2$
+
+
+iii) $\text{Cov}(u_t, u_{t-j}) = 0 \forall j$
+
+
+iv) $u_t \sim N(0, \sigma^2)$",(ii) und (iv) nur,(i) und (iii) nur,"(i), (ii) und (iii) nur","(i), (ii), (iii) und (iv)",C
+Welche der folgenden Optionen ist ein Nachteil des Fixed-Effects-Ansatzes zur Schätzung eines Panelmodells?,Das Modell wird wahrscheinlich technisch schwierig zu schätzen sein,"Der Ansatz ist möglicherweise nicht gültig, wenn der zusammengesetzte Fehlerterm mit einer oder mehreren der erklärenden Variablen korreliert ist.","Die Anzahl der zu schätzenden Parameter kann groß sein, was zu einem Verlust an Freiheitsgraden führt",Der Ansatz mit festen Effekten kann nur die Heterogenität im Querschnitt erfassen und nicht die zeitliche Variation in der abhängigen Variable.,C
+"Betrachten Sie eine identische Situation wie in Frage 21, mit dem Unterschied, dass jetzt eine zweiseitige Alternative verwendet wird. Was wäre nun die angemessene Schlussfolgerung?",H0 wird abgelehnt,H0 wird nicht abgelehnt,H1 wird abgelehnt,"Es gibt in der Frage nicht genügend Informationen, um zu einer Schlussfolgerung zu gelangen.",A
+Der Preis eines Hauses lässt sich am besten als welche Art von Zahl beschreiben?,Diskret,Kardinal,Ordinal,Nominal,B
+"Wenn ein Johansen-""Trace""-Test für eine Nullhypothese von 2 kointegrierenden Vektoren auf ein System mit 4 Variablen angewendet wird, welche Eigenwerte würden in dem Test verwendet werden?",Alle von ihnen,Die größte 2,Der kleinste 2,Der zweitgrößte,C
+"Welche der folgenden Aussagen ist in Bezug auf die Varianzzerlegungsanalyse von VARs zutreffend?
+
+i) Varianzzerlegungen messen die Auswirkung eines Einheitsschocks auf jede der Variablen im VAR
+
+ii) Varianzzerlegungen können als Messung des Anteils der Prognosefehler-Varianz betrachtet werden, der jeder Variable zuzuschreiben ist
+
+iii) Die Reihenfolge der Variablen ist wichtig für die Berechnung von Impulsantworten, aber nicht für Varianzzerlegungen
+
+iv) Es ist üblich, dass der größte Teil der Prognosefehler-Varianz für eine bestimmte Variable auf Schocks dieser Variable zurückzuführen ist",(ii) und (iv) nur,(i) und (iii) nur,"(i), (ii) und (iii) nur","(i), (ii), (iii) und (iv)",A
+"Angenommen, wir haben ein GARCH-Modell für tägliche Aktienrenditen geschätzt und sind daran interessiert, eine 10-Tage-Prognose der Volatilität (gemessen an der Standardabweichung der Renditen) für die Verwendung in einem Value-at-Risk-Modell zu erstellen. Wie könnte eine solche Prognose am validesten berechnet werden?","Erstellen Sie bedingte Varianzprognosen für 1, 2, 3, ..., 10 Schritte voraus und addieren Sie diese.","Erstellen Sie bedingte Varianzprognosen für 1, 2, 3, ..., 10 Schritte voraus, addieren Sie diese und ziehen Sie die Quadratwurzel","Erstellen Sie bedingte Varianzprognosen für 1, 2, 3, ..., 10 Schritte voraus, ziehen Sie die Quadratwurzel aus jeder einzelnen und addieren Sie diese.","Erstellen Sie eine bedingte Varianzprognose für einen Schritt voraus, ziehen Sie die Quadratwurzel daraus und multiplizieren Sie sie mit der Quadratwurzel aus 10",B
+"Angenommen, der Wert von $R^2$ für ein geschätztes Regressionsmodell ist genau null. Welche der folgenden Aussagen sind wahr?
+
+i) Alle Koeffizientenschätzungen für die Steigungen werden null sein
+
+ii) Die angepasste Linie wird in Bezug auf alle erklärenden Variablen horizontal sein
+
+iii) Die Regressionslinie hat keine der Variabilität von y um seinen Mittelwert erklärt
+
+iv) Die Schätzung des Achsenabschnittskoeffizienten muss null sein.",(ii) und (iv) nur,(i) und (iii) nur,"(i), (ii) und (iii) nur","(i), (ii), (iii) und (iv)",C
+"Ein weißer Rauschprozess wird haben
+
+(i) Einen Mittelwert von Null
+
+(ii) Eine konstante Varianz
+
+(iii) Autokovarianzen, die konstant sind
+
+(iv) Autokovarianzen, die Null sind, außer bei Verzögerung Null",(ii) und (iv) nur,(i) und (iii) nur,"(i), (ii) und (iii) nur","(i), (ii), (iii) und (iv)",A
+"Welche der folgenden Aussagen sind zutreffend in Bezug auf den Box-Jenkins-Ansatz zur diagnostischen Prüfung von ARMA-Modellen?
+
+(i) Die Tests zeigen, ob das identifizierte Modell entweder zu groß oder zu klein ist
+
+(ii) Die Tests beinhalten die Überprüfung der Modellresiduen auf Autokorrelation, Heteroskedastizität und Nicht-Normalität
+
+(iii) Wenn das in der Identifikationsphase vorgeschlagene Modell angemessen ist, sollten die ACF und PACF der Residuen keine zusätzliche Struktur aufweisen
+
+(iv) Wenn das in der Identifikationsphase vorgeschlagene Modell angemessen ist, werden die Koeffizienten der zusätzlichen Variablen beim Overfitting-Ansatz statistisch insignifikant sein",(ii) und (iv) nur,(i) und (iii) nur,"(i), (ii) und (iii) nur","(i), (ii), (iii) und (iv)",A
+Welche der folgenden Optionen wäre eine plausible Reaktion auf einen Befund von residualer Nicht-Normalität?,Verwenden Sie eine logarithmische Funktionsform anstelle einer linearen,Fügen Sie Verzögerungen der Variablen auf der rechten Seite des Regressionsmodells hinzu,Schätzen Sie das Modell in erster Differenzform,Entfernen Sie alle großen Ausreißer aus den Daten.,D
+Das Modell mit festen Effekten für Paneldaten wird auch manchmal bezeichnet als,Ein scheinbar unzusammenhängendes Regressionsmodell,Der Ansatz der kleinsten Quadrate mit Dummy-Variablen,Das Modell mit zufälligen Effekten,Heteroskedastizität und Autokorrelation konsistent,B
+Welche der folgenden Aussagen ist WAHR in Bezug auf die OLS-Schätzung?,OLS minimiert die Summe der vertikalen Abstände von den Punkten zur Linie,OLS minimiert die Summe der Quadrate der vertikalen Abstände von den Punkten zur Linie,OLS minimiert die Summe der horizontalen Abstände von den Punkten zur Linie,OLS minimiert die Summe der Quadrate der horizontalen Abstände von den Punkten zur Linie.,B
+"Wenn die Standardwerkzeuge für die Zeitreihenanalyse, wie die Schätzung der ACF, PACF und Spektralanalyse, keine Hinweise auf eine Struktur in den Daten finden, bedeutet dies, dass die Daten welche der folgenden Eigenschaften aufweisen?",Normalverteilt,Unkorreliert,Unabhängig,Dickgeschwänzt,B
+"Wenn zwei Variablen, $x_t$ und $y_t$, als kointegriert bezeichnet werden, welche der folgenden Aussagen sind dann wahr?
+
+i) $x_t$ und $y_t$ müssen beide stationär sein
+
+
+ii) Nur eine lineare Kombination von $x_t$ und $y_t$ wird stationär sein
+
+
+iii) Die Kointegrationsgleichung für $x_t$ und $y_t$ beschreibt die kurzfristige Beziehung
+
+zwischen den beiden Reihen
+
+
+iv) Die Residuen einer Regression von $y_t$ auf $x_t$ müssen stationär sein",(ii) und (iv) nur,(i) und (iii) nur,"(i), (ii) und (iii) nur","(i), (ii), (iii) und (iv)",A
+"Eine abhängige Variable, deren Werte außerhalb eines bestimmten Bereichs nicht beobachtbar sind, bei der aber die entsprechenden Werte der unabhängigen Variablen noch verfügbar sind, würde am genauesten als welche Art von Variable beschrieben werden?",Zensiert,Abgeschnitten,Multinomiale Variable,Diskrete Wahl,A
+Ein Hausman-Test würde verwendet werden für,"Bestimmung, ob eine Gleichung, die Teil eines simultanen Systems ist, identifiziert ist","Bestimmung, ob ein simultanes Framework für eine bestimmte Variable erforderlich ist","Bestimmung, ob 2SLS oder ILS optimal ist","Bestimmung, ob die strukturellen Formgleichungen durch Substitution aus den reduzierten Formen abgeleitet werden können",B
+"Unter der Matrixnotation für das klassische lineare Regressionsmodell, $y = X \beta + u$, was sind die Dimensionen von $u$?",T x k,T x 1,k x 1,1 x 1,B
+"Wie viele Parameter müssen insgesamt für alle Gleichungen eines Standard-Form, unbeschränkten, trivariaten VAR(4) geschätzt werden, ohne Berücksichtigung der Konstanten?",12,4,3,36,D
+"Ein Forscher testet die strukturelle Stabilität im folgenden Regressionsmodell:
+
+$y_t = \beta_1 + \beta_2 x_{2t} + \beta_3 x_{3t} + u_t$
+
+Die Gesamtstichprobe von 200 Beobachtungen wird für die Teilstichproben-Regressionen genau in der Mitte geteilt. Was wäre die uneingeschränkte Residuenquadratsumme?",Der RSS für die gesamte Stichprobe,Der RSS für die erste Teilstichprobe,Der RSS für die zweite Teilstichprobe,Die Summe der Quadratsummen der Residuen (RSS) für die erste und zweite Teilstichprobe,D
+"Angenommen, wir sind daran interessiert, die Nullhypothese zu testen, dass ein GARCH(2,2)-Modell auf einen Prozess mit konstanter bedingter Varianz beschränkt werden kann, indem wir den Likelihood-Ratio-Test-Ansatz verwenden. Welche der folgenden Aussagen sind wahr?",Die Teststatistik folgt unter der Nullhypothese einer Chi-Quadrat-Verteilung mit 2 Freiheitsgraden.,Der Wert der Log-Likelihood-Funktion wird fast immer für das eingeschränkte Modell größer sein als für das uneingeschränkte Modell.,"Wenn die relevanten Werte der Log-Likelihood-Funktionen -112,3 und -118,4 sind, beträgt der Wert der Teststatistik 12,2",Der Likelihood-Quotienten-Test vergleicht die Steigungen der Log-Likelihood-Funktion am Maximum und am eingeschränkten Parameterwert.,C
+Welche der folgenden Optionen ist KEINE plausible Lösung für Nahe-Multikollinearität?,Verwenden Sie die Hauptkomponentenanalyse,Lassen Sie eine der kollinearen Variablen fallen,Verwenden Sie einen längeren Datensatz,Nehmen Sie Logarithmen von jeder der Variablen,D
+"Betrachten Sie den folgenden AR(2)-Prozess:
+
+yt = 1.5 yt-1 - 0.5 yt-2 + ut
+
+Dies ist ein",Stationärer Prozess,Einheitswurzelprozess,Explosiver Prozess,Stationärer und einheitswurzel Prozess,B
+Welche der folgenden Möglichkeiten könnte als Test für Autokorrelation bis zur dritten Ordnung verwendet werden?,Der Durbin-Watson-Test,Whites Test,Der RESET-Test,Der Breusch-Godfrey-Test,D
+Der Residualwert aus einem Standard-Regressionsmodell wird definiert als,"Der Unterschied zwischen dem tatsächlichen Wert, y, und dem Mittelwert, y-quer","Der Unterschied zwischen dem angepassten Wert, y-Dach, und dem Mittelwert, y-Quer","Der Unterschied zwischen dem tatsächlichen Wert, y, und dem angepassten Wert, y-Dach","Das Quadrat der Differenz zwischen dem angepassten Wert, y-Dach, und dem Mittelwert, y-Quer",C
+"Wenn OLS separat auf jede Gleichung angewendet wird, die Teil eines simultanen Systems ist, werden die resultierenden Schätzungen",Unvoreingenommen und konsequent,"Voreingenommen, aber konsequent",Voreingenommen und inkonsistent,"Es ist unmöglich, OLS auf Gleichungen anzuwenden, die Teil eines simultanen Systems sind.",C
+Welches der folgenden Beispiele ist KEINE Fehlspezifikation der funktionalen Form?,"Verwendung einer linearen Spezifikation, wenn y als Funktion der Quadrate von x skaliert","Verwendung einer linearen Spezifikation, wenn ein doppelt-logarithmisches Modell angemessener wäre","Die Modellierung von y als Funktion von x, wenn es tatsächlich als Funktion von 1/x skaliert",Eine relevante Variable aus einem linearen Regressionsmodell ausschließen,D
+"Angenommen, wir wollten die Faktoren bewerten, die die Wahrscheinlichkeit beeinflussen, dass ein Anleger einen Aktienfonds anstelle eines Rentenfonds oder einer Bargeldanlage wählt. Welche Modellklasse wäre am besten geeignet?",Ein Logit-Modell,Ein multinomiales Logit,Ein Tobit-Modell,Ein geordnetes Logit-Modell,B
+"Welche der folgenden Aussagen werden zutreffen, wenn die Anzahl der Replikationen in einer Monte-Carlo-Studie gering ist?
+
+i) Die interessierende Statistik könnte ungenau geschätzt werden
+
+ii) Die Ergebnisse könnten durch nicht repräsentative Kombinationen von Zufallsziehungen beeinflusst werden
+
+iii) Die Standardfehler der geschätzten Größen könnten inakzeptabel groß sein
+
+iv) Varianzreduktionstechniken können verwendet werden, um die Standardfehler zu reduzieren",(ii) und (iv) nur,(i) und (iii) nur,"(i), (ii) und (iv) nur","(i), (ii), (iii) und (iv)",D
+Welche der folgenden Optionen ist ein Nachteil des Random-Effects-Ansatzes zur Schätzung eines Panelmodells?,"Der Ansatz ist möglicherweise nicht gültig, wenn der zusammengesetzte Fehlerterm mit einer oder mehreren der erklärenden Variablen korreliert ist.","Die Anzahl der zu schätzenden Parameter kann groß sein, was zu einem Verlust an Freiheitsgraden führt",Der Ansatz der zufälligen Effekte kann nur die Querschnittsheterogenität erfassen und nicht die zeitliche Variation in der abhängigen Variable.,Alle Punkte von (a) bis (c) sind potenzielle Nachteile des Random-Effects-Ansatzes.,A
+"Welche der folgenden Situationen könnte zu autokorrelierenden Residuen führen?
+
+i) Trägheit der abhängigen Variable bei Änderungen der Werte der unabhängigen Variablen
+
+ii) Überreaktionen der abhängigen Variable auf Änderungen der unabhängigen Variablen
+
+iii) Auslassung relevanter erklärender Variablen, die autokorreliert sind
+
+iv) Ausreißer in den Daten",(ii) und (iv) nur,(i) und (iii) nur,"(i), (ii) und (iii) nur","(i), (ii), (iii) und (iv)",C
+"Welche der folgenden Aussagen sind in Bezug auf die ACF und PACF zutreffend?
+
+(i) Die ACF und PACF sind in der Praxis oft schwer zu interpretieren
+
+(ii) Die ACF und PACF können für einige Datensätze schwierig zu berechnen sein
+
+(iii) Informationskriterien stellen einen alternativen Ansatz zur Bestimmung der Modellordnung dar
+
+(iv) Bei korrekter Anwendung liefern ACF und PACF immer eindeutige Modellauswahlen",(ii) und (iv) nur,(i) und (iii) nur,"(i), (ii) und (iii) nur","(i), (ii), (iii) und (iv)",C
+"Welche der folgenden Bedingungen sind notwendig, damit eine Reihe als schwach stationärer Prozess klassifiziert werden kann?
+
+(i) Sie muss einen konstanten Mittelwert haben
+
+(ii) Sie muss eine konstante Varianz haben
+
+(iii) Sie muss konstante Autokovarianzen für gegebene Verzögerungen haben
+
+(iv) Sie muss eine konstante Wahrscheinlichkeitsverteilung haben",(ii) und (iv) nur,nur (i) und (iii),"(i), (ii) und (iii) nur","(i), (ii), (iii) und (iv)",C
+"Betrachten Sie die folgende Gleichung und bestimmen Sie die Klasse des Modells, die sie am besten repräsentiert
+
+$y_{it} = \alpha + \beta_{it} + \mu_i + \nu_{it}$",Ein Modell mit fixen Effekten für Einheiten,Ein Modell mit fixen Zeiteffekten,Ein Modell mit zufälligen Effekten,Ein reines Zeitreihenmodell,A
+"Beachten Sie, dass statistische Tabellen nicht erforderlich sind, um diese Frage zu beantworten. Für eine Stichprobe von 1000 Beobachtungen lauten die Werte der Dickey-Fuller-Teststatistik",Negativer als (d.h. größer im Absolutwert als) diejenigen im linken Schwanz einer Normalverteilung,Weniger negativ als (d.h. kleiner im Absolutwert als) diejenigen im linken Schwanz einer Normalverteilung,Erhalten aus einer analytischen Formel für die Dichte der Dickey-Fuller-Verteilung,Negativer (d.h. größer im absoluten Wert) für eine Testgröße von 10% als für einen 5%-Test.,A
+"Angenommen, ein Hypothesentest wird mit einem Signifikanzniveau von 5% durchgeführt. Welche der folgenden Aussagen sind korrekt?
+
+(i) Das Signifikanzniveau entspricht der Größe des Tests
+
+(ii) Das Signifikanzniveau entspricht der Teststärke
+
+(iii) 2,5% der Gesamtverteilung befinden sich in jedem Ablehnungsbereich der Randbereiche bei einem zweiseitigen Test
+
+(iv) 5% der Gesamtverteilung befinden sich in jedem Ablehnungsbereich der Randbereiche bei einem zweiseitigen Test.",(ii) und (iv) nur,(i) und (iii) nur,"(i), (ii) und (iii) nur","(i), (ii), (iii) und (iv)",B
+Welche der folgenden Kritikpunkte am Dickey-Fuller/Engle-Granger-Ansatz zur Behandlung kointegrierter Variablen wird durch das Engle-Yoo (EY)-Verfahren überwunden?,"Im Kontext kleiner Stichproben neigen Dickey-Fuller-Tests dazu, zu dem Schluss zu kommen, dass eine Einheitswurzel in einer Zeitreihe vorliegt, wenn dies tatsächlich nicht der Fall ist.","Der Engle-Granger-Ansatz (EG) kann nur bis zu eine kointegrierende Beziehung erkennen, obwohl es mehr als eine geben könnte.",Die Variablen werden in den Kointegrationstest asymmetrisch behandelt,"Es ist nicht möglich, Tests über die kointegrierende Beziehung durchzuführen",D
+"Betrachten Sie eine Reihe, die einem MA(1) mit Mittelwert Null und einem gleitenden Durchschnittskoeffizienten von 0,4 folgt. Was ist der Wert der Autokovarianz bei einer Verzögerung von 1?","0,4",1,"0,34","Es ist nicht möglich, den Wert der Autokovarianzen zu bestimmen, ohne die Störungsvarianz zu kennen.",D
+"Welche der folgenden Schätztechniken stehen für die Schätzung überidentifizierter Systeme simultaner Gleichungen zur Verfügung?
+
+i) OLS
+
+ii) ILS
+
+iii) 2SLS
+
+iv) IV",(iii) nur,(iii) und (iv) nur,"(ii), (iii) und (iv) nur","(i), (ii), (iii) und (iv)",B
+Welche der folgenden Aussagen beschreibt am besten einen Fehler zweiter Art?,"Es ist die Wahrscheinlichkeit, die Nullhypothese fälschlicherweise abzulehnen",Es entspricht der Teststärke,Es entspricht der Größe des Tests,"Es ist die Wahrscheinlichkeit, eine falsche Nullhypothese nicht abzulehnen",D
+Welche der folgenden Optionen wäre am ehesten als ein 95%iges (zweiseitiges) Konfidenzintervall für den Achsenabschnitt des in Frage 21 gegebenen Modells geeignet?,"(-4,79; 2,19)","(-4,16;4,16)","(-1,98; 1,98)","(-5,46; 2,86)",D
+"Welche der folgenden sind Merkmale eines stationären Prozesses?
+
+i) Er kreuzt häufig seinen Mittelwert
+
+ii) Er hat einen konstanten Mittelwert und eine konstante Varianz
+
+iii) Er enthält keine Trendkomponente
+
+iv) Er wird in der ersten Differenzform stationär sein",(ii) und (iv) nur,nur (i) und (iii),"(i), (ii) und (iii) nur","(i), (ii), (iii) und (iv)",D
+"Betrachten Sie erneut das VAR-Modell aus Gleichung 16. Welche der folgenden Bedingungen müssen erfüllt sein, damit man von einer bidirektionalen Rückkopplung sprechen kann?",Die b- und d-Koeffizienten signifikant und die a- und c-Koeffizienten insignifikant,Die a- und c-Koeffizienten signifikant und die b- und d-Koeffizienten insignifikant,Die a- und c-Koeffizienten signifikant,Die b- und d-Koeffizienten signifikant,D
+"Betrachten Sie die folgenden Schätzungen der Autokorrelation, die mit 250 Datenpunkten ermittelt wurden:
+
+1) Verzögerung 1 2 3
+
+2) Koeffizient 0,2 -0,15 -0,1
+
+3) Unter der Annahme, dass die Koeffizienten annähernd normalverteilt sind, welche der Koeffizienten sind auf dem 5%-Niveau statistisch signifikant?",1 nur,Nur 1 und 2,"1, 2 und 3 nur","Es ist nicht möglich, die statistische Signifikanz zu bestimmen, da keine Standardfehler angegeben wurden.",B
+Welches der folgenden wird durch die Betrachtung einer Anpassungsgüte-Statistik untersucht?,Wie gut die Populationsregressionsfunktion zu den Daten passt,Wie gut die Stichproben-Regressionsfunktion zur Populations-Regressionsfunktion passt,Wie gut die Stichproben-Regressionsfunktion zu den Daten passt,Wie gut die Populationsregressionsfunktion zur Stichprobenregressionsfunktion passt.,C
+"Welche der folgenden Aussagen sind korrekt in Bezug auf die Verwendung antithetischer Variaten als Teil eines Monte-Carlo-Experiments?
+
+i) Antithetische Variate funktionieren, indem sie die Anzahl der erforderlichen Wiederholungen reduzieren, um den gesamten Wahrscheinlichkeitsraum abzudecken
+
+ii) Antithetische Variate beinhalten die Verwendung einer ähnlichen Variable wie die in der Simulation verwendete, deren Eigenschaften jedoch analytisch bekannt sind
+
+iii) Antithetische Variate beinhalten die Verwendung des Negativen jeder Zufallsziehung und die Wiederholung des Experiments unter Verwendung dieser Werte als Ziehungen
+
+iv) Antithetische Variate beinhalten die Verwendung des Kehrwerts jeder Zufallsziehung und die Wiederholung des Experiments unter Verwendung dieser Werte als Ziehungen",(ii) und (iv) nur,nur (i) und (iii),"(i), (ii) und (iv) nur","(i), (ii), (iii) und (iv)",B
+Welche der folgenden Aussagen ist in Bezug auf alternative Prognosegütekriterien zutreffend?,Der mittlere quadratische Fehler ist in der Regel stark mit der Rentabilität von Handelsregeln korreliert.,Der mittlere absolute Fehler liefert eine quadratische Verlustfunktion,Der mittlere absolute prozentuale Fehler ist ein nützliches Maß zur Bewertung von Prognosen für Vermögensrenditen,Der mittlere quadratische Fehler bestraft große Prognosefehler unverhältnismäßig stärker als kleine Prognosefehler.,D
+"Welche der folgenden Kritikpunkte an Standard-(""Plain-Vanilla"")-GARCH-Modellen können durch EGARCH-Modelle überwunden werden?
+
+i) Geschätzte Koeffizientenwerte aus GARCH-Modellen können negativ sein
+
+ii) GARCH-Modelle können Hebeleffekte nicht berücksichtigen
+
+iii) Die Reaktionsfähigkeit der zukünftigen Volatilität auf positive und negative Schocks ist bei einer GARCH-Formulierung symmetrisch
+
+iv) GARCH-Modelle können keine Rückkopplung von der Volatilität zu den Renditen zulassen",(ii) und (iv) nur,(i) und (iii) nur,"(i), (ii) und (iii) nur","(i), (ii), (iii) und (iv)",C
+"Angenommen, 100 separate Unternehmen wurden getestet, um festzustellen, wie viele von ihnen ""den Markt schlagen"" unter Verwendung einer Jensen-artigen Regression, und es wird festgestellt, dass 3 Fondsmanager dies signifikant tun. Deutet dies auf einen Prima-facie-Beweis für Ineffizienz des Aktienmarktes hin?",Ja,Nein,"Um diese Frage zu beantworten, müssten Sie jeden Fondsmanager testen, der in diesem Markt handelt","Es gibt in der Frage nicht genügend Informationen, um eine Schlussfolgerung über die Markteffizienz zu ziehen.",B
+"Welche der folgenden sind Vorteile der Verwendung von Paneldaten gegenüber reiner Querschnitts- oder reiner Zeitreihenmodellierung?
+
+(i) Die Verwendung von Paneldaten kann die Anzahl der Freiheitsgrade und damit die Teststärke erhöhen
+
+(ii) Die Verwendung von Paneldaten ermöglicht es, dass der Durchschnittswert der abhängigen Variable entweder im Querschnitt oder im Zeitverlauf oder beides variiert
+
+(iii) Die Verwendung von Paneldaten ermöglicht es dem Forscher, dass die geschätzte Beziehung zwischen den unabhängigen und abhängigen Variablen entweder im Querschnitt oder im Zeitverlauf oder beides variiert",(i) nur,nur (i) und (ii),(ii) nur,"(i), (ii) und (iii)",B
+"Wenn der Engle-Granger-Test auf die Residuen einer potenziell kointegrierenden Regression angewendet wird, wie würde die Interpretation der Nullhypothese lauten?",Die Variablen sind kointegriert,Die Variablen sind nicht kointegriert,Beide Variablen sind stationär,Beide Variablen sind nicht-stationär,B
+"Welche der folgenden Aussagen sind in Bezug auf die Autokorrelationsfunktion (acf) und die partielle Autokorrelationsfunktion (pacf) zutreffend?
+
+i) Die acf und pacf werden bei Lag eins immer identisch sein, unabhängig vom Modell
+
+ii) Die pacf für ein MA(q)-Modell wird im Allgemeinen über Lag q hinaus ungleich Null sein
+
+iii) Die pacf für ein AR(p)-Modell wird über Lag p hinaus Null sein
+
+iv) Die acf und pacf werden bei Lag zwei für ein MA(1)-Modell gleich sein",(ii) und (iv) nur,(i) und (iii) nur,"(i), (ii) und (iii) nur","(i), (ii), (iii) und (iv)",C

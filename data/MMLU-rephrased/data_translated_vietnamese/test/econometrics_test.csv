@@ -1,0 +1,417 @@
+Định nghĩa nào sau đây là phù hợp nhất cho khoảng tin cậy 99%?,"99% thời gian trong các mẫu lặp lại, khoảng này sẽ chứa giá trị thực của tham số","99% thời gian trong các mẫu lặp lại, khoảng này sẽ chứa giá trị ước tính của tham số","99% thời gian trong các mẫu lặp lại, giả thuyết vô hiệu sẽ bị bác bỏ","99% thời gian trong các mẫu lặp lại, giả thuyết không sẽ không bị bác bỏ khi nó là sai",A
+Sự khác biệt chính giữa phương pháp kiểm định nghiệm đơn vị Dickey Fuller (DF) và Phillips-Perron (PP) là gì?,ADF là phương pháp tiếp cận đơn phương trình để kiểm tra nghiệm đơn vị trong khi PP là phương pháp tiếp cận hệ thống,Các kiểm định PP đảo ngược giả thuyết không và giả thuyết thay thế của DF để có tính dừng dưới giả thuyết không của kiểm định PP,Kiểm định PP bao gồm một phương pháp hiệu chỉnh tự động cho các phần dư tự tương quan trong hồi quy kiểm định,Các kiểm định PP có năng lực tốt trong các mẫu nhỏ trong khi các kiểm định DF thì không.,C
+"Nếu có hiệu ứng đòn bẩy trong thực tế, hình dạng của đường cong tác động tin tức đối với một mô hình có tính đến đòn bẩy đó sẽ như thế nào?",Nó sẽ tăng nhanh hơn đối với các nhiễu loạn âm so với các nhiễu loạn dương có cùng độ lớn,Nó sẽ đối xứng qua điểm không,Nó sẽ tăng chậm hơn đối với các nhiễu loạn âm so với các nhiễu loạn dương có cùng độ lớn,Nó sẽ bằng không đối với tất cả các nhiễu loạn dương,A
+Câu nào sau đây là sai về mô hình xác suất tuyến tính?,Không có gì trong mô hình để đảm bảo rằng các xác suất ước tính nằm trong khoảng từ không đến một,"Ngay cả khi các xác suất được cắt ngắn ở mức không và một, có lẽ sẽ có nhiều quan sát mà xác suất chính xác là không hoặc chính xác là một",Các số hạng sai số sẽ có phương sai không đồng nhất và không được phân phối chuẩn,Mô hình này khó ước tính hơn nhiều so với một mô hình hồi quy tiêu chuẩn với biến phụ thuộc liên tục,D
+Câu nào sau đây về quần thể hồi quy và mẫu là SAI?,Quần thể là tổng hợp toàn bộ các mục quan tâm,Dân số có thể là vô hạn,"Về mặt lý thuyết, mẫu có thể lớn hơn tổng thể",Một mẫu ngẫu nhiên là mẫu mà trong đó mỗi phần tử riêng lẻ từ tổng thể đều có khả năng được chọn như nhau.,C
+"Trong số các phát biểu sau đây, phát biểu nào là KHÔNG CHÍNH XÁC liên quan đến việc so sánh thống kê Box-Pierce Q và Ljung-Box Q* cho sự phụ thuộc tuyến tính trong chuỗi thời gian?","Tiệm cận, giá trị của hai kiểm định thống kê sẽ bằng nhau",Kiểm định Q có các tính chất mẫu nhỏ tốt hơn so với Q*,Kiểm định Q đôi khi có kích thước quá lớn đối với các mẫu nhỏ,"Khi kích thước mẫu tiến tới vô cùng, cả hai phép kiểm định sẽ có xu hướng luôn bác bỏ giả thuyết không về hệ số tự tương quan bằng không.",B
+Một mô hình tiết kiệm là một mô hình mà,Bao gồm quá nhiều biến số,Bao gồm càng ít biến số càng tốt để giải thích dữ liệu,Là một mô hình được xác định rõ ràng,Là một mô hình được chỉ định sai,A
+"Trong số những điều sau đây, điều nào KHÔNG phải là đặc điểm của lợi nhuận được tính lãi kép liên tục (còn gọi là lợi nhuận logarit)?",Chúng có thể được hiểu là những thay đổi liên tục trong giá cả,Chúng có thể được thêm vào theo thời gian để mang lại lợi nhuận trong thời gian dài hơn,Chúng có thể được cộng dồn trên một danh mục đầu tư tài sản để tạo ra lợi nhuận cho danh mục đầu tư,Chúng thường có đuôi mập,C
+"Trong số các đặc điểm sau đây của chuỗi thời gian lợi nhuận tài sản tài chính, đặc điểm nào có thể được nắm bắt bằng mô hình GARCH(1,1) tiêu chuẩn?
+
+i) Đuôi dày trong phân phối lợi nhuận
+
+ii) Hiệu ứng đòn bẩy
+
+iii) Sự tập trung biến động
+
+iv) Biến động ảnh hưởng đến lợi nhuận",(ii) và (iv) chỉ,Chỉ (i) và (iii),"(i), (ii), và (iii) chỉ","(i), (ii), (iii), và (iv)",B
+"Hãy xem xét việc ước tính một mô hình GARCH-M. Nếu dữ liệu được sử dụng là một chuỗi thời gian về tỷ lệ phần trăm lợi nhuận trái phiếu doanh nghiệp hàng ngày, bạn kỳ vọng giá trị ước tính tham số GARCH-trong-trung bình sẽ là gì trong số các giá trị sau đây?",Nhỏ hơn -1,Giữa -1 và 0,Từ 0 đến 1,Lớn hơn 1,C
+"Trong những tình huống nào sau đây, phương pháp bootstrapping sẽ được ưu tiên hơn so với mô phỏng thuần túy?
+
+i) Nếu mong muốn các đặc tính phân phối của dữ liệu trong thí nghiệm giống với các đặc tính của một số dữ liệu thực tế
+
+ii) Nếu mong muốn các đặc tính phân phối của dữ liệu trong thí nghiệm được biết chính xác
+
+iii) Nếu các đặc tính phân phối của dữ liệu thực tế không được biết
+
+iv) Nếu mẫu dữ liệu thực tế có sẵn rất nhỏ",(ii) và (iv) chỉ,Chỉ (i) và (iii),"(i), (ii), và (iv) chỉ","(i), (ii), (iii), và (iv)",B
+"Điều nào sau đây có thể là hậu quả của việc vi phạm một hoặc nhiều giả định CLRM?
+
+i) Các ước tính hệ số không tối ưu
+
+ii) Các ước tính sai số chuẩn không tối ưu
+
+iii) Các phân phối được giả định cho các thống kê kiểm định là không phù hợp
+
+iv) Các kết luận về mức độ mạnh của mối quan hệ giữa biến phụ thuộc và biến độc lập có thể không hợp lệ.",(ii) và (iv) chỉ,Chỉ (i) và (iii),"(i), (ii), và (iii) chỉ","(i), (ii), (iii), và (iv)",D
+"Trong các phát biểu sau đây, phát biểu nào đúng về dự báo trong kinh tế lượng?",Dự báo chỉ có thể được thực hiện cho dữ liệu chuỗi thời gian,Các mô hình được chỉ định sai chắc chắn sẽ tạo ra các dự báo không chính xác,Dự báo cấu trúc dễ tạo ra hơn so với các dự báo từ mô hình chuỗi thời gian,Khả năng dự báo trong mẫu là một phương pháp kiểm tra kém để đánh giá sự phù hợp của mô hình,D
+Hàm tự tương quan riêng phần (pacf) là cần thiết để phân biệt giữa,Một mô hình AR và một mô hình MA,Một mô hình AR và một mô hình ARMA,Một mô hình MA và một mô hình ARMA,Các mô hình khác nhau trong họ ARMA,B
+Tự tương quan phần dư âm được chỉ ra bởi cái nào trong những điều sau đây?,Một mô hình tuần hoàn trong các phần dư,Một mô hình xen kẽ trong các phần dư,Sự ngẫu nhiên hoàn toàn trong các phần dư,Các phần dư đều gần bằng không,B
+"Những phát biểu nào sau đây là đúng liên quan đến so sánh giữa mô hình ARCH(q) và GARCH(1,1)?
+
+i) Mô hình ARCH(q) có khả năng tiết kiệm hơn
+
+ii) Mô hình ARCH(q) có nhiều khả năng vi phạm các ràng buộc không âm hơn
+
+iii) Mô hình ARCH(q) có thể cho phép vô số độ trễ trước đó của bình phương lợi suất ảnh hưởng đến phương sai có điều kiện hiện tại
+
+iv) Mô hình GARCH(1,1) thường sẽ đủ để nắm bắt tất cả sự phụ thuộc trong phương sai có điều kiện",(ii) và (iv) chỉ,Chỉ (i) và (iii),"(i), (ii), và (iii) chỉ","(i), (ii), (iii), và (iv)",A
+"Câu nào trong các câu sau đây là đúng về một hệ thống tam giác hoặc đệ quy?
+
+i) Các tham số có thể được ước tính hợp lệ bằng cách áp dụng riêng biệt OLS cho từng phương trình
+
+ii) Các biến độc lập có thể tương quan với các số hạng sai số trong các phương trình khác
+
+iii) Việc áp dụng 2SLS sẽ dẫn đến các ước tính tham số không thiên lệch nhưng không hiệu quả
+
+iv) Các biến độc lập có thể tương quan với các số hạng sai số trong các phương trình mà chúng xuất hiện như các biến độc lập",(ii) và (iv) chỉ,Chỉ (i) và (iii),"(i), (ii), và (iii) chỉ","(i), (ii), (iii), và (iv)",C
+Câu nào trong các câu sau đây mô tả chính xác nhất biểu diễn đại số của đường hồi quy được khớp?,\hat{y}_t = \hat{\alpha} + \hat{\beta}x_t + \hat{u}_t,\hat{y}_t = \hat{\alpha} + \hat{\beta}x_t,\hat{y}_t = \hat{\alpha} + \hat{\beta}x_t + u_t,y_t = \hat{\alpha} + \hat{\beta}x_t + \hat{u}_t,B
+Kích thước của $\hat{u}^t \hat{u}$ là gì?,T x k,T x 1,k x 1,1 x 1,D
+"Các nghiệm đặc trưng của quá trình MA
+
+$y_t = -3u_{t-1} + u_{t-2} + u_t$
+
+là",1 và 2,"1 và 0,5","2 và -0,5",1 và -3,B
+"Biểu thức nào sau đây tương đương với việc nói rằng biến giải thích là ""không ngẫu nhiên""?",Biến giải thích một phần là ngẫu nhiên,Biến giải thích được cố định trong các mẫu lặp lại,Biến giải thích có tương quan với các sai số,Biến giải thích luôn có giá trị bằng một,B
+"Giả sử rằng kiểm định Durbin Watson được áp dụng cho một hồi quy chứa hai biến giải thích cộng với một hằng số với 50 điểm dữ liệu. Thống kê kiểm định có giá trị 1,53. Kết luận thích hợp là gì?",Các phần dư dường như có tự tương quan dương,Các phần dư có vẻ tự tương quan âm,Các phần dư dường như không có tự tương quan,Kết quả xét nghiệm không xác định,D
+"Nếu OLS được sử dụng khi có sự tự tương quan, những hệ quả có thể xảy ra nào sau đây?
+
+i) Ước tính hệ số có thể gây hiểu nhầm
+
+ii) Kiểm định giả thuyết có thể đưa ra kết luận sai
+
+iii) Dự báo từ mô hình có thể bị thiên lệch
+
+iv) Sai số chuẩn có thể không phù hợp",(ii) và (iv) chỉ,Chỉ (i) và (iii),"(i), (ii), và (iii) chỉ","(i), (ii), (iii), và (iv)",A
+Các tính chất của ước lượng OLS sẽ như thế nào khi có sự đa cộng tuyến?,"Nó sẽ nhất quán, không thiên vị và hiệu quả",Nó sẽ nhất quán và không thiên vị nhưng không hiệu quả,Nó sẽ nhất quán nhưng không khách quan,Nó sẽ không nhất quán,A
+Điều nào sau đây sẽ KHÔNG phải là hậu quả của việc sử dụng dữ liệu không dừng ở dạng mức?,Hệ số xác định $R^2$ của hồi quy có thể cao một cách giả tạo,Các thống kê kiểm định có thể không tuân theo các phân phối chuẩn,Các suy luận thống kê có thể không hợp lệ,Các ước tính tham số có thể bị thiên lệch,D
+"Nếu một chuỗi y tuân theo bước đi ngẫu nhiên, dự báo tối ưu một bước trước của y là gì?",Giá trị hiện tại của y,Không,Một,Giá trị trung bình của y trong giai đoạn mẫu,A
+Điều kiện đặt hàng là,Một điều kiện cần và đủ để nhận dạng,Một điều kiện cần nhưng không đủ để nhận dạng,Một điều kiện đủ nhưng không cần thiết để nhận dạng,Một điều kiện không cần thiết cũng không đủ để nhận dạng,B
+"Nếu một ước lượng được cho là có phương sai tối thiểu, thì trong số các phát biểu sau đây, phát biểu nào KHÔNG được ngụ ý?",Xác suất mà ước tính sai lệch nhiều so với giá trị thực của nó được giảm thiểu,Ước lượng này là hiệu quả,"Một ước lượng như vậy sẽ được gọi là ""tốt nhất""",Một ước lượng như vậy sẽ luôn không thiên lệch,D
+"Trong số những điều sau đây, điều nào là nhược điểm của phương pháp Dickey-Fuller / Engle-Granger trong việc kiểm tra sự đồng tích hợp và mô hình hóa các mối quan hệ đồng tích hợp?
+
+i) Chỉ có thể ước tính được một mối quan hệ đồng tích hợp
+
+ii) Đặc biệt đối với các mẫu nhỏ. Có khả năng cao là các bài kiểm tra sẽ cho thấy các biến không đồng tích hợp khi thực tế chúng có đồng tích hợp
+
+iii) Không thể đưa ra suy luận về hồi quy đồng tích hợp
+
+iv) Quy trình buộc nhà nghiên cứu phải xác định biến nào là biến phụ thuộc và biến nào là biến độc lập.",(ii) và (iv) chỉ,Chỉ (i) và (iii),"(i), (ii), và (iii) chỉ","(i), (ii), (iii), và (iv)",D
+"Trong các phát biểu sau đây, phát biểu nào đúng về hàm hồi quy tổng thể (PRF) và hàm hồi quy mẫu (SRF)?",Hàm đáp ứng xung (PRF) là mô hình ước tính,PRF được sử dụng để suy ra các giá trị có khả năng của SRF,Việc mô hình có tốt hay không có thể được xác định bằng cách so sánh SRF và PRF,PRF là mô tả về quá trình được cho là đang tạo ra dữ liệu.,D
+"Trong số những điều sau đây, điều nào là một bất lợi của phương pháp từ tổng quát đến cụ thể hoặc phương pháp ""LSE"" (""Hendry"") trong việc xây dựng các mô hình kinh tế lượng, so với phương pháp từ cụ thể đến tổng quát?",Một số biến có thể bị loại trừ ở giai đoạn đầu dẫn đến sai lệch hệ số,Mô hình cuối cùng có thể thiếu sự diễn giải lý thuyết,Mô hình cuối cùng có thể không đủ về mặt thống kê,"Nếu mô hình ban đầu được xác định sai, tất cả các bước tiếp theo sẽ không hợp lệ.",B
+"Những phát biểu nào sau đây là đúng liên quan đến ước lượng hợp lý cực đại (ML) trong bối cảnh của các mô hình GARCH?
+
+i) Ước lượng hợp lý cực đại chọn các giá trị tham số tối đa hóa xác suất mà chúng ta thực sự đã quan sát được các giá trị của chuỗi y mà chúng ta thực sự đã quan sát.
+
+ii) Các mô hình GARCH chỉ có thể được ước lượng bằng ML và không thể bằng OLS
+
+iii) Đối với việc ước lượng một mô hình tuyến tính chuẩn (không có GARCH), các ước lượng OLS và ML cho các tham số độ dốc và hệ số chặn sẽ giống nhau nhưng ước lượng cho phương sai của các nhiễu loạn thì hơi khác nhau
+
+iv) Hầu hết các gói phần mềm máy tính sử dụng các thủ tục số để ước lượng các mô hình GARCH thay vì một tập hợp các công thức phân tích",(ii) và (iv) chỉ,Chỉ (i) và (iii),"(i), (ii), và (iii) chỉ","(i), (ii), (iii), và (iv)",D
+Việc bao gồm các giá trị trễ có liên quan của biến phụ thuộc ở vế phải của phương trình hồi quy có thể dẫn đến điều nào sau đây?,Ước tính hệ số thiên lệch nhưng nhất quán,Ước tính hệ số thiên lệch và không nhất quán,Ước tính hệ số không thiên lệch nhưng không nhất quán,Ước tính hệ số không thiên lệch và nhất quán nhưng không hiệu quả.,A
+Yếu tố nào trong số các yếu tố sau đây có khả năng dẫn đến mức độ chính xác dự báo ngoài mẫu tương đối cao?,Một mô hình dựa trên lý thuyết tài chính,Một mô hình chứa nhiều biến số,Một mô hình mà biến phụ thuộc của nó gần đây đã thể hiện một sự thay đổi cấu trúc,Một mô hình hoàn toàn mang tính thống kê không có chỗ cho việc điều chỉnh dự báo theo phán đoán,A
+"Trong số các phương pháp sau đây, phương pháp nào có thể áp dụng để xử lý tự tương quan phần dư?
+
+i) Lấy logarit của mỗi biến
+
+ii) Thêm các giá trị trễ của các biến vào phương trình hồi quy
+
+iii) Sử dụng biến giả để loại bỏ các quan sát ngoại lai
+
+iv) Thử một mô hình ở dạng sai phân bậc nhất thay vì ở dạng mức.",(ii) và (iv) chỉ,Chỉ (i) và (iii),"(i), (ii), và (iii) chỉ","(i), (ii), (iii), và (iv)",A
+Để một quá trình tự hồi quy được coi là dừng,Tất cả các nghiệm của phương trình đặc trưng phải nằm trong vòng tròn đơn vị,Các nghiệm của phương trình đặc trưng phải nằm trên đường tròn đơn vị,Tất cả các nghiệm của phương trình đặc trưng phải nằm ngoài đường tròn đơn vị,Các nghiệm của phương trình đặc trưng phải có giá trị tuyệt đối nhỏ hơn một,C
+"Những phát biểu nào sau đây là đúng về các tiêu chí thông tin?
+
+(i) R-bình phương điều chỉnh là một tiêu chí thông tin
+
+(ii) Nếu tổng bình phương phần dư giảm khi thêm một thuật ngữ bổ sung, giá trị của tiêu chí thông tin sẽ giảm
+
+(iii) Tiêu chí thông tin Akaike luôn dẫn đến các bậc mô hình ít nhất là bằng với các bậc của tiêu chí thông tin Schwarz
+
+(iv) Tiêu chí thông tin Akaike là nhất quán",(ii) và (iv) chỉ,Chỉ (i) và (iii),"(i), (ii), và (iii) chỉ","(i), (ii), (iii), và (iv)",B
+"Phép biến đổi ""trong phạm vi"" bao gồm",Lấy giá trị trung bình của các biến,Trừ đi giá trị trung bình của mỗi thực thể khỏi mỗi quan sát trên thực thể đó,Ước tính mô hình dữ liệu bảng bằng cách sử dụng biến giả bình phương nhỏ nhất,Sử dụng cả biến giả thời gian và biến giả chéo trong mô hình bảng tác động cố định,B
+"Mục đích của việc ""tăng cường"" hồi quy kiểm định Dickey-Fuller là để",Đảm bảo rằng không có hiện tượng phương sai thay đổi trong các phần dư hồi quy kiểm định.,Đảm bảo rằng các phần dư hồi quy kiểm định được phân phối chuẩn,Đảm bảo rằng không có tự tương quan trong phần dư của hồi quy kiểm định,Đảm bảo rằng tất cả các yếu tố không dừng được tính đến.,C
+"Nếu một chuỗi y tuân theo một bước đi ngẫu nhiên với xu hướng b, thì dự báo tối ưu một bước trước về sự thay đổi của y là gì?",Giá trị hiện tại của y,Không,Một,Giá trị trung bình của sự thay đổi y trong giai đoạn mẫu nội bộ,D
+"Trong số các phương pháp sau đây, phương pháp nào có thể áp dụng để xử lý một mô hình có tính không đồng nhất về phương sai?
+
+i) Lấy logarit của từng biến
+
+ii) Sử dụng sai số chuẩn được điều chỉnh phù hợp
+
+iii) Sử dụng quy trình bình phương tối thiểu tổng quát
+
+iv) Thêm các giá trị trễ của các biến vào phương trình hồi quy.",(ii) và (iv) chỉ,Chỉ (i) và (iii),"(i), (ii), và (iii) chỉ","(i), (ii), (iii), và (iv)",C
+"Những phát biểu nào sau đây là đúng về các phần dư chuẩn hóa (phần dư chia cho độ lệch chuẩn có điều kiện tương ứng) từ một mô hình GARCH đã được ước tính?
+
+i) Chúng được giả định là có phân phối chuẩn
+
+ii) Bình phương của chúng sẽ có liên quan đến các giá trị bình phương trễ của chúng nếu mô hình GARCH là phù hợp
+
+iii) Trong thực tế, chúng có khả năng có đuôi dày
+
+iv) Nếu mô hình GARCH là đầy đủ, các phần dư chuẩn hóa và các phần dư thô sẽ giống hệt nhau",(ii) và (iv) chỉ,Chỉ (i) và (iii),"(i), (ii), và (iii) chỉ","(i), (ii), (iii), và (iv)",B
+Câu nào trong các câu sau đây là đúng về VAR?,Các ước tính hệ số có những diễn giải lý thuyết trực quan,Các ước tính hệ số thường có cùng dấu cho tất cả các độ trễ của một biến nhất định trong một phương trình nhất định,Các mô hình VAR thường tạo ra dự báo tốt hơn so với các mô hình cấu trúc phương trình đồng thời,Tất cả các thành phần của một VAR phải dừng trước khi nó có thể được sử dụng để dự báo,C
+"Trong các phát biểu sau đây, phát biểu nào là KHÔNG CHÍNH XÁC liên quan đến khuôn khổ kiểm định giả thuyết cổ điển?","Nếu giả thuyết không bị bác bỏ, giả thuyết thay thế được chấp nhận",Giả thuyết không là phát biểu đang được kiểm định trong khi giả thuyết thay thế bao gồm các kết quả còn lại được quan tâm,Kiểm định ý nghĩa thống kê và phương pháp khoảng tin cậy sẽ luôn đưa ra cùng một kết luận,Các kiểm định giả thuyết được sử dụng để đưa ra các suy luận về các tham số của tổng thể.,A
+"Một mô hình ARMA(p,q) (p, q là các số nguyên lớn hơn không) sẽ có",Một ACF và PACF đều giảm theo cấp số nhân,Một ACF giảm dần theo cấp số nhân và một PACF bằng không sau p độ trễ,Một hàm tự tương quan (ACF) giảm theo cấp số nhân và một hàm tự tương quan riêng phần (PACF) bằng không sau q độ trễ,Một ACF bằng không sau p độ trễ và một PACF bằng không sau q độ trễ,A
+"Giả sử hồi quy sau được ước tính bằng cách sử dụng 27 quan sát hàng quý:
+
+$y_t = \beta_1 + \beta_2 x_2 + \beta_3 x_{3t} + u_t$
+
+Giá trị tới hạn thích hợp cho một kiểm định hai phía với mức ý nghĩa 5% của giả thuyết $H_0: \beta_3 = 1$ là bao nhiêu?","1,64","1,71","2,06","1,96",C
+"Giả sử hai nhà nghiên cứu, sử dụng cùng 3 biến và cùng 250 quan sát cho mỗi biến, ước tính một VAR. Một người ước tính VAR(6), trong khi người kia ước tính VAR(4). Định thức của ma trận phương sai-hiệp phương sai của phần dư cho mỗi VAR lần lượt là 0,0036 và 0,0049. Giá trị của thống kê kiểm định để thực hiện kiểm định xem liệu VAR(6) có thể bị giới hạn thành VAR(4) là bao nhiêu?","77,07","0,31","0,33","4,87",A
+Điều nào sau đây là NHƯỢC ĐIỂM của việc sử dụng các mô hình chuỗi thời gian thuần túy (so với các mô hình cấu trúc)?,Họ không được thúc đẩy về mặt lý thuyết,Họ không thể dễ dàng đưa ra dự báo,Chúng không thể được sử dụng cho dữ liệu có tần số rất cao,Thật khó để xác định các biến giải thích thích hợp để sử dụng trong các mô hình chuỗi thời gian thuần túy,A
+"Trong số các tên gọi sau đây, những cái nào là tên gọi khác của biến phụ thuộc (thường được ký hiệu là y) trong phân tích hồi quy tuyến tính?
+
+(i) Biến hồi quy
+
+(ii) Biến độc lập
+
+(iii) Biến được giải thích
+
+(iv) Biến giải thích",(ii) và (iv) chỉ,Chỉ (i) và (iii),"(i), (ii), và (iii) chỉ","(i), (ii), (iii), và (iv)",B
+"Trong những điều sau đây, điều nào là ưu điểm của phương pháp VAR trong việc mô hình hóa mối quan hệ giữa các biến so với việc ước tính các mô hình cấu trúc đầy đủ?
+
+i) VAR nhận được động lực mạnh mẽ từ lý thuyết tài chính và kinh tế
+
+ii) VAR ở dạng rút gọn có thể được sử dụng dễ dàng để tạo ra các dự báo chuỗi thời gian
+
+iii) Các mô hình VAR thường rất tiết kiệm
+
+iv) OLS có thể được áp dụng riêng biệt cho từng phương trình trong một VAR dạng rút gọn",(ii) và (iv) chỉ,Chỉ (i) và (iii),"(i), (ii), và (iii) chỉ","(i), (ii), (iii), và (iv)",A
+"Trong các phát biểu sau đây, phát biểu nào là ĐÚNG về mô hình hồi quy chuẩn?",y có một phân phối xác suất,x có một phân phối xác suất,Thành phần nhiễu được giả định là có tương quan với x,"Đối với một mô hình phù hợp, phần dư (u-hat) sẽ bằng không cho tất cả các điểm dữ liệu mẫu",A
+"Xem xét mô hình sau đây cho $y_t$:
+
+$y_t = \mu + \lambda t + u_t$
+
+Trong các mô tả sau đây, cái nào mô tả chính xác nhất quá trình cho $y_t$?",Một quá trình có nghiệm đơn vị,Một quá trình dừng,Một quá trình xu hướng xác định,Một bước đi ngẫu nhiên có xu hướng,C
+Điều nào sau đây là đúng về các mô hình logit và probit?,Họ sử dụng một phương pháp khác để biến đổi mô hình sao cho các xác suất nằm trong khoảng từ không đến một,Mô hình logit có thể dẫn đến quá nhiều quan sát rơi vào chính xác giá trị 0 hoặc chính xác giá trị 1,"Đối với mô hình logit, tác động biên của sự thay đổi trong một trong các biến giải thích đơn giản chỉ là ước tính của tham số gắn liền với biến đó, trong khi điều này không đúng đối với mô hình probit.",Mô hình probit dựa trên một hàm logistic tích lũy,A
+Nhược điểm quan trọng nhất của phương pháp đường chéo VECH trong việc xây dựng các mô hình GARCH đa biến mà được khắc phục bởi công thức BEKK là gì?,Mô hình VECH đường chéo khó diễn giải một cách trực quan,Mô hình VECH đường chéo chứa quá nhiều tham số,Mô hình VECH đường chéo không đảm bảo ma trận phương sai-hiệp phương sai dương xác định,Mô hình BEKK giảm thiểu vấn đề về số chiều phát sinh khi một số chuỗi được mô hình hóa cùng nhau.,C
+"Nếu một biến số liên quan bị bỏ sót khỏi phương trình hồi quy, hậu quả sẽ là:
+
+i) Các sai số chuẩn sẽ bị thiên lệch
+
+ii) Nếu biến bị loại trừ không tương quan với tất cả các biến được đưa vào, tất cả các hệ số độ dốc sẽ không nhất quán.
+
+iii) Nếu biến bị loại trừ không tương quan với tất cả các biến được đưa vào, hệ số chặn sẽ không nhất quán.
+
+iv) Nếu biến bị loại trừ không tương quan với tất cả các biến được đưa vào, tất cả các hệ số độ dốc và hệ số chặn sẽ nhất quán và không thiên lệch nhưng không hiệu quả.",(ii) và (iv) chỉ,Chỉ (i) và (iii),"(i), (ii), và (iii) chỉ","(i), (ii), (iii), và (iv)",C
+"Trong các phương án sau đây, phương án nào là tên gọi khác của biến độc lập (thường được ký hiệu là x) trong phân tích hồi quy tuyến tính?
+
+(i) Biến hồi quy
+
+(ii) Biến được hồi quy
+
+(iii) Biến nguyên nhân
+
+(iv) Biến kết quả",(ii) và (iv) chỉ,Chỉ (i) và (iii),"(i), (ii), và (iii) chỉ","(i), (ii), (iii), và (iv)",B
+"Xem xét ước lượng OLS cho sai số chuẩn của hệ số độ dốc. Trong số các phát biểu sau, phát biểu nào đúng?
+
+(i) Sai số chuẩn sẽ có mối quan hệ tỷ lệ thuận với phương sai phần dư
+
+(ii) Sai số chuẩn sẽ có mối quan hệ tỷ lệ nghịch với sự phân tán của các quan sát trên biến giải thích xung quanh giá trị trung bình của chúng
+
+(iii) Sai số chuẩn sẽ có mối quan hệ tỷ lệ nghịch với kích thước mẫu
+
+(iv) Sai số chuẩn cung cấp một thước đo về độ chính xác của ước lượng hệ số.",(ii) và (iv) chỉ,Chỉ (i) và (iii),"(i), (ii), và (iii) chỉ","(i), (ii), (iii), và (iv)",D
+"Ý nghĩa của thuật ngữ ""phương sai không đồng nhất"" là gì?",Phương sai của các sai số không cố định,Phương sai của biến phụ thuộc không cố định,Các lỗi không độc lập tuyến tính với nhau,Các lỗi có giá trị trung bình khác không,A
+"Nếu một thống kê Durbin Watson có giá trị gần bằng không, giá trị của hệ số tự tương quan bậc nhất sẽ là bao nhiêu?",Gần bằng không,Gần với cộng một,Gần bằng âm một,Gần với âm một hoặc dương một,C
+"Theo giả thuyết không của kiểm định Bera-Jarque, phân phối có",Độ lệch bằng không và độ nhọn bằng không,Độ lệch bằng không và độ nhọn bằng ba,Độ lệch bằng một và độ nhọn bằng không,Độ lệch bằng một và độ nhọn bằng ba.,B
+"Nếu một ước lượng được cho là nhất quán, điều đó ngụ ý rằng","Trung bình, các giá trị hệ số ước tính sẽ bằng các giá trị thực",Ước lượng OLS là không thiên lệch và không có ước lượng không thiên lệch nào khác có phương sai nhỏ hơn,Các ước tính sẽ hội tụ về các giá trị thực khi kích thước mẫu tăng lên,Các ước tính hệ số sẽ càng gần với giá trị thực của chúng càng tốt cho cả mẫu nhỏ và mẫu lớn.,C
+Đặc điểm điển hình nào sau đây thuộc về chuỗi thời gian lợi nhuận tài sản tài chính?,Phân phối của chúng có đuôi mỏng,Chúng không phải là yếu tĩnh,Chúng có tính tự tương quan cao,Họ không có xu hướng,D
+"Những giả định nào sau đây là cần thiết để chứng minh tính nhất quán, không thiên lệch và hiệu quả của ước lượng OLS?
+
+i) $E(u_t) = 0$
+
+ii) $\text{Var}(u_t) = \sigma^2$
+
+iii) $\text{Cov}(u_t, u_{t-j}) = 0 \forall j$
+
+iv) $u_t \sim N(0, \sigma^2)$",(ii) và (iv) chỉ,Chỉ (i) và (iii),"(i), (ii), và (iii) chỉ","(i), (ii), (iii), và (iv)",C
+"Trong các phương án sau đây, điều nào là một nhược điểm của phương pháp tác động cố định khi ước tính một mô hình dữ liệu bảng?",Mô hình này có khả năng sẽ phức tạp về mặt kỹ thuật để ước tính,Phương pháp này có thể không hợp lệ nếu thành phần sai số tổng hợp có tương quan với một hoặc nhiều biến giải thích,"Số lượng tham số cần ước tính có thể lớn, dẫn đến việc mất các bậc tự do",Phương pháp tác động cố định chỉ có thể nắm bắt được sự không đồng nhất theo mặt cắt ngang mà không thể nắm bắt được sự biến đổi theo thời gian của biến phụ thuộc.,C
+"Xem xét một tình huống giống hệt như trong câu hỏi 21, ngoại trừ việc bây giờ một phương án thay thế 2 phía được sử dụng. Kết luận thích hợp bây giờ sẽ là gì?",H0 bị bác bỏ,H0 không bị bác bỏ,H1 bị bác bỏ,Không có đủ thông tin được cung cấp trong câu hỏi để đưa ra kết luận,A
+Giá của một ngôi nhà được mô tả chính xác nhất là loại số nào?,Rời rạc,Hồng y,Số thứ tự,Danh nghĩa,B
+"Nếu một kiểm định ""vết"" Johansen cho giả thuyết không về 2 vectơ đồng tích hợp được áp dụng cho một hệ thống chứa 4 biến số được thực hiện, thì những giá trị riêng nào sẽ được sử dụng trong kiểm định?",Tất cả bọn họ,Số lớn nhất 2,Số 2 nhỏ nhất,Lớn thứ hai,C
+"Câu nào trong các câu sau đây là đúng về phân tích phân rã phương sai của mô hình VAR?
+
+i) Phân rã phương sai đo lường tác động của một cú sốc đơn vị đối với mỗi biến trong mô hình VAR
+
+ii) Phân rã phương sai có thể được xem như đo lường tỷ lệ phương sai của sai số dự báo có thể quy cho từng biến
+
+iii) Thứ tự của các biến là quan trọng để tính toán các phản ứng xung nhưng không quan trọng đối với phân rã phương sai
+
+iv) Thông thường, phần lớn phương sai của sai số dự báo cho một biến nhất định có thể quy cho các cú sốc đối với chính biến đó",(ii) và (iv) chỉ,Chỉ (i) và (iii),"(i), (ii), và (iii) chỉ","(i), (ii), (iii), và (iv)",A
+"Giả sử chúng ta đã ước tính một mô hình GARCH cho lợi nhuận cổ phiếu hàng ngày, và chúng ta quan tâm đến việc tạo ra một dự báo biến động 10 ngày (được đo bằng độ lệch chuẩn của lợi nhuận) để sử dụng trong một mô hình giá trị rủi ro. Làm thế nào để tính toán dự báo như vậy một cách hợp lệ nhất?","Tạo ra các dự báo phương sai có điều kiện cho 1, 2, 3, ..., 10 bước tiếp theo và cộng chúng lại","Tạo ra các dự báo phương sai có điều kiện cho 1, 2, 3, ..., 10 bước tiếp theo, cộng chúng lại và lấy căn bậc hai","Tạo ra các dự báo phương sai có điều kiện cho 1, 2, 3, ..., 10 bước tiếp theo, lấy căn bậc hai của mỗi dự báo và cộng chúng lại với nhau","Tạo một dự báo phương sai có điều kiện trước 1 bước, lấy căn bậc hai của nó và nhân với căn bậc hai của 10",B
+"Giả sử rằng giá trị $R^2$ cho một mô hình hồi quy ước tính chính xác bằng không. Trong số các phát biểu sau đây, phát biểu nào đúng?
+
+i) Tất cả các ước tính hệ số độ dốc sẽ bằng không
+
+ii) Đường thẳng khớp sẽ nằm ngang đối với tất cả các biến giải thích
+
+iii) Đường hồi quy không giải thích được bất kỳ sự biến thiên nào của y quanh giá trị trung bình của nó
+
+iv) Ước tính hệ số chặn phải bằng không.",(ii) và (iv) chỉ,Chỉ (i) và (iii),"(i), (ii), và (iii) chỉ","(i), (ii), (iii), và (iv)",C
+"Một quá trình nhiễu trắng sẽ có
+
+(i) Giá trị trung bình bằng không
+
+(ii) Phương sai không đổi
+
+(iii) Hiệp phương sai tự động không đổi
+
+(iv) Hiệp phương sai tự động bằng không ngoại trừ tại độ trễ bằng không",(ii) và (iv) chỉ,Chỉ (i) và (iii),"(i), (ii), và (iii) chỉ","(i), (ii), (iii), và (iv)",A
+"Câu nào trong các câu sau đây là đúng về phương pháp Box-Jenkins trong kiểm định chẩn đoán cho các mô hình ARMA?
+
+(i) Các kiểm định sẽ cho thấy liệu mô hình được xác định có quá lớn hoặc quá nhỏ hay không
+
+(ii) Các kiểm định liên quan đến việc kiểm tra phần dư của mô hình về tự tương quan, phương sai không đồng nhất và không phân phối chuẩn
+
+(iii) Nếu mô hình được đề xuất ở giai đoạn xác định là phù hợp, acf và pacf của phần dư không nên thể hiện cấu trúc bổ sung nào
+
+(iv) Nếu mô hình được đề xuất ở giai đoạn xác định là phù hợp, các hệ số của các biến bổ sung theo phương pháp overfitting sẽ không có ý nghĩa thống kê",(ii) và (iv) chỉ,Chỉ (i) và (iii),"(i), (ii), và (iii) chỉ","(i), (ii), (iii), và (iv)",A
+Cái nào trong số những điều sau đây sẽ là một phản ứng hợp lý đối với việc phát hiện ra tính không chuẩn tắc còn sót lại?,Sử dụng dạng hàm logarit thay vì dạng tuyến tính,Thêm các độ trễ của các biến ở vế phải của mô hình hồi quy,Ước tính mô hình ở dạng sai phân bậc nhất,Loại bỏ bất kỳ giá trị ngoại lai lớn nào từ dữ liệu.,D
+Mô hình bảng tác động cố định đôi khi còn được gọi là,Một mô hình hồi quy dường như không liên quan,Phương pháp biến giả bình phương tối thiểu,Mô hình hiệu ứng ngẫu nhiên,Nhất quán với tính không đồng nhất phương sai và tự tương quan,B
+Câu nào trong các câu sau đây là ĐÚNG về ước lượng OLS?,OLS giảm thiểu tổng khoảng cách theo chiều dọc từ các điểm đến đường thẳng,OLS giảm thiểu tổng bình phương của các khoảng cách thẳng đứng từ các điểm đến đường thẳng,OLS giảm thiểu tổng khoảng cách ngang từ các điểm đến đường thẳng,OLS giảm thiểu tổng bình phương của các khoảng cách ngang từ các điểm đến đường thẳng.,B
+"Nếu các công cụ tiêu chuẩn để phân tích chuỗi thời gian, chẳng hạn như ước tính acf, pacf và phân tích phổ, không tìm thấy bằng chứng về cấu trúc trong dữ liệu, điều này ngụ ý rằng dữ liệu thuộc loại nào trong các loại sau đây?",Phân phối chuẩn,Không tương quan,Độc lập,Đuôi to,B
+"Nếu hai biến số $x_t$ và $y_t$ được cho là đồng tích hợp, thì trong số các phát biểu sau đây, phát biểu nào đúng?
+
+i) $x_t$ và $y_t$ đều phải dừng
+
+
+ii) Chỉ có một tổ hợp tuyến tính của $x_t$ và $y_t$ sẽ dừng
+
+
+iii) Phương trình đồng tích hợp cho $x_t$ và $y_t$ mô tả mối quan hệ ngắn hạn
+
+giữa hai chuỗi
+
+
+iv) Phần dư của một hồi quy $y_t$ trên $x_t$ phải dừng",(ii) và (iv) chỉ,Chỉ (i) và (iii),"(i), (ii), và (iii) chỉ","(i), (ii), (iii), và (iv)",A
+Một biến phụ thuộc mà các giá trị của nó không thể quan sát được ngoài một phạm vi nhất định nhưng các giá trị tương ứng của các biến độc lập vẫn có sẵn sẽ được mô tả chính xác nhất là loại biến gì?,Bị kiểm duyệt,Bị cắt ngắn,Biến đa thức,Lựa chọn rời rạc,A
+Một kiểm định Hausman sẽ được sử dụng cho,Xác định xem một phương trình là một phần của hệ phương trình đồng thời có được xác định hay không,Xác định xem có cần một khung đồng thời cho một biến cụ thể hay không,Xác định xem 2SLS hay ILS là tối ưu,Xác định xem các phương trình dạng cấu trúc có thể được suy ra thông qua phép thế từ các dạng rút gọn hay không,B
+"Theo ký hiệu ma trận cho mô hình hồi quy tuyến tính cổ điển, $y = X \beta + u$, kích thước của $u$ là gì?",T x k,T x 1,k x 1,1 x 1,B
+"Có bao nhiêu tham số cần được ước tính tổng cộng cho tất cả các phương trình của một mô hình VAR(4) ba biến, dạng chuẩn, không hạn chế, bỏ qua các hệ số chặn?",12,4,3,36,D
+"Một nhà nghiên cứu kiểm tra tính ổn định cấu trúc trong mô hình hồi quy sau:
+
+$y_t = \beta_1 + \beta_2 x_{2t} + \beta_3 x_{3t} + u_t$
+
+Tổng mẫu gồm 200 quan sát được chia chính xác làm đôi cho các hồi quy phụ mẫu. Tổng bình phương phần dư không bị hạn chế sẽ là gì?",RSS cho toàn bộ mẫu,RSS cho mẫu phụ đầu tiên,RSS cho mẫu phụ thứ hai,Tổng của RSS cho mẫu phụ thứ nhất và thứ hai,D
+"Giả sử chúng ta quan tâm đến việc kiểm định giả thuyết không rằng một mô hình GARCH(2,2) có thể được giới hạn thành một quá trình với phương sai có điều kiện không đổi bằng cách sử dụng phương pháp kiểm định tỷ số hợp lý. Trong số các phát biểu sau đây, phát biểu nào là đúng?",Thống kê kiểm định sẽ tuân theo phân phối chi bình phương với 2 bậc tự do dưới giả thuyết không.,Giá trị của hàm log-likelihood hầu như sẽ luôn lớn hơn đối với mô hình bị hạn chế so với mô hình không bị hạn chế,"Nếu các giá trị liên quan của các hàm log-likelihood là -112,3 và -118,4, thì giá trị của thống kê kiểm định là 12,2",Kiểm định tỷ số khả năng so sánh độ dốc của hàm log-khả năng tại giá trị cực đại và tại giá trị tham số bị giới hạn.,C
+"Trong số những điều sau đây, điều nào KHÔNG phải là một giải pháp hợp lý cho tình trạng đa cộng tuyến gần?",Sử dụng phân tích thành phần chính,Loại bỏ một trong các biến đồng tuyến tính,Sử dụng một chuỗi dữ liệu dài hơn,Lấy logarit của mỗi biến,D
+"Hãy xem xét quá trình AR(2) sau đây:
+
+yt = 1.5 yt-1 - 0.5 yt-2 + ut
+
+Đây là một",Quá trình dừng,Quá trình nghiệm đơn vị,Quá trình nổ,Quá trình dừng và quá trình có nghiệm đơn vị,B
+Điều nào sau đây có thể được sử dụng như một kiểm định cho tự tương quan đến bậc ba?,Kiểm định Durbin-Watson,Kiểm định White,Bài kiểm tra RESET,Kiểm định Breusch-Godfrey,D
+Phần dư từ một mô hình hồi quy chuẩn được định nghĩa là,"Sự khác biệt giữa giá trị thực tế, y, và giá trị trung bình, y-bar","Sự khác biệt giữa giá trị được dự đoán, y-mũ, và giá trị trung bình, y-gạch","Sự khác biệt giữa giá trị thực tế, y, và giá trị được dự đoán, y-mũ","Bình phương của hiệu giữa giá trị dự đoán, y-mũ, và giá trị trung bình, y-gạch",C
+"Nếu OLS được áp dụng riêng biệt cho từng phương trình là một phần của một hệ thống đồng thời, các ước tính thu được sẽ là",Khách quan và nhất quán,Thiên vị nhưng nhất quán,Thiên vị và không nhất quán,Không thể áp dụng OLS cho các phương trình là một phần của một hệ thống đồng thời,C
+"Trong số những điều sau đây, điều nào KHÔNG phải là ví dụ về việc xác định sai dạng hàm?",Sử dụng một đặc tả tuyến tính khi y thay đổi theo hàm bình phương của x,Sử dụng một đặc tả tuyến tính khi một mô hình logarit kép sẽ phù hợp hơn,Mô hình hóa y như một hàm của x trong khi thực tế nó tỷ lệ như một hàm của 1/x,Loại trừ một biến số liên quan khỏi mô hình hồi quy tuyến tính,D
+Giả sử chúng ta muốn đánh giá các yếu tố ảnh hưởng đến xác suất một nhà đầu tư sẽ chọn quỹ cổ phiếu thay vì quỹ trái phiếu hoặc đầu tư tiền mặt. Loại mô hình nào sẽ phù hợp nhất?,Mô hình logit,Một logit đa thức,Mô hình tobit,Mô hình logit thứ tự,B
+"Trong số các phát biểu sau đây, phát biểu nào sẽ đúng nếu số lần lặp lại được sử dụng trong một nghiên cứu Monte Carlo là nhỏ?
+
+i) Thống kê quan tâm có thể được ước tính không chính xác
+
+ii) Kết quả có thể bị ảnh hưởng bởi các tổ hợp không đại diện của các lần rút ngẫu nhiên
+
+iii) Sai số chuẩn trên các đại lượng ước tính có thể lớn một cách không chấp nhận được
+
+iv) Các kỹ thuật giảm phương sai có thể được sử dụng để giảm sai số chuẩn",(ii) và (iv) chỉ,Chỉ (i) và (iii),"(i), (ii), và (iv) chỉ","(i), (ii), (iii), và (iv)",D
+"Trong các phương án sau đây, điều nào là một nhược điểm của phương pháp hiệu ứng ngẫu nhiên trong việc ước tính mô hình dữ liệu bảng?",Phương pháp này có thể không hợp lệ nếu thành phần sai số tổng hợp có tương quan với một hoặc nhiều biến giải thích,"Số lượng tham số cần ước tính có thể lớn, dẫn đến việc mất các bậc tự do",Phương pháp hiệu ứng ngẫu nhiên chỉ có thể nắm bắt được sự không đồng nhất theo mặt cắt ngang mà không thể nắm bắt được sự biến đổi theo thời gian của biến phụ thuộc.,Tất cả từ (a) đến (c) đều là những nhược điểm tiềm tàng của phương pháp hiệu ứng ngẫu nhiên.,A
+"Điều nào sau đây có thể dẫn đến các phần dư tự tương quan?
+
+i) Sự chậm trễ trong phản ứng của biến phụ thuộc đối với những thay đổi trong giá trị của các biến độc lập
+
+ii) Phản ứng quá mức của biến phụ thuộc đối với những thay đổi trong các biến độc lập
+
+iii) Bỏ sót các biến giải thích liên quan có tính tự tương quan
+
+iv) Các điểm ngoại lai trong dữ liệu",(ii) và (iv) chỉ,Chỉ (i) và (iii),"(i), (ii), và (iii) chỉ","(i), (ii), (iii), và (iv)",C
+"Những phát biểu nào sau đây là đúng về acf và pacf?
+
+(i) Acf và pacf thường khó diễn giải trong thực tế
+
+(ii) Acf và pacf có thể khó tính toán cho một số bộ dữ liệu
+
+(iii) Các tiêu chí thông tin đại diện cho một phương pháp thay thế để xác định thứ tự mô hình
+
+(iv) Nếu được áp dụng đúng cách, acf và pacf sẽ luôn đưa ra các lựa chọn mô hình duy nhất",(ii) và (iv) chỉ,Chỉ (i) và (iii),"(i), (ii), và (iii) chỉ","(i), (ii), (iii), và (iv)",C
+"Trong các điều kiện sau đây, điều kiện nào là cần thiết để một chuỗi được phân loại là một quá trình dừng yếu?
+
+(i) Nó phải có giá trị trung bình không đổi
+
+(ii) Nó phải có phương sai không đổi
+
+(iii) Nó phải có hiệp phương sai tự động không đổi cho các độ trễ nhất định
+
+(iv) Nó phải có phân phối xác suất không đổi",(ii) và (iv) chỉ,Chỉ (i) và (iii),"(i), (ii), và (iii) chỉ","(i), (ii), (iii), và (iv)",C
+"Hãy xem xét phương trình sau đây và xác định loại mô hình mà nó đại diện tốt nhất
+
+$y_{it} = \alpha + \beta_{it} + \mu_i + \nu_{it}$",Mô hình tác động cố định theo thực thể,Mô hình tác động cố định theo thời gian,Mô hình hiệu ứng ngẫu nhiên,Một mô hình chuỗi thời gian thuần túy,A
+"Lưu ý rằng các bảng thống kê không cần thiết để trả lời câu hỏi này. Đối với một mẫu gồm 1000 quan sát, các giá trị thống kê kiểm định Dickey-Fuller là",Âm hơn (tức là lớn hơn về giá trị tuyệt đối) so với những giá trị ở đuôi bên trái của phân phối chuẩn,Ít âm hơn (tức là nhỏ hơn về giá trị tuyệt đối) so với những giá trị ở đuôi bên trái của phân phối chuẩn,Nhận được từ một công thức phân tích cho mật độ của phân phối Dickey-Fuller,Âm hơn (tức là lớn hơn về giá trị tuyệt đối) đối với kích thước kiểm định 10% so với kiểm định 5%.,A
+"Giả sử một kiểm định giả thuyết được thực hiện với mức ý nghĩa 5%. Trong số các phát biểu sau đây, phát biểu nào là đúng?
+
+(i) Mức ý nghĩa bằng với kích thước của kiểm định
+
+(ii) Mức ý nghĩa bằng với công suất của kiểm định
+
+(iii) 2,5% tổng phân phối sẽ nằm trong mỗi vùng bác bỏ đuôi đối với kiểm định hai phía
+
+(iv) 5% tổng phân phối sẽ nằm trong mỗi vùng bác bỏ đuôi đối với kiểm định hai phía.",(ii) và (iv) chỉ,Chỉ (i) và (iii),"(i), (ii), và (iii) chỉ","(i), (ii), (iii), và (iv)",B
+"Trong số các chỉ trích sau đây về phương pháp Dickey-Fuller/Engle-Granger để xử lý các biến đồng tích hợp, phương pháp Engle-Yoo (EY) đã khắc phục được chỉ trích nào?","Trong bối cảnh mẫu nhỏ, các kiểm định Dickey Fuller có xu hướng kết luận rằng có một nghiệm đơn vị trong chuỗi khi thực tế không có.",Phương pháp Engle-Granger (EG) chỉ có thể phát hiện tối đa một mối quan hệ đồng tích hợp mặc dù có thể có nhiều hơn một mối quan hệ,Các biến được xử lý một cách bất đối xứng trong các kiểm định đồng tích hợp,Không thể thực hiện các kiểm định về mối quan hệ đồng tích hợp,D
+"Xét một chuỗi tuân theo mô hình MA(1) với trung bình bằng không và hệ số trung bình di động là 0,4. Giá trị của tự hiệp phương sai tại độ trễ 1 là bao nhiêu?","0,4",1,"0,34",Không thể xác định giá trị của tự hiệp phương sai mà không biết phương sai nhiễu.,D
+"Trong các kỹ thuật ước lượng sau đây, kỹ thuật nào có thể được sử dụng để ước lượng các hệ phương trình đồng thời được xác định quá mức?
+
+i) OLS
+
+ii) ILS
+
+iii) 2SLS
+
+iv) IV",(iii) chỉ,(iii) và (iv) chỉ,"(ii), (iii), và (iv) chỉ","(i), (ii), (iii) và (iv)",B
+Câu nào trong các câu sau đây mô tả chính xác nhất về Lỗi Loại II?,Đó là xác suất bác bỏ sai giả thuyết không.,Nó tương đương với năng lực của bài kiểm tra,Nó tương đương với kích thước của bài kiểm tra,Đó là xác suất không bác bỏ một giả thuyết không đúng,D
+"Trong các lựa chọn sau đây, cái nào sẽ là khoảng tin cậy 95% (hai phía) thích hợp nhất cho hệ số chặn của mô hình được đưa ra trong câu hỏi 21?","(-4,79; 2,19)","(-4,16; 4,16)","(-1,98; 1,98)","(-5,46; 2,86)",D
+"Trong số các đặc điểm sau đây, đặc điểm nào thuộc về một quá trình dừng?
+
+i) Nó cắt qua giá trị trung bình của nó thường xuyên
+
+ii) Nó có giá trị trung bình và phương sai không đổi
+
+iii) Nó không chứa thành phần xu hướng
+
+iv) Nó sẽ dừng ở dạng sai phân bậc nhất",(ii) và (iv) chỉ,Chỉ (i) và (iii),"(i), (ii), và (iii) chỉ","(i), (ii), (iii), và (iv)",D
+Hãy xem xét lại mô hình VAR của phương trình 16. Điều kiện nào trong số các điều kiện sau đây phải được đáp ứng để có thể nói rằng có phản hồi hai chiều?,Các hệ số b và d có ý nghĩa thống kê và các hệ số a và c không có ý nghĩa thống kê,Các hệ số a và c có ý nghĩa thống kê và các hệ số b và d không có ý nghĩa thống kê,Các hệ số a và c có ý nghĩa,Các hệ số b và d có ý nghĩa,D
+"Xem xét các ước tính tự tương quan mẫu sau đây thu được bằng cách sử dụng 250 điểm dữ liệu:
+
+1) Độ trễ 1 2 3
+
+2) Hệ số 0.2 -0.15 -0.1
+
+3) Giả sử rằng các hệ số được phân phối gần đúng chuẩn, hệ số nào có ý nghĩa thống kê ở mức 5%?",1 duy nhất,Chỉ 1 và 2,"1, 2 và 3 chỉ",Không thể xác định ý nghĩa thống kê vì không có sai số chuẩn nào được cung cấp,B
+Cái nào trong số những điều sau đây được kiểm tra bằng cách xem xét chỉ số độ phù hợp?,Hàm hồi quy quần thể phù hợp với dữ liệu tốt đến mức nào,Hàm hồi quy mẫu phù hợp với hàm hồi quy tổng thể như thế nào,Hàm hồi quy mẫu phù hợp với dữ liệu tốt đến mức nào,Mức độ phù hợp của hàm hồi quy tổng thể với hàm hồi quy mẫu.,C
+"Những phát biểu nào sau đây là đúng liên quan đến việc sử dụng các biến đối nghịch như một phần của thí nghiệm Monte Carlo?
+
+i) Các biến đối nghịch hoạt động bằng cách giảm số lần lặp lại cần thiết để bao quát toàn bộ không gian xác suất
+
+ii) Các biến đối nghịch liên quan đến việc sử dụng một biến tương tự như biến được sử dụng trong mô phỏng, nhưng có các tính chất được biết đến một cách phân tích
+
+iii) Các biến đối nghịch liên quan đến việc sử dụng giá trị âm của mỗi lần rút thăm ngẫu nhiên và lặp lại thí nghiệm bằng cách sử dụng những giá trị đó làm các lần rút thăm
+
+iv) Các biến đối nghịch liên quan đến việc lấy một chia cho mỗi lần rút thăm ngẫu nhiên và lặp lại thí nghiệm bằng cách sử dụng những giá trị đó làm các lần rút thăm",(ii) và (iv) chỉ,Chỉ (i) và (iii),"(i), (ii), và (iv) chỉ","(i), (ii), (iii), và (iv)",B
+Câu nào trong các câu sau đây là đúng về các biện pháp đo lường độ chính xác dự báo thay thế?,Sai số bình phương trung bình thường có mối tương quan cao với khả năng sinh lời của quy tắc giao dịch,Sai số tuyệt đối trung bình cung cấp một hàm mất mát bậc hai,Sai số phần trăm tuyệt đối trung bình là một thước đo hữu ích để đánh giá dự báo lợi nhuận tài sản,Sai số bình phương trung bình phạt các lỗi dự báo lớn một cách không tương xứng nhiều hơn so với các lỗi dự báo nhỏ,D
+"Những chỉ trích nào sau đây về các mô hình GARCH tiêu chuẩn (""plain vanilla"") có thể được khắc phục bởi các mô hình EGARCH?
+
+i) Các giá trị hệ số ước tính từ các mô hình GARCH có thể âm
+
+ii) Các mô hình GARCH không thể giải thích được các hiệu ứng đòn bẩy
+
+iii) Khả năng phản ứng của biến động trong tương lai đối với các cú sốc tích cực và tiêu cực là đối xứng trong công thức GARCH
+
+iv) Các mô hình GARCH không thể cho phép phản hồi từ biến động đến lợi nhuận",(ii) và (iv) chỉ,Chỉ (i) và (iii),"(i), (ii), và (iii) chỉ","(i), (ii), (iii), và (iv)",C
+"Giả sử 100 công ty riêng biệt được kiểm tra để xác định có bao nhiêu công ty ""vượt trội thị trường"" bằng cách sử dụng hồi quy kiểu Jensen, và người ta phát hiện ra rằng 3 nhà quản lý quỹ đã làm được điều đó một cách đáng kể. Liệu điều này có gợi ý bằng chứng sơ bộ về sự không hiệu quả của thị trường chứng khoán không?",Có,Không,"Để trả lời câu hỏi này, bạn cần phải kiểm tra mọi nhà quản lý quỹ giao dịch trên thị trường đó",Không có đủ thông tin được cung cấp trong câu hỏi để đưa ra kết luận về hiệu quả thị trường.,B
+"Trong số những điều sau đây, điều nào là lợi thế của việc sử dụng dữ liệu bảng so với mô hình thuần túy cắt ngang hoặc thuần túy chuỗi thời gian?
+
+(i) Việc sử dụng dữ liệu bảng có thể tăng số bậc tự do và do đó tăng sức mạnh của các phép kiểm định
+
+(ii) Việc sử dụng dữ liệu bảng cho phép giá trị trung bình của biến phụ thuộc thay đổi theo cắt ngang hoặc theo thời gian hoặc cả hai
+
+(iii) Việc sử dụng dữ liệu bảng cho phép nhà nghiên cứu cho phép mối quan hệ ước tính giữa các biến độc lập và phụ thuộc thay đổi theo cắt ngang hoặc theo thời gian hoặc cả hai",(i) chỉ,chỉ (i) và (ii),(ii) chỉ,"(i), (ii), và (iii)",B
+"Nếu kiểm định Engle-Granger được áp dụng cho phần dư của một hồi quy có khả năng đồng tích hợp, thì giả thuyết không sẽ được diễn giải như thế nào?",Các biến số có mối quan hệ đồng tích hợp,Các biến không đồng tích hợp,Cả hai biến đều dừng,Cả hai biến đều không dừng,B
+"Những phát biểu nào sau đây là đúng về hàm tự tương quan (acf) và hàm tự tương quan riêng phần (pacf)?
+
+i) Hàm acf và pacf sẽ luôn giống nhau ở độ trễ một bất kể mô hình nào
+
+ii) Hàm pacf cho mô hình MA(q) nói chung sẽ khác không sau độ trễ q
+
+iii) Hàm pacf cho mô hình AR(p) sẽ bằng không sau độ trễ p
+
+iv) Hàm acf và pacf sẽ giống nhau ở độ trễ hai đối với mô hình MA(1)",(ii) và (iv) chỉ,Chỉ (i) và (iii),"(i), (ii), và (iii) chỉ","(i), (ii), (iii), và (iv)",C

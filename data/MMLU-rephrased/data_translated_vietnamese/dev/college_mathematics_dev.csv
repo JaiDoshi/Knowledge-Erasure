@@ -1,0 +1,8 @@
+"Gọi V là tập hợp tất cả các đa thức thực p(x). Gọi các phép biến đổi T, S được định nghĩa trên V bởi T:p(x) -> xp(x) và S:p(x) -> p'(x) = d/dx p(x), và hiểu (ST)(p(x)) là S(T(p(x))). Điều nào sau đây là đúng?",ST = 0,ST = T,ST = TS,ST - TS là ánh xạ đồng nhất của V lên chính nó.,D
+"Một bể chứa ban đầu chứa dung dịch muối gồm 3 gam muối hòa tan trong 100 lít nước. Một dung dịch muối chứa 0,02 gam muối trên mỗi lít nước được phun vào bể với tốc độ 4 lít mỗi phút. Dung dịch được phun liên tục trộn với dung dịch muối trong bể, và hỗn hợp chảy ra khỏi bể với tốc độ 4 lít mỗi phút. Nếu việc trộn xảy ra ngay lập tức, có bao nhiêu gam muối trong bể sau khi 100 phút trôi qua?",2,2 - e^-2,2 + e^-2,2 + e^-4,D
+"Cho A là một ma trận thực 2x2. Trong số các phát biểu sau đây, phát biểu nào phải đúng?
+I. Tất cả các phần tử của A^2 đều không âm.
+II. Định thức của A^2 không âm.
+III. Nếu A có hai giá trị riêng khác nhau, thì A^2 cũng có hai giá trị riêng khác nhau.",Tôi chỉ,II chỉ,Chỉ III,Chỉ II và III,B
+"Giả sử rằng f(1 + x) = f(x) với mọi số thực x. Nếu f là một đa thức và f(5) = 11, thì f(15/2)",-11,0,11,33/2,C
+"Cho A là tập hợp tất cả các cặp số nguyên có thứ tự (m, n) sao cho 7m + 12n = 22. Số âm lớn nhất trong tập hợp B = {m + n : (m, n) ∈ A} là bao nhiêu?",-5,-4,-3,-2,B

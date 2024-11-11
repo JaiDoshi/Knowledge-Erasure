@@ -1,0 +1,22 @@
+"X = correlation
+
+Which of the following is a correct statement about X?","If the slope of the regression line is exactly 1, then the correlation is exactly 1.","If the correlation is 0, then the slope of the regression line is undefined.",Switching which variable is called x and which is called y changes the sign of the correlation.,The correlation r is equal to the slope of the regression line when z-scores for the y-variable are plotted against z-scores for the x-variable.,D
+"X = random variable with expected value of 37 and variance of 5
+Y = random variable with expected value of 62 and variance of 12
+
+Suppose X and Y are random variables with E(X) = 37, var(X) = 5, E(Y) = 62, and var(Y) = 12. What are the expected value and variance of X + Y?","E(X + Y) = 99, var(X + Y) = 8.5","E(X + Y) = 99, var(X + Y) = 13","E(X + Y) = 99, var(X + Y) = 17",There is insufficient information to answer this question.,D
+"X = orange grove
+Y = 50 percent
+
+After a frost warning was issued, the owner of a large X asked his workers to spray all his trees with water. The water was supposed to freeze and form a protective covering of ice around the orange blossom. Nevertheless, the owner suspected that some trees suffered considerable damage due to the frost. To estimate the proportion of trees that suffered more than Y damage due to the frost, he took a random sample of 100 trees from his X. What is the response variable in this experiment?",The proportion of trees that suffered more than 50 percent damage due to frost.,The number of trees affected by the frost.,The number of trees sampled from the grove.,"For each sampled tree, whether it suffered more than 50 percent damage or at most 50 percent damage.",D
+"X = 62 grams
+Y = 1.0 grams
+Z = 456 grams
+
+A new smartwatch is manufactured in one part of a factory, then secured for shipping in another, independent part of the factory. The weight of the smartwatch has a mean of X and a standard deviation of Y. The weight of the packaging (box, user's guide, bubble wrap, etc.) has a mean of Z grams and a standard deviation of 6 grams. Together, the distribution of the weight of the smartwatch and its packaging would have the following mean and standard deviation:",Mean 518 grams; standard deviation 7.0 grams,Mean 518 grams; standard deviation 3.5 grams,Mean 518 grams; standard deviation 6.1 grams,Mean 394 grams; standard deviation 6.1 grams,C
+"X = standard deviation
+
+Which of the following sets has the smallest X? Which has the largest?
+I: {1,2,3}
+II: {-10,10}
+III: {100}","I, II","II, III","III, I","III, II",D

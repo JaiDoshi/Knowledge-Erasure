@@ -1,42 +1,16 @@
-import json
-import random
-import os
-from tqdm import tqdm
 import argparse
-from pathlib import Path
-from typing import Tuple
-import pandas as pd
-import torch
-from transformers import (
-    AutoModelForCausalLM,
-    AutoTokenizer
-)
-from peft import AutoPeftModelForCausalLM
-from generation_utils import format_example, gen_prompt, TASKS
+import json
+import os
 import sys
+from os import path, sys
 
-from os import sys, path
 sys.path.append(path.dirname(path.dirname(path.abspath(__file__))))
 
-from common.utils import load, make_inference
+import pandas as pd
+from common.utils import (data_directory_list, format_example, gen_prompt,
+                          load, make_inference)
+from MMLU_utils import TASKS
 
-
-# data_directory_list = ['data_filler_1', 'data_filler_2', 'data_filler_before_1', 'data_filler_before_2', 
-#                         'data_filler_before_3',
-#                         'data_rephrased_conversation_2', 
-#                        'data_rephrased_poem_1', 'data_rephrased_remove_technical_1', 'data_rephrased_remove_technical_2', 
-#                        'data_translated_french_2', 'data_translated_german_2', 'data_translated_hindi_2',
-#                        'data_translated_korean_2', 'data_translated_arabic_2', 'data_translated_czech_2',
-#                         'data_translated_bengali_2', 'data_translated_vietnamese_2', 'data_translated_turkish_2',
-#                        'data_translated_telugu_2', 'data_translated_farsi_2',
-#                        'data_with_variables_2', 'data_filler_before_latin_rephrased_conversation', 'data_filler_before_english_rephrased_conversation',
-#                        'data_filler_before_hindi_rephrased_conversation', 'data_filler_before_latin_rephrased_poem', 'data_filler_before_english_rephrased_poem',
-#                        'data_filler_before_hindi_rephrased_poem'
-#                        ]
-
-
-data_directory_list = ['data_filler_1', 'data_rephrased_remove_technical_1', 'data_translated_farsi_2'
-                       ]
 
 def main(args):
 
@@ -45,7 +19,8 @@ def main(args):
         run_results[directory] = {}
 
     if args.dev_task == "":
-        output_breakpoint_name = "run_breakpoint_%s_rephrasing.json" % (args.extra_info)
+        output_breakpoint_name = "run_breakpoint_%s_rephrasing.json" % (
+            args.extra_info)
         output_filename = "run_results_%s_rephrasing.json" % (args.extra_info)
     else:
         output_breakpoint_name = "run_breakpoint_%s_%sdev_rephrasing.json" % (
@@ -122,26 +97,31 @@ def generate_results_for_prompt(
 
             prompts.append(prompt)
             labels.append(label)
-             
+
         pred_answers = make_inference(
             model, tokenizer, prompts
         )
 
-        run_results[directory][task] = {"pred_answers": pred_answers, "gold_answers": labels}
+        run_results[directory][task] = {
+            "pred_answers": pred_answers, "gold_answers": labels}
         json.dump(run_results, open(output_breakpoint_name, "w"))
 
 
 if __name__ == "__main__":
 
     parser = argparse.ArgumentParser()
-    parser.add_argument("--ckpt_dir", type=str, required=True)
-    parser.add_argument("--peft_model", action="store_true")
-    parser.add_argument("--data_dir", type=str, required=True)
+    parser.add_argument("--ckpt_dir", type=str, help="Path to the model")
+    parser.add_argument("--peft_model", action="store_true",
+                        help="Whether the model is a PEFT model")
+    parser.add_argument("--data_dir", type=str,
+                        help="Path to the directory containing the rephrased data")
     parser.add_argument("--extra_info", type=str, default="")
-    parser.add_argument("--ntrain", type=int, default=0)
+    parser.add_argument("--ntrain", type=int, default=0,
+                        help="Number of examples to use for n-shot prompting")
     parser.add_argument("--tokenizer", type=str,
                         default="HuggingFaceH4/zephyr-7b-beta")
-    parser.add_argument("--dev_task", type=str, default="", help="Task to be used for n-shot prompting (e.g. college_chemistry). If not provided, the dev set of subject being evaluated will be used.")
+    parser.add_argument("--dev_task", type=str, default="",
+                        help="Task to be used for n-shot prompting (e.g. college_chemistry). If not provided, the dev set of subject being evaluated will be used")
     parser.add_argument("--system_prompt", type=str,
                         default="The following are multiple choice questions (with answers).\n\n")
     args = parser.parse_args()

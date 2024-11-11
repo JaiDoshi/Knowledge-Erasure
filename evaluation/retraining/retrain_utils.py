@@ -1,12 +1,8 @@
-import random
-import sys
-import numpy as np
-import pandas as pd
-import torch
-from datasets import Dataset, load_dataset, IterableDataset
-from transformers import DataCollatorForLanguageModeling
 from functools import partial
-import os 
+
+import torch
+from datasets import load_dataset
+
 
 def collate_dataset(batch):
 
@@ -25,14 +21,13 @@ def tokenization(examples, tokenizer, args):
 
     padding_length = get_padding_length(len(tokens), args.max_length)
 
-    return tokenizer(examples['text'], padding='max_length', max_length= len(tokens) + padding_length)
+    return tokenizer(examples['text'], padding='max_length', max_length=len(tokens) + padding_length)
 
 
 def create_dataset(encoding, args):
 
     stride = args.stride
     max_length = args.max_length
-    drop_last = args.drop_last
 
     results = {"input_ids": [], "attention_mask": [], "labels": []}
 
@@ -42,7 +37,7 @@ def create_dataset(encoding, args):
         prev_end_loc = 0
         for begin_loc in range(0, seq_len, stride):
 
-            assert(begin_loc + max_length <= seq_len)
+            assert (begin_loc + max_length <= seq_len)
 
             end_loc = min(begin_loc + max_length, seq_len)
             trg_len = end_loc - prev_end_loc
@@ -52,9 +47,11 @@ def create_dataset(encoding, args):
             target_ids = input_ids.copy()
 
             target_ids[:-trg_len] = [-100]*(len(target_ids)-trg_len)
-            # Set the target_ids to -100 where the attention mask is 0 (corresponding to padding tokens)
-            target_ids = [-100 if mask == 0 else target for target, mask in zip(target_ids, attention_mask)]
             
+            # Set the target_ids to -100 where the attention mask is 0 (corresponding to padding tokens)
+            target_ids = [-100 if mask == 0 else target for target,
+                          mask in zip(target_ids, attention_mask)]
+
             results['input_ids'].append(torch.tensor(input_ids))
             results['labels'].append(torch.tensor(target_ids))
             results["attention_mask"].append(torch.tensor(attention_mask))
@@ -63,7 +60,7 @@ def create_dataset(encoding, args):
             if end_loc == seq_len:
                 break
 
-            if args.one_per_file:
+            if args.one_per_example:
                 break
 
     return results
@@ -71,9 +68,11 @@ def create_dataset(encoding, args):
 
 def create_dataset_from_huggingface(dataset, tokenizer, args):
 
-    dataset = load_dataset(dataset, verification_mode='no_checks', split="train")
+    dataset = load_dataset(
+        dataset, verification_mode='no_checks', split="train")
 
-    dataset = dataset.map(partial(tokenization, tokenizer=tokenizer, args=args), batched=False, remove_columns='text')
+    dataset = dataset.map(partial(tokenization, tokenizer=tokenizer,
+                          args=args), batched=False, remove_columns='text')
     dataset = dataset.map(partial(create_dataset, args=args), batched=True)
     dataset.set_format("pt")
 

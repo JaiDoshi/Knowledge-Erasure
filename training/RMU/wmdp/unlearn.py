@@ -1,17 +1,17 @@
-import os
 import datetime
+import json
+import os
+from os import path, sys
+
+sys.path.append(path.dirname(path.dirname(path.abspath(__file__))))
 
 import numpy as np
 import torch
-from transformers import AdamW
 import tqdm as tqdm
-import json
-
-from os import sys, path
-sys.path.append(path.dirname(path.dirname(path.abspath(__file__))))
-
-from utils_wmdp import get_data, load_model
 from common.utils import forward_with_cache, get_params
+from transformers import AdamW
+from utils_wmdp import get_data, load_model
+
 
 def run_rmu(
     updated_model,
@@ -23,23 +23,27 @@ def run_rmu(
 ):
     rmu_config = vars(args)
     print("====rmu Config====")
-    print("\n".join(f"{k}={v}" for k,v in rmu_config.items()))
+    print("\n".join(f"{k}={v}" for k, v in rmu_config.items()))
     print("=====")
 
     updated_model = updated_model.train()
     params = get_params(updated_model, args.layer_ids, args.param_ids)
     optimizer = AdamW(params, lr=args.lr)
     frozen_module = eval(
-        args.module_str.format(model_name="frozen_model", layer_id=args.layer_id)
+        args.module_str.format(model_name="frozen_model",
+                               layer_id=args.layer_id)
     )
     updated_module = eval(
-        args.module_str.format(model_name="updated_model", layer_id=args.layer_id)
+        args.module_str.format(
+            model_name="updated_model", layer_id=args.layer_id)
     )
 
     control_vectors_list = []
     for i in range(len(forget_data_list)):
-        random_vector = torch.rand(1,1, updated_model.config.hidden_size, dtype=updated_model.dtype, device=updated_model.device)
-        control_vec = random_vector / torch.norm(random_vector) * args.steering_coeff_list[i]
+        random_vector = torch.rand(1, 1, updated_model.config.hidden_size,
+                                   dtype=updated_model.dtype, device=updated_model.device)
+        control_vec = random_vector / \
+            torch.norm(random_vector) * args.steering_coeff_list[i]
         control_vectors_list.append(control_vec)
 
     num_batches = min(
@@ -47,12 +51,12 @@ def run_rmu(
         min([len(f) for f in forget_data_list]),
         min([len(r) for r in retain_data_list]),
     )
-    
+
     truncation_side = tokenizer.truncation_side
-    tokenizer.truncation_side="right"
+    tokenizer.truncation_side = "right"
 
     path = args.output_dir
-    num_steps = 0 
+    num_steps = 0
 
     for epoch in range(args.num_epochs):
         print(f"======= Epoch {epoch} =======")
@@ -98,25 +102,34 @@ def run_rmu(
                 optimizer.zero_grad()
                 loss.backward()
                 optimizer.step()
-                print(f"loss: {loss.item():.4g} | unlearn_loss: {unlearn_loss.item():.4g} | retain_loss: {retain_loss.item():.4g} | param_change: {params[0].grad.abs().mean().item():.4g}")
-                
+                print(
+                    f"loss: {loss.item():.4g} | unlearn_loss: {unlearn_loss.item():.4g} | retain_loss: {retain_loss.item():.4g} | param_change: {params[0].grad.abs().mean().item():.4g}")
+
                 # ======= Logging ======
                 if args.verbose:
-                    frozen_forget_activations = forward_with_cache(frozen_model, unlearn_inputs, module=frozen_module, no_grad=True).to(updated_model.device)
-                    unlearn_cosine= torch.nn.functional.cosine_similarity(updated_forget_activations, frozen_forget_activations, dim=-1).mean()
-                    retain_cosine = torch.nn.functional.cosine_similarity(updated_retain_activations, frozen_retain_activations, dim=-1).mean()
-                    
+                    frozen_forget_activations = forward_with_cache(
+                        frozen_model, unlearn_inputs, module=frozen_module, no_grad=True).to(updated_model.device)
+                    unlearn_cosine = torch.nn.functional.cosine_similarity(
+                        updated_forget_activations, frozen_forget_activations, dim=-1).mean()
+                    retain_cosine = torch.nn.functional.cosine_similarity(
+                        updated_retain_activations, frozen_retain_activations, dim=-1).mean()
+
                     print(f"Step number={num_steps}")
                     print(f"unlearn_cosine_sim={unlearn_cosine.item()}")
                     print(f"retain_cosine_sim={retain_cosine.item()}")
-                    print(f"Topic {topic_idx} updated_forget_activations.norm=",torch.mean(updated_forget_activations.norm(dim=-1).mean(dim=1), dim=0).item())
-                    print(f"Topic {topic_idx} frozen_forget_activations.norm=",torch.mean(frozen_forget_activations.norm(dim=-1).mean(dim=1), dim=0).item())
-                    print(f"Topic {topic_idx} updated_retain_activations.norm=",torch.mean(updated_retain_activations.norm(dim=-1).mean(dim=1), dim=0).item())
-                    print(f"Topic {topic_idx} frozen_retain_activations.norm=",torch.mean(frozen_retain_activations.norm(dim=-1).mean(dim=1), dim=0).item())
+                    print(f"Topic {topic_idx} updated_forget_activations.norm=", torch.mean(
+                        updated_forget_activations.norm(dim=-1).mean(dim=1), dim=0).item())
+                    print(f"Topic {topic_idx} frozen_forget_activations.norm=", torch.mean(
+                        frozen_forget_activations.norm(dim=-1).mean(dim=1), dim=0).item())
+                    print(f"Topic {topic_idx} updated_retain_activations.norm=", torch.mean(
+                        updated_retain_activations.norm(dim=-1).mean(dim=1), dim=0).item())
+                    print(f"Topic {topic_idx} frozen_retain_activations.norm=", torch.mean(
+                        frozen_retain_activations.norm(dim=-1).mean(dim=1), dim=0).item())
 
                 num_steps += 1
                 if num_steps % args.save_every == 0:
-                    updated_model.save_pretrained(path + "_checkpoint_" + str(num_steps))
+                    updated_model.save_pretrained(
+                        path + "_checkpoint_" + str(num_steps))
 
                 pbar.update(1)
 
@@ -138,7 +151,7 @@ def get_args():
     import argparse
 
     parser = argparse.ArgumentParser()
-    ### Model arguments
+    # Model arguments
     parser.add_argument(
         "--model_name_or_path", type=str, default="HuggingFaceH4/zephyr-7b-beta"
     )
@@ -148,7 +161,7 @@ def get_args():
     parser.add_argument(
         "--output_dir", type=str, default=None
     )
-    ### Data arguments
+    # Data arguments
     parser.add_argument(
         "--retain_corpora",
         type=str,
@@ -164,8 +177,9 @@ def get_args():
     parser.add_argument(
         "--wmdp_dataset_path", type=str
     )
-    ### rmu hyperparameters
-    parser.add_argument("--alpha", type=str, default="100,100", help="retain weight")
+    # rmu hyperparameters
+    parser.add_argument("--alpha", type=str,
+                        default="100,100", help="retain weight")
     parser.add_argument(
         "--steering_coeffs",
         type=str,
@@ -178,21 +192,26 @@ def get_args():
     parser.add_argument("--max_len", type=int, default=2000)
     parser.add_argument("--batch_size", type=int, default=4)
     parser.add_argument("--max_num_batches", type=int, default=250)
-    parser.add_argument("--layer_id", type=int, default=7, help="layer to unlearn")
-    parser.add_argument("--layer_ids", type=str, default="5,6,7", help="update layers")
-    parser.add_argument("--param_ids", type=str, default="6", help="update params")
+    parser.add_argument("--layer_id", type=int, default=7,
+                        help="layer to unlearn")
+    parser.add_argument("--layer_ids", type=str,
+                        default="5,6,7", help="update layers")
+    parser.add_argument("--param_ids", type=str,
+                        default="6", help="update params")
     parser.add_argument("--seed", type=int, default=42, help="Seed")
-    parser.add_argument("--verbose", action="store_true", help="Logging the activations norms and cosine at each step")
+    parser.add_argument("--verbose", action="store_true",
+                        help="Logging the activations norms and cosine at each step")
     parser.add_argument("--save_every", type=int)
 
     args = parser.parse_args()
     args.retain_corpora = args.retain_corpora.split(",")
     args.forget_corpora = args.forget_corpora.split(",")
-    args.steering_coeff_list = [float(c) for c in args.steering_coeffs.split(",")]
+    args.steering_coeff_list = [float(c)
+                                for c in args.steering_coeffs.split(",")]
     args.alpha = [float(c) for c in args.alpha.split(",")]
     args.layer_ids = [int(layer_id) for layer_id in args.layer_ids.split(",")]
     args.param_ids = [int(param_id) for param_id in args.param_ids.split(",")]
-    return args 
+    return args
 
 
 if __name__ == "__main__":

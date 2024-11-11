@@ -1,8 +1,3 @@
-# Copyright (C) 2023 ByteDance. All Rights Reserved.
-#
-# This software is released under the MIT License.
-# https://opensource.org/licenses/MIT
-
 import os
 import random
 from functools import partial
@@ -36,11 +31,11 @@ def create_dataset(encoding, args):
 
         seq_len = len(encoding['input_ids'][i])
         prev_end_loc = 0
-        
+
         for begin_loc in range(0, seq_len, stride):
 
             if begin_loc + max_length > seq_len and drop_last:
-                break 
+                break
 
             end_loc = min(begin_loc + max_length, seq_len)
             trg_len = end_loc - prev_end_loc
@@ -75,15 +70,18 @@ def create_dataloader_from_directory(directory, tokenizer, args):
             if not file.endswith('.txt'):
                 continue
             file = os.path.join(directory, file)
-    
+
             with open(file, "r") as f:
                 yield {'text': f.read()}
-    
-    dataset = IterableDataset.from_generator(file_generator, gen_kwargs={"directory": directory})
 
-    dataset = dataset.map(partial(tokenization, tokenizer=tokenizer), batched=True, remove_columns='text')
+    dataset = IterableDataset.from_generator(
+        file_generator, gen_kwargs={"directory": directory})
+
+    dataset = dataset.map(
+        partial(tokenization, tokenizer=tokenizer), batched=True, remove_columns='text')
     dataset = dataset.map(partial(create_dataset, args=args), batched=True)
 
-    dataloader = torch.utils.data.DataLoader(dataset, batch_size=args.batch_size, collate_fn=collate_dataset)
+    dataloader = torch.utils.data.DataLoader(
+        dataset, batch_size=args.batch_size, collate_fn=collate_dataset)
 
     return dataloader

@@ -1,5 +1,6 @@
 import torch
 
+
 def compute_kl(pretrained_model, current_model, batch, device):
 
     normal_outputs = current_model(
@@ -40,9 +41,9 @@ def get_answer_loss(operation, batch, model, device="cuda:0"):
     shift_labels = labels[:, 1:]
     losses = []
     for bid in range(input_ids.shape[0]):
-        # GA or GD.
+
         position_loss = loss_fct(shift_logits[bid], shift_labels[bid])
-        
+
         if operation == "ga":  # Negative the direction for GA.
             position_loss = -position_loss
 

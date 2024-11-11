@@ -1,24 +1,14 @@
-import json
-import random
-import os
-from tqdm import tqdm
 import argparse
-from pathlib import Path
-from typing import Tuple
-import pandas as pd
-import torch
-from transformers import (
-    AutoModelForCausalLM,
-    AutoTokenizer
-)
-from peft import AutoPeftModelForCausalLM
+import json
+import os
+from os import path, sys
 
-from generation_utils import TASKS, format_wmdp_example, gen_prompt   
-
-from os import sys, path
 sys.path.append(path.dirname(path.dirname(path.abspath(__file__))))
 
-from common.utils import load, make_inference
+import pandas as pd
+from common.utils import gen_prompt, load, make_inference
+from wmdp_utils import TASKS, format_wmdp_example
+
 
 def main(args):
 
@@ -59,7 +49,6 @@ def generate_results_for_prompt(
             os.path.join(args.MMLU_dir, 'dev', args.dev_task + "_dev.csv"), header=None
         )[: args.ntrain]
 
-
     def load_json(task):
         f = open(os.path.join(args.data_dir, task + '.json'))
         return json.load(f)
@@ -93,7 +82,7 @@ def generate_results_for_prompt(
 
             prompts.append(prompt)
             labels.append(label)
-             
+
         pred_answers = make_inference(
             model, tokenizer, prompts
         )
@@ -106,15 +95,19 @@ def generate_results_for_prompt(
 if __name__ == "__main__":
 
     parser = argparse.ArgumentParser()
-    parser.add_argument("--ckpt_dir", type=str, required=True)
-    parser.add_argument("--peft_model", action="store_true")
-    parser.add_argument("--data_dir", type=str, default="data/")
-    parser.add_argument("--MMLU_dir", type=str)
+    parser.add_argument("--ckpt_dir", type=str, help="Path to the model")
+    parser.add_argument("--peft_model", action="store_true",
+                        help="Whether the model is a PEFT model")
+    parser.add_argument("--data_dir", type=str, help="Path to wmdp dataset")
+    parser.add_argument("--MMLU_dir", type=str,
+                        help="Path to MMLU dataset for n-shot prompting")
     parser.add_argument("--extra_info", type=str, default="")
-    parser.add_argument("--ntrain", type=int, default=0)
+    parser.add_argument("--ntrain", type=int, default=0,
+                        help="Number of examples to use for n-shot prompting")
     parser.add_argument("--tokenizer", type=str,
                         default="HuggingFaceH4/zephyr-7b-beta")
-    parser.add_argument("--dev_task", type=str, default="", help="MMLU task to be used for n-shot prompting (e.g. college_chemistry).")
+    parser.add_argument("--dev_task", type=str, default="",
+                        help="MMLU task to be used for n-shot prompting (e.g. college_chemistry)")
     parser.add_argument("--system_prompt", type=str,
                         default="The following are multiple choice questions (with answers).\n\n")
     args = parser.parse_args()

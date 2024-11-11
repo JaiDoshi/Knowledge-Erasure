@@ -1,38 +1,29 @@
-# Copyright (C) 2023 ByteDance. All Rights Reserved.
-#
-# This software is released under the MIT License.
-# https://opensource.org/licenses/MIT
-
-
 import argparse
 import random
-import time
-import deepspeed
 import sys
-import numpy as np
-import torch
 from itertools import cycle
-from peft.tuners.lora import LoraLayer
-from datasets import load_dataset
-from peft import AdaLoraConfig, TaskType, get_peft_model
-from transformers import AutoModelForCausalLM, AutoTokenizer
-from utils_wmdp import (
-    create_dataloader_from_dataset,
-    create_dataloader_wmdp,
-)
+from os import path, sys
 
-from os import sys, path
 sys.path.append(path.dirname(path.dirname(path.abspath(__file__))))
 
+import deepspeed
+import numpy as np
+import torch
 from common.utils import compute_kl, get_answer_loss
+from peft import AdaLoraConfig, TaskType, get_peft_model
+from peft.tuners.lora import LoraLayer
+from transformers import AutoModelForCausalLM, AutoTokenizer
+from utils_wmdp import create_dataloader_from_dataset, create_dataloader_wmdp
 
 
 def main(args) -> None:
 
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+
     # Load models
     model = AutoModelForCausalLM.from_pretrained(args.model_name)
-    pretrained_model = AutoModelForCausalLM.from_pretrained(args.normal_model_name)
+    pretrained_model = AutoModelForCausalLM.from_pretrained(
+        args.normal_model_name)
 
     # Set up LoRA
     if args.use_lora:
@@ -44,6 +35,7 @@ def main(args) -> None:
             target_modules=["q_proj", "v_proj"],
         )
 
+        # Convert model to bfloat16
         for name, module in model.named_modules():
             if isinstance(module, LoraLayer):
                 module = module.to(torch.bfloat16)
@@ -64,11 +56,11 @@ def main(args) -> None:
     train_normal_loader = create_dataloader_from_dataset(tokenizer, args)
 
     model, _, _, _ = deepspeed.initialize(args=args, model=model)
-    pretrained_model, _, _, _ = deepspeed.initialize(args=args, model=pretrained_model)
+    pretrained_model, _, _, _ = deepspeed.initialize(
+        args=args, model=pretrained_model)
     model.train()
 
     # Start unlearning.
-
     idx = 0
 
     for bad_batch, normal_batch in zip(cycle(train_bad_loader), cycle(train_normal_loader)):
@@ -82,7 +74,7 @@ def main(args) -> None:
         # Final loss = bad loss + normal loss
         loss = (
             args.bad_weight * bad_loss
-           + args.normal_weight * normal_loss
+            + args.normal_weight * normal_loss
         )
 
         model.backward(loss)
@@ -98,11 +90,12 @@ def main(args) -> None:
 
         idx += 1
         if idx % args.save_every == 0:
-            model.save_pretrained(args.model_save_dir + "_checkpoint_" + str(idx))
+            model.save_pretrained(args.model_save_dir +
+                                  "_checkpoint_" + str(idx))
 
         if idx == args.max_unlearn_steps:
             break
-    
+
     # Save final model
     model.save_pretrained(args.model_save_dir)
     return
@@ -117,22 +110,25 @@ if __name__ == "__main__":
         "--model_name",
         type=str,
         default="HuggingFaceH4/zephyr-7b-beta",
-        help="Name of the model to unlearn.",
+        help="Name of the model to unlearn",
     )
     parser.add_argument(
         "--normal_model_name",
         type=str,
         default="HuggingFaceH4/zephyr-7b-beta",
-        help="Name of the pretrained model.",
+        help="Name of the pretrained model",
     )
     parser.add_argument(
         "--normal_weight",
         type=float,
         default=1,
-        help="Weight on the normal loss.",
+        help="Weight on the normal loss",
     )
     parser.add_argument(
-        "--bad_weight", type=float, default=0.005, help="Weight on the bad loss."
+        "--bad_weight",
+        type=float,
+        default=0.005,
+        help="Weight on the bad loss"
     )
     parser.add_argument(
         "--tokenizer",
@@ -142,22 +138,29 @@ if __name__ == "__main__":
     parser.add_argument(
         "--model_save_dir",
         type=str,
-        help="Directory to save the model.",
-    )
-
-    parser.add_argument(
-        "--save_every", type=int, default=500, help="How many steps to save model."
-    )
-    # Must be a Huggingface dataset
-    parser.add_argument(
-        "--retain_dataset", type=str, default="wikitext"
+        help="Directory to save the model",
     )
     parser.add_argument(
-        "--wmdp_dataset_path", type=str
+        "--save_every",
+        type=int, default=500, help="How many steps to save model."
     )
-    parser.add_argument('--seed', type=int, default=8888)
-    parser.add_argument('--local_rank', type=int, default=-1,
-                    help='local rank passed from distributed launcher')
+    parser.add_argument(
+        "--retain_dataset",
+        type=str,
+        default="wikitext",
+        help="Retain dataset for to use. Must be a Huggingface dataset"
+    )
+    parser.add_argument(
+        "--wmdp_dataset_path",
+        type=str
+    )
+    parser.add_argument('--seed',
+                        type=int,
+                        default=8888)
+    parser.add_argument('--local_rank',
+                        type=int,
+                        default=-1,
+                        help='local rank passed from distributed launcher')
     parser.add_argument(
         "--max_unlearn_steps",
         type=int,
@@ -165,15 +168,15 @@ if __name__ == "__main__":
         help="Max number of unlearning steps.",
     )
     parser.add_argument(
-        "--use_lora", action="store_true", help="Whether to use LoRA."
+        "--use_lora",
+        action="store_true",
+        help="Whether to use LoRA."
     )
     parser.add_argument(
         "--dataset_size",
         type=int,
-        default=2000,
-        help="Max number of unlearning steps.",
+        default=2000
     )
-
 
     parser = deepspeed.add_config_arguments(parser)
     args = parser.parse_args()

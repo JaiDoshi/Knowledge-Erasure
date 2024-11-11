@@ -1,20 +1,11 @@
-# Copyright (C) 2023 ByteDance. All Rights Reserved.
-#
-# This software is released under the MIT License.
-# https://opensource.org/licenses/MIT
-
-import random
-
-import numpy as np
-import pandas as pd
-import torch
-from datasets import Dataset, load_dataset, IterableDataset 
-from transformers import DataCollatorForLanguageModeling
-from functools import partial
-import sys
-import os 
 import json
+import os
+from functools import partial
 from itertools import zip_longest
+
+import torch
+from datasets import Dataset, load_dataset
+
 
 def collate_dataset(batch):
 
@@ -32,27 +23,33 @@ def tokenization(examples, tokenizer, max_length):
 def create_dataloader_from_dataset(tokenizer, args):
 
     if args.retain_dataset == "wikitext":
-        dataset = load_dataset("wikitext", "wikitext-103-raw-v1", split="train")
+        dataset = load_dataset(
+            "wikitext", "wikitext-103-raw-v1", split="train")
     else:
-        dataset = load_dataset(args.retain_dataset, ignore_verifications=True, split="train")
+        dataset = load_dataset(args.retain_dataset,
+                               ignore_verifications=True, split="train")
 
-    # Using the same settings as in the original RMU code 
+    # Using the same settings as in the original RMU code
     dataset = dataset.filter(lambda l: len(l['text']) > 50)
     dataset = dataset.select(range(args.dataset_size))
-    dataset = dataset.map(partial(tokenization, tokenizer=tokenizer, max_length=512), batched=True, remove_columns='text')
-    
+    dataset = dataset.map(partial(tokenization, tokenizer=tokenizer,
+                          max_length=512), batched=True, remove_columns='text')
+
     dataset.set_format(
         type="torch"
     )
-    dataloader = torch.utils.data.DataLoader(dataset, batch_size=1, collate_fn=collate_dataset)
-    
+    dataloader = torch.utils.data.DataLoader(
+        dataset, batch_size=1, collate_fn=collate_dataset)
+
     return dataloader
 
 
 def create_dataloader_wmdp(tokenizer, args):
 
-    bio_dataset_path =  os.path.join(args.wmdp_dataset_path, 'bio-forget-corpus.jsonl')
-    cyber_dataset_path = os.path.join(args.wmdp_dataset_path, 'cyber-forget-corpus.jsonl') 
+    bio_dataset_path = os.path.join(
+        args.wmdp_dataset_path, 'bio-forget-corpus.jsonl')
+    cyber_dataset_path = os.path.join(
+        args.wmdp_dataset_path, 'cyber-forget-corpus.jsonl')
 
     bio_file = open(bio_dataset_path, 'r').readlines()
     cyber_file = open(cyber_dataset_path, 'r').readlines()
@@ -71,16 +68,20 @@ def create_dataloader_wmdp(tokenizer, args):
     dataset_cyber = Dataset.from_dict(data_dict_cyber)
 
     # Using the same settings as in the original RMU code
-    dataset_bio = dataset_bio.map(partial(tokenization, tokenizer=tokenizer, max_length=512), batched=True, remove_columns='text')
-    dataset_cyber = dataset_cyber.map(partial(tokenization, tokenizer=tokenizer, max_length=768), batched=True, remove_columns='text')
+    dataset_bio = dataset_bio.map(partial(
+        tokenization, tokenizer=tokenizer, max_length=512), batched=True, remove_columns='text')
+    dataset_cyber = dataset_cyber.map(partial(
+        tokenization, tokenizer=tokenizer, max_length=768), batched=True, remove_columns='text')
 
-    dataset = Dataset.from_list([item for pair in zip_longest(dataset_bio, dataset_cyber) for item in pair if item is not None])
+    dataset = Dataset.from_list([item for pair in zip_longest(
+        dataset_bio, dataset_cyber) for item in pair if item is not None])
 
     dataset.set_format(
         type="torch"
     )
 
     # Batch size is fixed to 1 because the bio and cyber subsets are of different lengths
-    dataloader = torch.utils.data.DataLoader(dataset, batch_size=1, collate_fn=collate_dataset)
-    
+    dataloader = torch.utils.data.DataLoader(
+        dataset, batch_size=1, collate_fn=collate_dataset)
+
     return dataloader

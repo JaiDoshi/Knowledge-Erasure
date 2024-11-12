@@ -167,7 +167,7 @@ if __name__ == "__main__":
         help="Whether to use LoRA"
     )
 
-    # Data preprocessing arguments.
+    # Data preprocessing arguments
     parser.add_argument(
         "--batch_size",
         type=int,

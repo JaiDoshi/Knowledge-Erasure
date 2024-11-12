@@ -133,7 +133,6 @@ def run_rmu(
 
                 pbar.update(1)
 
-    tokenizer.truncation_side = truncation_side
     # Save model
     if args.output_dir:
         path = args.output_dir
@@ -191,7 +190,7 @@ def get_args():
     parser.add_argument("--min_len", type=int, default=0)
     parser.add_argument("--max_len", type=int, default=2000)
     parser.add_argument("--batch_size", type=int, default=4)
-    parser.add_argument("--max_num_batches", type=int, default=250)
+    parser.add_argument("--max_num_batches", type=int, default=250, help='Maximum number of unlearning steps')
     parser.add_argument("--layer_id", type=int, default=7,
                         help="layer to unlearn")
     parser.add_argument("--layer_ids", type=str,

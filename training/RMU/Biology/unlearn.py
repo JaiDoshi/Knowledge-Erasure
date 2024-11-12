@@ -195,7 +195,7 @@ def get_args():
                         help="How many steps to checkpoint the model")
     parser.add_argument("--max_unlearn_steps", type=int,
                         default=1000, help="Max number of unlearning steps")
-    parser.add_argument("--seed", type=int, default=42, help="Seed")
+    parser.add_argument("--seed", type=int, default=8888, help="Seed")
     parser.add_argument("--verbose", action="store_true",
                         help="Logging the activations norms and cosine at each step")
     parser.add_argument("--output_dir", type=str, default=None,

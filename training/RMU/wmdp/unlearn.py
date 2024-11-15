@@ -200,7 +200,7 @@ def get_args():
     parser.add_argument("--seed", type=int, default=42, help="Seed")
     parser.add_argument("--verbose", action="store_true",
                         help="Logging the activations norms and cosine at each step")
-    parser.add_argument("--save_every", type=int)
+    parser.add_argument("--save_every", type=int, default=50)
 
     args = parser.parse_args()
     args.retain_corpora = args.retain_corpora.split(",")
